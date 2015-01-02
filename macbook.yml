@@ -1,0 +1,1767 @@
+---
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core Duo" 1.83 13"'
+  :model_number: A1181
+  :model_identifier: MacBook1,1
+  :order_number:
+  - MA254LL/A
+  :serial_number:
+  - U9B
+  - U98
+  - U9D
+  - WBX
+  - WC4
+  - WE7
+  - WK7
+  - XDX
+  - VTH
+  :short_name: MacBook CD 1.83 13
+  :released_at: 2006-05-16
+  :discontinued_at: 2006-11-08
+  :details:
+    :processor_type: Core Duo (T2400)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 1069
+      :fr: 1099
+      :de: 1079
+      :ca: 1249
+      :uk: 749
+      :au: 1749
+      :jp: 134800
+      :it: 1119
+      :nl: 1099
+      :nz: 2359
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core Duo" 2.0 13" (White)'
+  :model_number: A1181
+  :model_identifier: MacBook1,1
+  :order_number:
+  - MA255LL/A
+  :serial_number:
+  - U9C
+  - U9E
+  - W91
+  - WB7
+  - WBB
+  - W88
+  - WBV
+  - WBY
+  - WE8
+  - WEB
+  - VTJ
+  - VWV
+  - VXV
+  :short_name: MacBook CD 2.0 13 W
+  :released_at: 2006-05-16
+  :discontinued_at: 2006-11-08
+  :details:
+    :processor_type: Core Duo (T2500)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1269
+      :fr: 1299
+      :de: 1279
+      :ca: 1449
+      :uk: 899
+      :au: 2099
+      :jp: 159800
+      :it: 1319
+      :nl: 1299
+      :nz: 2839
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core Duo" 2.0 13" (Black)'
+  :model_number: A1181
+  :model_identifier: MacBook1,1
+  :order_number:
+  - MA472LL/A
+  :serial_number:
+  - WBC
+  - WBW
+  - WE9
+  - WP9
+  - W90
+  - VMM
+  - VMN
+  - VWS
+  :short_name: MacBook CD 2.0 13 B
+  :released_at: 2006-05-16
+  :discontinued_at: 2006-11-08
+  :details:
+    :processor_type: Core Duo (T2500)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1469
+      :fr: 1499
+      :de: 1479
+      :ca: 1649
+      :uk: 1029
+      :au: 2399
+      :jp: 179800
+      :it: 1519
+      :nl: 1499
+      :nz: 3239
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 1.83 13"'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MA699LL/A
+  :serial_number:
+  - WGK
+  - WGN
+  - WGT
+  - WGS
+  - WG5
+  - X97
+  - X6G
+  :short_name: MacBook C2D 1.83 13
+  :released_at: 2006-11-08
+  :discontinued_at: 2007-05-15
+  :details:
+    :processor_type: Core 2 Duo (T5600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2006_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 885
+    :geekbench_3_32_mc: 1516
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 1069
+      :fr: 1099
+      :de: 1079
+      :ca: 1249
+      :uk: 749
+      :au: 1749
+      :jp: 139800
+      :it: 1119
+      :nl: 1099
+      :nz: 2079
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (White/06)'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MA700LL/A
+  :serial_number:
+  - WGL
+  - WGP
+  - WGU
+  - Z5Y
+  - XAT
+  - XDN
+  - XE0
+  - XE1
+  - XE2
+  - X98
+  - Y9A
+  :short_name: MacBook C2D 2.0 13 W
+  :released_at: 2006-11-08
+  :discontinued_at: 2007-05-15
+  :details:
+    :processor_type: Core 2 Duo (T7200)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2006_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1003
+    :geekbench_3_32_mc: 1720
+    :geekbench_3_64_sc: 1115
+    :geekbench_3_64_mc: 1792
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1269
+      :fr: 1299
+      :de: 1279
+      :ca: 1449
+      :uk: 879
+      :au: 2099
+      :jp: 159800
+      :it: 1319
+      :nl: 1299
+      :nz: 2499
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (Black)'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MA701LL/A
+  :serial_number:
+  - WGM
+  - WGQ
+  - X6J
+  - X6K
+  - X6L
+  - XE3
+  - XMF
+  :short_name: MacBook C2D 2.0 13 B
+  :released_at: 2006-11-08
+  :discontinued_at: 2007-05-15
+  :details:
+    :processor_type: Core 2 Duo (T7200)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2006_UsersGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1003
+    :geekbench_3_32_mc: 1720
+    :geekbench_3_64_sc: 1115
+    :geekbench_3_64_mc: 1792
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1469
+      :fr: 1499
+      :de: 1479
+      :ca: 1649
+      :uk: 999
+      :au: 2399
+      :jp: 179800
+      :it: 1519
+      :nl: 1499
+      :nz: 2849
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (White/07)'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MB061LL/A
+  :serial_number:
+  - YA2
+  - YA5
+  - YAS
+  - YA7
+  - YJJ
+  - YJK
+  - YRH
+  - YXZ
+  - YY1
+  - Z5V
+  - 0PB
+  - OPB
+  :short_name: MacBook C2D 2.0 13 07
+  :released_at: 2007-05-15
+  :discontinued_at: 2007-11-01
+  :details:
+    :processor_type: Core 2 Duo (T7200)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Mid2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 986
+    :geekbench_3_32_mc: 1623
+    :geekbench_3_64_sc: 1022
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 999
+      :fr: 1049
+      :de: 1049
+      :ca: 1249
+      :uk: 699
+      :au: 1599
+      :jp: 139800
+      :it: 1049
+      :nl: 1049
+      :nz: 1848
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.16 13" (White)'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MB062LL/A
+  :serial_number:
+  - YA3
+  - YA6
+  - YA8
+  - YAB
+  - YJM
+  - YRJ
+  - YX1
+  - YX2
+  - YX4
+  - YQ7
+  - YSK
+  - Z5W
+  - ZSW
+  - Z5Z
+  - ZSZ
+  - ZA8
+  - ZAB
+  :short_name: MacBook C2D 2.16 13 W
+  :released_at: 2007-05-15
+  :discontinued_at: 2007-11-01
+  :details:
+    :processor_type: Core 2 Duo (T7400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.16 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.16 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Mid2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1083
+    :geekbench_3_32_mc: 1860
+    :geekbench_3_64_sc: 1063
+    :geekbench_3_64_mc: 1818
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1199
+      :fr: 1249
+      :de: 1249
+      :ca: 1449
+      :uk: 829
+      :au: 1899
+      :jp: 159800
+      :it: 1249
+      :nl: 1249
+      :nz: 2199
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.16 13" (Black)'
+  :model_number: A1181
+  :model_identifier: MacBook2,1
+  :order_number:
+  - MB063LL/A
+  :serial_number:
+  - Z5X
+  - YA4
+  - YA9
+  - YJN
+  - YQ5
+  - YQ8
+  - YSL
+  - YSM
+  - YX5
+  - YXS
+  - Z60
+  - Z6O
+  - '260'
+  - ZA9
+  - GA9
+  - UIY
+  :short_name: MacBook C2D 2.16 13 B
+  :released_at: 2007-05-15
+  :discontinued_at: 2007-11-01
+  :details:
+    :processor_type: Core 2 Duo (T7400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.16 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.16 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2360
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Mid2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1083
+    :geekbench_3_32_mc: 1860
+    :geekbench_3_64_sc: 1063
+    :geekbench_3_64_mc: 1818
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1399
+      :fr: 1449
+      :de: 1449
+      :ca: 1649
+      :uk: 949
+      :au: 2199
+      :jp: 179800
+      :it: 1449
+      :nl: 1449
+      :nz: 2499
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (White-SR)'
+  :model_number: A1181
+  :model_identifier: MacBook3,1
+  :order_number:
+  - MB061LL/B
+  :serial_number:
+  - Z62
+  - Z65
+  - 0NE
+  - ONE
+  - 0NF
+  - ONF
+  - 01Z
+  - O1Z
+  - 0IZ
+  - OIZ
+  - 02Z
+  :short_name: MacBook C2D 2.0 13 SR
+  :released_at: 2007-11-01
+  :discontinued_at: 2008-02-26
+  :details:
+    :processor_type: Core 2 Duo (T7300)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1012
+    :geekbench_3_32_mc: 1725
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 999
+      :fr: 1049
+      :de: 1049
+      :ca: 1249
+      :uk: 699
+      :au: 1599
+      :jp: 139800
+      :it: 1049
+      :nl: 1049
+      :nz: 1848
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.2 13" (White-SR)'
+  :model_number: A1181
+  :model_identifier: MacBook3,1
+  :order_number:
+  - MB062LL/B
+  :serial_number:
+  - Z63
+  - '263'
+  - Z66
+  - '266'
+  - 01X
+  - 0IX
+  - O1X
+  - OIX
+  - 0HB
+  - OHB
+  - 0NG
+  - ONG
+  - 0NH
+  - ONH
+  - 0PG
+  - OPG
+  :short_name: MacBook C2D 2.2 13 SR W
+  :released_at: 2007-11-01
+  :discontinued_at: 2008-02-26
+  :details:
+    :processor_type: Core 2 Duo (T7500)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.2 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1075
+    :geekbench_3_32_mc: 1756
+    :geekbench_3_64_sc: 1072
+    :geekbench_3_64_mc: 1693
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1199
+      :fr: 1249
+      :de: 1249
+      :ca: 1449
+      :uk: 829
+      :au: 1899
+      :jp: 159800
+      :it: 1249
+      :nl: 1249
+      :nz: 2199
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.2 13" (Black-SR)'
+  :model_number: A1181
+  :model_identifier: MacBook3,1
+  :order_number:
+  - MB063LL/B
+  :serial_number:
+  - Z64
+  - Z67
+  - '034'
+  - O34
+  - 0HC
+  - OHC
+  - 0PC
+  - OPC
+  - 01P
+  - O1P
+  - 0IP
+  - OIP
+  - 01V
+  - 0IV
+  - OIV
+  :short_name: MacBook C2D 2.2 13 SR B
+  :released_at: 2007-11-01
+  :discontinued_at: 2008-02-26
+  :details:
+    :processor_type: Core 2 Duo (T7500)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.2 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 2.5-6 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Late2007_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1075
+    :geekbench_3_32_mc: 1756
+    :geekbench_3_64_sc: 1072
+    :geekbench_3_64_mc: 1693
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1399
+      :fr: 1449
+      :de: 1449
+      :ca: 1649
+      :uk: 949
+      :au: 2199
+      :jp: 179800
+      :it: 1449
+      :nl: 1449
+      :nz: 2499
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.1 13" (White-08)'
+  :model_number: A1181
+  :model_identifier: MacBook4,1
+  :order_number:
+  - MB402LL/A
+  - MB402LL/B
+  :serial_number:
+  - 0P0
+  - OPO
+  - 0PO
+  - OP0
+  - 0P4
+  - OP4
+  - 1PX
+  - 1ZY
+  - 3NA
+  - 3N9
+  - 3VY
+  - 3X6
+  - 5HS
+  - SHS
+  - 5H5
+  - 5HU
+  - SHU
+  - 67C
+  - 6ES
+  :short_name: MacBook C2D 2.1 13 W 08
+  :released_at: 2008-02-26
+  :discontinued_at: 2009-01-20
+  :details:
+    :processor_type: Core 2 Duo (T8100)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.1 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 4.5 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Early2008_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1057
+    :geekbench_3_32_mc: 1791
+    :geekbench_3_64_sc: 1043
+    :geekbench_3_64_mc: 1509
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 949
+      :fr: 999
+      :de: 999
+      :ca: 1149
+      :uk: 699
+      :au: 1499
+      :jp: 129800
+      :pt: 999
+      :it: 999
+      :nl: 999
+      :at: 999
+      :nz: 1799
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.4 13" (White-08)'
+  :model_number: A1181
+  :model_identifier: MacBook4,1
+  :order_number:
+  - MB403LL/A
+  :serial_number:
+  - 0P1
+  - OP1
+  - 0PI
+  - OPI
+  - 0P5
+  - OP5
+  - 0PS
+  - OPS
+  - 1QA
+  - '385'
+  - 3ND
+  - 3NE
+  :short_name: MacBook C2D 2.4 13 W 08
+  :released_at: 2008-02-26
+  :discontinued_at: 2008-10-14
+  :details:
+    :processor_type: Core 2 Duo (T8300)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 4.5 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Early2008_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1195
+    :geekbench_3_32_mc: 2053
+    :geekbench_3_64_sc: 1412
+    :geekbench_3_64_mc: 2491
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1149
+      :fr: 1199
+      :de: 1199
+      :ca: 1349
+      :uk: 829
+      :au: 1799
+      :jp: 154800
+      :pt: 1199
+      :it: 1199
+      :nl: 1199
+      :at: 1199
+      :nz: 2099
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.4 13" (Black-08)'
+  :model_number: A1181
+  :model_identifier: MacBook4,1
+  :order_number:
+  - MB404LL/A
+  :serial_number:
+  - 0P2
+  - 0PZ
+  - OP2
+  - OPZ
+  - 0P6
+  - OP6
+  - 3NF
+  :short_name: MacBook C2D 2.4 13 B 08
+  :released_at: 2008-02-26
+  :discontinued_at: 2008-10-14
+  :details:
+    :processor_type: Core 2 Duo (T8300)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus. The system bus in this model can
+      be dynamically "downclocked" to conserve battery life.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA X3100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 144 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA  (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 4.5 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Early2008_UserGuide.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1195
+    :geekbench_3_32_mc: 2053
+    :geekbench_3_64_sc: 1412
+    :geekbench_3_64_mc: 2491
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1349
+      :fr: 1399
+      :de: 1399
+      :ca: 1549
+      :uk: 949
+      :au: 2099
+      :jp: 179800
+      :pt: 1399
+      :it: 1399
+      :nl: 1399
+      :at: 1399
+      :nz: 2399
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 144 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: MacBook (Unibody)
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (Unibody)'
+  :model_number: A1278
+  :model_identifier: MacBook5,1
+  :order_number:
+  - MB466LL/A
+  :serial_number:
+  - 1AQ
+  - IAQ
+  - 1B0
+  - 1BO
+  - IB0
+  - IBO
+  - 4YN
+  - 56G
+  - 56H
+  - 6EU
+  - 6KJ
+  - 7WU
+  - 7WY
+  - 85J
+  - 8QR
+  - 8QS
+  - 8T0
+  - 8TO
+  - 8T1
+  - 8TI
+  :short_name: MacBook C2D 2.0 13 Uni
+  :released_at: 2008-10-14
+  :discontinued_at: 2009-06-08
+  :details:
+    :processor_type: Core 2 Duo (P7350)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 45 W h Li-Poly
+    :battery_life: 5 Hours
+    :dimensions: 24.1x324.6x227.0
+    :weight: 2040
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_Aluminum_Late2008.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1110
+    :geekbench_3_32_mc: 1904
+    :geekbench_3_64_sc: 1196
+    :geekbench_3_64_mc: 2050
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1149
+      :fr: 1199
+      :de: 1199
+      :ca: 1399
+      :uk: 949
+      :au: 2099
+      :jp: 148800
+      :fi: 1199
+      :pt: 1199
+      :it: 1199
+      :nl: 1199
+      :at: 1199
+      :nz: 2399
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: MacBook (Unibody)
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.4 13" (Unibody)'
+  :model_number: A1278
+  :model_identifier: MacBook5,1
+  :order_number:
+  - MB467LL/A
+  :serial_number:
+  - 1AX
+  - IAX
+  - 1B5
+  - IB5
+  - '185'
+  - 51N
+  - SIN
+  - 56J
+  - 56K
+  - 6ER
+  - 6J7
+  - 6VE
+  - 7WV
+  - 7WZ
+  - 85Q
+  - 8AH
+  - 8QT
+  - BQT
+  - 8QU
+  - BQU
+  - 8SV
+  - BSV
+  - 8SW
+  - BSW
+  :short_name: MacBook C2D 2.4 13 Uni
+  :released_at: 2008-10-14
+  :discontinued_at: 2009-06-08
+  :details:
+    :processor_type: Core 2 Duo (P8600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 45 W h Li-Poly
+    :battery_life: 5 Hours
+    :dimensions: 24.1x324.6x227.0
+    :weight: 2040
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_Aluminum_Late2008.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1294
+    :geekbench_3_32_mc: 2243
+    :geekbench_3_64_sc: 1408
+    :geekbench_3_64_mc: 2443
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :es: 1449
+      :fr: 1499
+      :de: 1499
+      :ca: 1749
+      :uk: 1149
+      :au: 2549
+      :jp: 184800
+      :fi: 1499
+      :pt: 1499
+      :it: 1499
+      :nl: 1499
+      :at: 1499
+      :nz: 2899
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.0 13" (White-09)'
+  :model_number: A1181
+  :model_identifier: MacBook5,2
+  :order_number:
+  - MB881LL/A
+  :serial_number:
+  - 04R
+  - 4R1
+  - 4RI
+  - 4R2
+  - 4R3
+  - 79E
+  - 79F
+  - 7A2
+  - 79D
+  - 85D
+  - 88J
+  - 8CP
+  - 8SJ
+  - 93K
+  :short_name: MacBook C2D 2.0 13 W 09
+  :released_at: 2009-01-20
+  :discontinued_at: 2009-05-27
+  :details:
+    :processor_type: Core 2 Duo (P7350)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 4.5 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_white_Early2009.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1067
+    :geekbench_3_32_mc: 1834
+    :geekbench_3_64_sc: 1149
+    :geekbench_3_64_mc: 1953
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 879
+      :fr: 899
+      :de: 899
+      :ca: 1149
+      :uk: 719
+      :au: 1649
+      :jp: 114800
+      :pt: 899
+      :it: 899
+      :nl: 899
+      :at: 899
+      :nz: 1848
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: MacBook
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.13 13" (White-09)'
+  :model_number: A1181
+  :model_identifier: MacBook5,2
+  :order_number:
+  - MC240LL/A
+  :serial_number:
+  - 1JL
+  - 9GU
+  - 9GV
+  - 9G2
+  - A1W
+  - AIW
+  - A1X
+  - AIX
+  - A1Y
+  - AIY
+  - A9P
+  - A9Q
+  - A9Y
+  - ABW
+  - ASC
+  :short_name: MacBook C2D 2.13 13 W 09
+  :released_at: 2009-05-27
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (P7450)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.13 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.13 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC2-6400 DDR2
+    :memory_speed: 800 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 55 W h Li-Poly
+    :battery_life: 5 Hours
+    :dimensions: 27.4x324.6x226.5
+    :weight: 2270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_white_Early2009.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1151
+    :geekbench_3_32_mc: 1991
+    :geekbench_3_64_sc: 1259
+    :geekbench_3_64_mc: 2192
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 879
+      :fr: 899
+      :de: 899
+      :ca: 1149
+      :uk: 719
+      :au: 1649
+      :jp: 114800
+      :pt: 899
+      :it: 899
+      :nl: 899
+      :at: 899
+      :nz: 1999
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: MacBook (White Unibody)
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.26 13" (Uni/Late 09)'
+  :model_number: A1342
+  :model_identifier: MacBook6,1
+  :order_number:
+  - MC207LL/A
+  :serial_number:
+  - 8PW
+  - BPW
+  - 8PX
+  - BPX
+  - CJ6
+  - CJ8
+  - CJ9
+  - DWG
+  - E39
+  - FYN
+  - FYT
+  - GA3
+  - GAY
+  - GAZ
+  - GB0
+  - GBO
+  - GB4
+  - GB5
+  :short_name: MacBook C2D 2.26 13 W 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-05-18
+  :details:
+    :processor_type: Core 2 Duo (P7550)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 60 W h Li-Poly
+    :battery_life: 7 Hours
+    :dimensions: 27.4x330.2x231.6
+    :weight: 2130
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_Late2009_UG.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1243
+    :geekbench_3_32_mc: 2148
+    :geekbench_3_64_sc: 1356
+    :geekbench_3_64_mc: 2358
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 879
+      :fr: 899
+      :de: 899
+      :ca: 1099
+      :uk: 799
+      :au: 1299
+      :jp: 98800
+      :fi: 929
+      :pt: 899
+      :it: 899
+      :nl: 899
+      :at: 899
+      :nz: 1699
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: MacBook (White Unibody)
+  :model: MacBook
+  :model_name: '"Core 2 Duo" 2.4 13" (Mid-2010)'
+  :model_number: A1342
+  :model_identifier: MacBook7,1
+  :order_number:
+  - MC516LL/A
+  :serial_number:
+  - F5W
+  - FSW
+  - F5X
+  - FSX
+  - FX9
+  - GP6
+  - GST
+  - GUP
+  - HST
+  - HSU
+  - HUD
+  - DV8H
+  :short_name: MacBook C2D 2.4 13 W 10
+  :released_at: 2010-05-18
+  :discontinued_at: 2012-02-08
+  :details:
+    :processor_type: Core 2 Duo (P8600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 320M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 13.3" Widescreen
+    :display_resolution: 1280x800
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 63.5 W h Li-Poly
+    :battery_life: 10 Hours
+    :dimensions: 27.4x330.2x231.6
+    :weight: 2130
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/MacBook_13inch_Mid2010_UG.pdf
+    :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
+      href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
+      power connector on the MacBook work?'
+    :geekbench_3_32_sc: 1308
+    :geekbench_3_32_mc: 2172
+    :geekbench_3_64_sc: 1419
+    :geekbench_3_64_mc: 2376
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 989
+      :fr: 999
+      :de: 999
+      :ca: 1049
+      :uk: 849
+      :au: 1249
+      :jp: 94800
+      :fi: 999
+      :pt: 999
+      :it: 999
+      :nl: 999
+      :at: 999
+      :nz: 1749
+      :mx: 14999
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 250 GB

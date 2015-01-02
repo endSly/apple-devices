@@ -1,0 +1,3241 @@
+---
+- :vendor: Apple
+  :subfamily: iPod (Original)
+  :model: iPod
+  :model_name: "(Original/Scroll Wheel)"
+  :model_number: M8541
+  :model_identifier: None
+  :order_number:
+  - M8513LL/A
+  - M8709LL/A
+  - M8513LL/B
+  - M8697LL/A
+  :serial_number:
+  - LG6
+  - MJ2
+  - MJ7
+  - ML1
+  - MME
+  - NAM
+  - NAN
+  - NGD
+  - NT0
+  - MRW
+  :short_name: iPod (Original)
+  :released_at: 2001-10-23
+  :discontinued_at: 2003-04-28
+  :details:
+    :processor_type: PP5002
+    :processor_speed: 90 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Monochrome
+    :display_resolution: 160x128
+    :battery_type: Lithium Polymer
+    :battery_life: 10 Hours
+    :dimensions: 102.1x61.7x19.8
+    :weight: 6.5 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: None
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_OriginalUserGuide.PDF
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :ca: 599
+      :uk: 349
+      :au: 895
+      :jp: 47800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 5 GB
+  - :original_price:
+      :us: 499
+      :ca: 799
+      :uk: 429
+      :au: 1095
+      :jp: 62800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iPod 2nd Gen
+  :model: iPod
+  :model_name: 2nd Gen (Touch Wheel)
+  :model_number: A1019
+  :model_identifier: None
+  :order_number:
+  - M8737LL/A
+  - M8738LL/A
+  - M8740LL/A
+  - M8741LL/A
+  - M8513LL/B
+  - M8697LL/A
+  :serial_number:
+  - MMB
+  - MMC
+  - MMF
+  - MRV
+  - MYX
+  - MYY
+  - MYZ
+  - MZ0
+  - MZO
+  - NGE
+  - NGF
+  - NGH
+  - NGJ
+  - NSS
+  - NSU
+  - NSW
+  - NSX
+  - NSY
+  :short_name: iPod 2nd Gen
+  :released_at: 2002-03-21
+  :discontinued_at: 2003-04-28
+  :details:
+    :processor_type: PP5002
+    :processor_speed: 90 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Monochrome
+    :display_resolution: 160x128
+    :battery_type: Lithium Polymer
+    :battery_life: 10 Hours
+    :dimensions: 102.1x61.7x18.2
+    :weight: 6.5 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: None
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_OriginalUserGuide.PDF
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :ca: 629
+      :uk: 329
+      :jp: 47800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 5 GB
+  - :original_price:
+      :us: 399
+      :ca: 799
+      :uk: 399
+      :jp: 59800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 10 GB
+  - :original_price:
+      :us: 499
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iPod 3rd Gen
+  :model: iPod
+  :model_name: 3rd Gen (10/15/30)
+  :model_number: A1040
+  :model_identifier: None
+  :order_number:
+  - M8976LL/A
+  - M8946LL/A
+  - M8948LL/A
+  :serial_number:
+  - NLW
+  - NLY
+  - NM7
+  - NRH
+  - NRK
+  - P68
+  - Q4T
+  :short_name: iPod 3rd Gen 10/15/30
+  :released_at: 2003-04-28
+  :discontinued_at: 2003-09-08
+  :details:
+    :processor_type: PP5002
+    :processor_speed: 90 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Monochrome
+    :display_resolution: 160x128
+    :battery_type: Lithium Ion
+    :battery_life: 8 Hours
+    :dimensions: 104.1x60.9x15.7
+    :weight: 5.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync Only
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :ca: 459
+      :uk: 249
+      :jp: 36800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 10 GB
+  - :original_price:
+      :us: 399
+      :ca: 599
+      :uk: 299
+      :jp: 47800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 15 GB
+  - :original_price:
+      :us: 499
+      :ca: 749
+      :uk: 399
+      :jp: 59800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iPod 3rd Gen
+  :model: iPod
+  :model_name: 3rd Gen (10/20/40)
+  :model_number: A1040
+  :model_identifier: None
+  :order_number:
+  - M9244LL/A
+  - M8976LL/A
+  - M9245LL/A
+  :serial_number:
+  - PQ5
+  - PQ6
+  - PNT
+  :short_name: iPod 3rd Gen 10/20/40
+  :released_at: 2003-09-08
+  :discontinued_at: 2004-01-06
+  :details:
+    :processor_type: PP5002
+    :processor_speed: 90 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Monochrome
+    :display_resolution: 160x128
+    :battery_type: Lithium Ion
+    :battery_life: 8 Hours
+    :dimensions: 104.1x60.9x15.7
+    :weight: 5.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync Only
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :ca: 459
+      :uk: 249
+      :jp: 36800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 10 GB
+  - :original_price:
+      :us: 399
+      :ca: 579
+      :uk: 299
+      :jp: 47800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+  - :original_price:
+      :us: 499
+      :ca: 729
+      :uk: 399
+      :jp: 59800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iPod 3rd Gen
+  :model: iPod
+  :model_name: 3rd Gen (15/20/40)
+  :model_number: A1040
+  :model_identifier: None
+  :order_number:
+  - M9460LL/A
+  - M9244LL/A
+  - M9245LL/A
+  :serial_number:
+  - QQF
+  - QQG
+  - PNU
+  :short_name: iPod 3rd Gen 15/20/40
+  :released_at: 2004-01-06
+  :discontinued_at: 2004-07-19
+  :details:
+    :processor_type: PP5002
+    :processor_speed: 90 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Monochrome
+    :display_resolution: 160x128
+    :battery_type: Lithium Ion
+    :battery_life: 8 Hours
+    :dimensions: 104.1x60.9x15.7
+    :weight: 5.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync Only
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :ca: 459
+      :uk: 249
+      :jp: 36800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 15 GB
+  - :original_price:
+      :us: 399
+      :ca: 579
+      :uk: 299
+      :jp: 47800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+  - :original_price:
+      :us: 499
+      :ca: 729
+      :uk: 399
+      :jp: 59800
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iPod 4th Gen
+  :model: iPod
+  :model_name: 4th Gen (ClickWheel)
+  :model_number: A1059
+  :model_identifier: None
+  :order_number:
+  - M9282LL/A
+  - M9268LL/A
+  :serial_number:
+  - 3J9
+  - PQ7
+  - PS9
+  - P59
+  - Q8U
+  - Q8V
+  - RFF
+  - RFG
+  - RFM
+  - RFN
+  - RUW
+  - Y79
+  :short_name: iPod 4th Gen/ClickWheel
+  :released_at: 2004-07-19
+  :discontinued_at: 2005-06-28
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Grayscale
+    :display_resolution: 160x128
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 104.1x60.9x14.4
+    :weight: 5.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Click_Wheel_UserGuide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 319
+      :ca: 429
+      :uk: 219
+      :jp: 33390
+      :nz: 612
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+  - :original_price:
+      :us: 399
+      :es: 429
+      :ca: 559
+      :uk: 299
+      :jp: 44940
+      :nz: 795
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iPod 4th Gen U2
+  :model: iPod
+  :model_name: U2 Edition (4th Gen)
+  :model_number: A1059
+  :model_identifier: None
+  :order_number:
+  - M9787LL/A
+  :serial_number:
+  - S2X
+  :short_name: iPod U2 (4th Gen)
+  :released_at: 2004-10-26
+  :discontinued_at: 2005-06-28
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" Grayscale
+    :display_resolution: 160x128
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 104.1x60.9x14.4
+    :weight: 5.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Click_Wheel_UserGuide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 349
+      :es: 369
+      :ca: 499
+      :uk: 249
+      :jp: 40740
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iPod photo (30 GB)
+  :model: iPod
+  :model_name: photo (30)
+  :model_number: A1099
+  :model_identifier: None
+  :order_number:
+  - M9829LL/A
+  :serial_number:
+  - SAY
+  - 5AY
+  - SB0
+  - SBO
+  :short_name: iPod photo (30)
+  :released_at: 2005-02-23
+  :discontinued_at: 2005-06-28
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" LCD
+    :display_resolution: 220x176
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 104.1x60.9x16.0
+    :weight: 5.9 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 349
+      :es: 349
+      :de: 359
+      :ca: 349
+      :uk: 249
+      :au: 499
+      :jp: 38800
+      :it: 379
+      :nl: 359
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iPod photo
+  :model: iPod
+  :model_name: photo (40/60)
+  :model_number: A1099
+  :model_identifier: None
+  :order_number:
+  - M9585LL/A
+  - M9586LL/A
+  - M9830LL/A
+  :serial_number:
+  - R5Q
+  - SAZ
+  - 5AZ
+  - SB1
+  - R5R
+  - RSR
+  - R5S
+  - RSS
+  - R55
+  - R5T
+  - RST
+  - 0VH
+  :short_name: iPod photo (40/60)
+  :released_at: 2004-10-26
+  :discontinued_at: 2005-06-28
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" LCD
+    :display_resolution: 220x176
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 104.1x60.9x19.0
+    :weight: 182
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 529
+      :de: 499
+      :ca: 679
+      :uk: 359
+      :jp: 57540
+      :nl: 499
+      :nz: 956
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 599
+      :es: 639
+      :de: 599
+      :ca: 799
+      :uk: 429
+      :jp: 70140
+      :nl: 599
+      :nz: 1136
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iPod photo
+  :model: iPod
+  :model_name: Color Display
+  :model_number: A1099
+  :model_identifier: None
+  :order_number:
+  - MA079LL/A
+  - M9830LL/A
+  :serial_number:
+  - TDS
+  - TDU
+  - TM2
+  - TYG
+  :short_name: iPod Color
+  :released_at: 2005-06-28
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" LCD
+    :display_resolution: 220x176
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 104.1x60.9x16.0
+    :weight: 5.9 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 299
+      :de: 309
+      :ca: 379
+      :uk: 209
+      :au: 449
+      :jp: 32800
+      :it: 319
+      :nl: 309
+      :nz: 529
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+  - :original_price:
+      :us: 399
+      :es: 429
+      :de: 439
+      :ca: 519
+      :uk: 299
+      :au: 599
+      :jp: 45800
+      :it: 459
+      :nl: 439
+      :nz: 709
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iPod U2 Color
+  :model: iPod
+  :model_name: U2 Edition (Color)
+  :model_number: A1099
+  :model_identifier: None
+  :order_number:
+  - MA127LL/A
+  :serial_number:
+  - TM2
+  :short_name: iPod U2 (Color)
+  :released_at: 2005-06-28
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2" LCD
+    :display_resolution: 220x176
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 104.1x60.9x16.0
+    :weight: 5.9 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 329
+      :es: 339
+      :de: 339
+      :ca: 419
+      :uk: 229
+      :au: 499
+      :jp: 36800
+      :it: 359
+      :nl: 339
+      :nz: 589
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iPod 5th Gen
+  :model: iPod
+  :model_name: 5th Gen (with Video)
+  :model_number: A1136
+  :model_identifier: None
+  :order_number:
+  - MA002LL/A
+  - MA146LL/A
+  - MA003LL/A
+  - MA147LL/A
+  :serial_number:
+  - SZ9
+  - 5Z9
+  - SZA
+  - SZT
+  - SZU
+  - TXK
+  - TXM
+  - TXL
+  - TXN
+  - WEC
+  - WED
+  - WEE
+  - WEF
+  - WEG
+  - WEH
+  - WEJ
+  - WEK
+  - WEL
+  :short_name: iPod 5th Gen/Video
+  :released_at: 2005-10-12
+  :discontinued_at: 2006-09-12
+  :details:
+    :processor_type: PP5021C
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 64 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 14 Hours, 20 Hours
+    :dimensions: 104.1x60.9x10.9
+    :weight: 4.8 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 319
+      :de: 329
+      :ca: 379
+      :uk: 219
+      :au: 449
+      :jp: 34800
+      :it: 329
+      :nl: 329
+      :nz: 555
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+  - :original_price:
+      :us: 399
+      :es: 429
+      :de: 439
+      :ca: 499
+      :uk: 299
+      :au: 598
+      :jp: 46800
+      :it: 449
+      :nl: 439
+      :nz: 739
+    :details:
+      :standard_memory: 64 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iPod 5th Gen
+  :model: iPod
+  :model_name: U2 Edition 5th Gen
+  :model_number: A1136
+  :model_identifier: None
+  :order_number:
+  - MA452LL/A
+  :serial_number:
+  - V9V
+  - WEM
+  :short_name: iPod U2 (5th Gen)
+  :released_at: 2006-06-06
+  :discontinued_at: 2006-09-12
+  :details:
+    :processor_type: PP5021C
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 14 Hours
+    :dimensions: 104.1x60.9x10.9
+    :weight: 4.8 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 329
+      :es: 349
+      :fr: 359
+      :de: 359
+      :ca: 399
+      :uk: 239
+      :au: 499
+      :jp: 38800
+      :it: 359
+      :nl: 359
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iPod 5th Gen
+  :model: iPod
+  :model_name: 5th Gen - Enhanced
+  :model_number: A1136
+  :model_identifier: None
+  :order_number:
+  - MA444LL/A
+  - MA446LL/A
+  - MA448LL/A
+  - MA450LL/A
+  :serial_number:
+  - V95
+  - V96
+  - V6C
+  - V9K
+  - V9L
+  - V9M
+  - V9N
+  - V9P
+  - V9Q
+  - V9R
+  - V9S
+  - VHQ
+  - VQM
+  - VUP
+  - WU9
+  - WUA
+  - WUB
+  - WUC
+  - X82
+  - X3N
+  - XNJ
+  :short_name: iPod 5th Gen (Enh)
+  :released_at: 2006-09-12
+  :discontinued_at: 2007-09-05
+  :details:
+    :processor_type: PP5021C
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 64 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 14 Hours, 20 Hours
+    :dimensions: 104.1x60.9x10.9
+    :weight: 4.8 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Late_2006_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 249
+      :es: 279
+      :fr: 289
+      :de: 249
+      :ca: 299
+      :uk: 189
+      :au: 380
+      :jp: 29800
+      :it: 289
+      :nl: 249
+      :nz: 489
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+  - :original_price:
+      :us: 349
+      :es: 379
+      :fr: 389
+      :de: 399
+      :ca: 399
+      :uk: 259
+      :au: 499
+      :jp: 42800
+      :it: 399
+      :nl: 399
+      :nz: 649
+    :details:
+      :standard_memory: 64 MB
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iPod 5th Gen
+  :model: iPod
+  :model_name: U2 Edition 5th Gen Enhanced
+  :model_number: A1136
+  :model_identifier: None
+  :order_number:
+  - MA664LL/A
+  :serial_number:
+  - W9G
+  :short_name: iPod U2 5th Gen (Enh)
+  :released_at: 2006-09-12
+  :discontinued_at: 2007-09-05
+  :details:
+    :processor_type: PP5021C
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 14 Hours
+    :dimensions: 104.1x60.9x10.9
+    :weight: 4.8 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_Late_2006_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 279
+      :fr: 299
+      :de: 299
+      :ca: 379
+      :uk: 239
+      :au: 399
+      :jp: 34800
+      :it: 299
+      :nl: 299
+      :nz: 549
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iPod classic
+  :model: iPod
+  :model_name: classic ("Original"/6th Gen)
+  :model_number: A1238
+  :model_identifier: None
+  :order_number:
+  - MB029LL/A
+  - MB147LL/A
+  - MB145LL/A
+  - MB150LL/A
+  :serial_number:
+  - Y5N
+  - YSN
+  - YMU
+  - YMV
+  - YMX
+  - YMZ
+  :short_name: iPod classic
+  :released_at: 2007-09-05
+  :discontinued_at: 2008-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :max_memory: 64 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours, 40 Hours
+    :dimensions: 104.1x60.9x10.4
+    :weight: 4.9 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_classic_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 249
+      :es: 239
+      :fr: 259
+      :de: 249
+      :ca: 279
+      :uk: 159
+      :au: 349
+      :jp: 29800
+      :pt: 239
+      :it: 249
+      :nl: 249
+      :nz: 399
+    :details:
+      :standard_memory: 64 MB
+      :hd_capacity: 80 GB
+  - :original_price:
+      :us: 349
+      :es: 339
+      :fr: 359
+      :de: 349
+      :ca: 399
+      :uk: 229
+      :au: 479
+      :jp: 42800
+      :pt: 339
+      :it: 349
+      :nl: 349
+      :nz: 549
+    :details:
+      :standard_memory: 64 MB
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iPod classic
+  :model: iPod
+  :model_name: classic (Late 2008/7th Gen)
+  :model_number: A1238
+  :model_identifier: None
+  :order_number:
+  - MB562LL/A
+  - MB565LL/A
+  - MC293LL/A
+  - MC297LL/A
+  :serial_number:
+  - 2C5
+  - 2CS
+  - 2C7
+  - 9ZS
+  - 9ZU
+  :short_name: iPod classic (08/09)
+  :released_at: 2008-09-09
+  :discontinued_at: 2014-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :max_memory: 64 MB
+    :display: 2.5" QVGA LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 36 Hours
+    :dimensions: 104.1x60.9x10.4
+    :weight: 4.9 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_classic_160GB_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 249
+      :es: 239
+      :fr: 259
+      :de: 229
+      :ca: 279
+      :uk: 189
+      :au: 339
+      :jp: 29800
+      :fi: 251
+      :pt: 239
+      :it: 229
+      :nl: 229
+      :at: 239
+      :nz: 429
+      :mx: 3889
+    :details:
+      :standard_memory: 64 MB
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: iPod mini
+  :model: iPod
+  :model_name: mini
+  :model_number: A1051
+  :model_identifier: None
+  :order_number:
+  - M9160LL/A
+  - M9434LL/A
+  - M9435LL/A
+  - M9436LL/A
+  - M9437LL/A
+  :serial_number:
+  - PFW
+  - PRC
+  - PRH
+  - QKM
+  - QKR
+  - QKL
+  - QKQ
+  - QKK
+  - QKP
+  - QKJ
+  - QKN
+  - S4C
+  - 54C
+  - S4E
+  - 54E
+  - S4F
+  - 54F
+  - S4G
+  - 54G
+  - S4H
+  - 54H
+  - S4K
+  - 54K
+  :short_name: iPod mini
+  :released_at: 2004-01-06
+  :discontinued_at: 2005-02-23
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 1.67" Grayscale
+    :display_resolution: 138x110
+    :battery_type: Lithium Ion
+    :battery_life: 8 Hours
+    :dimensions: 91.4x50.8x12.7
+    :weight: 3.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/0190191_iPodmini_UG.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 249
+      :es: 259
+      :ca: 349
+      :uk: 199
+      :jp: 26800
+      :nz: 489
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: iPod mini
+  :model: iPod
+  :model_name: mini (2nd Gen)
+  :model_number: A1051
+  :model_identifier: None
+  :order_number:
+  - M9800LL/A
+  - M9802LL/A
+  - M9804LL/A
+  - M9806LL/A
+  - M9801LL/A
+  - M9803LL/A
+  - M9805LL/A
+  - M9807LL/A
+  :serial_number:
+  - S41
+  - '541'
+  - S42
+  - '542'
+  - S43
+  - '543'
+  - S44
+  - '544'
+  - S45
+  - '545'
+  - S46
+  - '546'
+  - S47
+  - '547'
+  - S4J
+  - 54J
+  - S48
+  - '548'
+  - S4D
+  - 54D
+  :short_name: iPod mini (2nd Gen)
+  :released_at: 2005-02-23
+  :discontinued_at: 2005-09-07
+  :details:
+    :processor_type: PP5020
+    :processor_speed: 80 MHz (x2)
+    :max_memory: 32 MB
+    :display: 1.67" Grayscale
+    :display_resolution: 138x110
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 91.4x50.8x12.7
+    :weight: 3.6 oz.
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Sync & Charge
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_mini_2nd_Gen_UserGuide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 199
+      :de: 199
+      :ca: 249
+      :uk: 139
+      :au: 299
+      :jp: 21800
+      :it: 209
+      :nl: 199
+      :nz: 349
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 249
+      :es: 249
+      :de: 249
+      :ca: 319
+      :uk: 169
+      :au: 359
+      :jp: 27800
+      :it: 259
+      :nl: 249
+      :nz: 419
+    :details:
+      :standard_memory: 32 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: iPod nano
+  :model: iPod
+  :model_name: nano
+  :model_number: A1137
+  :model_identifier: None
+  :order_number:
+  - MA004LL/A
+  - MA099LL/A
+  - MA005LL/A
+  - MA107LL/A
+  - MA350LL/A
+  - MA352LL/A
+  :serial_number:
+  - SZB
+  - SZC
+  - SZV
+  - SZW
+  - TJT
+  - TJU
+  - TK2
+  - TK3
+  - UNA
+  - UNB
+  - UPR
+  - UPS
+  - VUQ
+  - WS8
+  - WS9
+  :short_name: iPod nano
+  :released_at: 2005-09-07
+  :discontinued_at: 2006-09-12
+  :details:
+    :processor_type: PP5021C
+    :processor_speed: 80 MHz (x2)
+    :display: 1.5" 16-bit LCD
+    :display_resolution: 176x132
+    :battery_type: Lithium Ion
+    :battery_life: 14 Hours
+    :dimensions: 88.9x40.6x6.8
+    :weight: 1.5 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 199
+      :de: 209
+      :ca: 179
+      :uk: 109
+      :jp: 21800
+      :it: 209
+      :nl: 209
+      :nz: 269
+    :details:
+      :hd_capacity: 1 GB
+  - :original_price:
+      :us: 199
+      :es: 249
+      :de: 259
+      :ca: 249
+      :uk: 139
+      :jp: 27800
+      :it: 269
+      :nl: 259
+      :nz: 349
+    :details:
+      :hd_capacity: 2 GB
+  - :original_price:
+      :us: 249
+      :ca: 299
+      :uk: 179
+      :nz: 419
+    :details:
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: iPod nano 2nd Gen
+  :model: iPod
+  :model_name: nano (2nd Gen)
+  :model_number: A1199
+  :model_identifier: None
+  :order_number:
+  - MA477LL/A
+  - MA426LL/A
+  - MA428LL/A
+  - MA487LL/A
+  - MA489LL/A
+  - MA497LL/A
+  :serial_number:
+  - V8T
+  - VBT
+  - V8U
+  - VBU
+  - V8X
+  - VBX
+  - V8W
+  - VBW
+  - V8H
+  - VBH
+  - VQ5
+  - VQS
+  - VQ6
+  - VQH
+  - VQJ
+  - VQK
+  - VQL
+  - VQT
+  - VQU
+  - XNH
+  :short_name: iPod nano (2nd Gen)
+  :released_at: 2006-09-12
+  :discontinued_at: 2007-09-05
+  :details:
+    :processor_type: Samsung ARM
+    :display: 1.5" 16-bit LCD
+    :display_resolution: 176x132
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 88.9x40.6x6.6
+    :weight: 1.41 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_2nd_Gen_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 149
+      :fr: 159
+      :de: 149
+      :ca: 169
+      :uk: 99
+      :au: 219
+      :jp: 17800
+      :it: 149
+      :nl: 149
+      :nz: 289
+    :details:
+      :hd_capacity: 2 GB
+  - :original_price:
+      :us: 199
+      :es: 199
+      :fr: 209
+      :de: 199
+      :ca: 229
+      :uk: 129
+      :au: 299
+      :jp: 23800
+      :it: 199
+      :nl: 199
+      :nz: 389
+    :details:
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 249
+      :es: 249
+      :fr: 259
+      :de: 249
+      :ca: 299
+      :uk: 169
+      :au: 380
+      :jp: 29800
+      :it: 249
+      :nl: 249
+      :nz: 489
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPod nano 2nd Gen
+  :model: iPod
+  :model_name: nano 2nd Gen (RED)
+  :model_number: A1199
+  :model_identifier: None
+  :order_number:
+  - MA725LL/A
+  - MA899LL/A
+  :serial_number:
+  - WL2
+  - WL3
+  - X9A
+  - X9B
+  :short_name: iPod nano 2nd Gen RED
+  :released_at: 2006-10-13
+  :discontinued_at: 2007-09-05
+  :details:
+    :processor_type: Samsung ARM
+    :display: 1.5" 16-bit LCD
+    :display_resolution: 176x132
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 88.9x40.6x6.6
+    :weight: 1.41 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_2nd_Gen_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 199
+      :fr: 209
+      :de: 199
+      :ca: 229
+      :uk: 129
+      :au: 299
+      :jp: 23800
+      :it: 199
+      :nl: 199
+      :nz: 389
+    :details:
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 249
+      :es: 249
+      :fr: 259
+      :de: 249
+      :ca: 299
+      :uk: 169
+      :jp: 29800
+      :it: 249
+      :nl: 249
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPod nano 3rd Gen
+  :model: iPod
+  :model_name: nano (3rd Gen/Fat)
+  :model_number: A1236
+  :model_identifier: None
+  :order_number:
+  - MA978LL/A
+  - MA980LL/A
+  - MB249LL/A
+  - MB253LL/A
+  - MB261LL/A
+  - MB453LL/A
+  :serial_number:
+  - Y0P
+  - YOP
+  - Y0R
+  - YOR
+  - YXR
+  - YXT
+  - YXV
+  - YXX
+  - 13F
+  :short_name: iPod nano (3rd Gen)
+  :released_at: 2007-09-05
+  :discontinued_at: 2008-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :display: 2" LCD
+    :display_resolution: 320x240
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 69.8x52.3x6.6
+    :weight: 1.74 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: Charge Only
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_3rd_gen_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 139
+      :fr: 159
+      :de: 149
+      :ca: 169
+      :uk: 99
+      :au: 199
+      :jp: 17800
+      :fi: 159
+      :pt: 139
+      :it: 149
+      :nl: 149
+      :nz: 239
+    :details:
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 199
+      :es: 189
+      :fr: 209
+      :de: 199
+      :ca: 219
+      :uk: 129
+      :au: 279
+      :jp: 23800
+      :fi: 209
+      :pt: 189
+      :it: 199
+      :nl: 199
+      :nz: 329
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPod nano 4th Gen
+  :model: iPod
+  :model_name: nano (4th Gen)
+  :model_number: A1285
+  :model_identifier: None
+  :order_number:
+  - MB598LL/A
+  - MB754LL/A
+  - MB739LL/A
+  - MB732LL/A
+  - MB745LL/A
+  - MB748LL/A
+  - MB742LL/A
+  - MB735LL/A
+  - MB903LL/A
+  - MB918LL/A
+  - MB909LL/A
+  - MB905LL/A
+  - MB913LL/A
+  - MB915LL/A
+  - MB911LL/A
+  - MB907LL/A
+  - MB480ZI
+  :serial_number:
+  - 1P1
+  - IPI
+  - 2ME
+  - 3QZ
+  - 3R0
+  - 3RO
+  - 3QS
+  - 3QT
+  - 3QU
+  - 3QW
+  - 3QX
+  - 3QY
+  - 37G
+  - 37H
+  - 37K
+  - 37L
+  - 37P
+  - 37Q
+  - 37S
+  - 5B7
+  - '587'
+  - 5B8
+  - 5B9
+  - '589'
+  - 5B9
+  - SB9
+  - 5BA
+  - 58A
+  - SBA
+  - 5BB
+  - 5BC
+  - 58C
+  - SBC
+  - 5BD
+  - 58D
+  - 5BE
+  - 58E
+  - SBE
+  - S8E
+  - 5BF
+  - 58F
+  - SBF
+  - S8F
+  :short_name: iPod nano (4th Gen)
+  :released_at: 2008-09-09
+  :discontinued_at: 2009-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :display: 2" LCD
+    :display_resolution: 240x320
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 91.4x38.1x6.0
+    :weight: 1.3 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_4th_gen_UserGuide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 139
+      :fr: 149
+      :de: 139
+      :ca: 169
+      :uk: 109
+      :au: 199
+      :jp: 17800
+      :fi: 159
+      :pt: 149
+      :it: 139
+      :nl: 139
+      :at: 149
+      :nz: 249
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 199
+      :es: 189
+      :fr: 199
+      :de: 189
+      :ca: 219
+      :uk: 149
+      :au: 279
+      :jp: 23800
+      :fi: 199
+      :pt: 199
+      :it: 189
+      :nl: 189
+      :at: 199
+      :nz: 329
+    :details:
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod nano 5th Gen
+  :model: iPod
+  :model_name: nano (5th Gen/Camera)
+  :model_number: A1320
+  :model_identifier: None
+  :order_number:
+  - MC031LL/A
+  - MC027LL/A
+  - MC037LL/A
+  - MC040LL/A
+  - MC046LL/A
+  - MC050LL/A
+  - MC034LL/A
+  - MC043LL/A
+  - MC049LL/A
+  - MC062LL/A
+  - MC060LL/A
+  - MC066LL/A
+  - MC068LL/A
+  - MC072LL/A
+  - MC075LL/A
+  - MC064LL/A
+  - MC070LL/A
+  - MC074LL/A
+  :serial_number:
+  - 71V
+  - 7IV
+  - 71Y
+  - 7IY
+  - 72A
+  - 7ZA
+  - 72D
+  - 7ZD
+  - 72F
+  - 7ZF
+  - 72K
+  - 7ZK
+  - 72L
+  - 7ZL
+  - 72Q
+  - 7ZQ
+  - 72R
+  - 7ZR
+  - 72S
+  - 7ZS
+  - '725'
+  - 72X
+  - 7ZX
+  - 73A
+  - 73B
+  - '738'
+  - '721'
+  - '726'
+  - '734'
+  - '739'
+  :short_name: iPod nano (5th Gen)
+  :released_at: 2009-09-09
+  :discontinued_at: 2010-09-01
+  :details:
+    :processor_type: Samsung ARM
+    :display: 2.2" LCD
+    :display_resolution: 240x376
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 91.4x38.1x6.0
+    :weight: 1.28 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_5th_gen_UserGuide.pdf
+    :cell_network: None
+    :camera: Video
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 139
+      :fr: 149
+      :de: 139
+      :ca: 169
+      :uk: 115
+      :au: 199
+      :jp: 14800
+      :fi: 155
+      :pt: 139
+      :it: 139
+      :nl: 139
+      :at: 149
+      :nz: 259
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 179
+      :es: 169
+      :fr: 179
+      :de: 169
+      :ca: 199
+      :uk: 135
+      :au: 249
+      :jp: 17800
+      :fi: 179
+      :pt: 169
+      :it: 169
+      :nl: 169
+      :at: 179
+      :nz: 318
+    :details:
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod nano 6th Gen
+  :model: iPod
+  :model_name: nano (6th Gen/1.54" Multitouch/Clip)
+  :model_number: A1366
+  :model_identifier: None
+  :order_number:
+  - MC525LL/A
+  - MC688LL/A
+  - MC689LL/A
+  - MC690LL/A
+  - MC691LL/A
+  - MC692LL/A
+  - MC693LL/A
+  - MC526LL/A
+  - MC694LL/A
+  - MC695LL/A
+  - MC696LL/A
+  - MC697LL/A
+  - MC698LL/A
+  - MC699LL/A
+  :serial_number:
+  - DCMP
+  - DCMN
+  - DDVX
+  - DDVY
+  - DDW0
+  - DDWO
+  - DDW1
+  - DDWI
+  - DDW2
+  - DDW3
+  - DDW4
+  - DDW5
+  - DDWS
+  - DDW6
+  - DDW7
+  - DDW8
+  - DDW9
+  :short_name: iPod nano (6th Gen)
+  :released_at: 2010-09-01
+  :discontinued_at: 2012-09-12
+  :details:
+    :processor_type: Samsung ARM
+    :display: 1.54" LCD
+    :display_resolution: 240x240
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 37.5x40.8x8.8
+    :weight: 0.74 ounces
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_6thgen_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iOS Inspired
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 159
+      :fr: 169
+      :de: 159
+      :ca: 159
+      :uk: 129
+      :au: 199
+      :jp: 13800
+      :fi: 179
+      :pt: 159
+      :it: 169
+      :nl: 159
+      :at: 169
+      :nz: 249
+      :mx: 2299
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 179
+      :es: 189
+      :fr: 209
+      :de: 189
+      :ca: 189
+      :uk: 159
+      :au: 229
+      :jp: 16800
+      :fi: 209
+      :pt: 189
+      :it: 199
+      :nl: 189
+      :at: 199
+      :nz: 299
+      :mx: 2799
+    :details:
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod nano 7th Gen
+  :model: iPod
+  :model_name: nano (7th Gen/2.5" Multitouch)
+  :model_number: A1446
+  :model_identifier: None
+  :order_number:
+  - MD481LL/A
+  - ME971LL/A
+  - MD480LL/A
+  - MD479LL/A
+  - MD475LL/A
+  - MD476LL/A
+  - MD478LL/A
+  - MD477LL/A
+  - MD744LL/A
+  :serial_number:
+  - F0GM
+  - FOGM
+  - F0GN
+  - FOGN
+  - F0GP
+  - FOGP
+  - F0GQ
+  - FOGQ
+  - F0GR
+  - FOGR
+  - F0GT
+  - FOGT
+  - F0GV
+  - FOGV
+  - F4LP
+  - FJQ1
+  - FJQI
+  :short_name: iPod nano (7th Gen)
+  :released_at: 2012-09-12
+  :details:
+    :processor_type: Samsung ARM
+    :display: 2.5" LCD
+    :display_resolution: 240x432
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 76.4x39.6x5.3
+    :weight: 1.1 ounces
+    :wifi: None
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_nano_user_guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iOS Inspired
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 169
+      :fr: 179
+      :de: 169
+      :ca: 149
+      :uk: 129
+      :au: 169
+      :jp: 12800
+      :fi: 189
+      :pt: 169
+      :it: 179
+      :nl: 169
+      :at: 179
+      :nz: 229
+      :mx: 2399
+    :details:
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle
+  :model: iPod
+  :model_name: shuffle (1st Gen/White)
+  :model_number: A1112
+  :model_identifier: None
+  :order_number:
+  - M9724LL/A
+  - M9725LL/A
+  :serial_number:
+  - PFV
+  - RS9
+  - RSA
+  - TSX
+  - TSY
+  - U7T
+  - UZ0
+  - UZO
+  :short_name: iPod shuffle (1st Gen)
+  :released_at: 2005-01-11
+  :discontinued_at: 2006-09-12
+  :details:
+    :processor_type: D-Major STMP 3550
+    :processor_speed: 75 MHz
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 83.8x24.8x8.3
+    :weight: 0.78 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPodshuffleUserGuide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :es: 99
+      :de: 99
+      :ca: 129
+      :uk: 69
+      :au: 149
+      :jp: 10980
+      :it: 99
+      :nl: 99
+      :nz: 178
+    :details:
+      :hd_capacity: 512 MB
+  - :original_price:
+      :us: 149
+      :es: 149
+      :de: 149
+      :ca: 189
+      :uk: 99
+      :au: 229
+      :jp: 16980
+      :it: 149
+      :nl: 149
+      :nz: 274
+    :details:
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 2nd Gen
+  :model: iPod
+  :model_name: shuffle 2nd Gen (Silver)
+  :model_number: A1204
+  :model_identifier: None
+  :order_number:
+  - MA564LL/A
+  :serial_number:
+  - 1ZH
+  - 1ZK
+  - 1ZM
+  - 1ZP
+  - 1ZR
+  :short_name: iPod shuffle 2nd Gen
+  :released_at: 2006-09-12
+  :discontinued_at: 2007-01-30
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 41.1x27.1x10.4
+    :weight: 0.55 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 79
+      :es: 79
+      :fr: 89
+      :de: 79
+      :ca: 89
+      :uk: 55
+      :au: 119
+      :jp: 9800
+      :it: 79
+      :nl: 79
+      :nz: 149
+    :details:
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 2nd Gen
+  :model: iPod
+  :model_name: shuffle 2nd Gen (Colors/Early 2007)
+  :model_number: A1204
+  :model_identifier: None
+  :order_number:
+  - MA953LL/A
+  - MA951LL/A
+  - MA949LL/A
+  - MA947LL/A
+  - MA564LL/A
+  :serial_number:
+  - VTE
+  - VTF
+  - WTE
+  - XQS
+  - XQ5
+  - XQU
+  - XQV
+  - XQX
+  - XQY
+  - XR0
+  - XRO
+  - XR1
+  - XR3
+  :short_name: iPod shuffle 2nd Gen (C)
+  :released_at: 2007-01-30
+  :discontinued_at: 2007-09-05
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 41.1x27.1x10.4
+    :weight: 0.55 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 79
+      :es: 79
+      :fr: 89
+      :de: 79
+      :ca: 75
+      :uk: 55
+      :au: 119
+      :jp: 9800
+      :it: 79
+      :nl: 79
+      :nz: 149
+    :details:
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 2nd Gen
+  :model: iPod
+  :model_name: shuffle 2nd Gen (Late 2007)
+  :model_number: A1204
+  :model_identifier: None
+  :order_number:
+  - MB233LL/A
+  - MB225LL/A
+  - MB227LL/A
+  - MB229LL/A
+  - MB518LL/A
+  - MB520LL/A
+  - MB522LL/A
+  - MB526LL/A
+  :serial_number:
+  - YX6
+  - YX7
+  - YX8
+  - YXB
+  - YX9
+  - YXA
+  :short_name: iPod shuffle 2nd/L 07
+  :released_at: 2007-09-05
+  :discontinued_at: 2008-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 41.1x27.1x10.4
+    :weight: 0.55 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 79
+      :es: 79
+      :fr: 89
+      :de: 75
+      :ca: 75
+      :uk: 49
+      :au: 119
+      :jp: 9800
+      :it: 79
+      :nl: 75
+      :nz: 149
+    :details:
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 2nd Gen
+  :model: iPod
+  :model_name: shuffle 2nd Gen (Late 2008)
+  :model_number: A1204
+  :model_identifier: None
+  :order_number:
+  - MB815LL/A
+  - MB813LL/A
+  - MB225LL/A
+  - MB683LL/A
+  - MB685LL/A
+  - MB681LL/A
+  - MB518LL/A
+  :serial_number:
+  - '436'
+  - '437'
+  - '438'
+  - '439'
+  - 3FK
+  - 3FL
+  - 3FM
+  - 3W6
+  - 8CQ
+  :short_name: iPod shuffle 2nd/L 08
+  :released_at: 2008-09-09
+  :discontinued_at: 2009-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 12 Hours
+    :dimensions: 41.1x27.1x10.4
+    :weight: 0.55 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 49
+      :es: 45
+      :fr: 49
+      :de: 45
+      :ca: 55
+      :uk: 32
+      :au: 65
+      :jp: 5800
+      :pt: 45
+      :it: 45
+      :nl: 45
+      :nz: 99
+    :details:
+      :hd_capacity: 1 GB
+  - :original_price:
+      :us: 69
+      :es: 65
+      :fr: 69
+      :de: 65
+      :ca: 65
+      :uk: 45
+      :au: 89
+      :jp: 7800
+      :pt: 65
+      :it: 65
+      :nl: 65
+      :nz: 149
+    :details:
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 3rd Gen
+  :model: iPod
+  :model_name: shuffle 3rd Gen
+  :model_number: A1271
+  :model_identifier: None
+  :order_number:
+  - MB867LL/A
+  - MC164LL/A
+  :serial_number:
+  - 4NZ
+  - ALD
+  - ALG
+  :short_name: iPod shuffle 3rd Gen
+  :released_at: 2009-03-11
+  :discontinued_at: 2009-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 10 Hours
+    :dimensions: 45.7x17.7x7.6
+    :weight: 0.38 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_3rdGen_UG.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 79
+      :es: 75
+      :fr: 79
+      :de: 75
+      :ca: 99
+      :uk: 59
+      :au: 129
+      :jp: 8800
+      :fi: 85
+      :pt: 75
+      :it: 75
+      :nl: 75
+      :at: 79
+      :nz: 155
+    :details:
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 3rd Gen
+  :model: iPod
+  :model_name: shuffle 3rd Gen (Colors)
+  :model_number: A1271
+  :model_identifier: None
+  :order_number:
+  - MC306LL/A
+  - MC323LL/A
+  - MC384LL/A
+  - MC381LL/A
+  - MC387LL/A
+  - MC164LL/A
+  - MB867LL/A
+  - MC328LL/A
+  - MC307LL/A
+  - MC331LL/A
+  :serial_number:
+  - '891'
+  - A1L
+  - AIL
+  - A1S
+  - AIS
+  - A15
+  - AI5
+  - A1U
+  - AIU
+  - A78
+  - A7B
+  - A7D
+  - ALB
+  - AL8
+  :short_name: iPod shuffle 3rd Gen (C)
+  :released_at: 2009-09-09
+  :discontinued_at: 2010-09-01
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 10 Hours
+    :dimensions: 45.7x17.7x7.6
+    :weight: 0.38 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_3rdGen_UG.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 59
+      :es: 55
+      :fr: 59
+      :de: 55
+      :ca: 69
+      :uk: 49
+      :au: 79
+      :jp: 5800
+      :fi: 65
+      :pt: 55
+      :it: 55
+      :nl: 55
+      :at: 55
+      :nz: 99
+    :details:
+      :hd_capacity: 2 GB
+  - :original_price:
+      :us: 79
+      :es: 75
+      :fr: 79
+      :de: 75
+      :ca: 89
+      :uk: 59
+      :au: 109
+      :jp: 7800
+      :fi: 85
+      :pt: 75
+      :it: 75
+      :nl: 75
+      :at: 75
+      :nz: 129
+    :details:
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 99
+      :es: 95
+      :fr: 99
+      :de: 95
+      :ca: 109
+      :uk: 75
+      :au: 139
+      :jp: 9800
+      :fi: 105
+      :pt: 95
+      :it: 95
+      :nl: 95
+      :at: 95
+      :nz: 169
+    :details:
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 4th Gen
+  :model: iPod
+  :model_name: shuffle 4th Gen (Wheel/VoiceOver)
+  :model_number: A1373
+  :model_identifier: None
+  :order_number:
+  - MC584LL/A
+  - MC751LL/A
+  - MC750LL/A
+  - MC749LL/A
+  - MC585LL/A
+  :serial_number:
+  - DCMJ
+  - DCMK
+  - DFDM
+  - DFDN
+  - DFDP
+  :short_name: iPod shuffle 4th Gen
+  :released_at: 2010-09-01
+  :discontinued_at: 2012-09-12
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 28.9x31.4x8.6
+    :weight: 0.44 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_4thgen_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 49
+      :es: 49
+      :fr: 59
+      :de: 49
+      :ca: 59
+      :uk: 39
+      :au: 69
+      :jp: 4800
+      :fi: 59
+      :pt: 49
+      :it: 55
+      :nl: 49
+      :at: 55
+      :nz: 89
+      :mx: 749
+    :details:
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 4th Gen
+  :model: iPod
+  :model_name: shuffle 4th Gen (Late 2012)
+  :model_number: A1373
+  :model_identifier: None
+  :order_number:
+  - MD779LL/A
+  - MD778LL/A
+  - ME949LL/A
+  - MD777LL/A
+  - MD773LL/A
+  - MD774LL/A
+  - MD776LL/A
+  - MD775LL/A
+  - MD780LL/A
+  :serial_number:
+  - F4T0
+  - F4TO
+  - F4RT
+  - F4RV
+  - F4RW
+  - F4RY
+  - F4T1
+  - F4TI
+  - F4VF
+  - F4VG
+  - FJDH
+  :short_name: iPod shuffle 2012
+  :released_at: 2012-09-12
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 28.9x31.4x8.6
+    :weight: 0.44 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_4thgen_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+  :model_types_attributes:
+  - :original_price:
+      :us: 49
+      :es: 49
+      :fr: 59
+      :de: 49
+      :ca: 49
+      :uk: 40
+      :au: 55
+      :jp: 4200
+      :fi: 65
+      :pt: 49
+      :it: 55
+      :nl: 49
+      :at: 55
+      :nz: 69
+      :mx: 799
+    :details:
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: iPod touch
+  :model: iPod
+  :model_name: touch (Original/1st Gen)
+  :model_number: A1213
+  :model_identifier: iPod1,1
+  :order_number:
+  - MA623LL/A
+  - MA627LL/A
+  - MA623LL/B
+  - MA627LL/B
+  - MB376LL/A
+  :serial_number:
+  - W4N
+  - 14N
+  - 14P
+  - W4T
+  - 0JW
+  - OJW
+  - '226'
+  :short_name: iPod touch Orig/1st
+  :released_at: 2007-09-05
+  :discontinued_at: 2008-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 22 Hours
+    :dimensions: 109.2x60.9x7.8
+    :weight: 120
+    :wifi: 802.11b/g
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iPhone OS 1.0
+    :iphone_max_os: iPhone OS 3.1.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 289
+      :fr: 309
+      :de: 299
+      :ca: 329
+      :uk: 199
+      :au: 419
+      :jp: 36800
+      :fi: 309
+      :pt: 289
+      :it: 299
+      :nl: 299
+      :nz: 479
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 399
+      :es: 389
+      :fr: 409
+      :de: 399
+      :ca: 449
+      :uk: 269
+      :au: 549
+      :jp: 48800
+      :fi: 409
+      :pt: 389
+      :it: 399
+      :nl: 399
+      :nz: 649
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 449
+      :fr: 469
+      :de: 459
+      :ca: 519
+      :uk: 329
+      :au: 629
+      :jp: 59800
+      :pt: 449
+      :it: 459
+      :nl: 459
+      :nz: 749
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPod touch 2nd Gen
+  :model: iPod
+  :model_name: touch (2nd Gen)
+  :model_number: A1288
+  :model_identifier: iPod2,1
+  :order_number:
+  - MB528LL/A
+  - MB531LL/A
+  - MB533LL/A
+  :serial_number:
+  - '201'
+  - '203'
+  - '208'
+  :short_name: iPod touch 2nd Gen
+  :released_at: 2008-09-09
+  :discontinued_at: 2009-09-09
+  :details:
+    :processor_type: Samsung ARM
+    :processor_count: '1'
+    :processor_speed: 533 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 36 Hours
+    :dimensions: 109.2x60.9x8.3
+    :weight: 115
+    :wifi: 802.11b/g
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iPhone OS 2.1 (5F138)
+    :iphone_max_os: iOS 4.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 229
+      :es: 219
+      :fr: 229
+      :de: 219
+      :ca: 259
+      :uk: 169
+      :au: 329
+      :jp: 27800
+      :fi: 229
+      :it: 219
+      :nl: 219
+      :at: 229
+      :nz: 389
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 279
+      :fr: 289
+      :de: 279
+      :ca: 329
+      :uk: 219
+      :au: 419
+      :jp: 35800
+      :fi: 299
+      :it: 279
+      :nl: 279
+      :at: 289
+      :nz: 498
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :es: 369
+      :fr: 389
+      :de: 379
+      :ca: 429
+      :uk: 289
+      :au: 549
+      :jp: 47800
+      :fi: 399
+      :it: 379
+      :nl: 379
+      :at: 389
+      :nz: 659
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPod touch 2nd Gen
+  :model: iPod
+  :model_name: touch (2nd Gen/2009/8 GB)
+  :model_number: A1288
+  :model_identifier: iPod2,1
+  :order_number:
+  - MC086LL/A
+  :serial_number:
+  - 75J
+  - 7SJ
+  - 6KF
+  :short_name: iPod touch 2nd Gen/09
+  :released_at: 2009-09-09
+  :discontinued_at: 2010-09-01
+  :details:
+    :processor_type: Samsung ARM
+    :processor_count: '1'
+    :processor_speed: 533 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 109.2x60.9x8.3
+    :weight: 115
+    :wifi: 802.11b/g
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iPhone OS 3.1.1 (7C145)
+    :iphone_max_os: iOS 4.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 179
+      :fr: 199
+      :de: 189
+      :ca: 219
+      :uk: 149
+      :au: 268
+      :jp: 19800
+      :fi: 199
+      :pt: 189
+      :it: 189
+      :nl: 179
+      :at: 189
+      :nz: 349
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPod touch 3rd Gen
+  :model: iPod
+  :model_name: touch (3rd Gen/32 & 64 GB)
+  :model_number: A1318
+  :model_identifier: iPod3,1
+  :order_number:
+  - MC008LL/A
+  - MC011LL/A
+  :serial_number:
+  - 6K2
+  - 6KZ
+  - 6K4
+  :short_name: iPod touch 3rd Gen
+  :released_at: 2009-09-09
+  :discontinued_at: 2010-09-01
+  :details:
+    :processor_type: Samsung ARM
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 109.2x60.9x8.3
+    :weight: 115
+    :wifi: 802.11b/g
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: iPhone OS 3.1.1 (7C145)
+    :iphone_max_os: iOS 5.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 269
+      :fr: 289
+      :de: 279
+      :ca: 329
+      :uk: 229
+      :au: 399
+      :jp: 29800
+      :fi: 299
+      :pt: 279
+      :it: 279
+      :nl: 279
+      :at: 289
+      :nz: 519
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :es: 359
+      :fr: 379
+      :de: 369
+      :ca: 429
+      :uk: 299
+      :au: 549
+      :jp: 39800
+      :fi: 399
+      :pt: 369
+      :it: 369
+      :nl: 369
+      :at: 379
+      :nz: 699
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPod touch 4th Gen
+  :model: iPod
+  :model_name: touch (4th Gen/FaceTime)
+  :model_number: A1367
+  :model_identifier: iPod4,1
+  :order_number:
+  - MC540LL/A
+  - MC544LL/A
+  - MC547LL/A
+  :serial_number:
+  - DCPC
+  - DCP7
+  - DCP9
+  :short_name: iPod touch 4th Gen
+  :released_at: 2010-09-01
+  :discontinued_at: 2011-10-04
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 111.7x58.4x7.1
+    :weight: 101
+    :wifi: 802.11b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_iOS4.1_User_Guide.pdf
+    :geekbench_3_32_sc: 209
+    :geekbench_3_32_mc: 209
+    :cell_network: None
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 4.1
+    :iphone_max_os: iOS 6.1.6
+  :model_types_attributes:
+  - :original_price:
+      :us: 229
+      :es: 229
+      :fr: 239
+      :de: 229
+      :ca: 249
+      :uk: 189
+      :au: 289
+      :jp: 20900
+      :fi: 249
+      :pt: 229
+      :it: 239
+      :nl: 229
+      :at: 239
+      :nz: 379
+      :mx: 3499
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 299
+      :fr: 309
+      :de: 299
+      :ca: 319
+      :uk: 249
+      :au: 378
+      :jp: 27800
+      :fi: 329
+      :pt: 299
+      :it: 309
+      :nl: 299
+      :at: 309
+      :nz: 489
+      :mx: 4579
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :es: 399
+      :fr: 419
+      :de: 399
+      :ca: 429
+      :uk: 329
+      :au: 499
+      :jp: 36800
+      :fi: 429
+      :pt: 399
+      :it: 409
+      :nl: 399
+      :at: 409
+      :nz: 649
+      :mx: 5999
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPod touch 4th Gen
+  :model: iPod
+  :model_name: touch (4th Gen, 2011)
+  :model_number: A1367
+  :model_identifier: iPod4,1
+  :order_number:
+  - MC540LL/A
+  - MC544LL/A
+  - MC547LL/A
+  - MD057LL/A
+  - MD058LL/A
+  - MD059LL/A
+  :serial_number:
+  - DNQW
+  - DNQY
+  - DNR0
+  - DNRO
+  - DT75
+  - DT7S
+  - DT77
+  - DT78
+  :short_name: iPod touch 4th/2011
+  :released_at: 2011-10-04
+  :discontinued_at: 2012-09-12
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 111.7x58.9x7.1
+    :weight: 101
+    :wifi: 802.11b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_touch_user_guide.pdf
+    :geekbench_3_32_sc: 209
+    :geekbench_3_32_mc: 209
+    :cell_network: None
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 5.0
+    :iphone_max_os: iOS 6.1.6
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 189
+      :fr: 199
+      :de: 189
+      :ca: 199
+      :uk: 169
+      :au: 219
+      :jp: 16800
+      :fi: 209
+      :pt: 199
+      :it: 199
+      :nl: 189
+      :at: 199
+      :nz: 289
+      :mx: 3199
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 289
+      :fr: 299
+      :de: 289
+      :ca: 299
+      :uk: 249
+      :au: 329
+      :jp: 24800
+      :fi: 309
+      :pt: 299
+      :it: 299
+      :nl: 289
+      :at: 299
+      :nz: 429
+      :mx: 4799
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :es: 389
+      :fr: 399
+      :de: 389
+      :ca: 399
+      :uk: 329
+      :au: 439
+      :jp: 33800
+      :fi: 409
+      :pt: 399
+      :it: 399
+      :nl: 389
+      :at: 399
+      :nz: 579
+      :mx: 6399
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPod touch 4th Gen
+  :model: iPod
+  :model_name: touch (4th Gen, 2012)
+  :model_number: A1367
+  :model_identifier: iPod4,1
+  :order_number:
+  - ME178LL/A
+  - MC544LL/A
+  - ME179LL/A
+  - MD058LL/A
+  :serial_number:
+  - F96T
+  - F96V
+  :short_name: iPod touch 4th/2012
+  :released_at: 2012-09-12
+  :discontinued_at: 2013-05-30
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 111.7x58.9x7.1
+    :weight: 101
+    :wifi: 802.11b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_touch_user_guide.pdf
+    :geekbench_3_32_sc: 209
+    :geekbench_3_32_mc: 209
+    :cell_network: None
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 5.1
+    :iphone_max_os: iOS 6.1.6
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 209
+      :fr: 219
+      :de: 209
+      :ca: 199
+      :uk: 169
+      :au: 219
+      :jp: 16800
+      :fi: 229
+      :pt: 219
+      :it: 219
+      :nl: 209
+      :at: 219
+      :nz: 299
+      :mx: 3199
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 249
+      :es: 269
+      :fr: 269
+      :de: 259
+      :ca: 249
+      :uk: 199
+      :au: 279
+      :jp: 20900
+      :fi: 279
+      :pt: 269
+      :it: 269
+      :nl: 259
+      :at: 269
+      :nz: 369
+      :mx: 3999
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPod touch 5th Gen
+  :model: iPod
+  :model_name: touch (5th Gen)
+  :model_number: A1421
+  :model_identifier: iPod5,1
+  :order_number:
+  - MD723LL/A
+  - ME978LL/A
+  - MD720LL/A
+  - MC903LL/A
+  - MD714LL/A
+  - MD717LL/A
+  - MD749LL/A
+  - MD724LL/A
+  - ME979LL/A
+  - MD721LL/A
+  - MC904LL/A
+  - MD715LL/A
+  - MD718LL/A
+  - MD705LL/A
+  :serial_number:
+  - F4JR
+  - F4JT
+  - F4JW
+  - F4JY
+  - F4K1
+  - F4KI
+  - F4K2
+  - F4K4
+  - F4K5
+  - F4KS
+  - F4Y5
+  - F4YS
+  - F4Y6
+  - DJFD
+  - DJFF
+  :short_name: iPod touch 5th Gen
+  :released_at: 2012-09-12
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.4x58.6x6.0
+    :weight: 88
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_touch_user_guide.pdf
+    :geekbench_3_32_sc: 215
+    :geekbench_3_32_mc: 410
+    :cell_network: None
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 319
+      :fr: 329
+      :de: 319
+      :ca: 299
+      :uk: 249
+      :au: 329
+      :jp: 24800
+      :fi: 339
+      :pt: 329
+      :it: 329
+      :nl: 319
+      :at: 329
+      :nz: 459
+      :mx: 4799
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :es: 429
+      :fr: 439
+      :de: 419
+      :ca: 399
+      :uk: 329
+      :au: 439
+      :jp: 33800
+      :fi: 449
+      :pt: 429
+      :it: 439
+      :nl: 419
+      :at: 429
+      :nz: 599
+      :mx: 6399
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPod touch 5th Gen
+  :model: iPod
+  :model_name: touch (5th Gen, No iSight, 2013)
+  :model_number: A1509
+  :model_identifier: iPod5,1
+  :order_number:
+  - ME643LL/A
+  :serial_number:
+  - FFCJ
+  :short_name: iPod touch 5th No Cam
+  :released_at: 2013-05-30
+  :discontinued_at: 2014-06-26
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.4x58.6x6.0
+    :weight: 86
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_touch_user_guide.pdf
+    :geekbench_3_32_sc: 215
+    :geekbench_3_32_mc: 410
+    :cell_network: None
+    :camera: 1.2 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 229
+      :es: 249
+      :fr: 249
+      :de: 239
+      :ca: 229
+      :uk: 199
+      :au: 249
+      :jp: 22800
+      :fi: 259
+      :pt: 249
+      :it: 249
+      :nl: 239
+      :at: 249
+      :nz: 349
+      :mx: 3499
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod touch 5th Gen
+  :model: iPod
+  :model_name: touch (5th Gen, 16 GB, 2014)
+  :model_number: A1421
+  :model_identifier: iPod5,1
+  :order_number:
+  - MGG82LL/A
+  - MGG52LL/A
+  - MGFY2LL/A
+  - MGG12LL/A
+  - MGG32LL/A
+  - MGG72LL/A
+  :serial_number:
+  - G22Y
+  :short_name: iPod touch 5th/16 GB
+  :released_at: 2014-06-26
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.4x58.6x6.0
+    :weight: 88
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipod_touch_user_guide.pdf
+    :geekbench_3_32_sc: 215
+    :geekbench_3_32_mc: 410
+    :cell_network: None
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.1.2
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 199
+      :fr: 209
+      :de: 199
+      :ca: 219
+      :uk: 159
+      :au: 249
+      :jp: 20800
+      :fi: 219
+      :pt: 209
+      :it: 209
+      :nl: 199
+      :at: 209
+      :nz: 279
+      :mx: 3199
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB

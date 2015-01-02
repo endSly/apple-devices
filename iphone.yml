@@ -1,0 +1,2726 @@
+---
+- :vendor: Apple
+  :subfamily: iPhone
+  :model: iPhone
+  :model_name: "(Original/1st Gen/EDGE)"
+  :model_number: A1203
+  :model_identifier: iPhone1,1
+  :order_number:
+  - MA712LL/A
+  - MA501LL/A
+  - MB384LL/A
+  :serial_number:
+  - WH8
+  - WHB
+  - VR0
+  - VRO
+  - 0KH
+  - OKH
+  :short_name: iPhone (Orig/1st Gen)
+  :released_at: 2007-01-09
+  :discontinued_at: 2008-06-09
+  :details:
+    :processor_type: Samsung ARM 11
+    :processor_count: '1'
+    :processor_speed: 412 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi*)
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 114.3x60.9x11.6
+    :weight: 135
+    :wifi: 802.11b/g
+    :bluetooth: '2.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
+    :cell_network: Quad-Band
+    :camera: 2.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iPhone OS 1.0 (1A543a)
+    :iphone_max_os: iPhone OS 3.1.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :de: 399
+      :uk: 269
+      :at: 399
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 599
+      :de: 499
+      :at: 499
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 3G
+  :model: iPhone
+  :model_name: 3G
+  :model_number: A1241
+  :model_identifier: iPhone1,2
+  :order_number:
+  - MB046LL/A
+  - MB048LL
+  - MB499LL
+  :serial_number:
+  - 1R4
+  - IR4
+  - Y7K
+  - Y7H
+  :short_name: iPhone 3G
+  :released_at: 2008-06-09
+  :discontinued_at: 2010-06-07
+  :details:
+    :processor_type: Samsung ARM 11
+    :processor_count: '1'
+    :processor_speed: 412 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 114.3x60.9x12.1
+    :weight: 133
+    :wifi: 802.11b/g
+    :bluetooth: 2.0+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
+    :cell_network: 2G/3G
+    :camera: 2.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: OS X 2.0 (5A345)
+    :iphone_max_os: iOS 4.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 299
+      :fr: 149
+      :de: 169
+      :ca: 199
+      :uk: 99
+      :au: 279
+      :jp: 23040
+      :fi: 159
+      :pt: 299
+      :it: 199
+      :nl: 80
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 359
+      :fr: 199
+      :de: 249
+      :ca: 299
+      :uk: 159
+      :au: 399
+      :jp: 34560
+      :fi: 245
+      :pt: 389
+      :it: 269
+      :nl: 160
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 3GS
+  :model: iPhone
+  :model_name: 3GS
+  :model_number: A1303
+  :model_identifier: iPhone2,1
+  :order_number:
+  - MB715LL/A
+  - MB716LL/A
+  - MB717LL/A
+  - MB718LL/A
+  - MC555LL/A
+  - MC131J/A
+  - MC132J/A
+  - MC133J/A
+  - MC134J/A
+  :serial_number:
+  - 3NS
+  - 3N5
+  - 3NQ
+  - 3NR
+  - 3NP
+  - EDG
+  - E0G
+  :short_name: iPhone 3GS
+  :released_at: 2009-06-08
+  :discontinued_at: 2012-09-12
+  :details:
+    :processor_type: Samsung ARM Cortex A8
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 114.3x60.9x12.1
+    :weight: 135
+    :wifi: 802.11b/g
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
+    :geekbench_3_32_sc: 150
+    :geekbench_3_32_mc: 150
+    :cell_network: 2G/3G
+    :camera: 3.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iPhone OS 3.0
+    :iphone_max_os: iOS 6.1.6
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :ca: 199
+      :uk: 185
+      :jp: 11520
+      :nz: 399
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :ca: 299
+      :uk: 275
+      :jp: 23040
+      :nz: 599
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 3G
+  :model: iPhone
+  :model_name: 3G (China/No Wi-Fi)
+  :model_number: A1324
+  :model_identifier: iPhone1,2
+  :serial_number:
+  - 8L0
+  - 8LO
+  :short_name: iPhone 3G (China)
+  :released_at: 2009-10-30
+  :discontinued_at: 2010-08-09
+  :details:
+    :processor_type: Samsung ARM 11
+    :processor_count: '1'
+    :processor_speed: 412 MHz
+    :max_memory: 128 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 24 Hours
+    :dimensions: 114.3x60.9x12.1
+    :weight: 133
+    :wifi: 3G
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
+    :cell_network: 2G/3G
+    :camera: 2.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iPhone OS 3.0
+    :iphone_max_os: iOS 4.2
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 128 MB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 3GS
+  :model: iPhone
+  :model_name: 3GS (China/No Wi-Fi)
+  :model_number: A1325
+  :model_identifier: iPhone2,1
+  :serial_number:
+  - 8M7
+  - 8M8
+  - 8MB
+  - 8M9
+  :short_name: iPhone 3GS (China)
+  :released_at: 2009-10-30
+  :discontinued_at: 2010-08-09
+  :details:
+    :processor_type: Samsung ARM Cortex A8
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :max_memory: 256 MB
+    :display: 3.5" Color
+    :display_resolution: 320x480 (163 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 114.3x60.9x12.1
+    :weight: 135
+    :wifi: 3G
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_User_Guide.pdf
+    :geekbench_3_32_sc: 150
+    :geekbench_3_32_mc: 150
+    :cell_network: 2G/3G
+    :camera: 3.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iPhone OS 3.0
+    :iphone_max_os: iOS 6.1.6
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 4
+  :model: iPhone
+  :model_name: 4 (GSM)
+  :model_number: A1332
+  :model_identifier: iPhone3,1
+  :order_number:
+  - MC318LL/A
+  - MC319LL/A
+  - MC536LL/A
+  - MC537LL/A
+  - MC603LL/A
+  - MC605LL/A
+  - MC604LL/A
+  - MC606LL/A
+  - MD126LL/A
+  - MD196LL/A
+  - MD128LL/A
+  - MD198LL/A
+  :serial_number:
+  - A4S
+  - A45
+  - A4T
+  - DZZ
+  - E00
+  - EOO
+  - DP0N
+  - DPON
+  - DPMW
+  :short_name: iPhone 4 (GSM)
+  :released_at: 2010-06-07
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 114.3x58.6x9.3
+    :weight: 137
+    :wifi: 802.11b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_iOS4_User_Guide.pdf
+    :geekbench_3_32_sc: 206
+    :geekbench_3_32_mc: 206
+    :cell_network: Pentaband
+    :camera: 5.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iOS 4.0 (8A293)
+    :iphone_max_os: iOS 7.1.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 599
+      :fr: 629
+      :ca: 659
+      :uk: 499
+      :au: 859
+      :jp: 46080
+      :it: 659
+      :nz: 1123
+      :mx: 9799
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 699
+      :fr: 739
+      :ca: 779
+      :uk: 599
+      :au: 999
+      :jp: 57600
+      :it: 779
+      :nz: 1328
+      :mx: 11499
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 4 (CDMA)
+  :model: iPhone
+  :model_name: 4 (CDMA/Verizon/Sprint)
+  :model_number: A1349
+  :model_identifier: iPhone3,3
+  :order_number:
+  - MC676LL/A
+  - MC678LL/A
+  - MC677LL/A
+  - MC679LL/A
+  - MD146LL/A
+  - MD200LL/A
+  :serial_number:
+  - DDP7
+  - DDP8
+  - DDP9
+  - DDPC
+  - DPNG
+  - DP0V
+  - DPOV
+  :short_name: iPhone 4 (CDMA)
+  :released_at: 2011-01-11
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 114.3x58.6x9.3
+    :weight: 137
+    :wifi: 802.11b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPhone_iOS4_User_Guide.pdf
+    :geekbench_3_32_sc: 207
+    :geekbench_3_32_mc: 207
+    :cell_network: CDMA
+    :camera: 5.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iOS 4.2.6
+    :iphone_max_os: iOS 7.1.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :fr: 629
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :fr: 739
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 4S
+  :model: iPhone
+  :model_name: 4S (4s*)
+  :model_number: A1387
+  :model_identifier: iPhone4,1
+  :order_number:
+  - MC918LL/A
+  - MC919LL/A
+  - MD269LL/A
+  - MC920LL/A
+  - MC921LL/A
+  - MD271LL/A
+  - MD276LL/A
+  - MD278LL/A
+  - MD280LL/A
+  - MD277LL/A
+  - MD279LL/A
+  - MD281LL/A
+  - MD377LL/A
+  - MD379LL/A
+  - MD381LL/A
+  - MD378LL/A
+  - MD380LL/A
+  - MD382LL/A
+  - MD234LL/A
+  - MD241LL/A
+  - MD257LL/A
+  - MD237LL/A
+  - MD244LL/A
+  - MD260LL/A
+  - MF257LL/A
+  - MF258LL/A
+  - MF269LL/A
+  - MF270LL/A
+  - MF259LL/A
+  - MF260LL/A
+  - lMF261LL/A
+  - MF262LL/A
+  - MF263LL/A
+  - MF264LL/A
+  - MD259J/A
+  - MD262J/A
+  - MD243J/A
+  - MD246J/A
+  - MD236J/A
+  - MD240J/A
+  - MD258J/A
+  - MD261J/A
+  - MD242J/A
+  - MD245J/A
+  :serial_number:
+  - DTC0
+  - DTCO
+  - DTC1
+  - DTCI
+  - DTD0
+  - DTDO
+  - DTD1
+  - DTDI
+  - DTD2
+  - DTD3
+  - DTD5
+  - DTDS
+  - DTD6
+  - DTD7
+  - DTD8
+  - DTDB
+  - DT9V
+  - DT9Y
+  - DTDC
+  - DTDD
+  - DTDF
+  - DTDG
+  - DTDK
+  - DTDL
+  - DTDM
+  - DTDN
+  - DTDR
+  - DTDT
+  - DTDV
+  - DTDW
+  - DTF9
+  - DTFC
+  - DTFD
+  - DTFF
+  - DTFG
+  - DTFH
+  - FML3
+  - FML4
+  - FML5
+  - FMLS
+  - FML6
+  - FML7
+  - FML8
+  - FMLB
+  - FMLC
+  - FMLD
+  - FMLF
+  :short_name: iPhone 4S (4s*)
+  :released_at: 2011-10-04
+  :discontinued_at: 2014-09-09
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 800 MHz
+    :max_memory: 512 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 114.3x58.6x9.3
+    :weight: 140
+    :wifi: 802.11b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_4s_finger_tips_guide.pdf
+    :geekbench_3_32_sc: 215
+    :geekbench_3_32_mc: 406
+    :cell_network: GSM/CDMA
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iOS 5.0
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 599
+      :fr: 629
+      :de: 629
+      :ca: 649
+      :uk: 499
+      :au: 799
+      :jp: 46080
+      :fi: 629
+      :pt: 629
+      :it: 659
+      :nl: 599
+      :at: 629
+      :nz: 1049
+      :mx: 11499
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 299
+      :es: 699
+      :fr: 739
+      :de: 739
+      :ca: 749
+      :uk: 599
+      :au: 899
+      :jp: 57600
+      :fi: 739
+      :pt: 739
+      :it: 779
+      :nl: 699
+      :at: 739
+      :nz: 1199
+      :mx: 13199
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :es: 799
+      :fr: 849
+      :de: 849
+      :ca: 849
+      :uk: 699
+      :au: 999
+      :jp: 67200
+      :fi: 849
+      :pt: 849
+      :it: 899
+      :nl: 799
+      :at: 849
+      :nz: 1349
+      :mx: 14999
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPhone 4S
+  :model: iPhone
+  :model_name: 4S (GSM China/WAPI)
+  :model_number: A1431
+  :model_identifier: iPhone4,1
+  :order_number:
+  - MD235CH/A
+  - MD239CH/A
+  - MD236CH/A
+  - MD240CH/A
+  - MF265CH/A
+  - MF266CH/A
+  - MF267CH/A
+  - MF268CH/A
+  :short_name: iPhone 4S (GSM China)
+  :released_at: 2012-01-13
+  :discontinued_at: 2014-09-09
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 800 MHz
+    :max_memory: 512 MB
+    :display: 3.5" Color
+    :display_resolution: 960x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 114.3x58.6x9.3
+    :weight: 140
+    :wifi: 802.11b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_4s_finger_tips_guide.pdf
+    :geekbench_3_32_sc: 215
+    :geekbench_3_32_mc: 406
+    :cell_network: GSM/CDMA
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 300 Hours
+    :iphone_standard_os: iOS 5.1 (9B179)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 5
+  :model: iPhone
+  :model_name: 5 (GSM/LTE 4, 17/North America)
+  :model_number: A1428
+  :model_identifier: iPhone5,1
+  :order_number:
+  - MD634LL/A
+  - MD636LL/A
+  - MD644LL/A
+  - MD635LL/A
+  - MD637LL/A
+  - MD645LL/A
+  - MD293LL/A
+  - MD295LL/A
+  - MD642LL/A
+  - MD294LL/A
+  - MD296LL/A
+  - MD643LL/A
+  :serial_number:
+  - DTTN
+  - DTTP
+  - DTTQ
+  - DTTR
+  - F38W
+  - F3BW
+  - F38Y
+  - F3BY
+  :short_name: iPhone 5 (N. America)
+  :released_at: 2012-09-12
+  :discontinued_at: 2013-04-12
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 712
+    :geekbench_3_32_mc: 1279
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 225 Hours
+    :iphone_standard_os: iOS 6.0 (10A405)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :ca: 699
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :ca: 799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :ca: 899
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5
+  :model: iPhone
+  :model_name: 5 (CDMA/LTE, Sprint/Verizon/KDDI)
+  :model_number: A1429
+  :model_identifier: iPhone5,2
+  :order_number:
+  - MD656LL/A
+  - MD660LL/A
+  - MD667LL/A
+  - MD657LL/A
+  - MD661LL/A
+  - MD668LL/A
+  - MD654LL/A
+  - MD658LL/A
+  - MD664LL/A
+  - MD655LL/A
+  - MD659LL/A
+  - MD665LL/A
+  - MD097LL/A
+  - MD105LL/A
+  - MD250LL/A
+  - MD489LL/A
+  - MD574LL/A
+  - MD355LL/A
+  - MD566LL/A
+  - MD591LL/A
+  :serial_number:
+  - F8GH
+  - F8GJ
+  - F8G7
+  - F8GK
+  - F8GL
+  - F8GM
+  - F8GN
+  - F8H2
+  - F8H4
+  - F8H5
+  - F8H6
+  - F8H7
+  - F8H8
+  :short_name: iPhone 5 (CDMA)
+  :released_at: 2012-09-12
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 712
+    :geekbench_3_32_mc: 1279
+    :cell_network: CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 225 Hours
+    :iphone_standard_os: iOS 6.0 (10A405)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :jp: 51360
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :jp: 61680
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :jp: 72000
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5
+  :model: iPhone
+  :model_name: 5 (GSM/LTE 1, 3, 5/International)
+  :model_number: A1429
+  :model_identifier: iPhone5,1
+  :order_number:
+  - MD297B/A
+  - MD299B/A
+  - MD662B/A
+  - MD298B/A
+  - MD300B/A
+  - MD663B/A
+  :serial_number:
+  - DTWD
+  - DTWF
+  - DTWG
+  - DTWH
+  - D39D
+  - F39C
+  - F39D
+  :short_name: iPhone 5 (International)
+  :released_at: 2012-09-12
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 712
+    :geekbench_3_32_mc: 1279
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 225 Hours
+    :iphone_standard_os: iOS 6.0 (10A405)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :es: 669
+      :fr: 679
+      :de: 679
+      :uk: 529
+      :au: 799
+      :jp: 51360
+      :fi: 699
+      :pt: 699
+      :it: 729
+      :nl: 659
+      :at: 679
+      :nz: 1049
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 769
+      :fr: 789
+      :de: 789
+      :uk: 599
+      :au: 899
+      :jp: 61680
+      :fi: 799
+      :pt: 799
+      :it: 839
+      :nl: 759
+      :at: 789
+      :nz: 1199
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 869
+      :fr: 899
+      :de: 899
+      :uk: 699
+      :au: 999
+      :jp: 72000
+      :fi: 919
+      :pt: 919
+      :it: 949
+      :nl: 859
+      :at: 899
+      :nz: 1349
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5
+  :model: iPhone
+  :model_name: 5 (CDMA China/UIM/WAPI)
+  :model_number: A1442
+  :model_identifier: iPhone5,2
+  :order_number:
+  - ME039CH/A
+  - ME041CH/A
+  - ME043CH/A
+  - ME040CH/A
+  - ME042CH/A
+  - ME044CH/A
+  :short_name: iPhone 5 (CDMA China)
+  :released_at: 2012-12-14
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 712
+    :geekbench_3_32_mc: 1279
+    :cell_network: CDMA
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 225 Hours
+    :iphone_standard_os: iOS 6.0 (10A405)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5
+  :model: iPhone
+  :model_name: 5 (GSM/LTE/AWS/North America)
+  :model_number: A1428
+  :model_identifier: iPhone5,1
+  :order_number:
+  - ME486LL/A
+  - ME488LL/A
+  - ME490LL/A
+  - ME487LL/A
+  - ME489LL/A
+  - ME491LL/A
+  - MD634LL/A
+  - MD636LL/A
+  - MD644LL/A
+  - MD635LL/A
+  - MD637LL/A
+  - MD645LL/A
+  - MD239LL/A
+  - MD295LL/A
+  - MD642LL/A
+  - MD294LL/A
+  - MD296LL/A
+  - MD643LL/A
+  - NE488LL/A
+  - NE490LL/A
+  :serial_number:
+  - FH19
+  - FHI9
+  - FH1C
+  - FHIC
+  - FH1D
+  - FHID
+  - FH1F
+  - FHIF
+  - FH1G
+  - FHIG
+  - FH1H
+  - FHIH
+  :short_name: iPhone 5 (2013/AWS)
+  :released_at: 2013-03-26
+  :discontinued_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 712
+    :geekbench_3_32_mc: 1279
+    :cell_network: GSM/LTE/AWS
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 225 Hours
+    :iphone_standard_os: iOS 6.1.2 (10B146)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :ca: 699
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 199
+      :ca: 799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 299
+      :ca: 899
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (GSM/North America/A1532)
+  :model_number: A1532
+  :model_identifier: iPhone5,3
+  :order_number:
+  - ME505LL/A
+  - MF134LL/A
+  - ME509LL/A
+  - MF138LL/A
+  - ME506LL/A
+  - MF135LL/A
+  - ME507LL/A
+  - MF136LL/A
+  - ME508LL/A
+  - MF137LL/A
+  - ME529LL/A
+  - MF144LL/A
+  - ME533LL/A
+  - MF148LL/A
+  - ME530LL/A
+  - MF145LL/A
+  - ME531LL/A
+  - MF146LL/A
+  - ME532LL/A
+  - MF147LL/A
+  - ME493LL/A
+  - MF129LL/A
+  - ME497LL/A
+  - MF133LL/A
+  - ME494LL/A
+  - MF130LL/A
+  - ME495LL/A
+  - MF131LL/A
+  - ME496LL/A
+  - MF132LL/A
+  - MGF02LL/A
+  - MGF42LL/A
+  - MGF12LL/A
+  - MGF22LL/A
+  - MGF32LL/A
+  - MGF52LL/A
+  - MGF92LL/A
+  - MGF62LL/A
+  - MGF72LL/A
+  - MGF82LL/A
+  - MG2E2LL/A
+  - MG2J2LL/A
+  - MG2F2LL/A
+  - MG2G2LL/A
+  - MG2H2LL/A
+  :serial_number:
+  - FFHG
+  - FFHJ
+  - FFHL
+  - FFHN
+  - FFHQ
+  - G07J
+  - GO7J
+  - G07L
+  - GO7L
+  - G07M
+  - GO7M
+  - G07N
+  - GO7N
+  :short_name: iPhone 5c N. America
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :ca: 599
+      :mx: 8999
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 199
+      :ca: 719
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (CDMA/Verizon/A1532)
+  :model_number: A1532
+  :model_identifier: iPhone5,3
+  :order_number:
+  - ME553LL/A
+  - MF154LL/A
+  - ME557LL/A
+  - MF158LL/A
+  - ME554LL/A
+  - MF155LL/A
+  - ME555LL/A
+  - MF156LL/A
+  - ME556LL/A
+  - MF157LL/A
+  - MGFG2LL/A
+  - MGFL2LL/A
+  - MGFH2LL/A
+  - MGFJ2LL/A
+  - MGFK2LL/A
+  :serial_number:
+  - FNDD
+  - FNDF
+  - FNDG
+  - FNDH
+  - FNDJ
+  - FNDK
+  - FNDL
+  - FNDM
+  - FNDN
+  - FNDP
+  :short_name: iPhone 5c CDMA/VZ
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (CDMA/China Telecom/A1532)
+  :model_number: A1532
+  :model_identifier: iPhone5,3
+  :order_number:
+  - MF364CH/A
+  - MF369CH/A
+  - MF368CH/A
+  - MF373CH/A
+  - MF365CH/A
+  - MF307CH/A
+  - MF366CH/A
+  - MF371CH/A
+  - MF367CH/A
+  - MF372CH/A
+  - MG0Q2CH/A
+  - MG0V2CH/A
+  - MG0R2CH/A
+  - MG0T2CH/A
+  - MG0U2CH/A
+  :short_name: iPhone 5c CDMA/China
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/CDMA
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (CDMA/US/Japan/A1456)
+  :model_number: A1456
+  :model_identifier: iPhone5,3
+  :order_number:
+  - ME565LL/A
+  - MF159LL/A
+  - ME569LL/A
+  - MF163LL/A
+  - ME566LL/A
+  - MF160LL/A
+  - ME567LL/A
+  - MF161LL/A
+  - ME568LL/A
+  - MF162LL/A
+  - MGFM2LL/A
+  - MGFR2LL/A
+  - MGFR2LL/A
+  - MGFP2LL/A
+  - MGFQ2LL/A
+  :serial_number:
+  - FFHM
+  :short_name: iPhone 5c CDMA/A1456
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :jp: 60800
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 199
+      :jp: 71800
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (UK/Europe/Middle East/A1507)
+  :model_number: A1507
+  :model_identifier: iPhone5,4
+  :order_number:
+  - ME499B/A
+  - MF092B/A
+  - ME503B/A
+  - MF096B/A
+  - ME500B/A
+  - MF093B/A
+  - ME501B/A
+  - MF094B/A
+  - ME502B/A
+  - MF095B/A
+  - MG8X2B/A
+  - MG922B/A
+  - MG8Y2B/A
+  - MG902B/A
+  - MG912B/A
+  :serial_number:
+  - FFT5
+  - FFTS
+  - FFT6
+  - FFT7
+  - FFTM
+  - FFTN
+  :short_name: iPhone 5c UK/Europe
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :es: 549
+      :fr: 599
+      :de: 549
+      :uk: 429
+      :fi: 549
+      :pt: 549
+      :it: 579
+      :nl: 549
+      :at: 549
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :es: 599
+      :fr: 699
+      :de: 599
+      :uk: 469
+      :fi: 599
+      :pt: 599
+      :it: 629
+      :nl: 599
+      :at: 599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 699
+      :de: 699
+      :uk: 549
+      :fi: 699
+      :pt: 699
+      :it: 729
+      :nl: 699
+      :at: 699
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (China Unicom/A1526)
+  :model_number: A1526
+  :model_identifier: iPhone5,4
+  :order_number:
+  - ME679CH/A
+  - MF104CH/A
+  - ME683CH/A
+  - MF108CH/A
+  - ME680CH/A
+  - MF105CH/A
+  - ME681CH/A
+  - MF106CH/A
+  - ME682CH/A
+  - MF107CH/A
+  :short_name: iPhone 5c China/A1526
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (Asia Pacific/A1529)
+  :model_number: A1529
+  :model_identifier: iPhone5,4
+  :order_number:
+  - MF321X/A
+  - MF326X/A
+  - MF325X/A
+  - MF330X/A
+  - MF322X/A
+  - MF327X/A
+  - MF323X/A
+  - MF328X/A
+  - MF324X/A
+  - MF329X/A
+  - MG132X/A
+  - MG172X/A
+  - MG142X/A
+  - MG152X/A
+  - MG162X/A
+  :short_name: iPhone 5c Asia/Pac
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :au: 649
+      :nz: 899
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+  - :original_price:
+      :au: 739
+      :nz: 1049
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :au: 869
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+- :vendor: Apple
+  :subfamily: iPhone 5c
+  :model: iPhone
+  :model_name: 5c (China Mobile/A1516)
+  :model_number: A1516
+  :model_identifier: iPhone5,4
+  :short_name: iPhone 5c China/A1516
+  :released_at: 2013-12-22
+  :details:
+    :processor_type: Apple A6
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 124.4x59.1x8.8
+    :weight: 132
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 700
+    :geekbench_3_32_mc: 1251
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0.4 (11B554a)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (GSM/North America/A1533)
+  :model_number: A1533
+  :model_identifier: iPhone6,1
+  :order_number:
+  - ME305LL/A
+  - ME308LL/A
+  - ME311LL/A
+  - ME307LL/A
+  - ME310LL/A
+  - ME313LL/A
+  - ME306LL/A
+  - ME309LL/A
+  - ME312LL/A
+  - ME323LL/A
+  - ME326LL/A
+  - ME329LL/A
+  - ME325LL/A
+  - ME328LL/A
+  - ME331LL/A
+  - ME324LL/A
+  - ME327LL/A
+  - ME330LL/A
+  - ME296LL/A
+  - ME299LL/A
+  - ME302LL/A
+  - ME298LL/A
+  - ME301LL/A
+  - ME304LL/A
+  - ME297LL/A
+  - ME300LL/A
+  - ME303LL/A
+  - MF798LL/A
+  - MF799LL/A
+  - NE299LL/A
+  - NE302LL/A
+  :serial_number:
+  - FF9R
+  - FF9V
+  - FFDP
+  - FFDQ
+  - FFFM
+  - FFFP
+  - FFFQ
+  - FFFV
+  :short_name: iPhone 5s N. America
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :ca: 719
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :ca: 819
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :ca: 919
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (CDMA/Verizon/A1533)
+  :model_number: A1533
+  :model_identifier: iPhone6,1
+  :order_number:
+  - ME341LL/A
+  - ME344LL/A
+  - ME347LL/A
+  - ME343LL/A
+  - ME346LL/A
+  - ME349LL/A
+  - ME342LL/A
+  - ME345LL/A
+  - ME348LL/A
+  :serial_number:
+  - FNJJ
+  - FNJK
+  - FNJL
+  - FNJM
+  - FNJN
+  - FNJP
+  - FNJQ
+  - FNJT
+  :short_name: iPhone 5s CDMA/VZ
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (CDMA/China Telecom/A1533)
+  :model_number: A1533
+  :model_identifier: iPhone6,1
+  :order_number:
+  - MF381CH/A
+  - MF384CH/A
+  - MF387CH/A
+  - MF383CH/A
+  - MF386CH/A
+  - MF389CH/A
+  - MF382CH/A
+  - MF385CH/A
+  - MF388CH/A
+  :short_name: iPhone 5s CDMA/CN
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (CDMA/US/Japan/A1453)
+  :model_number: A1453
+  :model_identifier: iPhone6,1
+  :order_number:
+  - ME350LL/A
+  - ME353LL/A
+  - ME356LL/A
+  - ME352LL/A
+  - ME355LL/A
+  - ME358LL/A
+  - ME351LL/A
+  - ME354LL/A
+  - ME357LL/A
+  - NE339LL/A
+  :serial_number:
+  - FFDN
+  - FFFT
+  - FFFW
+  - FF9Y
+  :short_name: iPhone 5s CDMA/A1453
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :jp: 71800
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :jp: 81800
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 399
+      :jp: 91800
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (UK/Europe/Middle East/A1457)
+  :model_number: A1457
+  :model_identifier: iPhone6,2
+  :order_number:
+  - ME432B/A
+  - ME435B/A
+  - ME438B/A
+  - ME434B/A
+  - ME437B/A
+  - ME440B/A
+  - ME433B/A
+  - ME436B/A
+  - ME439B/A
+  :serial_number:
+  - FFG8
+  - FFGB
+  - FFG9
+  - FFGC
+  - FFGD
+  - FFGF
+  - FFGG
+  - FFGH
+  - FFGJ
+  - FFGK
+  :short_name: iPhone 5s UK/Europe
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :es: 699
+      :fr: 699
+      :de: 699
+      :uk: 549
+      :fi: 699
+      :pt: 699
+      :it: 729
+      :at: 699
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 799
+      :fr: 799
+      :de: 799
+      :uk: 629
+      :fi: 799
+      :pt: 799
+      :it: 839
+      :at: 799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 899
+      :fr: 899
+      :de: 899
+      :uk: 709
+      :fi: 899
+      :pt: 899
+      :it: 949
+      :at: 899
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (China Unicom/A1528)
+  :model_number: A1528
+  :model_identifier: iPhone6,2
+  :order_number:
+  - ME450CH/A
+  - ME453CH/A
+  - ME456CH/A
+  - ME452CH/A
+  - ME455CH/A
+  - ME458CH/A
+  - ME451CH/A
+  - ME454CH/A
+  - ME457CH/A
+  :short_name: iPhone 5s China/A1528
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (Asia Pacific/A1530)
+  :model_number: A1530
+  :model_identifier: iPhone6,2
+  :order_number:
+  - MF352X/A
+  - MF355X/A
+  - MF358X/A
+  - MF354X/A
+  - MF357X/A
+  - MF360X/A
+  - MF353X/A
+  - MF356X/A
+  - MF359X/A
+  :serial_number:
+  - FRC4
+  - FRC5
+  - FRCS
+  - FRC6
+  - FRC7
+  - FRC8
+  - FRCB
+  - FRC9
+  - FRCC
+  - FRCD
+  - FRCF
+  :short_name: iPhone 5s Asia/Pac
+  :released_at: 2013-09-10
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0 (11A466)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :au: 869
+      :nz: 1049
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :au: 999
+      :nz: 1199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :au: 1129
+      :nz: 1349
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPhone 5s
+  :model: iPhone
+  :model_name: 5s (China Mobile/A1518)
+  :model_number: A1518
+  :model_identifier: iPhone6,2
+  :short_name: iPhone 5s China/A1518
+  :released_at: 2013-12-22
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.6x58.6x7.6
+    :weight: 112
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_32_sc: 1053
+    :geekbench_3_32_mc: 1874
+    :geekbench_3_64_sc: 1401
+    :geekbench_3_64_mc: 2526
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 7.0.4 (11B554a)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 6
+  :model: iPhone
+  :model_name: 6 (GSM/North America/A1549)
+  :model_number: A1549
+  :model_identifier: iPhone7,2
+  :order_number:
+  - MG4P2LL/A
+  - MG4X2LL/A
+  - MG4U2LL/A
+  - MG4Q2LL/A
+  - MG502LL/A
+  - MG4V2LL/A
+  - MG4N2LL/A
+  - MG4W2LL/A
+  - MG4R2LL/A
+  - MG552LL/A
+  - MG5C2LL/A
+  - MG582LL/A
+  - MG562LL/A
+  - MG5D2LL/A
+  - MG592LL/A
+  - MG542LL/A
+  - MG5A2LL/A
+  - MG572LL/A
+  - MG312LL/A
+  :serial_number:
+  - G5MC
+  - G5MG
+  - G5MH
+  - G5MJ
+  - G5MK
+  :short_name: iPhone 6 N. America
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x6.8
+    :weight: 129
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1599
+    :geekbench_3_64_mc: 2860
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 8.0 (12A365)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :ca: 749
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :ca: 859
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+      :ca: 969
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6
+  :model: iPhone
+  :model_name: 6 (CDMA/Verizon/A1549)
+  :model_number: A1549
+  :model_identifier: iPhone7,2
+  :order_number:
+  - MG5X2LL/A
+  - MG642LL/A
+  - MG612LL/A
+  - MG5Y2LL/A
+  - MG652LL/A
+  - MG622LL/A
+  - MG5W2LL/A
+  - MG632LL/A
+  - MG602LL/A
+  :short_name: iPhone 6 CDMA/VZ
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x6.8
+    :weight: 129
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1599
+    :geekbench_3_64_mc: 2860
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 8.0 (12A365)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6
+  :model: iPhone
+  :model_name: 6 (Global/Sprint/A1586)
+  :model_number: A1586
+  :model_identifier: iPhone7,2
+  :order_number:
+  - MG6A2LL/A
+  - MG6H2LL/A
+  - MG6E2LL/A
+  - MG6C2LL/A
+  - MG6J2LL/A
+  - MG6F2LL/A
+  - MG692LL/A
+  - MG6G2LL/A
+  - MG6D2LL/A
+  - MG482B/A
+  - MG4H2B/A
+  - MG4C2B/A
+  - MG492B/A
+  - MG4J2B/A
+  - MG4E2B/A
+  - MG472B/A
+  - MG4F2B/A
+  - MG4A2B/A
+  :serial_number:
+  - G5MN
+  - G5MT
+  :short_name: iPhone 6 Global/Sprint
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x6.8
+    :weight: 129
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1599
+    :geekbench_3_64_mc: 2860
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 8.0 (12A365)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 699
+      :fr: 709
+      :de: 699
+      :uk: 539
+      :au: 869
+      :jp: 67800
+      :fi: 699
+      :pt: 699
+      :it: 729
+      :nl: 699
+      :at: 699
+      :nz: 999
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :es: 799
+      :fr: 819
+      :de: 799
+      :uk: 619
+      :au: 999
+      :jp: 79800
+      :fi: 799
+      :pt: 799
+      :it: 839
+      :nl: 799
+      :at: 799
+      :nz: 1149
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+      :es: 899
+      :fr: 919
+      :de: 899
+      :uk: 699
+      :au: 1129
+      :jp: 89800
+      :fi: 899
+      :pt: 899
+      :it: 949
+      :nl: 899
+      :at: 899
+      :nz: 1299
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6
+  :model: iPhone
+  :model_name: 6 (China Mobile/A1589)
+  :model_number: A1589
+  :model_identifier: iPhone7,2
+  :short_name: iPhone 6 China/A1589
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x6.8
+    :weight: 129
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_64_sc: 1599
+    :geekbench_3_64_mc: 2860
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: iOS 8.0
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6 Plus
+  :model: iPhone
+  :model_name: 6 Plus (GSM/North America/A1522)
+  :model_number: A1522
+  :model_identifier: iPhone7,1
+  :order_number:
+  - MGAM2LL/A
+  - MGAV2LL/A
+  - MGAQ2LL/A
+  - MGAN2LL/A
+  - MGAW2LL/A
+  - MGAR2LL/A
+  - MGAL2LL/A
+  - MGAU2LL/A
+  - MGAP2LL/A
+  - MGC02LL/A
+  - MGC62LL/A
+  - MGC32LL/A
+  - MGC12LL/A
+  - MGC72LL/A
+  - MGC42LL/A
+  - MGAX2LL/A
+  - MGC52LL/A
+  - MGC22LL/A
+  :serial_number:
+  - G5QJ
+  - G5QK
+  - G5QL
+  :short_name: iPhone 6 Plus GSM
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 157.9x77.7x7.1
+    :weight: 172
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1578
+    :geekbench_3_64_mc: 2812
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 384 Hours
+    :iphone_standard_os: iOS 8.0 (12A366)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :ca: 859
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :ca: 969
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 499
+      :ca: 1079
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6 Plus
+  :model: iPhone
+  :model_name: 6 Plus (CDMA/Verizon/A1522)
+  :model_number: A1522
+  :model_identifier: iPhone7,1
+  :order_number:
+  - MGCL2LL/A
+  - MGCT2LL/A
+  - MGCP2LL/A
+  - MGCM2LL/A
+  - MGCU2LL/A
+  - MGCQ2LL/A
+  - MGCK2LL/A
+  - MGCR2LL/A
+  - MGCN2LL/A
+  :short_name: iPhone 6 Plus CDMA
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 157.9x77.7x7.1
+    :weight: 172
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1578
+    :geekbench_3_64_mc: 2812
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 384 Hours
+    :iphone_standard_os: iOS 8.0 (12A366)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 499
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6 Plus
+  :model: iPhone
+  :model_name: 6 Plus (Global/Sprint/A1524)
+  :model_number: A1524
+  :model_identifier: iPhone7,1
+  :order_number:
+  - MGCW2LL/A
+  - MGD32LL/A
+  - MGD02LL/A
+  - MGCX2LL/A
+  - MGD42LL/A
+  - MGD12LL/A
+  - MGCV2LL/A
+  - MGD22LL/A
+  - MGCY2LL/A
+  - MGA92B/A
+  - MGAJ2B/A
+  - MGAE2B/A
+  - MGAA2B/A
+  - MGAK2B/A
+  - MGAF2B/A
+  - MGA82B/A
+  - MGAH2B/A
+  - MGAC2B/A
+  :serial_number:
+  - G5R0
+  - G5RO
+  :short_name: iPhone 6 Plus Global
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 157.9x77.7x7.1
+    :weight: 172
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iphone_user_guide.pdf
+    :geekbench_3_64_sc: 1578
+    :geekbench_3_64_mc: 2812
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 384 Hours
+    :iphone_standard_os: iOS 8.0 (12A366)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 799
+      :fr: 809
+      :de: 799
+      :uk: 619
+      :au: 999
+      :jp: 79800
+      :fi: 799
+      :pt: 799
+      :it: 839
+      :nl: 799
+      :at: 799
+      :nz: 1149
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :es: 899
+      :fr: 919
+      :de: 899
+      :uk: 699
+      :au: 1129
+      :jp: 89800
+      :fi: 899
+      :pt: 899
+      :it: 949
+      :nl: 899
+      :at: 899
+      :nz: 1299
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 499
+      :es: 999
+      :fr: 1019
+      :de: 999
+      :uk: 789
+      :au: 1249
+      :jp: 99800
+      :fi: 999
+      :pt: 999
+      :it: 1059
+      :nl: 999
+      :at: 999
+      :nz: 1449
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6 Plus
+  :model: iPhone
+  :model_name: 6 Plus (China Mobile/A1593)
+  :model_number: A1593
+  :model_identifier: iPhone7,1
+  :released_at: 2014-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 1 MB/4 MB
+    :max_memory: 1 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 157.9x77.7x7.1
+    :weight: 172
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/zh_CN/iphone_user_guide_ch.pdf
+    :geekbench_3_64_sc: 1578
+    :geekbench_3_64_mc: 2812
+    :cell_network: GSM/LTE
+    :camera: 8.0 Megapixels
+    :cell_standby_time: 384 Hours
+    :iphone_standard_os: iOS 8.0
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :mx: 12199
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :mx: 13799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB

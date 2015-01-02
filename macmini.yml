@@ -1,0 +1,2249 @@
+---
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: G4/1.25
+  :model_number: A1103
+  :model_identifier: PowerMac10,1
+  :order_number:
+  - M9686LL/A
+  - M9686LL/B
+  :serial_number:
+  - RHR
+  - RHT
+  - TYV
+  :short_name: Mac mini G4/1.25
+  :released_at: 2005-01-11
+  :discontinued_at: 2006-02-28
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz (7.5:1)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Macmini_OriginalUserGuide.pdf
+    :power: 100V-240V, 85W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 489
+      :de: 499
+      :ca: 629
+      :uk: 339
+      :au: 799
+      :jp: 58590
+      :it: 539
+      :nl: 499
+      :nz: 935
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: G4/1.42
+  :model_number: A1103
+  :model_identifier: PowerMac10,1
+  :order_number:
+  - M9687LL/A
+  - M9687LL/B
+  - M9971LL/B
+  :serial_number:
+  - RHU
+  - RHS
+  - SMR
+  - T0K
+  - TOK
+  - TYW
+  - TYX
+  - TZ1
+  :short_name: Mac mini G4/1.42
+  :released_at: 2005-01-11
+  :discontinued_at: 2005-09-27
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.42 GHz
+    :processor_bus_speed: 167 MHz (8.5:1)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11b/g (Optional*)
+    :bluetooth: 1.1 (Optional*)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Macmini_OriginalUserGuide.pdf
+    :power: 100V-240V, 85W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 589
+      :de: 599
+      :ca: 749
+      :uk: 399
+      :au: 949
+      :jp: 70140
+      :it: 639
+      :nl: 599
+      :nz: 1111
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+  - :original_price:
+      :us: 699
+      :es: 689
+      :de: 699
+      :uk: 429
+      :it: 739
+      :nl: 699
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+  - :original_price:
+      :uk: 499
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: G4/1.33
+  :model_number: A1103
+  :model_identifier: PowerMac10,2
+  :order_number:
+  - M9686LL/B
+  :serial_number:
+  - TA8
+  :short_name: Mac mini G4/1.33
+  :released_at: 2005-09-27
+  :discontinued_at: 2006-02-28
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_2005_Users_Guide.pdf
+    :power: 100V-240V, 85W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :de: 589
+      :ca: 749
+      :uk: 399
+      :au: 949
+      :jp: 70140
+      :nl: 599
+      :nz: 1135
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 40 GB
+  - :original_price:
+      :de: 689
+      :nl: 699
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: G4/1.5
+  :model_number: A1103
+  :model_identifier: PowerMac10,2
+  :order_number:
+  - M9687LL/B
+  - M9971LL/B
+  :serial_number:
+  - TAA
+  - TAB
+  - TAC
+  - TAD
+  - TA9
+  - UWZ
+  :short_name: Mac mini G4/1.5
+  :released_at: 2005-09-27
+  :discontinued_at: 2006-02-28
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_2005_Users_Guide.pdf
+    :power: 100V-240V, 85W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :de: 589
+      :ca: 749
+      :uk: 399
+      :au: 949
+      :jp: 70140
+      :nl: 599
+      :nz: 1135
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+  - :original_price:
+      :us: 699
+      :de: 689
+      :nl: 699
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core Solo" 1.5'
+  :model_number: A1176
+  :model_identifier: Macmini1,1
+  :order_number:
+  - MA205LL/A
+  :serial_number:
+  - U35
+  - U38
+  :short_name: Mac mini "CS" 1.5
+  :released_at: 2006-02-28
+  :discontinued_at: 2006-09-06
+  :details:
+    :processor_type: Core Solo (T1200)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (1 Core)
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early_2006_Users_Guide.pdf
+    :power: 100V-240V, 110W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 639
+      :fr: 649
+      :de: 649
+      :ca: 699
+      :uk: 449
+      :au: 999
+      :jp: 74800
+      :it: 659
+      :nl: 649
+      :nz: 1219
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core Duo" 1.66'
+  :model_number: A1176
+  :model_identifier: Macmini1,1
+  :order_number:
+  - MA206LL/A
+  - MA607LL/A
+  :serial_number:
+  - U36
+  - U39
+  - VJN
+  - VS5
+  - VSS
+  - V55
+  - W0A
+  - WOA
+  - W0C
+  - WOC
+  :short_name: Mac mini "CD" 1.66
+  :released_at: 2006-02-28
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core Duo (T2300)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.66 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 2.4X "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early_2006_Users_Guide.pdf
+    :power: 100V-240V, 110W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 849
+      :fr: 879
+      :de: 879
+      :ca: 949
+      :uk: 599
+      :au: 1299
+      :jp: 99800
+      :it: 879
+      :nl: 879
+      :nz: 1609
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core Duo" 1.83'
+  :model_number: A1176
+  :model_identifier: Macmini1,1
+  :order_number:
+  - MA608LL/A
+  :serial_number:
+  - W0B
+  - WOB
+  - W0D
+  - WOD
+  - WKN
+  :short_name: Mac mini "CD" 1.83
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core Duo (T2400)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 2.4X "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Intel_User_Guide.pdf
+    :power: 100V-240V, 110W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 779
+      :fr: 799
+      :de: 799
+      :ca: 949
+      :uk: 599
+      :au: 1299
+      :jp: 99800
+      :it: 799
+      :nl: 799
+      :nz: 1609
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 1.83'
+  :model_number: A1176
+  :model_identifier: Macmini2,1
+  :order_number:
+  - MB138LL/A
+  :serial_number:
+  - YL1
+  - YLI
+  - YL3
+  :short_name: Mac mini "C2D" 1.83
+  :released_at: 2007-08-07
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (T5600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 981
+    :geekbench_3_32_mc: 1709
+    :geekbench_3_64_sc: 1050
+    :geekbench_3_64_mc: 1832
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :ca: 649
+      :uk: 399
+      :au: 849
+      :jp: 79800
+      :nz: 948
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.0'
+  :model_number: A1176
+  :model_identifier: Macmini2,1
+  :order_number:
+  - MB139LL/A
+  :serial_number:
+  - YL2
+  - YL4
+  - 4NP
+  :short_name: Mac mini "C2D" 2.0
+  :released_at: 2007-08-07
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (T7200)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 2.4X "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1320
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1061
+    :geekbench_3_32_mc: 1861
+    :geekbench_3_64_sc: 1135
+    :geekbench_3_64_mc: 1951
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :ca: 849
+      :uk: 499
+      :au: 1148
+      :jp: 99800
+      :nz: 1249
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.0 (Early 2009)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - MB463LL/A
+  - MB464LL/A
+  :serial_number:
+  - 19X
+  - I9X
+  - 19Y
+  - I9Y
+  - 1BU
+  - IBU
+  - 1BV
+  - IBV
+  :short_name: Mac mini "C2D" 2.0 E 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (P7350)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early2009_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1112
+    :geekbench_3_32_mc: 1898
+    :geekbench_3_64_sc: 1205
+    :geekbench_3_64_mc: 2106
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 579
+      :fr: 599
+      :de: 599
+      :ca: 729
+      :uk: 499
+      :au: 1049
+      :jp: 69800
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 1398
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_capacity: 120 GB
+  - :original_price:
+      :us: 799
+      :es: 779
+      :fr: 799
+      :de: 799
+      :ca: 949
+      :uk: 649
+      :au: 1399
+      :jp: 89800
+      :fi: 799
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1848
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.26 (Early 2009)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 9RS
+  - 9R5
+  :short_name: Mac mini "C2D" 2.26 E 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (P8400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early2009_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1244
+    :geekbench_3_32_mc: 2129
+    :geekbench_3_64_sc: 1248
+    :geekbench_3_64_mc: 1832
+  :model_types_attributes:
+  - :original_price:
+      :us: 749
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_capacity: 120 GB
+  - :original_price:
+      :us: 949
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.26 (Late 2009)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - MC238LL/A
+  :serial_number:
+  - 9G5
+  - 9GS
+  - 9G7
+  - '306'
+  :short_name: Mac mini "C2D" 2.26 L 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-06-15
+  :details:
+    :processor_type: Core 2 Duo (P7550)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Late2009_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1249
+    :geekbench_3_32_mc: 2165
+    :geekbench_3_64_sc: 1353
+    :geekbench_3_64_mc: 2390
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 549
+      :fr: 549
+      :de: 549
+      :ca: 649
+      :uk: 499
+      :au: 849
+      :jp: 62900
+      :fi: 549
+      :pt: 549
+      :it: 549
+      :nl: 549
+      :at: 549
+      :nz: 1049
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.53 (Late 2009)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - MC239LL/A
+  :serial_number:
+  - 9G6
+  :short_name: Mac mini "C2D" 2.53 L 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-06-15
+  :details:
+    :processor_type: Core 2 Duo (P8700)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.53 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.53 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Late2009_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1372
+    :geekbench_3_32_mc: 2385
+    :geekbench_3_64_sc: 1481
+    :geekbench_3_64_mc: 2596
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 729
+      :fr: 749
+      :de: 749
+      :ca: 899
+      :uk: 649
+      :au: 1099
+      :jp: 84900
+      :fi: 749
+      :pt: 749
+      :it: 749
+      :nl: 749
+      :at: 749
+      :nz: 1398
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.66 (Late 2009)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 9G8
+  - CS6
+  :short_name: Mac mini "C2D" 2.66 L 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-06-15
+  :details:
+    :processor_type: Core 2 Duo (P8800)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Late2009_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1449
+    :geekbench_3_32_mc: 2553
+    :geekbench_3_64_sc: 1578
+    :geekbench_3_64_mc: 2812
+  :model_types_attributes:
+  - :original_price:
+      :us: 849
+      :au: 1309
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.53 (Server)'
+  :model_number: A1283
+  :model_identifier: Macmini3,1
+  :order_number:
+  - MC408LL/A
+  :serial_number:
+  - B9X
+  :short_name: Mac mini "C2D" 2.53 (S)
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-06-15
+  :details:
+    :processor_type: Core 2 Duo (P8700)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.53 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.53 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: None
+    :expansion_slots: None
+    :dimensions: 50.8x165.1x165.1
+    :weight: 1310
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Late2009_SL_Server_UG.pdf
+    :power: 100V-240V, 110W maximum.
+    :geekbench_3_32_sc: 1372
+    :geekbench_3_32_mc: 2385
+    :geekbench_3_64_sc: 1481
+    :geekbench_3_64_mc: 2596
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 929
+      :fr: 949
+      :de: 949
+      :ca: 1099
+      :uk: 799
+      :au: 1399
+      :jp: 104900
+      :fi: 949
+      :pt: 949
+      :it: 949
+      :nl: 949
+      :at: 949
+      :nz: 1749
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: X2
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.4 (Mid-2010)'
+  :model_number: A1347
+  :model_identifier: Macmini4,1
+  :order_number:
+  - MC270LL/A
+  :serial_number:
+  - DD6H
+  - DDGH
+  :short_name: Mac mini "C2D" 2.4 (10)
+  :released_at: 2010-06-15
+  :discontinued_at: 2011-07-20
+  :details:
+    :processor_type: Core 2 Duo (P8600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 320M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card (SDXC*)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1370
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Mid2010_User_Guide.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 1302
+    :geekbench_3_32_mc: 2135
+    :geekbench_3_64_sc: 1414
+    :geekbench_3_64_mc: 2337
+  :model_types_attributes:
+  - :original_price:
+      :us: 699
+      :es: 779
+      :fr: 799
+      :de: 799
+      :ca: 749
+      :uk: 649
+      :au: 999
+      :jp: 68800
+      :fi: 729
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1299
+      :mx: 11599
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.66 (Mid-2010)'
+  :model_number: A1347
+  :model_identifier: Macmini4,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DD6L
+  - DDGL
+  :short_name: Mac mini "C2D" 2.66 (10)
+  :released_at: 2010-06-15
+  :discontinued_at: 2011-07-20
+  :details:
+    :processor_type: Core 2 Duo (P8800)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 320M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card (SDXC*)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1370
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Mid2010_User_Guide.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 1423
+    :geekbench_3_32_mc: 2346
+    :geekbench_3_64_sc: 1559
+    :geekbench_3_64_mc: 2555
+  :model_types_attributes:
+  - :original_price:
+      :us: 849
+      :au: 1209
+      :jp: 78975
+      :fi: 865
+      :nz: 1499
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core 2 Duo" 2.66 (Server)'
+  :model_number: A1347
+  :model_identifier: Macmini4,1
+  :order_number:
+  - MC438LL/A
+  :serial_number:
+  - DD6K
+  - DD6N
+  - DDGK
+  - DDJF
+  :short_name: Mac mini "C2D" 2.66 (S)
+  :released_at: 2010-06-15
+  :discontinued_at: 2011-07-20
+  :details:
+    :processor_type: Core 2 Duo (P8800)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 320M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC*)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1290
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Server_Mid2010_User_Guide.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 1423
+    :geekbench_3_32_mc: 2346
+    :geekbench_3_64_sc: 1559
+    :geekbench_3_64_mc: 2555
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 1129
+      :fr: 1149
+      :de: 1149
+      :ca: 1099
+      :uk: 929
+      :au: 1399
+      :jp: 98800
+      :fi: 1029
+      :pt: 1149
+      :it: 1149
+      :nl: 1149
+      :at: 1149
+      :nz: 1848
+      :mx: 16699
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: X2 (7200 RPM)
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 2.3 (Mid-2011)'
+  :model_number: A1347
+  :model_identifier: Macmini5,1
+  :order_number:
+  - MC815LL/A
+  :serial_number:
+  - DJD0
+  - DJDO
+  - DJD2
+  - DTCJ
+  :short_name: Mac mini "i5" 2.3 (11)
+  :released_at: 2011-07-20
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2415M)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.3 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB (on chip)
+    :processor_turbo_boost: 2.9 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 3000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 512 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini_mid2011_ug.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2205
+    :geekbench_3_32_mc: 4399
+    :geekbench_3_64_sc: 2415
+    :geekbench_3_64_mc: 4909
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 599
+      :fr: 599
+      :de: 599
+      :ca: 599
+      :uk: 529
+      :au: 699
+      :jp: 52800
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 949
+      :mx: 8999
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 288 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 2.5 (Mid-2011)'
+  :model_number: A1347
+  :model_identifier: Macmini5,2
+  :order_number:
+  - MC816LL/A
+  :serial_number:
+  - DJD1
+  - DJDI
+  :short_name: Mac mini "i5" 2.5 (11)
+  :released_at: 2011-07-20
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2520M)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB (on chip)
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 6630M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 256 MB
+    :display: Three Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini_mid2011_ug.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2405
+    :geekbench_3_32_mc: 4792
+    :geekbench_3_64_sc: 2612
+    :geekbench_3_64_mc: 5323
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 799
+      :fr: 799
+      :de: 799
+      :ca: 799
+      :uk: 699
+      :au: 899
+      :jp: 68800
+      :fi: 799
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1249
+      :mx: 11998
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.7 (Mid-2011)'
+  :model_number: A1347
+  :model_identifier: Macmini5,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DJD3
+  :short_name: Mac mini "i7" 2.7 (11)
+  :released_at: 2011-07-20
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i7 (I7-2620M)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB (on chip)
+    :processor_turbo_boost: 3.4 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 6630M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 256 MB
+    :display: Three Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini_mid2011_ug.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2455
+    :geekbench_3_32_mc: 4904
+    :geekbench_3_64_sc: 2706
+    :geekbench_3_64_mc: 5510
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :es: 899
+      :fr: 899
+      :de: 899
+      :ca: 899
+      :uk: 779
+      :au: 1019
+      :jp: 77620
+      :fi: 899
+      :pt: 899
+      :it: 899
+      :nl: 899
+      :at: 899
+      :nz: 1409
+      :mx: 13390
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.0 (Mid-2011/Server)'
+  :model_number: A1347
+  :model_identifier: Macmini5,3
+  :order_number:
+  - MC936LL/A
+  :serial_number:
+  - DJY7
+  - DKDJ
+  - DRHR
+  - DTCL
+  - DTCT
+  - DTCV
+  - DW39
+  - DW3D
+  :short_name: Mac mini "i7" 2.0 (11)
+  :released_at: 2011-07-20
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i7 (I7-2635QM)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB (on chip)
+    :processor_turbo_boost: 2.9 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 3000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 512 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1370
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini_mid2011_ug.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2208
+    :geekbench_3_32_mc: 7849
+    :geekbench_3_64_sc: 2400
+    :geekbench_3_64_mc: 8601
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 999
+      :fr: 999
+      :de: 999
+      :ca: 999
+      :uk: 849
+      :au: 1099
+      :jp: 88800
+      :fi: 999
+      :pt: 999
+      :it: 999
+      :nl: 999
+      :at: 999
+      :nz: 1579
+      :mx: 14999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 384 MB
+      :hd_type: X2 (7200 RPM)
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 2.5 (Late 2012)'
+  :model_number: A1347
+  :model_identifier: Macmini6,1
+  :order_number:
+  - MD387LL/A
+  :serial_number:
+  - DWYL
+  - DY3G
+  :short_name: Mac mini "i5" 2.5 (12)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Core i5 (I5-3210M)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 3.1 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2012-quick_start.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2502
+    :geekbench_3_32_mc: 5070
+    :geekbench_3_64_sc: 2757
+    :geekbench_3_64_mc: 5666
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :es: 649
+      :fr: 629
+      :de: 629
+      :ca: 599
+      :uk: 529
+      :au: 699
+      :jp: 52800
+      :fi: 659
+      :pt: 659
+      :it: 649
+      :nl: 649
+      :at: 629
+      :nz: 949
+      :mx: 9999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.3 (Late 2012)'
+  :model_number: A1347
+  :model_identifier: Macmini6,2
+  :order_number:
+  - MD388LL/A
+  :serial_number:
+  - DWYM
+  - F9VW
+  :short_name: Mac mini "i7" 2.3 (12)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-3615QM)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.3 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.3 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2012-quick_start.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2677
+    :geekbench_3_32_mc: 10377
+    :geekbench_3_64_sc: 2986
+    :geekbench_3_64_mc: 11639
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 849
+      :fr: 829
+      :de: 829
+      :ca: 799
+      :uk: 679
+      :au: 899
+      :jp: 68800
+      :fi: 859
+      :pt: 859
+      :it: 849
+      :nl: 849
+      :at: 829
+      :nz: 1249
+      :mx: 12998
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.6 (Late 2012)'
+  :model_number: A1347
+  :model_identifier: Macmini6,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DY3H
+  :short_name: Mac mini "i7" 2.6 (12)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-3720QM)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.6 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2012-quick_start.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2897
+    :geekbench_3_32_mc: 11264
+    :geekbench_3_64_sc: 3208
+    :geekbench_3_64_mc: 12567
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :es: 949
+      :fr: 929
+      :de: 929
+      :ca: 899
+      :uk: 759
+      :au: 1019
+      :jp: 77600
+      :fi: 959
+      :pt: 959
+      :it: 949
+      :nl: 949
+      :at: 929
+      :nz: 1409
+      :mx: 14598
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.3 (Late 2012/Server)'
+  :model_number: A1347
+  :model_identifier: Macmini6,2
+  :order_number:
+  - MD389LL/A
+  :serial_number:
+  - DWYN
+  :short_name: Mac mini "i7" 2.3 (S)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-3615QM)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.3 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.3 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2012-quick_start.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2677
+    :geekbench_3_32_mc: 10377
+    :geekbench_3_64_sc: 2986
+    :geekbench_3_64_mc: 11639
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 1049
+      :fr: 1029
+      :de: 1029
+      :ca: 999
+      :uk: 849
+      :au: 1099
+      :jp: 88800
+      :fi: 1069
+      :pt: 1069
+      :it: 1049
+      :nl: 1049
+      :at: 1029
+      :nz: 1579
+      :mx: 16499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: X2 (5400 RPM)
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 2.6 (Late 2012/Server)'
+  :model_number: A1347
+  :model_identifier: Macmini6,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DY3J
+  :short_name: Mac mini "i7" 2.6 (S)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-3720QM)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.6 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (6 Gb/s) x2
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2012-quick_start.pdf
+    :power: 100V-240V, 85W maximum.
+    :geekbench_3_32_sc: 2897
+    :geekbench_3_32_mc: 11264
+    :geekbench_3_64_sc: 3208
+    :geekbench_3_64_mc: 12567
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 1149
+      :fr: 1129
+      :de: 1129
+      :ca: 1099
+      :uk: 929
+      :au: 1219
+      :jp: 97600
+      :fi: 1169
+      :pt: 1169
+      :it: 1149
+      :nl: 1149
+      :at: 1129
+      :nz: 1739
+      :mx: 18099
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: X2 (5400 RPM)
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 1.4 (Late 2014)'
+  :model_number: A1347
+  :model_identifier: Macmini7,1
+  :order_number:
+  - MGEM2LL/A
+  :serial_number:
+  - G1HV
+  :short_name: Mac mini "i5" 1.4 (14)
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i5 (I5-4260U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 1.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 2.7 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 5000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1190
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2014-quick_start.pdf
+    :power: 100V-240V, 50 Hz to 60 Hz single phase, 85W maximum.
+    :geekbench_3_32_sc: 2550
+    :geekbench_3_32_mc: 4835
+    :geekbench_3_64_sc: 2793
+    :geekbench_3_64_mc: 5387
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 499
+      :fr: 499
+      :de: 519
+      :ca: 549
+      :uk: 399
+      :au: 619
+      :jp: 52800
+      :fi: 519
+      :pt: 519
+      :it: 519
+      :nl: 519
+      :at: 499
+      :nz: 749
+      :mx: 8499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 2.6 (Late 2014)'
+  :model_number: A1347
+  :model_identifier: Macmini7,1
+  :order_number:
+  - MGEN2LL/A
+  :short_name: Mac mini "i5" 2.6 (14)
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i5 (I5-4278U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.6 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 3.1 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris 5100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1200
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2014-quick_start.pdf
+    :power: 100V-240V, 50 Hz to 60 Hz single phase, 85W maximum.
+    :geekbench_3_32_sc: 2920
+    :geekbench_3_32_mc: 6051
+    :geekbench_3_64_sc: 3155
+    :geekbench_3_64_mc: 6626
+  :model_types_attributes:
+  - :original_price:
+      :us: 699
+      :es: 699
+      :fr: 699
+      :de: 719
+      :ca: 749
+      :uk: 569
+      :au: 869
+      :jp: 74800
+      :fi: 719
+      :pt: 719
+      :it: 719
+      :nl: 719
+      :at: 699
+      :nz: 1049
+      :mx: 11999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i5" 2.8 (Late 2014)'
+  :model_number: A1347
+  :model_identifier: Macmini7,1
+  :order_number:
+  - MGEQ2LL/A
+  :short_name: Mac mini "i5" 2.8 (14)
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i5 (I5-4308U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 3.3 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris 5100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2014-quick_start.pdf
+    :power: 100V-240V, 50 Hz to 60 Hz single phase, 85W maximum.
+    :geekbench_3_32_sc: 3056
+    :geekbench_3_32_mc: 6372
+    :geekbench_3_64_sc: 3355
+    :geekbench_3_64_mc: 7156
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 999
+      :fr: 999
+      :de: 1019
+      :ca: 1079
+      :uk: 799
+      :au: 1249
+      :jp: 106800
+      :fi: 1019
+      :pt: 1019
+      :it: 1019
+      :nl: 1019
+      :at: 999
+      :nz: 1499
+      :mx: 16999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(FUSION)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac mini Unibody
+  :model: Mac mini
+  :model_name: '"Core i7" 3.0 (Late 2014)'
+  :model_number: A1347
+  :model_identifier: Macmini7,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Mac mini "i7" 3.0 (14)
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-4578U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB
+    :processor_turbo_boost: 3.5 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris 5100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :dimensions: 35.5x195.5x195.5
+    :weight: 1220
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_mini-late-2014-quick_start.pdf
+    :power: 100V-240V, 50 Hz to 60 Hz single phase, 85W maximum.
+    :geekbench_3_32_sc: 3156
+    :geekbench_3_32_mc: 6545
+    :geekbench_3_64_sc: 3486
+    :geekbench_3_64_mc: 7308
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 999
+      :fr: 999
+      :de: 1019
+      :ca: 1059
+      :uk: 799
+      :au: 1249
+      :jp: 106800
+      :fi: 1019
+      :pt: 1019
+      :it: 1019
+      :nl: 1019
+      :at: 999
+      :nz: 1499
+      :mx: 16983
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(HD, FUSION*)"
+      :hd_capacity: 1 TB
+  - :original_price:
+      :us: 1199
+      :es: 1199
+      :fr: 1199
+      :de: 1219
+      :ca: 1279
+      :uk: 959
+      :au: 1489
+      :jp: 126400
+      :fi: 1219
+      :pt: 1219
+      :it: 1219
+      :nl: 1219
+      :at: 1199
+      :nz: 1819
+      :mx: 19999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(HD, FUSION*)"
+      :hd_capacity: 1 TB

@@ -1,0 +1,3871 @@
+---
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.0 (Original)'
+  :model_number: A1186
+  :model_identifier: MacPro1,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 08S
+  - O8S
+  - 09G
+  - O9G
+  - 09H
+  - O9H
+  - 0GN
+  - OGN
+  - 0GP
+  - OGP
+  - 0GV
+  - OGV
+  - 0HA
+  - OHA
+  - 0KT
+  - OKT
+  - 0KU
+  - OKU
+  - 0KV
+  - OKV
+  - 0KW
+  - OKW
+  - 0KX
+  - OKX
+  - 0KY
+  - OKY
+  - 0KZ
+  - OKZ
+  - 0L0
+  - OLO
+  - 0L1
+  - OL1
+  - OLI
+  - 0L2
+  - OL2
+  - 0L3
+  - OL3
+  - 0L4
+  - OL4
+  - 0L5
+  - OL5
+  - 0L6
+  - 0L6
+  - 0L7
+  - OL7
+  - 0L8
+  - OL8
+  - 0L9
+  - OL9
+  - 0LA
+  - OLA
+  - 0LB
+  - OLB
+  - 0LC
+  - OLC
+  - 0LD
+  - OLD
+  - 0LE
+  - OLE
+  - 0LH
+  - OLH
+  - 0LL
+  - OLL
+  - 0LM
+  - OLM
+  - 0LN
+  - OLN
+  - 0LP
+  - OLP
+  - 0LS
+  - OLS
+  - 0LT
+  - OLT
+  - 0LU
+  - OLU
+  - 0N2
+  - ON2
+  - 0PX
+  - OPX
+  - 0PY
+  - OPY
+  - 0PZ
+  - OPZ
+  - 0Q0
+  - OQO
+  - 0VG
+  - OVG
+  - 1MK
+  - IMK
+  - UPZ
+  - UQ2
+  - UQZ
+  - WKD
+  - WRT
+  - WRU
+  - WS4
+  - WSE
+  - WUD
+  - WWM
+  - WWN
+  - WWQ
+  - WWX
+  - X09
+  - XO9
+  - X0A
+  - XOA
+  - X0B
+  - XOB
+  - X0C
+  - XOC
+  - X13
+  - XI3
+  - X14
+  - XI4
+  - X24
+  - X27
+  - X2A
+  - X68
+  - X78
+  - XAU
+  - XAV
+  - XCJ
+  - XCK
+  - XL3
+  - XNK
+  - XWZ
+  - XZS
+  - XZT
+  - Y3P
+  - Y5L
+  - Y8F
+  - YAB
+  - YHA
+  - YHY
+  - YJ0
+  - YJO
+  - YKH
+  - YX3
+  - YY4
+  - Z2G
+  - Z2H
+  - Z6M
+  - Z6N
+  - ZDY
+  - ZNZ
+  - ZP0
+  - ZPO
+  :short_name: Mac Pro 2.0 x4 (Orig)
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5130 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: PC5300 DDR2 ECC
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 7300 GT
+    :graphics_card_vram_type: GDDR2 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 4 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_User_Guide.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1091
+    :geekbench_3_32_mc: 3670
+    :geekbench_3_64_sc: 1173
+    :geekbench_3_64_mc: 3944
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.66 (Original)'
+  :model_number: A1186
+  :model_identifier: MacPro1,1
+  :order_number:
+  - MA356LL/A
+  :serial_number:
+  - 08S
+  - O8S
+  - 09G
+  - O9G
+  - 09H
+  - O9H
+  - 0GN
+  - OGN
+  - 0GP
+  - OGP
+  - 0GV
+  - OGV
+  - 0HA
+  - OHA
+  - 0KT
+  - OKT
+  - 0KU
+  - OKU
+  - 0KV
+  - OKV
+  - 0KW
+  - OKW
+  - 0KX
+  - OKX
+  - 0KY
+  - OKY
+  - 0KZ
+  - OKZ
+  - 0L0
+  - OLO
+  - 0L1
+  - OL1
+  - OLI
+  - 0L2
+  - OL2
+  - 0L3
+  - OL3
+  - 0L4
+  - OL4
+  - 0L5
+  - OL5
+  - 0L6
+  - 0L6
+  - 0L7
+  - OL7
+  - 0L8
+  - OL8
+  - 0L9
+  - OL9
+  - 0LA
+  - OLA
+  - 0LB
+  - OLB
+  - 0LC
+  - OLC
+  - 0LD
+  - OLD
+  - 0LE
+  - OLE
+  - 0LH
+  - OLH
+  - 0LL
+  - OLL
+  - 0LM
+  - OLM
+  - 0LN
+  - OLN
+  - 0LP
+  - OLP
+  - 0LS
+  - OLS
+  - 0LT
+  - OLT
+  - 0LU
+  - OLU
+  - 0N2
+  - ON2
+  - 0PX
+  - OPX
+  - 0PY
+  - OPY
+  - 0PZ
+  - OPZ
+  - 0Q0
+  - OQO
+  - 0VG
+  - OVG
+  - 1MK
+  - IMK
+  - UPZ
+  - UQ2
+  - UQZ
+  - WKD
+  - WRT
+  - WRU
+  - WS4
+  - WSE
+  - WUD
+  - WWM
+  - WWN
+  - WWQ
+  - WWX
+  - X09
+  - XO9
+  - X0A
+  - XOA
+  - X0B
+  - XOB
+  - X0C
+  - XOC
+  - X13
+  - XI3
+  - X14
+  - XI4
+  - X24
+  - X27
+  - X2A
+  - X68
+  - X78
+  - XAU
+  - XAV
+  - XCJ
+  - XCK
+  - XL3
+  - XNK
+  - XWZ
+  - XZS
+  - XZT
+  - Y3P
+  - Y5L
+  - Y8F
+  - YAB
+  - YHA
+  - YHY
+  - YJ0
+  - YJO
+  - YKH
+  - YX3
+  - YY4
+  - Z2G
+  - Z2H
+  - Z6M
+  - Z6N
+  - ZDY
+  - ZNZ
+  - ZP0
+  - ZPO
+  :short_name: Mac Pro 2.66 x4 (Orig)
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5150 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: PC5300 DDR2 ECC
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 7300 GT
+    :graphics_card_vram_type: GDDR2 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 4 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_User_Guide.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1405
+    :geekbench_3_32_mc: 4817
+    :geekbench_3_64_sc: 1509
+    :geekbench_3_64_mc: 5272
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2429
+      :fr: 2499
+      :de: 2449
+      :ca: 2799
+      :uk: 1699
+      :au: 3999
+      :jp: 319800
+      :it: 2519
+      :nl: 2499
+      :nz: 5269
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.0 (Original)'
+  :model_number: A1186
+  :model_identifier: MacPro1,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 08S
+  - O8S
+  - 09G
+  - O9G
+  - 09H
+  - O9H
+  - 0GN
+  - OGN
+  - 0GP
+  - OGP
+  - 0GV
+  - OGV
+  - 0HA
+  - OHA
+  - 0KT
+  - OKT
+  - 0KU
+  - OKU
+  - 0KV
+  - OKV
+  - 0KW
+  - OKW
+  - 0KX
+  - OKX
+  - 0KY
+  - OKY
+  - 0KZ
+  - OKZ
+  - 0L0
+  - OLO
+  - 0L1
+  - OL1
+  - OLI
+  - 0L2
+  - OL2
+  - 0L3
+  - OL3
+  - 0L4
+  - OL4
+  - 0L5
+  - OL5
+  - 0L6
+  - 0L6
+  - 0L7
+  - OL7
+  - 0L8
+  - OL8
+  - 0L9
+  - OL9
+  - 0LA
+  - OLA
+  - 0LB
+  - OLB
+  - 0LC
+  - OLC
+  - 0LD
+  - OLD
+  - 0LE
+  - OLE
+  - 0LH
+  - OLH
+  - 0LL
+  - OLL
+  - 0LM
+  - OLM
+  - 0LN
+  - OLN
+  - 0LP
+  - OLP
+  - 0LS
+  - OLS
+  - 0LT
+  - OLT
+  - 0LU
+  - OLU
+  - 0N2
+  - ON2
+  - 0PX
+  - OPX
+  - 0PY
+  - OPY
+  - 0PZ
+  - OPZ
+  - 0Q0
+  - OQO
+  - 0VG
+  - OVG
+  - 1MK
+  - IMK
+  - UPZ
+  - UQ2
+  - UQZ
+  - WKD
+  - WRT
+  - WRU
+  - WS4
+  - WSE
+  - WUD
+  - WWM
+  - WWN
+  - WWQ
+  - WWX
+  - X09
+  - XO9
+  - X0A
+  - XOA
+  - X0B
+  - XOB
+  - X0C
+  - XOC
+  - X13
+  - XI3
+  - X14
+  - XI4
+  - X24
+  - X27
+  - X2A
+  - X68
+  - X78
+  - XAU
+  - XAV
+  - XCJ
+  - XCK
+  - XL3
+  - XNK
+  - XWZ
+  - XZS
+  - XZT
+  - Y3P
+  - Y5L
+  - Y8F
+  - YAB
+  - YHA
+  - YHY
+  - YJ0
+  - YJO
+  - YKH
+  - YX3
+  - YY4
+  - Z2G
+  - Z2H
+  - Z6M
+  - Z6N
+  - ZDY
+  - ZNZ
+  - ZP0
+  - ZPO
+  :short_name: Mac Pro 3.0 x4 (Orig)
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5160 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: PC5300 DDR2 ECC
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 7300 GT
+    :graphics_card_vram_type: GDDR2 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 4 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_User_Guide.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1558
+    :geekbench_3_32_mc: 5335
+    :geekbench_3_64_sc: 1677
+    :geekbench_3_64_mc: 5853
+  :model_types_attributes:
+  - :original_price:
+      :us: 3299
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 3.0 (2,1)'
+  :model_number: A1186
+  :model_identifier: MacPro2,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 08S
+  - O8S
+  - 09G
+  - O9G
+  - 09H
+  - O9H
+  - 0GN
+  - OGN
+  - 0GP
+  - OGP
+  - 0GV
+  - OGV
+  - 0HA
+  - OHA
+  - 0KT
+  - OKT
+  - 0KU
+  - OKU
+  - 0KV
+  - OKV
+  - 0KW
+  - OKW
+  - 0KX
+  - OKX
+  - 0KY
+  - OKY
+  - 0KZ
+  - OKZ
+  - 0L0
+  - OLO
+  - 0L1
+  - OL1
+  - OLI
+  - 0L2
+  - OL2
+  - 0L3
+  - OL3
+  - 0L4
+  - OL4
+  - 0L5
+  - OL5
+  - 0L6
+  - 0L6
+  - 0L7
+  - OL7
+  - 0L8
+  - OL8
+  - 0L9
+  - OL9
+  - 0LA
+  - OLA
+  - 0LB
+  - OLB
+  - 0LC
+  - OLC
+  - 0LD
+  - OLD
+  - 0LE
+  - OLE
+  - 0LH
+  - OLH
+  - 0LL
+  - OLL
+  - 0LM
+  - OLM
+  - 0LN
+  - OLN
+  - 0LP
+  - OLP
+  - 0LS
+  - OLS
+  - 0LT
+  - OLT
+  - 0LU
+  - OLU
+  - 0N2
+  - ON2
+  - 0PX
+  - OPX
+  - 0PY
+  - OPY
+  - 0PZ
+  - OPZ
+  - 0Q0
+  - OQO
+  - 0VG
+  - OVG
+  - 1MK
+  - IMK
+  - UPZ
+  - UQ2
+  - UQZ
+  - WKD
+  - WRT
+  - WRU
+  - WS4
+  - WSE
+  - WUD
+  - WWM
+  - WWN
+  - WWQ
+  - WWX
+  - X09
+  - XO9
+  - X0A
+  - XOA
+  - X0B
+  - XOB
+  - X0C
+  - XOC
+  - X13
+  - XI3
+  - X14
+  - XI4
+  - X24
+  - X27
+  - X2A
+  - X68
+  - X78
+  - XAU
+  - XAV
+  - XCJ
+  - XCK
+  - XL3
+  - XNK
+  - XWZ
+  - XZS
+  - XZT
+  - Y3P
+  - Y5L
+  - Y8F
+  - YAB
+  - YHA
+  - YHY
+  - YJ0
+  - YJO
+  - YKH
+  - YX3
+  - YY4
+  - Z2G
+  - Z2H
+  - Z6M
+  - Z6N
+  - ZDY
+  - ZNZ
+  - ZP0
+  - ZPO
+  :short_name: Mac Pro 3.0 x4 (2,1)
+  :released_at: 2007-04-04
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: Q. Core Xeon X5365 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 3 GHz (Built-in)
+    :processor_l2_cache: 8 MB
+    :memory_type: PC5300 DDR2 ECC
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 7300 GT
+    :graphics_card_vram_type: GDDR2 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 4 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_User_Guide.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1552
+    :geekbench_3_32_mc: 10433
+    :geekbench_3_64_sc: 1662
+    :geekbench_3_64_mc: 11071
+  :model_types_attributes:
+  - :original_price:
+      :us: 3999
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.8 (2008)'
+  :model_number: A1186
+  :model_identifier: MacPro3,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 12K
+  - 14L
+  - 16U
+  - 1BJ
+  - 1GP
+  - 1L1
+  - 1LS
+  - 1LY
+  - 1M3
+  - 1Z9
+  - 1ZA
+  - '200'
+  - 27K
+  - 2BS
+  - 2DW
+  - 2EE
+  - 2MB
+  - 31E
+  - 31F
+  - '329'
+  - 4R4
+  - 5J4
+  - 5JA
+  - 5JB
+  - 5U8
+  - 7AQ
+  - XYK
+  - XYL
+  - YKH
+  :short_name: Mac Pro 2.8 x4 (2008)
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Q. Core Xeon E5462
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: 1.6 GHz (1600 MHz) 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l2_cache: 12 MB
+    :memory_type: PC6400 DDR2 ECC
+    :memory_speed: 800 MHz
+    :max_memory: 64 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 2600 XT
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early_2008.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1525
+    :geekbench_3_32_mc: 5210
+    :geekbench_3_64_sc: 1640
+    :geekbench_3_64_mc: 5516
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.8 (2008)'
+  :model_number: A1186
+  :model_identifier: MacPro3,1
+  :order_number:
+  - MA970LL/A
+  :serial_number:
+  - 12K
+  - 14L
+  - 16U
+  - 1BJ
+  - 1GP
+  - 1L1
+  - 1LS
+  - 1LY
+  - 1M3
+  - 1Z9
+  - 1ZA
+  - '200'
+  - 27K
+  - 2BS
+  - 2DW
+  - 2EE
+  - 2MB
+  - 31E
+  - 31F
+  - '329'
+  - 4R4
+  - 5J4
+  - 5JA
+  - 5JB
+  - 5U8
+  - 7AQ
+  - XYK
+  - XYL
+  - YKH
+  :short_name: Mac Pro 2.8 x8 (2008)
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Q. Core Xeon E5462 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: 1.6 GHz (1600 MHz) 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l2_cache: 12 MB
+    :memory_type: PC6400 DDR2 ECC
+    :memory_speed: 800 MHz
+    :max_memory: 64 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 2600 XT
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early_2008.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1531
+    :geekbench_3_32_mc: 10383
+    :geekbench_3_64_sc: 1650
+    :geekbench_3_64_mc: 11214
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+      :es: 2449
+      :fr: 2499
+      :de: 2499
+      :ca: 2899
+      :uk: 1749
+      :au: 3999
+      :jp: 349800
+      :pt: 2499
+      :it: 2499
+      :nl: 2499
+      :at: 2499
+      :nz: 4699
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 3.0 (2008)'
+  :model_number: A1186
+  :model_identifier: MacPro3,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 12K
+  - 14L
+  - 16U
+  - 1BJ
+  - 1GP
+  - 1L1
+  - 1LS
+  - 1LY
+  - 1M3
+  - 1Z9
+  - 1ZA
+  - '200'
+  - 27K
+  - 2BS
+  - 2DW
+  - 2EE
+  - 2MB
+  - 31E
+  - 31F
+  - '329'
+  - 4R4
+  - 5J4
+  - 5JA
+  - 5JB
+  - 5U8
+  - 7AQ
+  - XYK
+  - XYL
+  - YKH
+  :short_name: Mac Pro 3.0 x8 (2008)
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Q. Core Xeon E5472 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: 1.6 GHz (1600 MHz) 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l2_cache: 12 MB (x2)
+    :memory_type: PC6400 DDR2 ECC
+    :memory_speed: 800 MHz
+    :max_memory: 64 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 2600 XT
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early_2008.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1589
+    :geekbench_3_32_mc: 10712
+    :geekbench_3_64_sc: 1746
+    :geekbench_3_64_mc: 11758
+  :model_types_attributes:
+  - :original_price:
+      :us: 3599
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 3.2 (2008)'
+  :model_number: A1186
+  :model_identifier: MacPro3,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 12K
+  - 14L
+  - 16U
+  - 1BJ
+  - 1GP
+  - 1L1
+  - 1LS
+  - 1LY
+  - 1M3
+  - 1Z9
+  - 1ZA
+  - '200'
+  - 27K
+  - 2BS
+  - 2DW
+  - 2EE
+  - 2MB
+  - 31E
+  - 31F
+  - '329'
+  - 4R4
+  - 5J4
+  - 5JA
+  - 5JB
+  - 5U8
+  - 7AQ
+  - XYK
+  - XYL
+  - YKH
+  :short_name: Mac Pro 3.2 x8 (2008)
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Q. Core Xeon X5482 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 771 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: 1.6 GHz (1600 MHz) 64-bit dual independent frontside buses.
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l2_cache: 12 MB (x2)
+    :memory_type: PC6400 DDR2 ECC
+    :memory_speed: 800 MHz
+    :max_memory: 64 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 2600 XT
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 19200
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.0+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 2 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early_2008.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1724
+    :geekbench_3_32_mc: 11637
+    :geekbench_3_64_sc: 1850
+    :geekbench_3_64_mc: 12490
+  :model_types_attributes:
+  - :original_price:
+      :us: 4399
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.66 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - MB871LL/A
+  :serial_number:
+  - 4PC
+  - 4PD
+  - 8MC
+  - 8PZ
+  - 9MD
+  - BXE
+  - CZ2
+  - E1D
+  :short_name: Mac Pro 2.66 x4 (2009)
+  :released_at: 2009-03-03
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon W3520
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 2.93 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1911
+    :geekbench_3_32_mc: 7156
+    :geekbench_3_64_sc: 2073
+    :geekbench_3_64_mc: 8034
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2199
+      :fr: 2299
+      :de: 2299
+      :ca: 2899
+      :uk: 1899
+      :au: 4499
+      :jp: 278800
+      :fi: 2299
+      :pt: 2299
+      :it: 2299
+      :nl: 2299
+      :at: 2299
+      :nz: 5599
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.93 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 4PC
+  - 4PD
+  - 8MC
+  - 8PZ
+  - 9MD
+  - BXE
+  - CZ2
+  - E1D
+  :short_name: Mac Pro 2.93 x4 (2009)
+  :released_at: 2009-03-03
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon W3540
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2062
+    :geekbench_3_32_mc: 7806
+    :geekbench_3_64_sc: 2135
+    :geekbench_3_64_mc: 8561
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.33 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 4PC
+  - 4PD
+  - 8MC
+  - 8PZ
+  - 9MD
+  - BXE
+  - CZ2
+  - E1D
+  :short_name: Mac Pro 3.33 x4 (2009)
+  :released_at: 2009-12-04
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon W3580
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2265
+    :geekbench_3_32_mc: 8690
+    :geekbench_3_64_sc: 2519
+    :geekbench_3_64_mc: 9942
+  :model_types_attributes:
+  - :original_price:
+      :us: 3699
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.26 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - MB535LL/A
+  :serial_number:
+  - 20G
+  - 2OG
+  - 20H
+  - 2OH
+  - 8TU
+  - 8Q0
+  - 8QO
+  - 8XG
+  - BXD
+  - E1C
+  - 9MC
+  :short_name: Mac Pro 2.26 x8 (2009)
+  :released_at: 2009-03-03
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon E5520 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: 5.86 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". The system self reports that it has a 5.86 GT/s "processor interconnect
+      speed".'
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB (x2)
+    :processor_turbo_boost: 2.53 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18700
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1673
+    :geekbench_3_32_mc: 12256
+    :geekbench_3_64_sc: 1810
+    :geekbench_3_64_mc: 13837
+  :model_types_attributes:
+  - :original_price:
+      :us: 3299
+      :es: 2899
+      :fr: 2999
+      :de: 2999
+      :ca: 3799
+      :uk: 2499
+      :au: 5899
+      :jp: 358800
+      :fi: 2999
+      :pt: 2999
+      :it: 2999
+      :nl: 2999
+      :at: 2999
+      :nz: 7299
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.66 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 20G
+  - 2OG
+  - 20H
+  - 2OH
+  - 8TU
+  - 8Q0
+  - 8QO
+  - 8XG
+  - BXD
+  - E1C
+  - 9MC
+  :short_name: Mac Pro 2.66 x8 (2009)
+  :released_at: 2009-03-03
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon X5550 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". The system self reports that it has a 6.4 GT/s "processor interconnect
+      speed".'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB (x2)
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18700
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1975
+    :geekbench_3_32_mc: 14673
+    :geekbench_3_64_sc: 2157
+    :geekbench_3_64_mc: 16503
+  :model_types_attributes:
+  - :original_price:
+      :us: 4699
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.93 (2009/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro4,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 20G
+  - 2OG
+  - 20H
+  - 2OH
+  - 8TU
+  - 8Q0
+  - 8QO
+  - 8XG
+  - BXD
+  - E1C
+  - 9MC
+  :short_name: Mac Pro 2.93 x8 (2009)
+  :released_at: 2009-03-03
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Q. Core Xeon X5570 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Mac Pro
+      subsystems". The system self reports that it has a 6.4 GT/s "processor interconnect
+      speed".'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB (x2)
+    :processor_turbo_boost: 3.33 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 512 MB
+    :display: Up to 8 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0, AP
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18700
+    :wifi: 802.11a/b/g/n (Opt)
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Mac_Pro_Early2009_4707_UG.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2117
+    :geekbench_3_32_mc: 15740
+    :geekbench_3_64_sc: 2302
+    :geekbench_3_64_mc: 17648
+  :model_types_attributes:
+  - :original_price:
+      :us: 5899
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.8 (2010/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MC250LL/A
+  - MC560LL/A
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 2.8 x4 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon W3530
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1992
+    :geekbench_3_32_mc: 7511
+    :geekbench_3_64_sc: 2139
+    :geekbench_3_64_mc: 8369
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2399
+      :fr: 2399
+      :de: 2399
+      :ca: 2599
+      :uk: 1999
+      :au: 3499
+      :jp: 228800
+      :fi: 2499
+      :pt: 2449
+      :it: 2399
+      :nl: 2399
+      :at: 2399
+      :nz: 4499
+      :mx: 39999
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.2 (2010/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 3.2 x4 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon W3565
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2199
+    :geekbench_3_32_mc: 8438
+    :geekbench_3_64_sc: 2407
+    :geekbench_3_64_mc: 9541
+  :model_types_attributes:
+  - :original_price:
+      :us: 2899
+      :es: 2799
+      :fr: 2799
+      :de: 2799
+      :ca: 3029
+      :jp: 267755
+      :fi: 2899
+      :it: 2799
+      :nl: 2799
+      :at: 2799
+      :mx: 46134
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Six Core" 3.33 (2010/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 3.33 x6 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon W3680
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (6 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x6
+    :processor_l2_cache: 256k (x6), 12 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2526
+    :geekbench_3_32_mc: 13969
+    :geekbench_3_64_sc: 2745
+    :geekbench_3_64_mc: 15541
+  :model_types_attributes:
+  - :original_price:
+      :us: 3699
+      :es: 3599
+      :fr: 3599
+      :de: 3599
+      :ca: 3889
+      :uk: 2999
+      :au: 5299
+      :jp: 345665
+      :fi: 3699
+      :pt: 3599
+      :it: 3599
+      :nl: 3599
+      :at: 3599
+      :nz: 6852
+      :mx: 58403
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.4 (2010/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MC561LL/A
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 2.4 x8 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon E5620 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 5.86 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 5.86 GT/s.'
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 12 MB (x2)
+    :processor_turbo_boost: 2.66 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1877
+    :geekbench_3_32_mc: 13917
+    :geekbench_3_64_sc: 2000
+    :geekbench_3_64_mc: 15462
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :es: 3399
+      :fr: 3399
+      :de: 3399
+      :ca: 3599
+      :uk: 2799
+      :au: 4899
+      :jp: 328800
+      :fi: 3499
+      :pt: 3449
+      :it: 3399
+      :nl: 3399
+      :at: 3399
+      :nz: 6299
+      :mx: 54999
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.66 (2010/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 2.66 x12 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon X5650 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2123
+    :geekbench_3_32_mc: 22383
+    :geekbench_3_64_sc: 2326
+    :geekbench_3_64_mc: 25131
+  :model_types_attributes:
+  - :original_price:
+      :us: 4999
+      :es: 4899
+      :fr: 4899
+      :de: 4899
+      :ca: 5199
+      :uk: 3999
+      :au: 6999
+      :jp: 474800
+      :fi: 4999
+      :pt: 4899
+      :it: 4899
+      :nl: 4899
+      :at: 4899
+      :nz: 9299
+      :mx: 77999
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.93 (2010/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - EUE
+  - EUF
+  - EUG
+  - EUH
+  - GWR
+  - GY5
+  - GZH
+  - GZJ
+  - GZK
+  - GZL
+  - GZM
+  - H0X
+  - HOX
+  - H2N
+  - H2P
+  - H97
+  - H99
+  - HF7
+  - HF8
+  - HF9
+  - HFA
+  - HFC
+  - HFD
+  - HFF
+  - HFG
+  - HFJ
+  - HFK
+  - HFL
+  - HFN
+  - HG1
+  - HG3
+  - HP9
+  - HPA
+  :short_name: Mac Pro 2.93 x12 (2010)
+  :released_at: 2010-07-27
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon X5670 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.33 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2304
+    :geekbench_3_32_mc: 24274
+    :geekbench_3_64_sc: 2492
+    :geekbench_3_64_mc: 26926
+  :model_types_attributes:
+  - :original_price:
+      :us: 6199
+      :es: 6099
+      :fr: 6099
+      :de: 6099
+      :ca: 6499
+      :jp: 591825
+      :fi: 6199
+      :it: 6099
+      :nl: 6099
+      :at: 6099
+      :mx: 95599
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 2.8 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MC915LL/A
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 2.8 x4 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon W3530
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1992
+    :geekbench_3_32_mc: 7511
+    :geekbench_3_64_sc: 2139
+    :geekbench_3_64_mc: 8369
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2899
+      :fr: 2899
+      :de: 2899
+      :ca: 3099
+      :uk: 2399
+      :au: 3799
+      :jp: 278800
+      :fi: 2999
+      :pt: 2899
+      :it: 2899
+      :nl: 2899
+      :at: 2899
+      :nz: 5299
+      :mx: 47999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.2 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 3.2 x4 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon W3565
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2199
+    :geekbench_3_32_mc: 8438
+    :geekbench_3_64_sc: 2407
+    :geekbench_3_64_mc: 9541
+  :model_types_attributes:
+  - :original_price:
+      :us: 3399
+      :es: 3299
+      :fr: 3299
+      :de: 3299
+      :ca: 3529
+      :jp: 317755
+      :fi: 3399
+      :it: 3299
+      :nl: 3299
+      :at: 3299
+      :nz: 6117
+      :mx: 54134
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Six Core" 3.33 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 3.33 x6 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon W3680
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (6 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x6
+    :processor_l2_cache: 256k (x6), 12 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2526
+    :geekbench_3_32_mc: 13969
+    :geekbench_3_64_sc: 2745
+    :geekbench_3_64_mc: 15541
+  :model_types_attributes:
+  - :original_price:
+      :us: 4199
+      :es: 4099
+      :fr: 4099
+      :de: 4099
+      :ca: 4389
+      :uk: 3399
+      :au: 5479
+      :jp: 395665
+      :fi: 4199
+      :pt: 4099
+      :it: 4099
+      :nl: 4099
+      :at: 4099
+      :nz: 7752
+      :mx: 66403
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Eight Core" 2.4 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 2.4 x8 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: Q. Core Xeon E5620 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB
+    :processor_turbo_boost: 2.66 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1877
+    :geekbench_3_32_mc: 13917
+    :geekbench_3_64_sc: 2000
+    :geekbench_3_64_mc: 15462
+  :model_types_attributes:
+  - :original_price:
+      :us: 3774
+      :es: 3674
+      :fr: 3674
+      :de: 3674
+      :ca: 3899
+      :jp: 354295
+      :fi: 3774
+      :it: 3674
+      :nl: 3674
+      :at: 3674
+      :nz: 6722
+      :mx: 47999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.66 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 2.66 x12 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon X5650 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2123
+    :geekbench_3_32_mc: 22383
+    :geekbench_3_64_sc: 2326
+    :geekbench_3_64_mc: 25131
+  :model_types_attributes:
+  - :original_price:
+      :us: 5274
+      :es: 5174
+      :fr: 5174
+      :de: 5174
+      :ca: 5499
+      :jp: 500455
+      :fi: 5274
+      :it: 5174
+      :nl: 5174
+      :at: 5174
+      :nz: 9789
+      :mx: 81699
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.93 (Server 2010)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - HPV
+  - HPW
+  - HPY
+  :short_name: Mac Pro 2.93 x12 Server
+  :released_at: 2010-11-05
+  :discontinued_at: 2012-06-11
+  :details:
+    :processor_type: 6 Core Xeon X5670 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This has a "QuickPath Interconnect" (QPI) system described
+      as a "bidirectional, point-to-point connection" that provides "quick access
+      to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional" system
+      bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.33 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2304
+    :geekbench_3_32_mc: 24274
+    :geekbench_3_64_sc: 2492
+    :geekbench_3_64_mc: 26926
+  :model_types_attributes:
+  - :original_price:
+      :us: 6474
+      :es: 6374
+      :fr: 6374
+      :de: 6374
+      :ca: 6799
+      :jp: 617320
+      :fi: 6474
+      :it: 6374
+      :nl: 6374
+      :at: 6374
+      :nz: 12242
+      :mx: 99299
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.2 (2012/Nehalem)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MD770LL/A
+  :serial_number:
+  - F4MC
+  - F4MD
+  - F4MG
+  - F4MH
+  - F4YY
+  - F500
+  - F648
+  - F649
+  - F64C
+  - F64D
+  - F64F
+  - F6T9
+  - F6TC
+  - F6TD
+  :short_name: Mac Pro 3.2 x4 (2012)
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: Q. Core Xeon W3565
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2199
+    :geekbench_3_32_mc: 8438
+    :geekbench_3_64_sc: 2407
+    :geekbench_3_64_mc: 9541
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2665
+      :fr: 2599
+      :de: 2399
+      :ca: 2549
+      :uk: 2049
+      :au: 2999
+      :jp: 218800
+      :fi: 2699
+      :pt: 2490
+      :it: 2419
+      :nl: 2399
+      :at: 2399
+      :nz: 3999
+      :mx: 42999
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Six Core" 3.33 (2012/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MC
+  - F4MD
+  - F4MG
+  - F4MH
+  - F4YY
+  - F500
+  - F648
+  - F649
+  - F64C
+  - F64D
+  - F64F
+  - F6T9
+  - F6TC
+  - F6TD
+  :short_name: Mac Pro 3.33 x6 (2012)
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon W3680
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (6 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x6
+    :processor_l2_cache: 256k (x6), 12 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2526
+    :geekbench_3_32_mc: 13969
+    :geekbench_3_64_sc: 2745
+    :geekbench_3_64_mc: 15541
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 3049
+      :au: 3599
+      :jp: 262800
+      :nz: 4799
+      :mx: 50999
+    :details:
+      :standard_memory: 6 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.4 (2012/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MD771LL/A
+  :serial_number:
+  - F4MC
+  - F4MD
+  - F4MG
+  - F4MH
+  - F4YY
+  - F500
+  - F648
+  - F649
+  - F64C
+  - F64D
+  - F64F
+  - F6T9
+  - F6TC
+  - F6TD
+  :short_name: Mac Pro 2.4 x12 (2012)
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon E5645 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 2.67 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1916
+    :geekbench_3_32_mc: 20107
+    :geekbench_3_64_sc: 2058
+    :geekbench_3_64_mc: 22053
+  :model_types_attributes:
+  - :original_price:
+      :us: 3799
+      :es: 3998
+      :fr: 3899
+      :de: 3399
+      :ca: 3849
+      :uk: 3099
+      :au: 4599
+      :jp: 328800
+      :fi: 3999
+      :pt: 3499
+      :it: 3428
+      :nl: 3399
+      :at: 3399
+      :nz: 6099
+      :mx: 65999
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.66 (2012/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MC
+  - F4MD
+  - F4MG
+  - F4MH
+  - F4YY
+  - F500
+  - F648
+  - F649
+  - F64C
+  - F64D
+  - F64F
+  - F6T9
+  - F6TC
+  - F6TD
+  :short_name: Mac Pro 2.66 x12 (2012)
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon X5650 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2123
+    :geekbench_3_32_mc: 22383
+    :geekbench_3_64_sc: 2326
+    :geekbench_3_64_mc: 25131
+  :model_types_attributes:
+  - :original_price:
+      :us: 4999
+      :de: 4899
+      :ca: 5049
+      :au: 6039
+      :jp: 434400
+      :nl: 4899
+      :at: 4899
+      :nz: 8019
+      :mx: 85199
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 3.06 (2012/Westmere)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MC
+  - F4MD
+  - F4MG
+  - F4MH
+  - F4YY
+  - F500
+  - F648
+  - F649
+  - F64C
+  - F64D
+  - F64F
+  - F6T9
+  - F6TC
+  - F6TD
+  :short_name: Mac Pro 3.06 x12 (2012)
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon X5675 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Sockets
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2388
+    :geekbench_3_32_mc: 25208
+    :geekbench_3_64_sc: 2277
+    :geekbench_3_64_mc: 26146
+  :model_types_attributes:
+  - :original_price:
+      :us: 6199
+      :ca: 6249
+      :au: 7479
+      :jp: 540000
+      :nz: 9939
+      :mx: 104399
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.2 (Server 2012)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - MD772LL/A
+  :serial_number:
+  - F4MF
+  - F4MJ
+  :short_name: Mac Pro 3.2 x4 S 2012
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: Q. Core Xeon W3565
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 4.8 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 4.8 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-8500 DDR3 ECC
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2199
+    :geekbench_3_32_mc: 8438
+    :geekbench_3_64_sc: 2407
+    :geekbench_3_64_mc: 9541
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 3099
+      :fr: 3099
+      :de: 2899
+      :ca: 3049
+      :uk: 2449
+      :au: 3599
+      :jp: 258800
+      :fi: 3199
+      :pt: 2999
+      :it: 2923
+      :nl: 2899
+      :at: 2899
+      :nz: 4799
+      :mx: 51999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Six Core" 3.33 (Server 2012)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MF
+  - F4MJ
+  :short_name: Mac Pro 3.33 x6 S 2012
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon W3680
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 1 (6 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x6
+    :processor_l2_cache: 256k (x6), 12 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 48 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2526
+    :geekbench_3_32_mc: 13969
+    :geekbench_3_64_sc: 2745
+    :geekbench_3_64_mc: 15541
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 3549
+      :au: 4199
+      :jp: 302800
+      :nz: 5599
+      :mx: 59999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.4 (Server 2012)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MF
+  - F4MJ
+  :short_name: Mac Pro 2.4 x12 S 2012
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon E5645 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 2.67 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 1916
+    :geekbench_3_32_mc: 20107
+    :geekbench_3_64_sc: 2058
+    :geekbench_3_64_mc: 22053
+  :model_types_attributes:
+  - :original_price:
+      :us: 4074
+      :ca: 4124
+      :au: 4889
+      :jp: 353400
+      :nz: 6519
+      :mx: 69199
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.66 (Server 2012)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MF
+  - F4MJ
+  :short_name: Mac Pro 2.66 x12 S 2012
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon X5650 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2123
+    :geekbench_3_32_mc: 22383
+    :geekbench_3_64_sc: 2326
+    :geekbench_3_64_mc: 25131
+  :model_types_attributes:
+  - :original_price:
+      :us: 5274
+      :ca: 5324
+      :au: 6329
+      :jp: 459000
+      :nz: 8439
+      :mx: 88399
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 3.06 (Server 2012)'
+  :model_number: A1289
+  :model_identifier: MacPro5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F4MF
+  - F4MJ
+  :short_name: Mac Pro 3.06 x12 S 2012
+  :released_at: 2012-06-11
+  :discontinued_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon X5675 x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1366 Socket
+    :processor_count: 2 (12 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 6.4 GT/s
+    :processor_bus_details: '*This model has a "QuickPath Interconnect" (QPI) system
+      described as a "bidirectional, point-to-point connection" that provides "quick
+      access to the disk, I/O, and other Mac Pro subsystems" in lieu of a "traditional"
+      system bus. Intel reports that it runs at 6.4 GT/s.'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 12 MB (x2)
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-10600 DDR3 ECC
+    :memory_speed: 1333 MHz
+    :max_memory: 128 GB
+    :memory_slots: 8
+    :graphics_card: Radeon HD 5770
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 1 GB
+    :display: Up to 6 Displays
+    :display_resolution: 2560x1600
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 18X DL "SuperDrive"
+    :expansion_slots: 4 PCIe 2.0
+    :dimensions: 510.5x205.7x474.9
+    :weight: 18100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: Gigabit (x2)
+    :usb_ports: 5 (2.0)
+    :firewire_ports: 4 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_mid2010_ug.pdf
+    :power: Apple reports that the line voltage is "100-120V AC or 200-240V AC (wide-range
+      power supply input voltage)" and the maximum current is "12A (low-voltage range)
+      or 6A (high-voltage range)".
+    :geekbench_3_32_sc: 2388
+    :geekbench_3_32_mc: 25208
+    :geekbench_3_64_sc: 2277
+    :geekbench_3_64_mc: 26146
+  :model_types_attributes:
+  - :original_price:
+      :us: 6474
+      :ca: 6524
+      :au: 7769
+      :jp: 564600
+      :nz: 10359
+      :mx: 107599
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM) X2"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: Mac Pro (Gray Cylinder)
+  :model: Mac Pro
+  :model_name: '"Quad Core" 3.7 (Late 2013)'
+  :model_number: A1481
+  :model_identifier: MacPro6,1
+  :order_number:
+  - ME253LL/A
+  :serial_number:
+  - F9VM
+  :short_name: Mac Pro 3.7 x4 (2013)
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: Q. Core Xeon E5-1620v2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 2011 Socket
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.7 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that connects between the processor and chipset in lieu of the traditional
+      system bus.'
+    :processor_cache_bus_speed: 3.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 10 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-15000 DDR3 ECC
+    :memory_speed: 1866 MHz
+    :max_memory: 128 GB
+    :memory_slots: 4
+    :graphics_card: AMD FirePro D300 x2
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 2 GB
+    :display: Up to 6 Displays
+    :display_resolution: 4K (3840x2160)
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :dimensions: 251.4x167.6
+    :weight: 4990
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_late-2013_gs.pdf
+    :power: Apple reports that the line voltage is "100-240V AC" and the maximum continuous
+      power is 450W. The typical acoustical performance, "sound pressure level (operator
+      position)" is 12 dBA at idle.
+    :geekbench_3_32_sc: 3222
+    :geekbench_3_32_mc: 12780
+    :geekbench_3_64_sc: 3578
+    :geekbench_3_64_mc: 14426
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 3049
+      :fr: 2999
+      :de: 2999
+      :ca: 3099
+      :uk: 2499
+      :au: 3999
+      :jp: 318800
+      :fi: 3099
+      :pt: 3099
+      :it: 3049
+      :nl: 3049
+      :at: 2999
+      :nz: 4999
+      :mx: 49999
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: Mac Pro (Gray Cylinder)
+  :model: Mac Pro
+  :model_name: '"Six Core" 3.5 (Late 2013)'
+  :model_number: A1481
+  :model_identifier: MacPro6,1
+  :order_number:
+  - MD878LL/A
+  :serial_number:
+  - F693
+  :short_name: Mac Pro 3.5 x6 (2013)
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: 6 Core Xeon E5-1650v2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 2011 Socket
+    :processor_count: 1 (6 Cores)
+    :processor_speed: 3.5 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that connects between the processor and chipset in lieu of the traditional
+      system bus.'
+    :processor_cache_bus_speed: 3.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x6
+    :processor_l2_cache: 256k (x6), 12 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-15000 DDR3 ECC
+    :memory_speed: 1866 MHz
+    :max_memory: 128 GB
+    :memory_slots: 4
+    :graphics_card: AMD FirePro D500 x2
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 3 GB
+    :display: Up to 6 Displays
+    :display_resolution: 4K (3840x2160)
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :dimensions: 251.4x167.6
+    :weight: 4990
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_late-2013_gs.pdf
+    :power: Apple reports that the line voltage is "100-240V AC" and the maximum continuous
+      power is 450W. The typical acoustical performance, "sound pressure level (operator
+      position)" is 12 dBA at idle.
+    :geekbench_3_32_sc: 3211
+    :geekbench_3_32_mc: 18266
+    :geekbench_3_64_sc: 3574
+    :geekbench_3_64_mc: 20654
+  :model_types_attributes:
+  - :original_price:
+      :us: 3999
+      :es: 4049
+      :fr: 3999
+      :de: 3999
+      :ca: 4099
+      :uk: 3299
+      :au: 5299
+      :jp: 418800
+      :fi: 4099
+      :pt: 4099
+      :it: 4049
+      :nl: 4049
+      :at: 3999
+      :nz: 6599
+      :mx: 65999
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 3 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: Mac Pro (Gray Cylinder)
+  :model: Mac Pro
+  :model_name: '"Eight Core" 3.0 (Late 2013)'
+  :model_number: A1481
+  :model_identifier: MacPro6,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - F694
+  :short_name: Mac Pro 3.0 x8 (2013)
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: 8 Core Xeon E5-1680v2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 2011 Socket
+    :processor_count: 1 (8 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that connects between the processor and chipset in lieu of the traditional
+      system bus.'
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 25 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-15000 DDR3 ECC
+    :memory_speed: 1866 MHz
+    :max_memory: 128 GB
+    :memory_slots: 4
+    :graphics_card: AMD FirePro D300/D500 x2
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 3 GB
+    :display: Up to 6 Displays
+    :display_resolution: 4K (3840x2160)
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :dimensions: 251.4x167.6
+    :weight: 4990
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_late-2013_gs.pdf
+    :power: Apple reports that the line voltage is "100-240V AC" and the maximum continuous
+      power is 450W. The typical acoustical performance, "sound pressure level (operator
+      position)" is 12 dBA at idle.
+    :geekbench_3_32_sc: 3182
+    :geekbench_3_32_mc: 22761
+    :geekbench_3_64_sc: 3566
+    :geekbench_3_64_mc: 25648
+  :model_types_attributes:
+  - :original_price:
+      :us: 4999
+      :es: 5049
+      :fr: 4999
+      :de: 4999
+      :ca: 5099
+      :uk: 4099
+      :au: 6449
+      :jp: 588
+      :fi: 5099
+      :pt: 5099
+      :it: 5049
+      :nl: 5049
+      :at: 4999
+      :nz: 8199
+      :mx: 81999
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+  - :original_price:
+      :us: 5499
+      :es: 5549
+      :fr: 5499
+      :de: 5499
+      :ca: 5599
+      :uk: 4499
+      :au: 7099
+      :jp: 318800
+      :fi: 5599
+      :pt: 5599
+      :it: 5549
+      :nl: 5549
+      :at: 5499
+      :nz: 8999
+      :mx: 89999
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 3 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: Mac Pro (Gray Cylinder)
+  :model: Mac Pro
+  :model_name: '"Twelve Core" 2.7 (Late 2013)'
+  :model_number: A1481
+  :model_identifier: MacPro6,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Mac Pro 2.7 x12 (2013)
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: 12 Core Xeon E5-2697v2
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 2011 Socket
+    :processor_count: 1 (12 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that connects between the processor and chipset in lieu of the traditional
+      system bus. It also uses QPI (QuickPath Interconnect) for connections within
+      the single processor.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x12
+    :processor_l2_cache: 256k (x12), 30 MB
+    :processor_turbo_boost: 3.5 GHz
+    :memory_type: PC3-15000 DDR3 ECC
+    :memory_speed: 1866 MHz
+    :max_memory: 128 GB
+    :memory_slots: 4
+    :graphics_card: AMD FirePro D300/D500 x2
+    :graphics_card_vram_type: GDDR5 SDRAM
+    :graphics_card_max_vram: 3 GB
+    :display: Up to 6 Displays
+    :display_resolution: 4K (3840x2160)
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :dimensions: 251.4x167.6
+    :weight: 4990
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/mac_pro_late-2013_gs.pdf
+    :power: Apple reports that the line voltage is "100-240V AC" and the maximum continuous
+      power is 450W. The typical acoustical performance, "sound pressure level (operator
+      position)" is 12 dBA at idle.
+    :geekbench_3_32_sc: 2819
+    :geekbench_3_32_mc: 28882
+    :geekbench_3_64_sc: 3177
+    :geekbench_3_64_mc: 32797
+  :model_types_attributes:
+  - :original_price:
+      :us: 6499
+      :es: 6549
+      :fr: 6499
+      :de: 6499
+      :ca: 6599
+      :uk: 5299
+      :au: 8249
+      :jp: 703800
+      :fi: 6599
+      :pt: 6599
+      :it: 6549
+      :nl: 6549
+      :at: 6499
+      :nz: 10589
+      :mx: 105999
+    :details:
+      :standard_memory: 12 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+  - :original_price:
+      :us: 6999
+      :es: 7049
+      :fr: 6999
+      :de: 6999
+      :ca: 7099
+      :uk: 5699
+      :au: 8899
+      :jp: 753500
+      :fi: 7099
+      :pt: 7099
+      :it: 7049
+      :nl: 7049
+      :at: 6999
+      :nz: 11389
+      :mx: 113999
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 3 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB

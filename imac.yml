@@ -1,0 +1,6722 @@
+---
+- :vendor: Apple
+  :subfamily: iMac (Bondi)
+  :model: iMac
+  :model_name: G3/233 Original - Bondi (Rev. A & B)
+  :model_number: M4984
+  :model_identifier: iMac,1
+  :order_number:
+  - M6709LL/A
+  - M6709LL/B
+  :serial_number:
+  - DFN
+  - DFP
+  - DHP
+  - DLT
+  - DWT
+  - E22
+  - E35
+  - E36
+  - EQL
+  - EUK
+  - EUL
+  - EUM
+  - EVL
+  - EVP
+  - EVQ
+  - EW1
+  - EW2
+  - EW3
+  - EW4
+  - FNH
+  :short_name: iMac G3/233 (Orig)
+  :released_at: 1998-05-06
+  :discontinued_at: 1999-01-05
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 117 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage IIc
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: EIDE (ATA-3)
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: Mezzanine
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x386.0x447.0
+    :weight: 18100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG3_originalUserManual.PDF
+    :power: 100V to 240V AC, 80W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1999
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: iMac (Fruit Colors)
+  :model: iMac
+  :model_name: G3/266 (Fruit Colors)
+  :model_number: M4984
+  :model_identifier: iMac,1
+  :order_number:
+  - M7345LL/A
+  - M7389LL/A
+  - M7390LL/A
+  - M7391LL/A
+  - M7392LL/A
+  :serial_number:
+  - AG5
+  - FL0
+  - FLM
+  - FLP
+  - FM1
+  - FM2
+  - FM3
+  - FM4
+  - FMB
+  - FMQ
+  - FMR
+  - FMT
+  - FMV
+  - FMW
+  - FMX
+  - FMY
+  - FMZ
+  - FPC
+  - FPD
+  - FPH
+  - FPJ
+  - FPK
+  - FQ9
+  - FVU
+  - FVV
+  - FVW
+  - FVX
+  - FVY
+  - FZE
+  - FZF
+  - FZH
+  - FZK
+  - G2F
+  - G2G
+  - G2H
+  - G2J
+  - G2K
+  - G2L
+  - G2M
+  - G2N
+  - G2P
+  - G2Q
+  - G2R
+  - G2S
+  - G2T
+  - G2U
+  - G2V
+  - G2W
+  - G2X
+  - G2Y
+  - G2Z
+  - G39
+  - GGQ
+  - GMC
+  - GMD
+  - GQ7
+  :short_name: iMac G3/266 (Fruit)
+  :released_at: 1999-01-05
+  :discontinued_at: 1999-04-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 266 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 133 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro Turbo
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: EIDE (ATA-3)
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x386.0x447.0
+    :weight: 18100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG3_originalUserManual.PDF
+    :power: 100V to 240V AC, 80W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :ca: 1849
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 6 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: iMac (Fruit Colors)
+  :model: iMac
+  :model_name: G3/333 (Fruit Colors)
+  :model_number: M4984
+  :model_identifier: iMac,1
+  :order_number:
+  - M7440LL/A
+  - M7441LL/A
+  - M7442LL/A
+  - M7443LL/A
+  - M7444LL/A
+  :serial_number:
+  - G0V
+  - G3H
+  - G3K
+  - G5L
+  - G5N
+  - G5P
+  - G5Q
+  - G5R
+  - G5S
+  - G5T
+  - G8Q
+  - G8T
+  - G8U
+  - G8V
+  - G8W
+  - G8X
+  - G8Y
+  - G8Z
+  - GBR
+  - GFT
+  - GRM
+  - GRN
+  - GSN
+  - GSP
+  - GSQ
+  - GT0
+  - GTO
+  - GT1
+  - GUR
+  - GUS
+  - GUT
+  - GUU
+  - GUV
+  - GUW
+  - GUX
+  - GUY
+  - GUZ
+  - GV0
+  - GV1
+  - GV2
+  - GV3
+  - GV4
+  - GV5
+  - GV6
+  - GV7
+  - GV8
+  - GV9
+  - GVK
+  - GYB
+  - GYC
+  - GYD
+  - GYE
+  - GYF
+  - H0G
+  - H0H
+  - H0J
+  - H0K
+  - H0M
+  - H68
+  - H69
+  - H70
+  - HC5
+  :short_name: iMac G3/333 (Fruit)
+  :released_at: 1999-04-14
+  :discontinued_at: 1999-10-05
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 333 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 166 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro Turbo
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: EIDE (ATA-3)
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x386.0x447.0
+    :weight: 18100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG3_originalUserManual.PDF
+    :power: 100V to 240V AC, 80W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :ca: 1849
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 6 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/350 (Slot Loading - Blueberry)
+  :model_number: M5521
+  :model_identifier: PowerMac2,1
+  :order_number:
+  - M7469LL/A
+  :serial_number:
+  - 9HT
+  - G42
+  - HCS
+  - HCV
+  - HEG
+  - HFS
+  - HQJ
+  - HSK
+  - HTH
+  - HTJ
+  - HTK
+  - HTL
+  - HTM
+  - HVE
+  - HVT
+  - HZA
+  - HZN
+  - HZP
+  - HZQ
+  - HZR
+  - J74
+  - J88
+  - J90
+  - J9O
+  - J6H
+  - J7D
+  - J7Q
+  - J7R
+  - J7S
+  - J7T
+  - J8F
+  - JEC
+  - JEK
+  - JEL
+  - JEM
+  - JEN
+  - JUR
+  - JVP
+  - YHT
+  :short_name: iMac G3/350 (SL)
+  :released_at: 1999-10-05
+  :discontinued_at: 2000-07-19
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 350 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 175 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 VR 2D/3D
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :ca: 1499
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/400 DV (Slot Loading - Fruit)
+  :model_number: M5521
+  :model_identifier: PowerMac2,1
+  :order_number:
+  - M7493LL/A
+  - M7671LL/A
+  - M7672LL/A
+  - M7673LL/A
+  - M7674LL/A
+  :serial_number:
+  - CJ7
+  - GGE
+  - H90
+  - H8S
+  - HAY
+  - HB5
+  - HB6
+  - HB7
+  - HCL
+  - HCM
+  - HCN
+  - HCP
+  - HCQ
+  - HD1
+  - HD2
+  - HD3
+  - HD4
+  - HD6
+  - HD7
+  - HD8
+  - HDB
+  - HDC
+  - HD9
+  - HDD
+  - HDK
+  - HDH
+  - HFT
+  - HQK
+  - HQL
+  - HQM
+  - HQN
+  - HSL
+  - HSM
+  - HSN
+  - HSP
+  - HSQ
+  - HSR
+  - HTC
+  - HTD
+  - HTE
+  - HTG
+  - HTT
+  - HTU
+  - HTV
+  - HTW
+  - HTX
+  - HTY
+  - HTZ
+  - HU0
+  - HU1
+  - HU2
+  - HU3
+  - HU4
+  - HU5
+  - HU6
+  - HU7
+  - HU8
+  - HU9
+  - HUA
+  - HUB
+  - HUC
+  - HUO
+  - HU0
+  - HVU
+  - HVV
+  - HVW
+  - HVX
+  - HVY
+  - HZ9
+  - J77
+  - J78
+  - J79
+  - J89
+  - J6N
+  - J6P
+  - J6Q
+  - J6S
+  - J6V
+  - J7A
+  - J7B
+  - J7C
+  - J7E
+  - J7F
+  - J7G
+  - J7H
+  - J7J
+  - J7K
+  - J8A
+  - J8B
+  - J8C
+  - J8D
+  - J8G
+  - J8H
+  - J8J
+  - J8K
+  - J8L
+  - J8M
+  - J8V
+  - JED
+  - JRH
+  - JST
+  - JV3
+  :short_name: iMac G3/400 DV
+  :released_at: 1999-10-05
+  :discontinued_at: 2000-07-19
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 VR 2D/3D
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1999
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/400 DV SE (Slot Loading)
+  :model_number: M5521
+  :model_identifier: PowerMac2,1
+  :order_number:
+  - M7668LL/A
+  :serial_number:
+  - HCW
+  - HCX
+  - HCY
+  - HD0
+  - HDO
+  - HDG
+  - HFU
+  - HQP
+  - HQS
+  - HTN
+  - HTP
+  - HTQ
+  - HTR
+  - HTS
+  - HVF
+  - HVG
+  - HVZ
+  - HZ8
+  - J0Y
+  - JOY
+  - J6T
+  - J8E
+  - J8W
+  - JEE
+  - JUX
+  :short_name: iMac G3/400 DV SE
+  :released_at: 1999-10-05
+  :discontinued_at: 2000-07-19
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 VR 2D/3D
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2299
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 13 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/350 (Summer 2000 - Indigo)
+  :model_number: M5521
+  :model_identifier: PowerMac2,2
+  :order_number:
+  - M7667LL/A
+  :serial_number:
+  - JVG
+  - JWQ
+  - JYG
+  - JYH
+  - K2N
+  - K2P
+  - K2Q
+  - K2R
+  :short_name: iMac G3/350 (S 00)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-02-22
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 350 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 175 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :ca: 1199
+      :jp: 98000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 7 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/400 DV (Summer 2000 - I/R)
+  :model_number: M5521
+  :model_identifier: PowerMac2,2
+  :order_number:
+  - M7639LL/A
+  - M7706LL/A
+  :serial_number:
+  - JAU
+  - JMS
+  - JQH
+  - JQM
+  - JQZ
+  - JR0
+  - JV5
+  - JV8
+  - JVK
+  - JY6
+  - KAG
+  - KBD
+  - KME
+  - KNV
+  - L2Z
+  :short_name: iMac G3/400 DV (S 00)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-02-22
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :ca: 1499
+      :jp: 118000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/450 DV+ (Summer 2000)
+  :model_number: M5521
+  :model_identifier: PowerMac2,2
+  :order_number:
+  - M7676LL/A
+  - M7647LL/A
+  - M7652LL/A
+  :serial_number:
+  - JAV
+  - JMQ
+  - JMT
+  - JQJ
+  - JR2
+  - JR3
+  - JV6
+  - JV9
+  - JVL
+  - JY7
+  - K4L
+  - KAH
+  - KAJ
+  - KQ6
+  :short_name: iMac G3/450 DV+ (S 00)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-02-22
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 450 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 225 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1999
+      :jp: 148000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/500 DV SE (Summer 2000)
+  :model_number: M5521
+  :model_identifier: PowerMac2,2
+  :order_number:
+  - M7651LL/A
+  - M7709LL/A
+  :serial_number:
+  - JB0
+  - JBO
+  - JMR
+  - JMU
+  - JQK
+  - JR5
+  - JR6
+  - JV7
+  - JVA
+  - JVM
+  - JY5
+  - KAK
+  :short_name: iMac G3/500 DV SE (S 00)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-02-22
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 250 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2299
+      :jp: 178000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/400 (Early 2001 - Indigo)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M7683LL/A
+  :serial_number:
+  - JMP
+  - KJG
+  - KJH
+  - KMD
+  - KWG
+  - KLX
+  :short_name: iMac G3/400 (E 01)
+  :released_at: 2001-02-22
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :ca: 1349
+      :uk: 799
+      :jp: 108000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/500 (Early 2001 - Flower/Blue)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M7669LL/A
+  - M8347LL/A
+  - M8348LL/A
+  :serial_number:
+  - KJL
+  - KJR
+  - LMT
+  - KM3
+  - KWH
+  :short_name: iMac G3/500 (E 01)
+  :released_at: 2001-02-22
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 500 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Ultra
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X CD-RW
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :ca: 1799
+      :uk: 999
+      :jp: 138000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/600 SE (Early 2001)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M7680LL/A
+  - M7675LL/A
+  - M7679LL/A
+  :serial_number:
+  - KLB
+  - KZ3
+  :short_name: iMac G3/600 (E 01)
+  :released_at: 2001-02-22
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 600 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Ultra
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X CD-RW
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/Z41023iMac.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2299
+      :uk: 1199
+      :jp: 158000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/500 (Summer 2001 - I/S)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M8582LL/A
+  - M8490LL/A
+  :serial_number:
+  - LFB
+  - LFS
+  - LFU
+  - LG8
+  - LGB
+  - LGR
+  - LLR
+  - LRF
+  - LRG
+  - LRL
+  - LUJ
+  - LUK
+  - MB6
+  - MDE
+  - MDH
+  :short_name: iMac G3/500 (S 01)
+  :released_at: 2001-07-18
+  :discontinued_at: 2003-03-18
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 500 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Ultra
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD, 4X CD-RW
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342102.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :ca: 1499
+      :uk: 799
+      :jp: 119800
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+  - :original_price:
+      :us: 999
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/600 (Summer 2001)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M8492LL/A
+  - M8546LL/A
+  :serial_number:
+  - KWF
+  - LFC
+  - LFX
+  - LFZ
+  - LGS
+  - LGT
+  - L13
+  - N0Q
+  - NOQ
+  - N4C
+  - MBQ
+  - MBW
+  - MZD
+  - MZG
+  :short_name: iMac G3/600 (S 01)
+  :released_at: 2001-07-18
+  :discontinued_at: 2003-03-18
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 600 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Ultra
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X CD-RW
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342102.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :ca: 1999
+      :uk: 999
+      :jp: 149800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 1299
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iMac (Slot Loading)
+  :model: iMac
+  :model_name: G3/700 SE (Summer 2001)
+  :model_number: M5521
+  :model_identifier: PowerMac4,1
+  :order_number:
+  - M8510LL/A
+  - M8554LL/A
+  :serial_number:
+  - LFD
+  - LG4
+  :short_name: iMac G3/700 SE (S 01)
+  :released_at: 2001-07-18
+  :discontinued_at: 2002-01-07
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage 128 Ultra
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 800x600
+    :hd_interface: Ultra ATA
+    :optical_drive: 4X CD-RW
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 381.0x381.0x434.3
+    :weight: 15700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342102.PDF
+    :power: 100V to 260V AC, 150W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2299
+      :uk: 1199
+      :jp: 179800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iMac G4 15" Flat Panel
+  :model: iMac
+  :model_name: G4/700 (Flat Panel)
+  :model_number: M6498
+  :model_identifier: PowerMac4,2
+  :order_number:
+  - M8672LL/A
+  - M7677LL/A
+  - M8672LL/B
+  - M7677LL/B
+  :serial_number:
+  - MAY
+  - L2T
+  - L3V
+  - L4C
+  - N3R
+  - N3S
+  - MQH
+  :short_name: iMac G4/700 FP
+  :released_at: 2002-01-07
+  :discontinued_at: 2003-02-04
+  :details:
+    :processor_type: PowerPC 7441 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz (7:1)
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.0" TFT
+    :display_resolution: 1024x768
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 10X CD-RW/"Combo"
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 328.9x383.5x269.2
+    :weight: 9700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 2049
+      :uk: 1149
+      :jp: 159800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 1499
+      :ca: 2399
+      :uk: 1299
+      :jp: 189800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iMac G4 15" Flat Panel
+  :model: iMac
+  :model_name: G4/800 (Flat Panel)
+  :model_number: M6498
+  :model_identifier: PowerMac4,2
+  :order_number:
+  - M8535LL/A
+  - M8535LL/B
+  :serial_number:
+  - LF4
+  - N3T
+  - MHD
+  - MDL
+  :short_name: iMac G4/800 FP
+  :released_at: 2002-01-07
+  :discontinued_at: 2003-02-04
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz (8:1)
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.0" TFT
+    :display_resolution: 1024x768
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 328.9x383.5x269.2
+    :weight: 9700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2899
+      :uk: 1599
+      :jp: 224800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iMac G4 17" Flat Panel
+  :model: iMac
+  :model_name: G4/800 17-Inch (Flat Panel)
+  :model_number: M6498
+  :model_identifier: PowerMac4,5
+  :order_number:
+  - M8812LL/A
+  :serial_number:
+  - INT
+  - 1NT
+  - L49
+  - L4G
+  - L4L
+  - N88
+  - N89
+  - N0S
+  - N05
+  - NOS
+  - N8A
+  - N8B
+  - NB3
+  - NZJ
+  - MZ9
+  :short_name: iMac G4/800 17 FP
+  :released_at: 2002-07-17
+  :discontinued_at: 2003-02-04
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz (8:1)
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 330.9x424.1x269.2
+    :weight: 10400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :ca: 3149
+      :uk: 1649
+      :jp: 249800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G4 15" Flat Panel
+  :model: iMac
+  :model_name: G4/800 - X Only (Flat Panel)
+  :model_number: M6498
+  :model_identifier: PowerMac4,2
+  :order_number:
+  - M9105LL/A
+  :serial_number:
+  - P18
+  - PI8
+  - P19
+  - PI9
+  - P34
+  - P35
+  - P36
+  - P37
+  - P82
+  - PS3
+  :short_name: iMac G4/800 17 FP (X)
+  :released_at: 2003-02-04
+  :discontinued_at: 2003-09-08
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz (8:1)
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.0" TFT
+    :display_resolution: 1024x768
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 32X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 328.9x383.5x269.2
+    :weight: 9700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1999
+      :uk: 999
+      :jp: 159800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iMac G4 17" Flat Panel
+  :model: iMac
+  :model_name: G4/1.0 17-Inch (Flat Panel)
+  :model_number: M6498
+  :model_identifier: PowerMac6,1
+  :order_number:
+  - M8935LL/A
+  :serial_number:
+  - EVT
+  - NHX
+  - NJ0
+  - NJO
+  - NL8
+  - NL9
+  - NLA
+  - SD3
+  :short_name: iMac G4/1.0 17 FP
+  :released_at: 2003-02-04
+  :discontinued_at: 2003-09-08
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 330.9x424.1x269.2
+    :weight: 10400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2799
+      :uk: 1449
+      :jp: 219800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G4 15" Flat Panel
+  :model: iMac
+  :model_name: G4/1.0 15-Inch "FP" (USB 2.0)
+  :model_identifier: PowerMac6,1
+  :order_number:
+  - M9285LL/A
+  :serial_number:
+  - PVJ
+  - PVK
+  - QB3
+  - Q83
+  - QB4
+  - Q84
+  - QB5
+  - Q85
+  - QB6
+  - Q86
+  :short_name: iMac G4/1.0 15 FP
+  :released_at: 2003-09-08
+  :discontinued_at: 2004-07-01
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.0" TFT
+    :display_resolution: 1024x768
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 32X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 328.9x383.5x269.2
+    :weight: 9700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1799
+      :uk: 999
+      :au: 2299
+      :jp: 159800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G4 17" Flat Panel
+  :model: iMac
+  :model_name: G4/1.25 17-Inch "FP" (USB 2.0)
+  :model_identifier: PowerMac6,1
+  :order_number:
+  - M9168LL/A
+  :serial_number:
+  - PJG
+  - PJH
+  - QB7
+  - Q87
+  - QB8
+  - Q88
+  - QBB
+  :short_name: iMac G4/1.25 17 FP
+  :released_at: 2003-09-08
+  :discontinued_at: 2004-07-01
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.25 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 330.9x424.1x269.2
+    :weight: 10400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2499
+      :uk: 1449
+      :au: 3199
+      :jp: 219800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G4 20" Flat Panel
+  :model: iMac
+  :model_name: G4/1.25 20-Inch "FP" (USB 2.0)
+  :model_identifier: PowerMac6,3
+  :order_number:
+  - M9290LL/A
+  :serial_number:
+  - PVW
+  - PVX
+  :short_name: iMac G4/1.25 20 FP
+  :released_at: 2003-11-18
+  :discontinued_at: 2004-07-01
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.25 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 20.0" TFT
+    :display_resolution: 1680x1050
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 353.8x530.8x269.2
+    :weight: 18200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/imac/0342069.PDF
+    :power: 90V to 246V AC, 130W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :ca: 2999
+      :uk: 1749
+      :au: 3898
+      :jp: 249800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/1.6 17-Inch
+  :model_number: A1058
+  :model_identifier: PowerMac8,1
+  :order_number:
+  - M9248LL/A
+  :serial_number:
+  - PP6
+  - PNX
+  - QC4
+  :short_name: iMac G5/1.6 17
+  :released_at: 2004-08-31
+  :discontinued_at: 2005-05-03
+  :details:
+    :processor_type: PowerPC 970 (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.6 GHz
+    :processor_bus_speed: 533 MHz (3:1)
+    :processor_bus_details: 533 MHz frontside bus.
+    :processor_cache_bus_speed: 1.6 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 429.2x426.7x172.7
+    :weight: 8400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG5_UserGuide.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1369
+      :ca: 1749
+      :uk: 919
+      :au: 2199
+      :jp: 157290
+      :nz: 2340
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/1.8 17-Inch
+  :model_number: A1058
+  :model_identifier: PowerMac8,1
+  :order_number:
+  - M9249LL/A
+  :serial_number:
+  - PP7
+  - PNY
+  - TCK
+  - S9S
+  :short_name: iMac G5/1.8 17
+  :released_at: 2004-08-31
+  :discontinued_at: 2005-05-03
+  :details:
+    :processor_type: PowerPC 970 (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 600 MHz (3:1)
+    :processor_bus_details: 600 MHz frontside bus.
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 429.2x426.7x172.7
+    :weight: 8400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG5_UserGuide.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1579
+      :ca: 1999
+      :uk: 1049
+      :au: 2499
+      :jp: 183540
+      :nz: 2660
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/1.8 20-Inch
+  :model_number: A1076
+  :model_identifier: PowerMac8,1
+  :order_number:
+  - M9250LL/A
+  :serial_number:
+  - PP8
+  - PNZ
+  - S2W
+  - S9T
+  - SAU
+  - SK4
+  - SLG
+  - TCL
+  - TE4
+  - TSJ
+  :short_name: iMac G5/1.8 20
+  :released_at: 2004-08-31
+  :discontinued_at: 2005-05-03
+  :details:
+    :processor_type: PowerPC 970 (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 600 MHz (3:1)
+    :processor_bus_details: 600 MHz frontside bus.
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 20.0" TFT
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 472.4x492.7x187.9
+    :weight: 11400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG5_UserGuide.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1899
+      :es: 1999
+      :ca: 2499
+      :uk: 1349
+      :au: 3199
+      :jp: 230790
+      :nz: 3405
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/1.8 17-Inch (ALS)
+  :model_number: A1058
+  :model_identifier: PowerMac8,2
+  :order_number:
+  - M9843LL/A
+  :serial_number:
+  - SDU
+  - SDX
+  - T52
+  - T7W
+  :short_name: iMac G5/1.8 17 ALS
+  :released_at: 2005-05-03
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PowerPC 970* (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 600 MHz (3:1)
+    :processor_bus_details: 600 MHz frontside bus.
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 429.2x426.7x172.7
+    :weight: 8400
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_G5_2005_Users_Manual.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1269
+      :de: 1299
+      :ca: 1599
+      :au: 1999
+      :jp: 152040
+      :it: 1299
+      :nl: 1299
+      :nz: 2340
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/2.0 17-Inch (ALS)
+  :model_number: A1058
+  :model_identifier: PowerMac8,2
+  :order_number:
+  - M9844LL/A
+  :serial_number:
+  - SDY
+  - SDV
+  - T9T
+  - T53
+  - THC
+  - THF
+  :short_name: iMac G5/2.0 17 ALS
+  :released_at: 2005-05-03
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PowerPC 970* (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz (3:1)
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 429.2x426.7x172.7
+    :weight: 8400
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_G5_2005_Users_Manual.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1459
+      :de: 1499
+      :ca: 1849
+      :au: 2299
+      :jp: 173040
+      :it: 1499
+      :nl: 1499
+      :nz: 2695
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac G5
+  :model: iMac
+  :model_name: G5/2.0 20-Inch (ALS)
+  :model_number: A1076
+  :model_identifier: PowerMac8,2
+  :order_number:
+  - M9845LL/A
+  :serial_number:
+  - SDZ
+  - 5DZ
+  - SDW
+  - 5DW
+  - T54
+  - T7Y
+  - T9U
+  - TKM
+  - TKX
+  - TM9
+  - TMA
+  - TYS
+  - TY5
+  - TU6
+  - UG4
+  :short_name: iMac G5/2.0 20 ALS
+  :released_at: 2005-05-03
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PowerPC 970* (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz (3:1)
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" TFT
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 472.4x492.7x187.9
+    :weight: 11400
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_G5_2005_Users_Manual.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1749
+      :de: 1799
+      :ca: 2199
+      :au: 2795
+      :jp: 209790
+      :it: 1799
+      :nl: 1799
+      :nz: 3265
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac G5 iSight
+  :model: iMac
+  :model_name: G5/1.9 17-Inch (iSight)
+  :model_number: A1144
+  :model_identifier: PowerMac12,1
+  :order_number:
+  - MA063LL/A
+  :serial_number:
+  - T80
+  - T8O
+  - T81
+  - T8I
+  - T7Z
+  - TAQ
+  - TAT
+  - U6Z
+  - UGL
+  - UM8
+  - UQN
+  - UWH
+  - UX9
+  - UXS
+  - UXT
+  :short_name: iMac G5/1.9 17 iSight
+  :released_at: 2005-10-12
+  :discontinued_at: 2006-01-10
+  :details:
+    :processor_type: PowerPC 970fx (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.9 GHz
+    :processor_bus_speed: 633 MHz (3:1)
+    :processor_bus_details: 633 MHz frontside bus.
+    :processor_cache_bus_speed: 1.9 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC2-4200 DDR2
+    :memory_speed: 533 MHz
+    :max_memory: 2 GB
+    :memory_slots: 1
+    :graphics_card: Radeon X600 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" TFT
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG5-iSight-Users_Guide.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1339
+      :de: 1379
+      :ca: 1599
+      :uk: 899
+      :au: 1999
+      :jp: 152800
+      :it: 1379
+      :nl: 1379
+      :nz: 2349
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac G5 iSight
+  :model: iMac
+  :model_name: G5/2.1 20-Inch (iSight)
+  :model_number: A1145
+  :model_identifier: PowerMac12,1
+  :order_number:
+  - MA064LL/A
+  :serial_number:
+  - M11
+  - TAR
+  - TAU
+  - U70
+  - U7O
+  - U6A
+  - U6B
+  - U68
+  - UGM
+  - UM9
+  - UQM
+  - UWE
+  - UXU
+  :short_name: iMac G5/2.1 20 iSight
+  :released_at: 2005-10-12
+  :discontinued_at: 2006-01-10
+  :details:
+    :processor_type: PowerPC 970fx (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 2.1 GHz
+    :processor_bus_speed: 700 MHz (3:1)
+    :processor_bus_details: 700 MHz frontside bus.
+    :processor_cache_bus_speed: 2.1 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC2-4200 DDR2
+    :memory_speed: 533 MHz
+    :max_memory: 2 GB
+    :memory_slots: 1
+    :graphics_card: Radeon X600 XT
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" TFT
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 472.4x492.7x187.9
+    :weight: 10000
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMacG5-iSight-Users_Guide.pdf
+    :power: 100V-240V AC, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1749
+      :de: 1799
+      :ca: 1999
+      :uk: 1199
+      :au: 2649
+      :jp: 199800
+      :it: 1799
+      :nl: 1799
+      :nz: 3099
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core Duo" 1.83 17-Inch'
+  :model_number: A1173
+  :model_identifier: iMac4,1
+  :order_number:
+  - MA199LL
+  :serial_number:
+  - U2N
+  - UZN
+  - U2R
+  - V66
+  - V4M
+  - V4N
+  - V4U
+  - VGB
+  - VGZ
+  - VH1
+  - VHP
+  - VV4
+  - VV6
+  :short_name: iMac CD 1.83 17
+  :released_at: 2006-01-10
+  :discontinued_at: 2006-09-06
+  :details:
+    :processor_type: Core Duo (T2400)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2006_UG.pdf
+    :power: 100V-240V, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1339
+      :fr: 1379
+      :de: 1379
+      :ca: 1499
+      :uk: 929
+      :au: 1999
+      :jp: 159800
+      :it: 1379
+      :nl: 1379
+      :nz: 2349
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core Duo" 2.0 20-Inch'
+  :model_number: A1174
+  :model_identifier: iMac4,1
+  :order_number:
+  - MA200LL
+  :serial_number:
+  - 13B
+  - I3B
+  - U2P
+  - UZP
+  - U2S
+  - UZS
+  - UZ5
+  - U25
+  - V4P
+  - V4Q
+  - V4R
+  - V67
+  - VGC
+  - VGM
+  - VH0
+  - VHO
+  - VH2
+  - VW4
+  - VX0
+  - VXO
+  - WXN
+  - X0U
+  - XOU
+  :short_name: iMac CD 2.0 20
+  :released_at: 2006-01-10
+  :discontinued_at: 2006-09-06
+  :details:
+    :processor_type: Core Duo (T2500)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 472.4x492.7x187.9
+    :weight: 10000
+    :wifi: 802.11a/b/g
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2006_UG.pdf
+    :power: 100V-240V, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1749
+      :fr: 1799
+      :de: 1799
+      :ca: 1999
+      :uk: 1229
+      :au: 2649
+      :jp: 209900
+      :it: 1799
+      :nl: 1799
+      :nz: 3099
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core Duo" 1.83 17-Inch (IG)'
+  :model_number: A1195
+  :model_identifier: iMac4,2
+  :order_number:
+  - MA406LL/A
+  :serial_number:
+  - V2H
+  - V2J
+  - W2Z
+  - W8K
+  - W9E
+  - WAE
+  - WCV
+  - WD4
+  - WKT
+  - X11
+  - XII
+  :short_name: iMac CD 1.83 17 IG
+  :released_at: 2006-07-05
+  :discontinued_at: 2006-09-06
+  :details:
+    :processor_type: Core Duo (T2400)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: DVD-ROM/CD-RW
+    :expansion_slots: None
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11a/b/g
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2006_UG.pdf
+    :power: 100V-240V, 180W maximum.
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :es: 938
+      :fr: 959
+      :de: 959
+      :ca: 999
+      :uk: 639
+      :au: 1299
+      :jp: 116000
+      :it: 959
+      :nl: 959
+      :nz: 1549
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 1.83 17-Inch (IG)'
+  :model_number: A1195
+  :model_identifier: iMac5,2
+  :order_number:
+  - MA710LL
+  :serial_number:
+  - '289'
+  - 2JW
+  - WH4
+  - WH5
+  - WHS
+  - WQR
+  - WRQ
+  - WV7
+  - X3P
+  - X4W
+  - Y4D
+  - Y4E
+  - Y4Q
+  - YD4
+  - YTN
+  - ZCA
+  :short_name: iMac C2D 1.83 17 IG
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T5600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.83 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 1.83 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Intel GMA 950
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: DVD-ROM/CD-RW
+    :expansion_slots: None
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11a/b/g
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 180W maximum.
+    :geekbench_3_32_sc: 988
+    :geekbench_3_32_mc: 1756
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 979
+      :fr: 999
+      :de: 999
+      :ca: 1099
+      :uk: 679
+      :au: 1549
+      :jp: 124800
+      :fi: 999
+      :it: 999
+      :nl: 999
+      :nz: 1990
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.0 17-Inch'
+  :model_number: A1208
+  :model_identifier: iMac5,1
+  :order_number:
+  - MA590LL
+  :serial_number:
+  - VUX
+  - VUY
+  - WAR
+  - WRW
+  - X1A
+  - X1W
+  - X9Y
+  - YAG
+  - YLJ
+  - Y3W
+  :short_name: iMac C2D 2.0 17
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7200)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 180W maximum.
+    :geekbench_3_32_sc: 1077
+    :geekbench_3_32_mc: 1911
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1169
+      :fr: 1199
+      :de: 1199
+      :ca: 1349
+      :uk: 799
+      :au: 1849
+      :jp: 149800
+      :fi: 1199
+      :it: 1199
+      :nl: 1199
+      :nz: 2375
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.16 17-Inch'
+  :model_number: A1208
+  :model_identifier: iMac5,1
+  :order_number:
+  - BTO/CTO
+  :short_name: iMac C2D 2.16 17
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.16 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.16 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 429.2x426.7x172.7
+    :weight: 7000
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 180W maximum.
+    :geekbench_3_32_sc: 1155
+    :geekbench_3_32_mc: 2034
+    :geekbench_3_64_sc: 1212
+    :geekbench_3_64_mc: 2059
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.16 20-Inch'
+  :model_number: A1207
+  :model_identifier: iMac5,1
+  :order_number:
+  - MA589LL
+  :serial_number:
+  - WRX
+  - WRS
+  - VUW
+  - VUV
+  - AC1
+  - ACI
+  - Y3R
+  - Y94
+  - YAE
+  - XA4
+  - X9E
+  - X29
+  - X0E
+  - XOE
+  :short_name: iMac C2D 2.16 20
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.16 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.16 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 472.4x492.7x187.9
+    :weight: 10000
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 180W maximum.
+    :geekbench_3_32_sc: 1155
+    :geekbench_3_32_mc: 2034
+    :geekbench_3_64_sc: 1212
+    :geekbench_3_64_mc: 2059
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1469
+      :fr: 1499
+      :de: 1499
+      :ca: 1699
+      :uk: 999
+      :au: 2299
+      :jp: 189800
+      :fi: 1499
+      :it: 1499
+      :nl: 1499
+      :nz: 2955
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Intel (White)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.33 20-Inch'
+  :model_number: A1207
+  :model_identifier: iMac5,1
+  :order_number:
+  - BTO/CTO
+  :short_name: iMac C2D 2.33 20
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.33 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: Radeon X1600
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 472.4x492.7x187.9
+    :weight: 10000
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 180W maximum.
+    :geekbench_3_32_sc: 1239
+    :geekbench_3_32_mc: 2244
+    :geekbench_3_64_sc: 1337
+    :geekbench_3_64_mc: 2415
+  :model_types_attributes:
+  - :original_price:
+      :us: 1749
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Intel 24-Inch
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.16 24-Inch'
+  :model_number: A1200
+  :model_identifier: iMac6,1
+  :order_number:
+  - MA456LL
+  :serial_number:
+  - VGP
+  - VGN
+  - WR3
+  - WSG
+  - WYG
+  - X3C
+  - XA5
+  - XA6
+  - XLD
+  - XSM
+  - XZP
+  - YAF
+  :short_name: iMac C2D 2.16 24
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.16 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.16 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 7300GT
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 523.2x574.0x205.7
+    :weight: 11200
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 220W maximum.
+    :geekbench_3_32_sc: 1157
+    :geekbench_3_32_mc: 2045
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1949
+      :fr: 1999
+      :de: 1999
+      :ca: 2249
+      :uk: 1349
+      :au: 2999
+      :jp: 249800
+      :fi: 1949
+      :it: 1999
+      :nl: 1999
+      :nz: 3855
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Intel 24-Inch
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.33 24-Inch'
+  :model_number: A1200
+  :model_identifier: iMac6,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - VGP
+  :short_name: iMac C2D 2.33 24
+  :released_at: 2006-09-06
+  :discontinued_at: 2007-08-07
+  :details:
+    :processor_type: Core 2 Duo (T7600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.33 GHz
+    :processor_bus_speed: 667 MHz
+    :processor_bus_details: 667 MHz frontside bus.
+    :processor_cache_bus_speed: 2.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 4 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 7300GT
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 523.2x574.0x205.7
+    :weight: 11200
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Late2006.pdf
+    :power: 100V-240V, 220W maximum.
+    :geekbench_3_32_sc: 1222
+    :geekbench_3_32_mc: 2105
+    :geekbench_3_64_sc: 1327
+    :geekbench_3_64_mc: 2334
+  :model_types_attributes:
+  - :original_price:
+      :us: 2249
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.0 20-Inch (Al)'
+  :model_number: A1224
+  :model_identifier: iMac7,1
+  :order_number:
+  - MA876LL
+  :serial_number:
+  - X85
+  - XB5
+  - X87
+  - XB7
+  - ZFD
+  - 2FD
+  :short_name: iMac C2D 2.0 20 Al
+  :released_at: 2007-08-07
+  :discontinued_at: 2008-04-28
+  :details:
+    :processor_type: Core 2 Duo (T7300)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2400 XT
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1099
+    :geekbench_3_32_mc: 1916
+    :geekbench_3_64_sc: 1134
+    :geekbench_3_64_mc: 1948
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1169
+      :fr: 1199
+      :de: 1199
+      :ca: 1299
+      :uk: 799
+      :au: 1698
+      :jp: 159800
+      :fi: 1199
+      :it: 1199
+      :nl: 1199
+      :nz: 1899
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.4 20-Inch (Al)'
+  :model_number: A1224
+  :model_identifier: iMac7,1
+  :order_number:
+  - MA877LL
+  :serial_number:
+  - X86
+  - X88
+  - Z9G
+  - 0PT
+  - OPT
+  :short_name: iMac C2D 2.4 20 Al
+  :released_at: 2007-08-07
+  :discontinued_at: 2008-04-28
+  :details:
+    :processor_type: Core 2 Duo (T7700)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2600 PRO
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1286
+    :geekbench_3_32_mc: 2254
+    :geekbench_3_64_sc: 1382
+    :geekbench_3_64_mc: 2457
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1399
+      :fr: 1449
+      :de: 1449
+      :ca: 1599
+      :uk: 949
+      :au: 2149
+      :jp: 199800
+      :fi: 1449
+      :it: 1449
+      :nl: 1449
+      :nz: 2298
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo 24" (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.4 24-Inch (Al)'
+  :model_number: A1225
+  :model_identifier: iMac7,1
+  :order_number:
+  - MA878LL
+  :serial_number:
+  - X89
+  - XB9
+  - X8A
+  - XBA
+  - 1NW
+  :short_name: iMac C2D 2.4 24 Al
+  :released_at: 2007-08-07
+  :discontinued_at: 2008-04-28
+  :details:
+    :processor_type: Core 2 Duo (T7700)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2600 PRO
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1286
+    :geekbench_3_32_mc: 2254
+    :geekbench_3_64_sc: 1382
+    :geekbench_3_64_mc: 2457
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1699
+      :fr: 1749
+      :de: 1749
+      :ca: 1899
+      :uk: 1149
+      :au: 2599
+      :jp: 239800
+      :fi: 1749
+      :it: 1749
+      :nl: 1749
+      :nz: 2799
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo 24" (Al)
+  :model: iMac
+  :model_name: '"Core 2 Extreme" 2.8 24-Inch (Al)'
+  :model_number: A1225
+  :model_identifier: iMac7,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - ZCV
+  - 2CV
+  - ZCT
+  - 2CT
+  - 1SC
+  :short_name: iMac C2E 2.8 24 Al
+  :released_at: 2007-08-07
+  :discontinued_at: 2008-04-28
+  :details:
+    :processor_type: Core 2 Extreme* (X7900)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 800 MHz
+    :processor_bus_details: 800 MHz frontside bus.
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 4 MB (on chip)
+    :memory_type: PC2-5300 DDR2
+    :memory_speed: 667 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2600 PRO
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Intel-based_Mid2007_UserGuide.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1437
+    :geekbench_3_32_mc: 2522
+    :geekbench_3_64_sc: 1591
+    :geekbench_3_64_mc: 2804
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :ca: 2449
+      :uk: 1459
+      :au: 3339
+      :jp: 299800
+      :nz: 3599
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.4 20-Inch (Early 2008)'
+  :model_number: A1224
+  :model_identifier: iMac8,1
+  :order_number:
+  - MB323LL/A
+  :serial_number:
+  - ZE2
+  - ZEZ
+  - 2EZ
+  - 2E2
+  - ZE5
+  - ZES
+  - 2E5
+  - 2ES
+  - 2PN
+  :short_name: iMac C2D 2.4 20 08
+  :released_at: 2008-04-28
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (E8135)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.4 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC2-6400 DDR2
+    :memory_speed: 800 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2400 XT
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2008_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1344
+    :geekbench_3_32_mc: 2394
+    :geekbench_3_64_sc: 1426
+    :geekbench_3_64_mc: 2377
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 999
+      :fr: 999
+      :de: 999
+      :ca: 1299
+      :uk: 799
+      :au: 1599
+      :jp: 139800
+      :fi: 999
+      :pt: 999
+      :it: 999
+      :nl: 999
+      :at: 999
+      :nz: 1899
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.66 20-Inch (Early 2008)'
+  :model_number: A1224
+  :model_identifier: iMac8,1
+  :order_number:
+  - MB324LL/A
+  :serial_number:
+  - ZE3
+  - 2E3
+  - ZE6
+  - 2E6
+  - 2PR
+  :short_name: iMac C2D 2.66 20 08
+  :released_at: 2008-04-28
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (E8335)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC2-6400 DDR2
+    :memory_speed: 800 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2600 PRO
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2008_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1477
+    :geekbench_3_32_mc: 2626
+    :geekbench_3_64_sc: 1606
+    :geekbench_3_64_mc: 2885
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1249
+      :fr: 1299
+      :de: 1299
+      :ca: 1599
+      :uk: 949
+      :au: 1999
+      :jp: 169800
+      :fi: 1299
+      :pt: 1299
+      :it: 1299
+      :nl: 1299
+      :at: 1299
+      :nz: 2298
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.8 24-Inch (Early 2008)'
+  :model_number: A1225
+  :model_identifier: iMac8,1
+  :order_number:
+  - MB325LL/A
+  :serial_number:
+  - ZE4
+  - ZE7
+  - 2E4
+  - 3FH
+  :short_name: iMac C2D 2.8 24 08
+  :released_at: 2008-04-28
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (E8235)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC2-6400 DDR2
+    :memory_speed: 800 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: Radeon HD 2600 PRO
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2008_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1529
+    :geekbench_3_32_mc: 2693
+    :geekbench_3_64_sc: 1661
+    :geekbench_3_64_mc: 2969
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1499
+      :fr: 1599
+      :de: 1599
+      :ca: 1899
+      :uk: 1149
+      :au: 2399
+      :jp: 199800
+      :fi: 1599
+      :pt: 1599
+      :it: 1599
+      :nl: 1599
+      :at: 1599
+      :nz: 2799
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (Al)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.06 24-Inch (Early 2008)'
+  :model_number: A1225
+  :model_identifier: iMac8,1
+  :order_number:
+  - MB398LL/A
+  :serial_number:
+  - 0N4
+  - ON4
+  - 0KM
+  - OKM
+  - 1LW
+  - 28A
+  - 2PT
+  - 3F9
+  - 3GS
+  :short_name: iMac C2D 3.06 24 08
+  :released_at: 2008-04-28
+  :discontinued_at: 2009-03-03
+  :details:
+    :processor_type: Core 2 Duo (E8435)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC2-6400 DDR2
+    :memory_speed: 800 MHz
+    :max_memory: 6 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 8800 GS
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2008_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1644
+    :geekbench_3_32_mc: 2910
+    :geekbench_3_64_sc: 1803
+    :geekbench_3_64_mc: 3247
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :ca: 2299
+      :uk: 1389
+      :au: 2999
+      :jp: 244600
+      :nz: 3599
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: iMac (Early 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.66 20-Inch (Early 2009)'
+  :model_number: A1224
+  :model_identifier: iMac9,1
+  :order_number:
+  - MB417LL/A
+  :serial_number:
+  - 0TF
+  - OTF
+  - 0TH
+  - OTH
+  - 9EX
+  - 6X0
+  - 6XO
+  - 8M5
+  - 8TS
+  - 8TT
+  - DTF
+  - DTH
+  - DWY
+  :short_name: iMac C2D 2.66 20 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (E8135)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1473
+    :geekbench_3_32_mc: 2589
+    :geekbench_3_64_sc: 1595
+    :geekbench_3_64_mc: 2840
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1079
+      :fr: 1099
+      :de: 1099
+      :ca: 1399
+      :uk: 949
+      :au: 1999
+      :jp: 128800
+      :fi: 1099
+      :pt: 1099
+      :it: 1099
+      :nl: 1099
+      :at: 1099
+      :nz: 2599
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 320 GB
+- :vendor: Apple
+  :subfamily: iMac (Early 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.66 24-Inch (Early 2009)'
+  :model_number: A1225
+  :model_identifier: iMac9,1
+  :order_number:
+  - MB418LL/A
+  :serial_number:
+  - 6X1
+  - 0TG
+  - OTG
+  - 0TJ
+  - OTJ
+  - 9LN
+  - 9LP
+  :short_name: iMac C2D 2.66 24 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (E8135)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1473
+    :geekbench_3_32_mc: 2589
+    :geekbench_3_64_sc: 1595
+    :geekbench_3_64_mc: 2840
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1379
+      :fr: 1399
+      :de: 1399
+      :ca: 1799
+      :uk: 1199
+      :au: 2499
+      :jp: 158800
+      :fi: 1399
+      :pt: 1399
+      :it: 1399
+      :nl: 1399
+      :at: 1399
+      :nz: 3299
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: iMac (Early 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.93 24-Inch (Early 2009)'
+  :model_number: A1225
+  :model_identifier: iMac9,1
+  :order_number:
+  - MB419LL/A
+  :serial_number:
+  - 6X2
+  - 0TL
+  - OTL
+  - 0TM
+  - OTM
+  :short_name: iMac C2D 2.93 24 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (E8335)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1595
+    :geekbench_3_32_mc: 2807
+    :geekbench_3_64_sc: 1667
+    :geekbench_3_64_mc: 2966
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1649
+      :fr: 1699
+      :de: 1699
+      :ca: 2099
+      :uk: 1499
+      :au: 2999
+      :jp: 198800
+      :fi: 1699
+      :pt: 1699
+      :it: 1699
+      :nl: 1699
+      :at: 1699
+      :nz: 3999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 640 GB
+- :vendor: Apple
+  :subfamily: iMac (Early 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.06 24-Inch (Early 2009)'
+  :model_number: A1225
+  :model_identifier: iMac9,1
+  :order_number:
+  - MB420LL/A
+  :serial_number:
+  - 6X3
+  - 9LR
+  - '250'
+  - '259'
+  :short_name: iMac C2D 3.06 24 09
+  :released_at: 2009-03-03
+  :discontinued_at: 2009-10-20
+  :details:
+    :processor_type: Core 2 Duo (E8435)
+    :processor_arch: 64-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 130
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 24.0" Widescreen
+    :display_resolution: 1920x1200
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 520.7x568.9x205.7
+    :weight: 11500
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum for 20-Inch models, 280W maximum for 24-Inch models.
+    :geekbench_3_32_sc: 1667
+    :geekbench_3_32_mc: 2968
+    :geekbench_3_64_sc: 1800
+    :geekbench_3_64_mc: 3160
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :es: 2049
+      :fr: 2099
+      :de: 2099
+      :ca: 2599
+      :uk: 1799
+      :au: 3699
+      :jp: 244800
+      :fi: 2099
+      :pt: 2099
+      :it: 2099
+      :nl: 2099
+      :at: 2099
+      :nz: 4799
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.0 20-Inch (Mid-2009)'
+  :model_number: A1224
+  :model_identifier: iMac9,1
+  :order_number:
+  - MC015LL/A
+  :serial_number:
+  - 6MH
+  - 6MJ
+  - 9TH
+  :short_name: iMac C2D 2.0 20 09 (E)
+  :released_at: 2009-04-07
+  :discontinued_at: 2010-03-04
+  :details:
+    :processor_type: Core 2 Duo (P7350)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum.
+    :geekbench_3_32_sc: 1154
+    :geekbench_3_32_mc: 2026
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :ca: 949
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac Core 2 Duo (2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 2.26 20-Inch (Mid-2009)'
+  :model_number: A1224
+  :model_identifier: iMac9,1
+  :order_number:
+  - MC015LL/B
+  - MC015LL/C
+  :serial_number:
+  - E86
+  - DMV
+  - HS6
+  - H56
+  - HS7
+  - H57
+  :short_name: iMac C2D 2.26 20 09 (E)
+  :released_at: 2010-03-04
+  :discontinued_at: 2012-03-07
+  :details:
+    :processor_type: Core 2 Duo (P7550)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 8 GB
+    :memory_slots: 2
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 128 MB
+    :display: 20.0" Widescreen
+    :display_resolution: 1680x1050
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: None
+    :dimensions: 469.9x485.1x187.9
+    :weight: 9100
+    :wifi: 802.11a/b/g/n
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Early2009_UG.pdf
+    :power: 100V-240V, 200W maximum.
+    :geekbench_3_32_sc: 1288
+    :geekbench_3_32_mc: 2248
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :ca: 949
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 128 MB
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.06 21.5-Inch (Late 2009)'
+  :model_number: A1311
+  :model_identifier: iMac10,1
+  :order_number:
+  - MB950LL/A
+  - MC413LL/A
+  :serial_number:
+  - B9U
+  - B9S
+  - CY8
+  - F0G
+  - FOG
+  - FQH
+  - 5PC
+  - SPC
+  - 5PK
+  - SPK
+  :short_name: iMac C2D 3.06 21.5 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core 2 Duo (E7600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 775 (Socket T)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1641
+    :geekbench_3_32_mc: 2882
+    :geekbench_3_64_sc: 1782
+    :geekbench_3_64_mc: 3128
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1049
+      :fr: 1099
+      :de: 1099
+      :ca: 1299
+      :uk: 949
+      :au: 1599
+      :jp: 118800
+      :fi: 1099
+      :pt: 1099
+      :it: 1099
+      :nl: 1099
+      :at: 1099
+      :nz: 1999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+  - :original_price:
+      :us: 1499
+      :es: 1299
+      :fr: 1349
+      :de: 1349
+      :ca: 1599
+      :uk: 1199
+      :au: 1999
+      :jp: 148800
+      :fi: 1349
+      :pt: 1349
+      :it: 1349
+      :nl: 1349
+      :at: 1349
+      :nz: 2499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.33 21.5-Inch (Late 2009)'
+  :model_number: A1311
+  :model_identifier: iMac10,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 5PK
+  - SPK
+  :short_name: iMac C2D 3.33 21.5 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core 2 Duo (E8600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 775 (Socket T)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 1333 MHz
+    :processor_bus_details: 1333 MHz frontside bus.
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: GeForce 9400M
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 256 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1824
+    :geekbench_3_32_mc: 3199
+    :geekbench_3_64_sc: 1908
+    :geekbench_3_64_mc: 3271
+  :model_types_attributes:
+  - :original_price:
+      :us: 1399
+      :au: 2157
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+  - :original_price:
+      :us: 1699
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.06 27-Inch (Late 2009)'
+  :model_number: A1312
+  :model_identifier: iMac10,1
+  :order_number:
+  - MB952LL/A
+  :serial_number:
+  - CYB
+  - DWZ
+  - F0J
+  - FOJ
+  - 5PE
+  - SPE
+  - 5PM
+  - SPM
+  :short_name: iMac C2D 3.06 27 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core 2 Duo (E7600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 775 (Socket T)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 1066 MHz
+    :processor_bus_details: 1066 MHz frontside bus.
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 3 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 4670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1641
+    :geekbench_3_32_mc: 2882
+    :geekbench_3_64_sc: 1782
+    :geekbench_3_64_mc: 3128
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1449
+      :fr: 1499
+      :de: 1499
+      :ca: 1799
+      :uk: 1349
+      :au: 2199
+      :jp: 168800
+      :fi: 1499
+      :pt: 1499
+      :it: 1499
+      :nl: 1499
+      :at: 1499
+      :nz: 2899
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core 2 Duo" 3.33 27-Inch (Late 2009)'
+  :model_number: A1312
+  :model_identifier: iMac10,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DMY
+  :short_name: iMac C2D 3.33 27 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core 2 Duo (E8600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 775 (Socket T)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.33 GHz
+    :processor_bus_speed: 1333 MHz
+    :processor_bus_details: 1333 MHz frontside bus.
+    :processor_cache_bus_speed: 3.33 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 6 MB (on chip)
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 4670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1824
+    :geekbench_3_32_mc: 3199
+    :geekbench_3_64_sc: 1908
+    :geekbench_3_64_mc: 3271
+  :model_types_attributes:
+  - :original_price:
+      :us: 1899
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 2.66 27-Inch (Late 2009)'
+  :model_number: A1312
+  :model_identifier: iMac11,1
+  :order_number:
+  - MB953LL/A
+  :serial_number:
+  - CYC
+  - D4V
+  - 5PJ
+  - SPJ
+  :short_name: iMac Core i5 2.66 27 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core i5 (I5-750)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 4850
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1972
+    :geekbench_3_32_mc: 5825
+    :geekbench_3_64_sc: 2165
+    :geekbench_3_64_mc: 6462
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1749
+      :fr: 1799
+      :de: 1799
+      :ca: 2099
+      :uk: 1599
+      :au: 2599
+      :jp: 198800
+      :fi: 1799
+      :pt: 1799
+      :it: 1799
+      :nl: 1799
+      :at: 1799
+      :nz: 3399
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i7" 2.8 27-Inch (Late 2009)'
+  :model_number: A1312
+  :model_identifier: iMac11,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DMZ
+  - DM2
+  - H9P
+  - 5RU
+  - SRU
+  :short_name: iMac Core i7 2.8 27 09
+  :released_at: 2009-10-20
+  :discontinued_at: 2010-07-27
+  :details:
+    :processor_type: Core i7 (I7-860)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.46 GHz
+    :memory_type: PC3-8500 DDR3
+    :memory_speed: 1066 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 4850
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Late2009_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 2070
+    :geekbench_3_32_mc: 7243
+    :geekbench_3_64_sc: 2273
+    :geekbench_3_64_mc: 8167
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :au: 3157
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i3" 3.06 21.5-Inch (Mid-2010)'
+  :model_number: A1311
+  :model_identifier: iMac11,2
+  :order_number:
+  - MC508LL/A
+  :serial_number:
+  - DB8
+  - DAS
+  - DA5
+  - DNM
+  - GQA
+  - HAC
+  - HCF
+  - HJV
+  :short_name: iMac i3 3.06 21.5 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i3 (I3-540)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.06 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 3.06 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 4 MB
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 4670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 256 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1909
+    :geekbench_3_32_mc: 3966
+    :geekbench_3_64_sc: 2026
+    :geekbench_3_64_mc: 4344
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1199
+      :fr: 1199
+      :de: 1199
+      :ca: 1299
+      :uk: 999
+      :au: 1599
+      :jp: 118800
+      :fi: 1249
+      :pt: 1299
+      :it: 1199
+      :nl: 1199
+      :at: 1199
+      :nz: 1999
+      :mx: 19499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i3" 3.2 21.5-Inch (Mid-2010)'
+  :model_number: A1311
+  :model_identifier: iMac11,2
+  :order_number:
+  - MC509LL/A
+  :serial_number:
+  - DB7
+  - D87
+  - HJW
+  :short_name: iMac i3 3.2 21.5 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i3 (I3-550)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 4 MB
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1968
+    :geekbench_3_32_mc: 4089
+    :geekbench_3_64_sc: 2201
+    :geekbench_3_64_mc: 4729
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1499
+      :fr: 1499
+      :de: 1499
+      :ca: 1599
+      :uk: 1249
+      :au: 1999
+      :jp: 148800
+      :fi: 1549
+      :pt: 1529
+      :it: 1499
+      :nl: 1499
+      :at: 1499
+      :nz: 2499
+      :mx: 23899
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 3.6 21.5-Inch (Mid-2010)'
+  :model_number: A1311
+  :model_identifier: iMac11,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DNN
+  - GY6
+  :short_name: iMac i5 3.6 21.5 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i5 (I5-680)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.6 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 3.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 4 MB
+    :processor_turbo_boost: 3.86 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 2520
+    :geekbench_3_32_mc: 5202
+    :geekbench_3_64_sc: 2728
+    :geekbench_3_64_mc: 5774
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :au: 2289
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i3" 3.2 27-Inch (Mid-2010)'
+  :model_number: A1312
+  :model_identifier: iMac11,3
+  :order_number:
+  - MC510LL/A
+  :serial_number:
+  - DB6
+  - D86
+  - DNP
+  - HAE
+  - HJX
+  :short_name: iMac i3 3.2 27 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i3 (I3-550)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 4 MB
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 1983
+    :geekbench_3_32_mc: 4115
+    :geekbench_3_64_sc: 2074
+    :geekbench_3_64_mc: 4389
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1699
+      :fr: 1699
+      :de: 1699
+      :ca: 1799
+      :uk: 1399
+      :au: 2199
+      :jp: 168800
+      :fi: 1749
+      :pt: 1729
+      :it: 1699
+      :nl: 1699
+      :at: 1699
+      :nz: 2999
+      :mx: 26999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 2.8 27-Inch (Mid-2010)'
+  :model_number: A1312
+  :model_identifier: iMac11,3
+  :order_number:
+  - MC511LL/A
+  :serial_number:
+  - DB5
+  - DBS
+  - D85
+  - DNR
+  - GRQ
+  - GWQ
+  - HAE
+  - HAF
+  - HJY
+  :short_name: iMac i5 2.8 27 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i5 (I5-760)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.33 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5750
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 2076
+    :geekbench_3_32_mc: 6160
+    :geekbench_3_64_sc: 2296
+    :geekbench_3_64_mc: 6912
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1999
+      :fr: 1999
+      :de: 1999
+      :ca: 2099
+      :uk: 1649
+      :au: 2599
+      :jp: 198800
+      :fi: 2049
+      :pt: 2029
+      :it: 1999
+      :nl: 1999
+      :at: 1999
+      :nz: 3499
+      :mx: 31899
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 3.6 27-Inch (Mid-2010)'
+  :model_number: A1312
+  :model_identifier: iMac11,3
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - GYG
+  :short_name: iMac i5 3.6 27 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i5 (I5-680)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.6 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 3.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 4 MB
+    :processor_turbo_boost: 3.86 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5670
+    :graphics_card_vram_type: GDDR3
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 2501
+    :geekbench_3_32_mc: 5170
+    :geekbench_3_64_sc: 2783
+    :geekbench_3_64_mc: 6030
+  :model_types_attributes:
+  - :original_price:
+      :us: 1899
+      :au: 2489
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i7" 2.93 27-Inch (Mid-2010)'
+  :model_number: A1312
+  :model_identifier: iMac11,3
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DNR
+  - GRQ
+  - GXU
+  - GWQ
+  - HAE
+  - HSC
+  :short_name: iMac i7 2.93 27 2010
+  :released_at: 2010-07-27
+  :discontinued_at: 2011-05-03
+  :details:
+    :processor_type: Core i7 (I7-870)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1156 (Socket H)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: 2.5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 2.5 GT/s.'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 5750
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (3 Gb/s)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/iMac_Mid2010_UG.pdf
+    :power: 100V-240V, 241W maximum for 21.5-Inch models, 365W maximum for 27-Inch
+      models.
+    :geekbench_3_32_sc: 2215
+    :geekbench_3_32_mc: 7903
+    :geekbench_3_64_sc: 2452
+    :geekbench_3_64_mc: 9004
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :au: 2889
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 2.5 21.5-Inch (Mid-2011)'
+  :model_number: A1311
+  :model_identifier: iMac12,1
+  :order_number:
+  - MC309LL/A
+  :serial_number:
+  - DHJF
+  - DHJR
+  :short_name: iMac i5 2.5 21.5 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2400S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 6 MB
+    :processor_turbo_boost: 3.3 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6750M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 205W maximum for 21.5-Inch models.
+    :geekbench_3_32_sc: 2464
+    :geekbench_3_32_mc: 6698
+    :geekbench_3_64_sc: 2637
+    :geekbench_3_64_mc: 7237
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :es: 1149
+      :fr: 1149
+      :de: 1149
+      :ca: 1199
+      :uk: 999
+      :au: 1399
+      :jp: 108800
+      :fi: 1179
+      :pt: 1179
+      :it: 1149
+      :nl: 1149
+      :at: 1149
+      :nz: 1999
+      :mx: 17999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 2.7 21.5-Inch (Mid-2011)'
+  :model_number: A1311
+  :model_identifier: iMac12,1
+  :order_number:
+  - MC812LL/A
+  :serial_number:
+  - DHJN
+  :short_name: iMac i5 2.7 21.5 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2500S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 6 MB
+    :processor_turbo_boost: 3.7 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6770M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 205W maximum for 21.5-Inch models.
+    :geekbench_3_32_sc: 2685
+    :geekbench_3_32_mc: 7091
+    :geekbench_3_64_sc: 2924
+    :geekbench_3_64_mc: 7796
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1449
+      :fr: 1449
+      :de: 1449
+      :ca: 1499
+      :uk: 1249
+      :au: 1698
+      :jp: 134800
+      :fi: 1479
+      :pt: 1479
+      :it: 1449
+      :nl: 1449
+      :at: 1449
+      :nz: 2499
+      :mx: 22499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i7" 2.8 21.5-Inch (Mid-2011)'
+  :model_number: A1311
+  :model_identifier: iMac12,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DHJT
+  :short_name: iMac i7 2.8 21.5 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i7 (I7-2600S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.8 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6770M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 205W maximum for 21.5-Inch models.
+    :geekbench_3_32_sc: 2789
+    :geekbench_3_32_mc: 9132
+    :geekbench_3_64_sc: 3041
+    :geekbench_3_64_mc: 10076
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1649
+      :fr: 1649
+      :de: 1649
+      :ca: 1699
+      :uk: 1418
+      :au: 1938
+      :jp: 153490
+      :fi: 1679
+      :pt: 1679
+      :it: 1649
+      :nl: 1649
+      :at: 1649
+      :nz: 2819
+      :mx: 25349
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 2.7 27-Inch (Mid-2011)'
+  :model_number: A1312
+  :model_identifier: iMac12,2
+  :order_number:
+  - MC813LL/A
+  :serial_number:
+  - DHJP
+  - DHJV
+  - DHJW
+  - DL8P
+  :short_name: iMac i5 2.7 27 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2500S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 6 MB
+    :processor_turbo_boost: 3.7 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6770M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 310W maximum for 27-Inch models.
+    :geekbench_3_32_sc: 2703
+    :geekbench_3_32_mc: 7121
+    :geekbench_3_64_sc: 2951
+    :geekbench_3_64_mc: 7826
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1649
+      :fr: 1649
+      :de: 1649
+      :ca: 1699
+      :uk: 1399
+      :au: 1949
+      :jp: 154800
+      :fi: 1679
+      :pt: 1679
+      :it: 1649
+      :nl: 1649
+      :at: 1649
+      :nz: 2799
+      :mx: 24999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i5" 3.1 27-Inch (Mid-2011)'
+  :model_number: A1312
+  :model_identifier: iMac12,2
+  :order_number:
+  - MC814LL/A
+  :serial_number:
+  - DHJQ
+  - DL8Q
+  :short_name: iMac i5 3.1 27 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i5 (I5-2400)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.1 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 6 MB
+    :processor_turbo_boost: 3.4 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6970M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 310W maximum for 27-Inch models.
+    :geekbench_3_32_sc: 2589
+    :geekbench_3_32_mc: 8005
+    :geekbench_3_64_sc: 2784
+    :geekbench_3_64_mc: 8658
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1899
+      :fr: 1899
+      :de: 1899
+      :ca: 1999
+      :uk: 1649
+      :au: 2299
+      :jp: 178800
+      :fi: 1929
+      :pt: 1929
+      :it: 1899
+      :nl: 1899
+      :at: 1899
+      :nz: 3298
+      :mx: 29999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i7" 3.4 27-Inch (Mid-2011)'
+  :model_number: A1312
+  :model_identifier: iMac12,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DMW8
+  - DMWB
+  - DNJ9
+  :short_name: iMac i7 3.4 27 2011
+  :released_at: 2011-05-03
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Core i7 (I7-2600)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.4 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 4), 8 MB
+    :processor_turbo_boost: 3.8 GHz
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6970M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 518.1x650.2x207.0
+    :weight: 13800
+    :wifi: 802.11a/b/g/n (450 Mbit*)
+    :bluetooth: 2.1+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_mid2011_ug.pdf
+    :power: 100V-240V, 310W maximum for 27-Inch models.
+    :geekbench_3_32_sc: 2815
+    :geekbench_3_32_mc: 10714
+    :geekbench_3_64_sc: 3078
+    :geekbench_3_64_mc: 11773
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :es: 2099
+      :fr: 2099
+      :de: 2099
+      :ca: 2199
+      :uk: 1809
+      :au: 2539
+      :jp: 197800
+      :fi: 2129
+      :pt: 2129
+      :it: 2099
+      :nl: 2099
+      :at: 2099
+      :nz: 3618
+      :mx: 32849
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: iMac (Late 2009)
+  :model: iMac
+  :model_name: '"Core i3" 3.1 21.5-Inch (Late 2011)'
+  :model_number: A1311
+  :model_identifier: iMac12,1
+  :order_number:
+  - MC978LL/A
+  :serial_number:
+  - DKL9
+  - DKLH
+  - DPNK
+  - DPNW
+  :short_name: iMac i3 3.1 21.5 2011 (E)
+  :released_at: 2011-08-08
+  :discontinued_at: 2013-03-05
+  :details:
+    :processor_type: Core i3 (I3-2100)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.1 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x 2), 3 MB
+    :memory_type: PC3-10600 DDR3
+    :memory_speed: 1333 MHz
+    :max_memory: 16 GB
+    :memory_slots: 4
+    :graphics_card: Radeon HD 6750M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 256 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s*)
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: SDXC SD Card
+    :dimensions: 450.8x528.3x188.4
+    :weight: 9300
+    :wifi: 802.11a/b/g/n
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/imac_21.5inch_late_2011_ug.pdf
+    :power: 100V-240V, 205W maximum.
+    :geekbench_3_32_sc: 2239
+    :geekbench_3_32_mc: 4680
+    :geekbench_3_64_sc: 2408
+    :geekbench_3_64_mc: 5119
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 256 MB
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 2.7 21.5-Inch (Late 2012)'
+  :model_number: A1418
+  :model_identifier: iMac13,1
+  :order_number:
+  - MD093LL/A
+  :serial_number:
+  - DNCR
+  - DNML
+  :short_name: iMac i5 2.7 21.5 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-3335S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 640M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 2676
+    :geekbench_3_32_mc: 7863
+    :geekbench_3_64_sc: 2905
+    :geekbench_3_64_mc: 8678
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1379
+      :fr: 1349
+      :de: 1349
+      :ca: 1299
+      :uk: 1099
+      :au: 1429
+      :jp: 108800
+      :fi: 1399
+      :pt: 1399
+      :it: 1379
+      :nl: 1379
+      :at: 1349
+      :nz: 1999
+      :mx: 21499
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 2.9 21.5-Inch (Late 2012)'
+  :model_number: A1418
+  :model_identifier: iMac13,1
+  :order_number:
+  - MD094LL/A
+  :serial_number:
+  - DNCT
+  - DNMM
+  :short_name: iMac i5 2.9 21.5 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-3470S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.9 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.9 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 650M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 2963
+    :geekbench_3_32_mc: 8877
+    :geekbench_3_64_sc: 3279
+    :geekbench_3_64_mc: 9894
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1579
+      :fr: 1549
+      :de: 1549
+      :ca: 1499
+      :uk: 1249
+      :au: 1698
+      :jp: 128800
+      :fi: 1599
+      :pt: 1599
+      :it: 1579
+      :nl: 1579
+      :at: 1549
+      :nz: 2399
+      :mx: 24999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i7" 3.1 21.5-Inch (Late 2012)'
+  :model_number: A1418
+  :model_identifier: iMac13,1
+  :order_number:
+  - BTO/CTO
+  :short_name: iMac i7 3.1 21.5 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i7 (I7-3770S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.1 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 650M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 3154
+    :geekbench_3_32_mc: 11778
+    :geekbench_3_64_sc: 3496
+    :geekbench_3_64_mc: 13001
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1779
+      :fr: 1749
+      :de: 1749
+      :ca: 1699
+      :uk: 1409
+      :au: 1938
+      :jp: 146400
+      :fi: 1799
+      :pt: 1799
+      :it: 1779
+      :nl: 1779
+      :at: 1749
+      :nz: 2719
+      :mx: 28199
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 2.9 27-Inch (Late 2012)'
+  :model_number: A1419
+  :model_identifier: iMac13,2
+  :order_number:
+  - MD095LL/A
+  :serial_number:
+  - DNCV
+  - DNMN
+  - FD5T
+  - FDST
+  :short_name: iMac i5 2.9 27 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-3470S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.9 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.9 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GTX 660M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 512 MB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 2949
+    :geekbench_3_32_mc: 8852
+    :geekbench_3_64_sc: 3260
+    :geekbench_3_64_mc: 9824
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1899
+      :fr: 1879
+      :de: 1879
+      :ca: 1799
+      :uk: 1499
+      :au: 1999
+      :jp: 154800
+      :fi: 1949
+      :pt: 1949
+      :it: 1899
+      :nl: 1899
+      :at: 1879
+      :nz: 2799
+      :mx: 29999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 3.2 27-Inch (Late 2012)'
+  :model_number: A1419
+  :model_identifier: iMac13,2
+  :order_number:
+  - MD096LL/A
+  :serial_number:
+  - DNCW
+  :short_name: iMac i5 3.2 27 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-3470)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GTX 675MX
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 2967
+    :geekbench_3_32_mc: 9234
+    :geekbench_3_64_sc: 3275
+    :geekbench_3_64_mc: 10260
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 2079
+      :fr: 2049
+      :de: 2049
+      :ca: 1999
+      :uk: 1699
+      :au: 2199
+      :jp: 168800
+      :fi: 2129
+      :pt: 2129
+      :it: 2079
+      :nl: 2079
+      :at: 2049
+      :nz: 3199
+      :mx: 32999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i7" 3.4 27-Inch (Late 2012)'
+  :model_number: A1419
+  :model_identifier: iMac13,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - DNMP
+  - F29N
+  - FFML
+  - FFMM
+  :short_name: iMac i7 3.4 27 2012
+  :released_at: 2012-10-23
+  :discontinued_at: 2013-09-24
+  :details:
+    :processor_type: Core i7 (I7-3770)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.4 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GTX 675MX
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11a/b/g/n (450 Mbit)
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 3191
+    :geekbench_3_32_mc: 12267
+    :geekbench_3_64_sc: 3568
+    :geekbench_3_64_mc: 13847
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :es: 2279
+      :fr: 2249
+      :de: 2249
+      :ca: 2199
+      :uk: 1859
+      :au: 2414
+      :jp: 185840
+      :fi: 2329
+      :pt: 2329
+      :it: 2279
+      :nl: 2279
+      :at: 2249
+      :nz: 3519
+      :mx: 36199
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i3" 3.3 21.5-Inch (Early 2013)'
+  :model_number: A1418
+  :model_identifier: iMac13,1
+  :order_number:
+  - ME699LL/A
+  :serial_number:
+  - FFYV
+  - FFYW
+  - FGPM
+  - FJQQ
+  - FLMH
+  :short_name: iMac i3 3.3 21.5 2013 (E)
+  :released_at: 2013-03-05
+  :discontinued_at: 2014-06-18
+  :details:
+    :processor_type: Core i3 (I3-3225)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1155 (Socket H2)
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.3 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" (DMI) that
+      "connects between the processor and chipset" in lieu of a traditional system
+      bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.3 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x2), 3 MB
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: HD Graphics 4000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 768 MB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V, Apple does not specify maximum wattage.
+    :geekbench_3_32_sc: 2478
+    :geekbench_3_32_mc: 5281
+    :geekbench_3_64_sc: 2708
+    :geekbench_3_64_mc: 5911
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 512 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 2.7 21.5-Inch (Late 2013)'
+  :model_number: A1418
+  :model_identifier: iMac14,1
+  :order_number:
+  - ME086LL/A
+  :serial_number:
+  - F8J2
+  - FBJ2
+  :short_name: iMac i5 2.7 21.5 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-4570R)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 4 MB
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: Iris Pro 5200
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 2872
+    :geekbench_3_32_mc: 9153
+    :geekbench_3_64_sc: 3146
+    :geekbench_3_64_mc: 10310
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1329
+      :fr: 1299
+      :de: 1299
+      :ca: 1349
+      :uk: 1149
+      :au: 1599
+      :jp: 138800
+      :fi: 1349
+      :pt: 1349
+      :it: 1329
+      :nl: 1329
+      :at: 1299
+      :nz: 1999
+      :mx: 21499
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 2.9 21.5-Inch (Late 2013)'
+  :model_number: A1418
+  :model_identifier: iMac14,3
+  :order_number:
+  - ME087LL/A
+  :serial_number:
+  - F8J3
+  - FBJ3
+  :short_name: iMac i5 2.9 21.5 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-4570S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.9 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 2.9 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 750M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3204
+    :geekbench_3_32_mc: 9642
+    :geekbench_3_64_sc: 3577
+    :geekbench_3_64_mc: 10875
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1529
+      :fr: 1499
+      :de: 1499
+      :ca: 1549
+      :uk: 1299
+      :au: 1849
+      :jp: 158800
+      :fi: 1549
+      :pt: 1549
+      :it: 1529
+      :nl: 1529
+      :at: 1499
+      :nz: 2299
+      :mx: 24999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i7" 3.1 21.5-Inch (Late 2013)'
+  :model_number: A1418
+  :model_identifier: iMac14,3
+  :order_number:
+  - BTO/CTO
+  :short_name: iMac i7 3.1 21.5 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i7 (I7-4770S)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.1 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 3.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 2
+    :graphics_card: GeForce GT 750M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3464
+    :geekbench_3_32_mc: 12452
+    :geekbench_3_64_sc: 3885
+    :geekbench_3_64_mc: 14159
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :es: 1729
+      :fr: 1699
+      :de: 1699
+      :ca: 1749
+      :uk: 1459
+      :au: 2089
+      :jp: 180800
+      :fi: 1749
+      :pt: 1749
+      :it: 1729
+      :nl: 1729
+      :at: 1699
+      :nz: 2619
+      :mx: 28199
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 3.2 27-Inch (Late 2013)'
+  :model_number: A1419
+  :model_identifier: iMac14,2
+  :order_number:
+  - ME088LL/A
+  :serial_number:
+  - F8J4
+  - FBJ4
+  :short_name: iMac i5 3.2 27 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-4570)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.2 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 3.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.6 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GT 755M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 1 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3241
+    :geekbench_3_32_mc: 10139
+    :geekbench_3_64_sc: 3509
+    :geekbench_3_64_mc: 11164
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1849
+      :fr: 1799
+      :de: 1799
+      :ca: 1849
+      :uk: 1599
+      :au: 2199
+      :jp: 189800
+      :fi: 1899
+      :pt: 1899
+      :it: 1849
+      :nl: 1849
+      :at: 1799
+      :nz: 2799
+      :mx: 29999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 3.4 27-Inch (Late 2013)'
+  :model_number: A1419
+  :model_identifier: iMac14,2
+  :order_number:
+  - ME089LL/A
+  :serial_number:
+  - F8J5
+  - FBJ5
+  - F8JS
+  - FBJS
+  - F8JC
+  - FBJC
+  :short_name: iMac i5 3.4 27 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i5 (I5-4670)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.4 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 3.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.8 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GTX 775M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3409
+    :geekbench_3_32_mc: 10714
+    :geekbench_3_64_sc: 3757
+    :geekbench_3_64_mc: 11851
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 2029
+      :fr: 1999
+      :de: 1999
+      :ca: 2049
+      :uk: 1749
+      :au: 2449
+      :jp: 208800
+      :fi: 2099
+      :pt: 2099
+      :it: 2029
+      :nl: 2029
+      :at: 1999
+      :nz: 3099
+      :mx: 32999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i7" 3.5 27-Inch (Late 2013)'
+  :model_number: A1419
+  :model_identifier: iMac14,2
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - FLHH
+  :short_name: iMac i7 3.5 27 2013
+  :released_at: 2013-09-24
+  :details:
+    :processor_type: Core i7 (I7-4771)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.5 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 3.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: GeForce GTX 775M
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 2560x1440
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_late2012_quickstart.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3493
+    :geekbench_3_32_mc: 13050
+    :geekbench_3_64_sc: 3899
+    :geekbench_3_64_mc: 14673
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :es: 2229
+      :fr: 2199
+      :de: 2199
+      :ca: 2249
+      :uk: 1939
+      :au: 2699
+      :jp: 232300
+      :fi: 2299
+      :pt: 2299
+      :it: 2229
+      :nl: 2229
+      :at: 2199
+      :nz: 3419
+      :mx: 36199
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 21.5" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 1.4 21.5-Inch (Mid-2014)'
+  :model_number: A1418
+  :model_identifier: iMac14,4
+  :order_number:
+  - MF883LL/A
+  :serial_number:
+  - G56K
+  - G56J
+  :short_name: iMac i5 1.4 21.5 2014
+  :released_at: 2014-06-18
+  :details:
+    :processor_type: Core i5 (I5-4260U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :processor_bus_speed: 5 GT/s
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 1.4 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k x2, 3 MB (on chip)
+    :processor_turbo_boost: 2.7 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 5000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 21.5" 16:9 Widescreen
+    :display_resolution: 1920x1080
+    :hd_interface: Serial ATA (6 Gb/s)
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 449.5x528.3x175.2
+    :weight: 5680
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_21.5-inch_mid2014_qs.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 2569
+    :geekbench_3_32_mc: 4818
+    :geekbench_3_64_sc: 2727
+    :geekbench_3_64_mc: 5361
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 1129
+      :fr: 1099
+      :de: 1099
+      :ca: 1149
+      :uk: 899
+      :au: 1349
+      :jp: 108800
+      :fi: 1129
+      :pt: 1129
+      :it: 1129
+      :nl: 1129
+      :at: 1099
+      :nz: 1549
+      :mx: 17999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 500 GB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 3.5 27-Inch (Retina 5K, 2014)'
+  :model_number: A1419
+  :model_identifier: iMac15,1
+  :order_number:
+  - MF886LL/A
+  :serial_number:
+  - FY11
+  :short_name: iMac i5 3.5 27 R5K 2014
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i5 (I5-4690)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.5 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.9 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon R9 M290X
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 5120x2880
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_27-inch_late2014_qs.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3541
+    :geekbench_3_32_mc: 11334
+    :geekbench_3_64_sc: 3862
+    :geekbench_3_64_mc: 11958
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2629
+      :fr: 2599
+      :de: 2599
+      :ca: 2749
+      :uk: 1999
+      :au: 2999
+      :jp: 258800
+      :fi: 2699
+      :pt: 2699
+      :it: 2629
+      :nl: 2629
+      :at: 2599
+      :nz: 3699
+      :mx: 42999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: "(FUSION)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i7" 4.0 27-Inch (Retina 5K, 2014)'
+  :model_number: A1419
+  :model_identifier: iMac15,1
+  :order_number:
+  - BTO/CTO
+  :short_name: iMac i7 4.0 27 R5K 2014
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Core i7 (I7-4790K)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 4.0 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 4.0 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 4.4 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon R9 M290X
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 5120x2880
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/imac_27-inch_late2014_qs.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 3855
+    :geekbench_3_32_mc: 14388
+    :geekbench_3_64_sc: 4402
+    :geekbench_3_64_mc: 16558
+  :model_types_attributes:
+  - :original_price:
+      :us: 2749
+      :es: 2879
+      :fr: 2849
+      :de: 2849
+      :ca: 2999
+      :uk: 2199
+      :au: 3299
+      :jp: 283300
+      :fi: 2949
+      :pt: 2949
+      :it: 2879
+      :nl: 2879
+      :at: 2849
+      :nz: 4099
+      :mx: 46999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: "(FUSION)"
+      :hd_capacity: 1 TB

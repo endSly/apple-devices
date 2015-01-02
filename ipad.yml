@@ -1,0 +1,2522 @@
+---
+- :vendor: Apple
+  :subfamily: iPad
+  :model: iPad
+  :model_name: Wi-Fi (Original/1st Gen)
+  :model_number: A1219
+  :model_identifier: iPad1,1
+  :order_number:
+  - MB292LL/A
+  - MB293LL/A
+  - MB294LL/A
+  :serial_number:
+  - Z38
+  - '238'
+  - Z39
+  - '239'
+  - Z3A
+  - 23A
+  :short_name: iPad (Wi-Fi)
+  :released_at: 2010-01-27
+  :discontinued_at: 2011-03-02
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 256 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 10 Hours
+    :dimensions: 242.8x189.7x12.7
+    :weight: 680
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPad_User_Guide.pdf
+    :cell_network: Wi-Fi Only
+    :camera: None
+    :cell_standby_time: One Month
+    :iphone_standard_os: iPhone OS 3.2 (7B367)
+    :iphone_max_os: iOS 5.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 488
+      :fr: 499
+      :de: 499
+      :ca: 549
+      :uk: 429
+      :au: 629
+      :jp: 48800
+      :fi: 499
+      :pt: 499
+      :it: 499
+      :nl: 499
+      :at: 499
+      :nz: 814
+      :mx: 7498
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 589
+      :fr: 599
+      :de: 599
+      :ca: 649
+      :uk: 499
+      :au: 759
+      :jp: 58800
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 998
+      :mx: 8999
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 691
+      :fr: 699
+      :de: 699
+      :ca: 749
+      :uk: 599
+      :au: 879
+      :jp: 68800
+      :fi: 699
+      :pt: 699
+      :it: 699
+      :nl: 699
+      :at: 699
+      :nz: 1174
+      :mx: 10499
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad
+  :model: iPad
+  :model_name: Wi-Fi/3G/GPS (Original/1st Gen)
+  :model_number: A1337
+  :model_identifier: iPad1,1
+  :order_number:
+  - MC349LL/A
+  - MC496LL/A
+  - MC497LL/A
+  :serial_number:
+  - A90
+  - A9O
+  - ETU
+  - ETV
+  :short_name: iPad (Wi-Fi/3G/A-GPS)
+  :released_at: 2010-01-27
+  :discontinued_at: 2011-03-02
+  :details:
+    :processor_type: Apple A4
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :max_memory: 256 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 242.8x189.7x12.7
+    :weight: 730
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/iPad_User_Guide.pdf
+    :cell_network: 2G/3G Data (GSM)
+    :camera: None
+    :cell_standby_time: One Month
+    :iphone_standard_os: iPhone OS 3.2 (7B367)
+    :iphone_max_os: iOS 5.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 589
+      :fr: 599
+      :de: 599
+      :ca: 679
+      :uk: 529
+      :au: 799
+      :jp: 61800
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 1021
+      :mx: 9499
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 691
+      :fr: 699
+      :de: 699
+      :ca: 779
+      :uk: 599
+      :au: 928
+      :jp: 71800
+      :fi: 699
+      :pt: 699
+      :it: 699
+      :nl: 699
+      :at: 699
+      :nz: 1205
+      :mx: 10999
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 793
+      :fr: 799
+      :de: 799
+      :ca: 879
+      :uk: 699
+      :au: 1049
+      :jp: 81800
+      :fi: 799
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1379
+      :mx: 12499
+    :details:
+      :standard_memory: 256 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad 2
+  :model: iPad
+  :model_name: 2 (Wi-Fi Only)
+  :model_number: A1395
+  :model_identifier: iPad2,1
+  :order_number:
+  - MC769LL/A
+  - MC770LL/A
+  - MC916LL/A
+  - MC979LL/A
+  - MC980LL/A
+  - MC981LL/A
+  - MC954LL/A
+  - MC989LL/A
+  :serial_number:
+  - DFHW
+  - DFHY
+  - DFJ0
+  - DFJO
+  - DKPH
+  - DKPJ
+  - DKPK
+  :short_name: iPad 2 (Wi-Fi)
+  :released_at: 2011-03-02
+  :discontinued_at: 2014-03-18
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 10 Hours
+    :dimensions: 241.3x185.6x8.6
+    :weight: 601
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_2_user_guide.pdf
+    :geekbench_3_32_sc: 262
+    :geekbench_3_32_mc: 496
+    :cell_network: Wi-Fi Only
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 4.3 (8F190)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 479
+      :fr: 489
+      :de: 479
+      :ca: 519
+      :uk: 399
+      :au: 579
+      :jp: 44800
+      :fi: 479
+      :pt: 479
+      :it: 479
+      :nl: 479
+      :at: 479
+      :nz: 799
+      :mx: 6999
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 579
+      :fr: 591
+      :de: 579
+      :ca: 619
+      :uk: 479
+      :au: 689
+      :jp: 52800
+      :fi: 579
+      :pt: 579
+      :it: 579
+      :nl: 579
+      :at: 579
+      :nz: 949
+      :mx: 8499
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 679
+      :fr: 693
+      :de: 679
+      :ca: 719
+      :uk: 559
+      :au: 799
+      :jp: 60800
+      :fi: 679
+      :pt: 679
+      :it: 679
+      :nl: 679
+      :at: 679
+      :nz: 1099
+      :mx: 9999
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad 2
+  :model: iPad
+  :model_name: 2 (Wi-Fi/GSM/GPS)
+  :model_number: A1396
+  :model_identifier: iPad2,2
+  :order_number:
+  - MC773LL/A
+  - MC774LL/A
+  - MC775LL/A
+  - MC982LL/A
+  - MC983LL/A
+  - MC984LL/A
+  - MC957LL/A
+  - MC992LL/A
+  :serial_number:
+  - DFJ1
+  - DFJI
+  - DFJ2
+  - DFJ3
+  - DKNV
+  - DKNW
+  - DKNY
+  - DKNV
+  :short_name: iPad 2 (GSM/A-GPS)
+  :released_at: 2011-03-02
+  :discontinued_at: 2014-03-18
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x8.6
+    :weight: 613
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_2_user_guide.pdf
+    :geekbench_3_32_sc: 262
+    :geekbench_3_32_mc: 496
+    :cell_network: 2G/3G Data (GSM)
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 4.3 (8F190)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 599
+      :fr: 609
+      :de: 599
+      :ca: 649
+      :uk: 499
+      :au: 729
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 998
+      :mx: 8999
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 699
+      :fr: 711
+      :de: 699
+      :ca: 749
+      :uk: 579
+      :au: 839
+      :fi: 699
+      :pt: 699
+      :it: 699
+      :nl: 699
+      :at: 699
+      :nz: 1149
+      :mx: 10499
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 799
+      :fr: 813
+      :de: 799
+      :ca: 849
+      :uk: 659
+      :au: 949
+      :fi: 799
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1289
+      :mx: 11998
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad 2
+  :model: iPad
+  :model_name: 2 (Wi-Fi/CDMA/GPS)
+  :model_number: A1397
+  :model_identifier: iPad2,3
+  :order_number:
+  - MC755LL/A
+  - MC763LL/A
+  - MC764LL/A
+  - MC985LL/A
+  - MC986LL/A
+  - MC987LL/A
+  - MC755LL/A
+  - MC985LL/A
+  :serial_number:
+  - DJHF
+  - DJHG
+  - DJHH
+  - DKPL
+  - DKPM
+  - DKPN
+  :short_name: iPad 2 (CDMA/A-GPS)
+  :released_at: 2011-03-02
+  :discontinued_at: 2014-03-18
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x8.6
+    :weight: 607
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_2_user_guide.pdf
+    :geekbench_3_32_sc: 262
+    :geekbench_3_32_mc: 496
+    :cell_network: 3G Data (CDMA)
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 4.3 (8F190)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad 2
+  :model: iPad
+  :model_name: 2 (Wi-Fi Only, iPad2,4)
+  :model_number: A1395
+  :model_identifier: iPad2,4
+  :order_number:
+  - MC769LL/A
+  - MC979LL/A
+  - MC954LL/A
+  - MC989LL/A
+  :serial_number:
+  - DKPH
+  :short_name: iPad 2 (Wi-Fi, iPad2,4)
+  :released_at: 2012-03-25
+  :discontinued_at: 2014-03-18
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 9.7" Color
+    :display_resolution: 1024x768 (132 ppi)
+    :battery_type: Lithium Polymer (25Whr)
+    :battery_life: 10 Hours
+    :dimensions: 241.3x185.6x8.6
+    :weight: 601
+    :wifi: 802.11a/b/g/n
+    :bluetooth: 2.1+EDR
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_2_user_guide.pdf
+    :geekbench_3_32_sc: 261
+    :geekbench_3_32_mc: 488
+    :cell_network: Wi-Fi Only
+    :camera: 0.7 Megapixels
+    :iphone_standard_os: iOS 4.3 (8F190)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :es: 399
+      :fr: 409
+      :de: 399
+      :ca: 419
+      :uk: 329
+      :au: 429
+      :jp: 34800
+      :fi: 399
+      :pt: 399
+      :it: 399
+      :nl: 399
+      :at: 399
+      :nz: 579
+      :mx: 6099
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad 3rd Gen
+  :model: iPad
+  :model_name: 3rd Gen (Wi-Fi Only)
+  :model_number: A1416
+  :model_identifier: iPad3,1
+  :order_number:
+  - MC705LL/A
+  - MC706LL/A
+  - MC707LL/A
+  - MD328LL/A
+  - MD329LL/A
+  - MD330LL/A
+  :serial_number:
+  - DVD1
+  - DVDI
+  - DVD2
+  - DVD3
+  - DJ8R
+  - DJBR
+  - DJ8T
+  - DJBT
+  - DJ8V
+  - DJBV
+  :short_name: iPad 3rd Gen (Wi-Fi)
+  :released_at: 2012-03-07
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 652
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 260
+    :geekbench_3_32_mc: 493
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 5.1 (9B176)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 479
+      :fr: 489
+      :de: 479
+      :ca: 519
+      :uk: 399
+      :au: 539
+      :jp: 42800
+      :fi: 479
+      :pt: 479
+      :it: 479
+      :nl: 479
+      :at: 479
+      :nz: 729
+      :mx: 7599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 579
+      :fr: 589
+      :de: 579
+      :ca: 619
+      :uk: 479
+      :au: 649
+      :jp: 50800
+      :fi: 579
+      :pt: 579
+      :it: 579
+      :nl: 579
+      :at: 579
+      :nz: 879
+      :mx: 9098
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 679
+      :fr: 694
+      :de: 679
+      :ca: 719
+      :uk: 559
+      :au: 759
+      :jp: 58800
+      :fi: 679
+      :pt: 679
+      :it: 679
+      :nl: 679
+      :at: 679
+      :nz: 1029
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad 3rd Gen
+  :model: iPad
+  :model_name: 3rd Gen (Wi-Fi/Cellular AT&T/GPS)
+  :model_number: A1430
+  :model_identifier: iPad3,3
+  :order_number:
+  - MD366LL/A
+  - MD367LL/A
+  - MD368LL/A
+  - MD369LL/A
+  - MD370LL/A
+  - MD371LL/A
+  :serial_number:
+  - DVGG
+  - DVGH
+  - DVGJ
+  - DVGK
+  - DVGL
+  - DVGM
+  :short_name: iPad 3rd Gen (AT&T)
+  :released_at: 2012-03-07
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 662
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 260
+    :geekbench_3_32_mc: 493
+    :cell_network: GSM (700, 2100)
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 5.1 (9B176)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 599
+      :fr: 609
+      :de: 599
+      :ca: 649
+      :uk: 499
+      :au: 679
+      :jp: 53800
+      :fi: 599
+      :pt: 599
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 929
+      :mx: 9599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 699
+      :fr: 709
+      :de: 699
+      :ca: 749
+      :uk: 579
+      :au: 789
+      :jp: 61800
+      :fi: 699
+      :pt: 699
+      :it: 699
+      :nl: 699
+      :at: 699
+      :nz: 1079
+      :mx: 11099
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 799
+      :fr: 814
+      :de: 799
+      :ca: 849
+      :uk: 659
+      :au: 899
+      :jp: 69800
+      :fi: 799
+      :pt: 799
+      :it: 799
+      :nl: 799
+      :at: 799
+      :nz: 1228
+      :mx: 12599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad 3rd Gen
+  :model: iPad
+  :model_name: 3rd Gen (Wi-Fi/Cellular Verizon/GPS)
+  :model_number: A1403
+  :model_identifier: iPad3,2
+  :order_number:
+  - MC733LL/A
+  - MC744LL/A
+  - MC756LL/A
+  - MD363LL/A
+  - MD364LL/A
+  - MD365LL/A
+  :serial_number:
+  - DNQR
+  - DNQT
+  - DNQV
+  - DVGC
+  - DVGD
+  - DVGF
+  :short_name: iPad 3rd Gen (Verizon)
+  :released_at: 2012-03-07
+  :discontinued_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 662
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 260
+    :geekbench_3_32_mc: 493
+    :cell_network: GSM (700), CDMA
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 5.1 (9B176)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad 4th Gen
+  :model: iPad
+  :model_name: 4th Gen (Wi-Fi Only)
+  :model_number: A1458
+  :model_identifier: iPad3,4
+  :order_number:
+  - MD510LL/A
+  - MD511LL/A
+  - MD512LL/A
+  - MD513LL/A
+  - MD514LL/A
+  - MD515LL/A
+  - ME392LL/A
+  - ME393LL/A
+  :serial_number:
+  - F182
+  - FI82
+  - F183
+  - FI83
+  - F184
+  - FI84
+  - F185
+  - FI85
+  - F18S
+  - FI8S
+  - F1B5
+  - F1BS
+  - FIBS
+  - F186
+  - FI86
+  - F187
+  - FI87
+  - FCYF
+  - FCYG
+  :short_name: iPad 4th Gen (Wi-Fi)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Apple A6X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 652
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 773
+    :geekbench_3_32_mc: 1410
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 499
+      :fr: 509
+      :de: 499
+      :ca: 499
+      :uk: 399
+      :au: 539
+      :jp: 42800
+      :fi: 509
+      :pt: 509
+      :it: 499
+      :nl: 499
+      :at: 499
+      :nz: 729
+      :mx: 7599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 599
+      :fr: 609
+      :de: 599
+      :ca: 599
+      :uk: 479
+      :au: 649
+      :jp: 50800
+      :fi: 609
+      :pt: 609
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 879
+      :mx: 9098
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 699
+      :fr: 714
+      :de: 699
+      :ca: 699
+      :uk: 559
+      :au: 759
+      :jp: 58800
+      :fi: 709
+      :pt: 709
+      :it: 699
+      :nl: 699
+      :at: 699
+      :nz: 1029
+      :mx: 10599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 799
+      :fr: 814
+      :de: 799
+      :ca: 799
+      :uk: 639
+      :au: 869
+      :jp: 66800
+      :fi: 815
+      :pt: 809
+      :it: 799
+      :nl: 805
+      :at: 799
+      :nz: 1179
+      :mx: 12099
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad 4th Gen
+  :model: iPad
+  :model_name: 4th Gen (Wi-Fi/AT&T/GPS)
+  :model_number: A1459
+  :model_identifier: iPad3,5
+  :order_number:
+  - MD516LL/A
+  - MD517LL/A
+  - MD518LL/A
+  - MD519LL/A
+  - MD520LL/A
+  - MD521LL/A
+  - ME400LL/A
+  - ME401LL/A
+  - MG932LL/A
+  - MG942LL/A
+  :serial_number:
+  - F188
+  - FI88
+  - F18C
+  - FI8C
+  - F18D
+  - FI8D
+  - F18F
+  - FI8F
+  - F18G
+  - FI8G
+  - F189
+  - FI89
+  - FCYC
+  - FCYD
+  :short_name: iPad 4th Gen (AT&T)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Apple A6X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 662
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 773
+    :geekbench_3_32_mc: 1410
+    :cell_network: GSM/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :ca: 629
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :ca: 729
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :ca: 829
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :ca: 929
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad 4th Gen
+  :model: iPad
+  :model_name: 4th Gen (Wi-Fi/Verizon & Sprint/GPS)
+  :model_number: A1460
+  :model_identifier: iPad3,6
+  :order_number:
+  - MD522LL/A
+  - MD523LL/A
+  - MD524LL/A
+  - MD525LL/A
+  - MD526LL/A
+  - MD527LL/A
+  - ME195LL/A
+  - ME196LL/A
+  - ME197LL/A
+  - ME198LL/A
+  - ME199LL/A
+  - ME200LL/A
+  - ME410LL/A
+  - ME411LL/A
+  - ME406LL/A
+  - ME407LL/A
+  :serial_number:
+  - F18P
+  - FI8P
+  - F18Y
+  - FI8Y
+  - F18W
+  - FI8W
+  - F190
+  - FI90
+  - FI9O
+  - F191
+  - FI9I
+  - F192
+  - FI92
+  - FCY8
+  - FCY9
+  :short_name: iPad 4th Gen (VZ/SP)
+  :released_at: 2012-10-23
+  :discontinued_at: 2014-10-16
+  :details:
+    :processor_type: Apple A6X
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (42.5 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 241.3x185.6x9.3
+    :weight: 662
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 773
+    :geekbench_3_32_mc: 1410
+    :cell_network: GSM/CDMA/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 629
+      :fr: 639
+      :de: 629
+      :uk: 499
+      :au: 679
+      :jp: 53800
+      :fi: 639
+      :pt: 639
+      :it: 629
+      :nl: 629
+      :at: 629
+      :nz: 929
+      :mx: 9599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 729
+      :fr: 739
+      :de: 729
+      :uk: 579
+      :au: 789
+      :jp: 61800
+      :fi: 739
+      :pt: 739
+      :it: 729
+      :nl: 729
+      :at: 729
+      :nz: 1079
+      :mx: 11099
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 829
+      :fr: 844
+      :de: 829
+      :uk: 659
+      :au: 899
+      :jp: 69800
+      :fi: 839
+      :pt: 839
+      :it: 829
+      :nl: 829
+      :at: 829
+      :nz: 1228
+      :mx: 12599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 929
+      :fr: 944
+      :de: 929
+      :uk: 739
+      :au: 1009
+      :jp: 77800
+      :fi: 946
+      :pt: 939
+      :it: 929
+      :nl: 935
+      :at: 929
+      :nz: 1379
+      :mx: 14099
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini
+  :model: iPad
+  :model_name: mini (Wi-Fi Only/1st Gen)
+  :model_number: A1432
+  :model_identifier: iPad2,5
+  :order_number:
+  - MD528LL/A
+  - MD529LL/A
+  - MD530LL/A
+  - MD531LL/A
+  - MD532LL/A
+  - MD533LL/A
+  - MF432LL/A
+  :serial_number:
+  - F193
+  - FI93
+  - F194
+  - FI94
+  - F195
+  - FI95
+  - F196
+  - FI96
+  - F197
+  - FI97
+  - F198
+  - FI98
+  - F637
+  - FP84
+  - FPB4
+  :short_name: iPad mini (Wi-Fi)
+  :released_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 7.9" Color
+    :display_resolution: 1024x768 (163 ppi)
+    :battery_type: Lithium Polymer (16.3 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 199.8x134.6x7.1
+    :weight: 308
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 261
+    :geekbench_3_32_mc: 492
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 329
+      :es: 329
+      :fr: 339
+      :de: 329
+      :ca: 329
+      :uk: 269
+      :au: 369
+      :jp: 28800
+      :fi: 339
+      :pt: 339
+      :it: 329
+      :nl: 329
+      :at: 329
+      :nz: 479
+      :mx: 5199
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 429
+      :fr: 439
+      :de: 429
+      :ca: 429
+      :uk: 349
+      :au: 479
+      :jp: 36800
+      :fi: 439
+      :pt: 439
+      :it: 429
+      :nl: 429
+      :at: 429
+      :nz: 629
+      :mx: 6699
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 529
+      :fr: 544
+      :de: 529
+      :ca: 529
+      :uk: 429
+      :au: 589
+      :jp: 44800
+      :fi: 539
+      :pt: 539
+      :it: 529
+      :nl: 529
+      :at: 529
+      :nz: 779
+      :mx: 8199
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad mini
+  :model: iPad
+  :model_name: mini (Wi-Fi/AT&T/GPS - 1st Gen)
+  :model_number: A1454
+  :model_identifier: iPad2,6
+  :order_number:
+  - MD534LL/A
+  - MD535LL/A
+  - MD536LL/A
+  - MD537LL/A
+  - MD538LL/A
+  - MD539LL/A
+  - MF746LL/A
+  - MF442LL/A
+  - MF743LL/A
+  :serial_number:
+  - F199
+  - FI99
+  - F19C
+  - FI9C
+  - F19D
+  - FI9D
+  - F19G
+  - FI9G
+  - F19F
+  - FI9F
+  - F19H
+  - FI9H
+  - FPFQ
+  :short_name: iPad mini (AT&T)
+  :released_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 7.9" Color
+    :display_resolution: 1024x768 (163 ppi)
+    :battery_type: Lithium Polymer (16.3 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 199.8x134.6x7.1
+    :weight: 312
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 261
+    :geekbench_3_32_mc: 492
+    :cell_network: GSM/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 459
+      :ca: 459
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :ca: 559
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :ca: 659
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad mini
+  :model: iPad
+  :model_name: mini (Wi-Fi/VZ & Sprint/GPS - 1st Gen)
+  :model_number: A1455
+  :model_identifier: iPad2,7
+  :order_number:
+  - MD540LL/A
+  - MD541LL/A
+  - MD542LL/A
+  - MD543LL/A
+  - MD544LL/A
+  - MD545LL/A
+  - ME215LL/A
+  - ME216LL/A
+  - ME217LL/A
+  - ME218LL/A
+  - ME219LL/A
+  - ME220LL/A
+  - MF453LL/A
+  - MF450LL/A
+  :serial_number:
+  - F19J
+  - FI9J
+  - F19K
+  - FI9K
+  - F19L
+  - FI9L
+  - F19M
+  - FI9M
+  - F19N
+  - FI9N
+  - F19P
+  - FI9P
+  - FPFL
+  :short_name: iPad mini (VZ/SP)
+  :released_at: 2012-10-23
+  :details:
+    :processor_type: Apple A5
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.0 GHz
+    :max_memory: 512 MB
+    :display: 7.9" Color
+    :display_resolution: 1024x768 (163 ppi)
+    :battery_type: Lithium Polymer (16.3 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 199.8x134.6x7.1
+    :weight: 312
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 261
+    :geekbench_3_32_mc: 492
+    :cell_network: GSM/CDMA/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 6
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 459
+      :es: 459
+      :fr: 469
+      :de: 459
+      :uk: 369
+      :au: 509
+      :jp: 39800
+      :fi: 469
+      :pt: 469
+      :it: 459
+      :nl: 459
+      :at: 459
+      :nz: 680
+      :mx: 7200
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 559
+      :fr: 569
+      :de: 559
+      :uk: 449
+      :au: 619
+      :jp: 47800
+      :fi: 569
+      :pt: 569
+      :it: 559
+      :nl: 559
+      :at: 559
+      :nz: 829
+      :mx: 8699
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 659
+      :fr: 674
+      :de: 659
+      :uk: 529
+      :au: 729
+      :jp: 55800
+      :fi: 669
+      :pt: 669
+      :it: 659
+      :nl: 659
+      :at: 659
+      :nz: 979
+      :mx: 10199
+    :details:
+      :standard_memory: 512 MB
+      :hd_capacity: 64 GB
+- :vendor: Apple
+  :subfamily: iPad Air
+  :model: iPad
+  :model_name: Air (Wi-Fi Only)
+  :model_number: A1474
+  :model_identifier: iPad4,1
+  :order_number:
+  - MD785LL/A
+  - MD786LL/A
+  - MD787LL/A
+  - MD898LL/A
+  - MD788LL/A
+  - MD789LL/A
+  - MD790LL/A
+  - ME906LL/A
+  :serial_number:
+  - FK10
+  - FK1O
+  - FKI0
+  - FKIO
+  - FK11
+  - FKI1
+  - FK1I
+  - FKII
+  - FK12
+  - FKI2
+  - FK13
+  - FKI3
+  - FK14
+  - FKI4
+  - FK15
+  - FKI5
+  - FK16
+  - FKI6
+  - FK17
+  - FKI7
+  :short_name: iPad Air Wi-Fi
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (32.4 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 238.7x167.6x7.3
+    :weight: 469
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1099
+    :geekbench_3_32_mc: 1934
+    :geekbench_3_64_sc: 1474
+    :geekbench_3_64_mc: 2669
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.0.3
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 479
+      :fr: 489
+      :de: 479
+      :ca: 519
+      :uk: 399
+      :au: 598
+      :jp: 51800
+      :fi: 489
+      :pt: 489
+      :it: 479
+      :nl: 479
+      :at: 479
+      :nz: 749
+      :mx: 7799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 569
+      :fr: 579
+      :de: 569
+      :ca: 619
+      :uk: 479
+      :au: 699
+      :jp: 61800
+      :fi: 579
+      :pt: 579
+      :it: 569
+      :nl: 569
+      :at: 569
+      :nz: 899
+      :mx: 9399
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 659
+      :fr: 675
+      :de: 659
+      :ca: 719
+      :uk: 559
+      :au: 799
+      :jp: 71800
+      :fi: 669
+      :pt: 669
+      :it: 659
+      :nl: 659
+      :at: 659
+      :nz: 1049
+      :mx: 10999
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 749
+      :fr: 765
+      :de: 749
+      :ca: 819
+      :uk: 639
+      :au: 899
+      :jp: 81800
+      :fi: 759
+      :pt: 759
+      :it: 749
+      :nl: 749
+      :at: 749
+      :nz: 1199
+      :mx: 12599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad Air
+  :model: iPad
+  :model_name: Air (Wi-Fi/Cellular)
+  :model_number: A1475
+  :model_identifier: iPad4,2
+  :order_number:
+  - ME991LL/A
+  - MF003LL/A
+  - MF009LL/A
+  - MF015LL/A
+  - ME997LL/A
+  - MF529LL/A
+  - MF012LL/A
+  - MF018LL/A
+  - MF020LL/A
+  - MF024LL/A
+  - MF026LL/A
+  - MF028LL/A
+  - MF021LL/A
+  - MF025LL/A
+  - MF027LL/A
+  - MF029LL/A
+  - MF496LL/A
+  - MF520LL/A
+  - MF534LL/A
+  - MF558LL/A
+  - MF502LL/A
+  - MF527LL/A
+  - MF539LL/A
+  - MF563LL/A
+  - ME993LL/A
+  - MF004LL/A
+  - MF010LL/A
+  - MF016LL/A
+  - ME999LL/A
+  - MF532LL/A
+  - MF013LL/A
+  - MF019LL/A
+  :serial_number:
+  - F4YD
+  - F4YF
+  - F4YG
+  - F4YH
+  - F4YJ
+  - F4YK
+  - FKYC
+  - FKYH
+  :short_name: iPad Air Wi-Fi+Cell
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (32.4 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 238.7x167.6x7.3
+    :weight: 478
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1099
+    :geekbench_3_32_mc: 1934
+    :geekbench_3_64_sc: 1474
+    :geekbench_3_64_mc: 2669
+    :cell_network: GSM/CDMA/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.0.3
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 599
+      :fr: 609
+      :de: 599
+      :ca: 649
+      :uk: 499
+      :au: 749
+      :jp: 66720
+      :fi: 609
+      :pt: 609
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 949
+      :mx: 9799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 689
+      :fr: 699
+      :de: 689
+      :ca: 749
+      :uk: 579
+      :au: 849
+      :jp: 77520
+      :fi: 699
+      :pt: 699
+      :it: 689
+      :nl: 689
+      :at: 689
+      :nz: 1099
+      :mx: 11399
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 779
+      :fr: 795
+      :de: 779
+      :ca: 849
+      :uk: 659
+      :au: 949
+      :jp: 88320
+      :fi: 789
+      :pt: 789
+      :it: 779
+      :nl: 779
+      :at: 779
+      :nz: 1249
+      :mx: 12998
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 869
+      :fr: 885
+      :de: 869
+      :ca: 949
+      :uk: 739
+      :au: 1049
+      :jp: 99120
+      :fi: 879
+      :pt: 879
+      :it: 869
+      :nl: 869
+      :at: 869
+      :nz: 1399
+      :mx: 14598
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad Air
+  :model: iPad
+  :model_name: Air (Wi-Fi/TD-LTE - China)
+  :model_number: A1476
+  :model_identifier: iPad4,3
+  :order_number:
+  - MD785CH/A
+  - MD768CH/A
+  - MD787CH/A
+  - ME898CH/A
+  - MD788CH/A
+  - MD789CH/A
+  - MD790CH/A
+  - ME906CH/A
+  :short_name: iPad Air Wi-Fi+Cell CN
+  :released_at: 2014-04-01
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.4 GHz
+    :max_memory: 1 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (32.4 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 238.7x167.6x7.3
+    :weight: 478
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1099
+    :geekbench_3_32_mc: 1934
+    :geekbench_3_64_sc: 1474
+    :geekbench_3_64_mc: 2669
+    :cell_network: GSM/TD-LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.1 (11D167)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad mini (2nd Gen)
+  :model: iPad
+  :model_name: mini 2 (Retina/2nd Gen, Wi-Fi Only)
+  :model_number: A1489
+  :model_identifier: iPad4,4
+  :order_number:
+  - ME276LL/A
+  - ME277LL/A
+  - ME278LL/A
+  - ME856LL/A
+  - ME279LL/A
+  - ME280LL/A
+  - ME281LL/A
+  - ME860LL/A
+  :serial_number:
+  - FCM5
+  - FCMS
+  - FCM6
+  - FCM7
+  - FCM8
+  - FCMB
+  - FCM9
+  - FCMC
+  - FH12
+  - FHI2
+  - FH13
+  - FHI3
+  :short_name: iPad mini 2 Wi-Fi
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 331
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.0.3
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :es: 389
+      :fr: 399
+      :de: 389
+      :ca: 419
+      :uk: 319
+      :au: 479
+      :jp: 41900
+      :fi: 399
+      :pt: 399
+      :it: 389
+      :nl: 389
+      :at: 389
+      :nz: 599
+      :mx: 6299
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 479
+      :fr: 489
+      :de: 479
+      :ca: 519
+      :uk: 399
+      :au: 598
+      :jp: 51800
+      :fi: 489
+      :pt: 489
+      :it: 479
+      :nl: 479
+      :at: 479
+      :nz: 749
+      :mx: 7799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 569
+      :fr: 585
+      :de: 569
+      :ca: 619
+      :uk: 479
+      :au: 699
+      :jp: 61800
+      :fi: 579
+      :pt: 579
+      :it: 569
+      :nl: 569
+      :at: 569
+      :nz: 899
+      :mx: 9399
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 659
+      :fr: 675
+      :de: 659
+      :ca: 719
+      :uk: 559
+      :au: 799
+      :jp: 71800
+      :fi: 669
+      :pt: 669
+      :it: 659
+      :nl: 659
+      :at: 659
+      :nz: 1049
+      :mx: 10999
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini (2nd Gen)
+  :model: iPad
+  :model_name: mini 2 (Retina/2nd Gen, Wi-Fi/Cellular)
+  :model_number: A1490
+  :model_identifier: iPad4,5
+  :order_number:
+  - MF066LL/A
+  - MF080LL/A
+  - MF086LL/A
+  - MF116LL/A
+  - MF074LL/A
+  - MF083LL/A
+  - MF089LL/A
+  - MF120LL/A
+  - MF070LL/A
+  - MF082LL/A
+  - MF088LL/A
+  - MF118LL/A
+  - MF076LL/A
+  - MF085LL/A
+  - MF091LL/A
+  - MF123LL/A
+  - MF519LL/A
+  - MF552LL/A
+  - MF575LL/A
+  - MF585LL/A
+  - MF544LL/A
+  - MF569LL/A
+  - MF580LL/A
+  - MF594LL/A
+  - MF069LL/A
+  - MF081LL/A
+  - MF087LL/A
+  - MF117LL/A
+  - MF075LL/A
+  - MF084LL/A
+  - MF090LL/A
+  - MF121LL/A
+  :serial_number:
+  - FLMJ
+  - FLMK
+  - FLML
+  - FLMM
+  - FLMN
+  - FLMP
+  - FLMQ
+  - FLMR
+  :short_name: iPad mini 2 Wi-Fi+Cell
+  :released_at: 2013-10-22
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 341
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: GSM/CDMA/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.0.3
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 529
+      :es: 509
+      :fr: 519
+      :de: 509
+      :ca: 549
+      :uk: 419
+      :au: 629
+      :jp: 55920
+      :fi: 519
+      :pt: 519
+      :it: 509
+      :nl: 509
+      :at: 509
+      :nz: 799
+      :mx: 8299
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :es: 599
+      :fr: 609
+      :de: 599
+      :ca: 649
+      :uk: 499
+      :au: 749
+      :jp: 66720
+      :fi: 609
+      :pt: 609
+      :it: 599
+      :nl: 599
+      :at: 599
+      :nz: 949
+      :mx: 9799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :es: 689
+      :fr: 705
+      :de: 689
+      :ca: 749
+      :uk: 579
+      :au: 849
+      :jp: 77520
+      :fi: 699
+      :pt: 699
+      :it: 689
+      :nl: 689
+      :at: 689
+      :nz: 1099
+      :mx: 11399
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :es: 779
+      :fr: 795
+      :de: 779
+      :ca: 849
+      :uk: 659
+      :au: 949
+      :jp: 88320
+      :fi: 789
+      :pt: 789
+      :it: 779
+      :nl: 779
+      :at: 779
+      :nz: 1249
+      :mx: 12998
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini (2nd Gen)
+  :model: iPad
+  :model_name: mini 2 (Retina/2nd Gen, China)
+  :model_number: A1491
+  :model_identifier: iPad4,6
+  :order_number:
+  - MF247CH/A
+  - MF251CH/A
+  - MF245CH/A
+  - MF243CH/A
+  - MF248CH/A
+  - MF252CH/A
+  - MF246CH/A
+  - MF244CH/A
+  :short_name: iPad mini 2 China
+  :released_at: 2014-04-01
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 341
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: GSM/TD-LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 7.1 (11D167)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad Air 2
+  :model: iPad
+  :model_name: Air 2 (Wi-Fi Only)
+  :model_number: A1566
+  :model_identifier: iPad5,3
+  :order_number:
+  - MGLW2LL/A
+  - MGKM2LL/A
+  - MGTY2LL/A
+  - MH0W2LL/A
+  - MH182LL/A
+  - MH1J2LL/A
+  - MGL12LL/A
+  - MGKL2LL/A
+  - MGTX2LL/A
+  :serial_number:
+  - G5VV
+  - G5VW
+  - G5VY
+  - G5W0
+  - G5WO
+  - G5W1
+  - G5WI
+  :short_name: iPad Air 2 Wi-Fi
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Apple A8X
+    :processor_arch: 64-bit
+    :processor_count: 1 (3 Cores)
+    :processor_speed: 1.5 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 2 MB
+    :max_memory: 2 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (27.3 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 238.7x167.6x6.0
+    :weight: 437
+    :wifi: 802.11ac (HT80)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_64_sc: 1791
+    :geekbench_3_64_mc: 4403
+    :cell_network: Wi-Fi Only
+    :camera: 8 Megapixels
+    :iphone_standard_os: iOS 8.1 (12B410)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 499
+      :es: 489
+      :fr: 499
+      :de: 489
+      :ca: 549
+      :uk: 399
+      :au: 619
+      :jp: 53800
+      :fi: 509
+      :pt: 509
+      :it: 499
+      :nl: 499
+      :at: 489
+      :nz: 749
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 599
+      :es: 589
+      :fr: 605
+      :de: 589
+      :ca: 659
+      :uk: 479
+      :au: 739
+      :jp: 64800
+      :fi: 609
+      :pt: 609
+      :it: 599
+      :nl: 599
+      :at: 589
+      :nz: 899
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 699
+      :es: 689
+      :fr: 705
+      :de: 689
+      :ca: 769
+      :uk: 559
+      :au: 859
+      :jp: 75800
+      :fi: 709
+      :pt: 709
+      :it: 699
+      :nl: 699
+      :at: 689
+      :nz: 1049
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad Air 2
+  :model: iPad
+  :model_name: Air 2 (Wi-Fi/Cellular)
+  :model_number: A1567
+  :model_identifier: iPad5,4
+  :order_number:
+  - MH2V2LL/A
+  - MH2N2LL/A
+  - MH322LL/A
+  - MH2W2LL/A
+  - MH2P2LL/A
+  - MH332LL/A
+  - MH2U2LL/A
+  - MH2M2LL/A
+  - MH312LL/A
+  :serial_number:
+  - G5WT
+  :short_name: iPad Air 2 Wi-Fi+Cell
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Apple A8X
+    :processor_arch: 64-bit
+    :processor_count: 1 (3 Cores)
+    :processor_speed: 1.5 GHz
+    :processor_l1_cache: 64k/64k
+    :processor_l2_cache: 2 MB
+    :max_memory: 2 GB
+    :display: 9.7" Color
+    :display_resolution: 2048x1536 (264 ppi)
+    :battery_type: Lithium Polymer (27.3 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 238.7x167.6x6.0
+    :weight: 444
+    :wifi: 802.11ac (HT80)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_64_sc: 1791
+    :geekbench_3_64_mc: 4403
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8 Megapixels
+    :iphone_standard_os: iOS 8.1 (12B410)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 629
+      :es: 609
+      :fr: 619
+      :de: 609
+      :ca: 689
+      :uk: 499
+      :au: 779
+      :jp: 67800
+      :fi: 629
+      :pt: 629
+      :it: 619
+      :nl: 619
+      :at: 609
+      :nz: 949
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 729
+      :es: 709
+      :fr: 725
+      :de: 709
+      :ca: 799
+      :uk: 579
+      :au: 899
+      :jp: 78800
+      :fi: 729
+      :pt: 729
+      :it: 719
+      :nl: 719
+      :at: 709
+      :nz: 1099
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 829
+      :es: 809
+      :fr: 825
+      :de: 809
+      :ca: 899
+      :uk: 659
+      :au: 1019
+      :jp: 89800
+      :fi: 829
+      :pt: 829
+      :it: 819
+      :nl: 819
+      :at: 809
+      :nz: 1249
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini 3
+  :model: iPad
+  :model_name: mini 3 (Wi-Fi Only)
+  :model_number: A1599
+  :model_identifier: iPad4,7
+  :order_number:
+  - MGNV2LL/A
+  - MGGT2LL/A
+  - MGP42LL/A
+  - MGYE2LL/A
+  - MGY92LL/A
+  - MGYK2LL/A
+  - MGNR2LL/A
+  - MGGQ2LL/A
+  - MGP32LL/A
+  :serial_number:
+  - G5V3
+  - G5V4
+  - G5V5
+  - G5V6
+  :short_name: iPad mini 3 Wi-Fi
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 331
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: Wi-Fi Only
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 8.1 (12B410)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :es: 389
+      :fr: 399
+      :de: 389
+      :ca: 439
+      :uk: 319
+      :au: 499
+      :jp: 42800
+      :fi: 409
+      :pt: 409
+      :it: 399
+      :nl: 399
+      :at: 389
+      :nz: 599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 499
+      :es: 489
+      :fr: 505
+      :de: 489
+      :ca: 549
+      :uk: 399
+      :au: 619
+      :jp: 53800
+      :fi: 509
+      :pt: 509
+      :it: 499
+      :nl: 499
+      :at: 489
+      :nz: 749
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 599
+      :es: 589
+      :fr: 605
+      :de: 589
+      :ca: 659
+      :uk: 479
+      :au: 739
+      :jp: 64800
+      :fi: 609
+      :pt: 609
+      :it: 599
+      :nl: 599
+      :at: 589
+      :nz: 899
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini 3
+  :model: iPad
+  :model_name: mini 3 (Wi-Fi/Cellular)
+  :model_number: A1600
+  :model_identifier: iPad4,8
+  :order_number:
+  - MH3F2LL/A
+  - MH382LL/A
+  - MH3M2LL/A
+  - MH3G2LL/A
+  - MH392LL/A
+  - MH3N2LL/A
+  - MH3E2LL/A
+  - MH372LL/A
+  - MH3L2LL/A
+  :serial_number:
+  - G5Y2
+  :short_name: iPad mini 3 Wi-Fi+Cell
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 341
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: GSM/CDMA/LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 8.1 (12B410)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 529
+      :es: 509
+      :fr: 519
+      :de: 509
+      :ca: 579
+      :uk: 419
+      :au: 659
+      :jp: 56800
+      :fi: 529
+      :pt: 529
+      :it: 519
+      :nl: 519
+      :at: 509
+      :nz: 799
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 629
+      :es: 609
+      :fr: 625
+      :de: 609
+      :ca: 689
+      :uk: 499
+      :au: 779
+      :jp: 67800
+      :fi: 629
+      :pt: 629
+      :it: 619
+      :nl: 619
+      :at: 609
+      :nz: 949
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 729
+      :es: 709
+      :fr: 725
+      :de: 709
+      :ca: 799
+      :uk: 579
+      :au: 899
+      :jp: 78800
+      :fi: 729
+      :pt: 729
+      :it: 719
+      :nl: 719
+      :at: 709
+      :nz: 1099
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini 3
+  :model: iPad
+  :model_name: mini 3 (Wi-Fi/Cellular, China)
+  :model_number: A1601
+  :model_identifier: iPad4,9
+  :order_number:
+  - MGPW2CH/A
+  - MGQ12CH/A
+  - MGQ32CH/A
+  - MGYY2CH/A
+  - MGYW2CH/A
+  - MH012CH/A
+  - MGPV2CH/A
+  - MGQ02CH/A
+  - MGQ22CH/A
+  :short_name: iPad mini 3 China
+  :released_at: 2014-10-16
+  :details:
+    :processor_type: Apple A7
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.3 GHz
+    :max_memory: 1 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :battery_type: Lithium Polymer (23.8 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 199.8x134.6x7.3
+    :weight: 341
+    :wifi: 802.11a/b/g/n (MIMO)
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 1033
+    :geekbench_3_32_mc: 1841
+    :geekbench_3_64_sc: 1385
+    :geekbench_3_64_mc: 2496
+    :cell_network: GSM/TD-LTE
+    :camera: 5 Megapixels
+    :iphone_standard_os: iOS 8.1 (12B410)
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
