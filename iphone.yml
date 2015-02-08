@@ -1283,7 +1283,7 @@
   - MF162LL/A
   - MGFM2LL/A
   - MGFR2LL/A
-  - MGFR2LL/A
+  - MGFN2LL/A
   - MGFP2LL/A
   - MGFQ2LL/A
   :serial_number:
@@ -2150,6 +2150,7 @@
   - MG312LL/A
   :serial_number:
   - G5MC
+  - G5MD
   - G5MG
   - G5MH
   - G5MJ
