@@ -2007,6 +2007,7 @@
   - GO84
   :short_name: MacBook Air i5 1.4 11 14
   :released_at: 2014-04-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i5 (I5-4260U)
     :processor_arch: 64-Bit
@@ -2101,6 +2102,7 @@
   - BTO/CTO
   :short_name: MacBook Air i7 1.7 11 14
   :released_at: 2014-04-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i7 (I7-4650U)
     :processor_arch: 64-Bit
@@ -2201,6 +2203,7 @@
   - GO86
   :short_name: MacBook Air i5 1.4 13 14
   :released_at: 2014-04-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i5 (I5-4260U)
     :processor_arch: 64-Bit
@@ -2295,6 +2298,7 @@
   - BTO/CTO
   :short_name: MacBook Air i7 1.7 13 14
   :released_at: 2014-04-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i7 (I7-4650U)
     :processor_arch: 64-Bit
@@ -2374,6 +2378,390 @@
       :at: 1349
       :nz: 1894
       :mx: 21399
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Air 11"
+  :model: MacBook Air
+  :model_name: '"Core i5" 1.6 11" (Early 2015)'
+  :model_number: A1465
+  :model_identifier: MacBookAir7,1
+  :order_number:
+  - MJVM2LL/A
+  - MJVP2LL/A
+  :serial_number:
+  - GFWM
+  :short_name: MacBook Air i5 1.6 11 15
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i5 (I5-5250U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.6 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 1.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB (on chip)
+    :processor_turbo_boost: 2.7 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 6000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 11.6" Widescreen
+    :display_resolution: 1366x768
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 38 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 2.7x299.7x192.0
+    :weight: 1080
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1698/en_US/mb_air_11_inch_early2015_essentials.pdf
+    :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 899
+      :es: 999
+      :fr: 999
+      :de: 999
+      :ca: 1099
+      :uk: 749
+      :au: 1249
+      :jp: 102800
+      :fi: 1029
+      :pt: 1029
+      :it: 1029
+      :nl: 999
+      :at: 999
+      :nz: 1399
+      :mx: 15999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB
+  - :original_price:
+      :us: 1099
+      :es: 1249
+      :fr: 1249
+      :de: 1249
+      :ca: 1349
+      :uk: 899
+      :au: 1549
+      :jp: 126800
+      :fi: 1279
+      :pt: 1279
+      :it: 1279
+      :nl: 1249
+      :at: 1249
+      :nz: 1699
+      :mx: 19499
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Air 11"
+  :model: MacBook Air
+  :model_name: '"Core i7" 2.2 11" (Early 2015)'
+  :model_number: A1465
+  :model_identifier: MacBookAir7,1
+  :order_number:
+  - BTO/CTO
+  :short_name: MacBook Air i5 1.6 11 15
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i7 (I7-5650U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.2 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 2.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB (on chip)
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 6000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 11.6" Widescreen
+    :display_resolution: 1366x768
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 38 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 2.7x299.7x192.0
+    :weight: 1080
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1698/en_US/mb_air_11_inch_early2015_essentials.pdf
+    :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1049
+      :es: 1199
+      :fr: 1199
+      :de: 1199
+      :ca: 1279
+      :uk: 879
+      :au: 1469
+      :jp: 120800
+      :fi: 1179
+      :pt: 1179
+      :it: 1229
+      :nl: 1199
+      :at: 1149
+      :nz: 1639
+      :mx: 18699
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB
+  - :original_price:
+      :us: 1249
+      :es: 1449
+      :fr: 1449
+      :de: 1449
+      :ca: 1529
+      :uk: 1029
+      :au: 1769
+      :jp: 141800
+      :fi: 1429
+      :pt: 1429
+      :it: 1479
+      :nl: 1449
+      :at: 1399
+      :nz: 1939
+      :mx: 22199
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Air 13"
+  :model: MacBook Air
+  :model_name: '"Core i5" 1.6 13" (Early 2015)'
+  :model_number: A1466
+  :model_identifier: MacBookAir7,2
+  :order_number:
+  - MJVE2LL/A
+  - MJVG2LL/A
+  :serial_number:
+  - G940
+  - G94O
+  - G941
+  :short_name: MacBook Air i5 1.6 13 15
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i5 (I5-5250U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.6 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 1.6 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB (on chip)
+    :processor_turbo_boost: 2.7 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 6000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 13.3" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Proprietary* (PCIe x4)
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :battery_type: 54 W h Li-Poly
+    :battery_life: 12 Hours
+    :dimensions: 2.7x325.1x227.0
+    :weight: 1350
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1701/en_US/mb_air_13_inch_early2015_essentials.pdf
+    :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 1099
+      :fr: 1099
+      :de: 1099
+      :ca: 1199
+      :uk: 849
+      :au: 1399
+      :jp: 112800
+      :fi: 1179
+      :pt: 1179
+      :it: 1179
+      :nl: 1099
+      :at: 1099
+      :nz: 1499
+      :mx: 17999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB
+  - :original_price:
+      :us: 1199
+      :es: 1349
+      :fr: 1349
+      :de: 1349
+      :ca: 1449
+      :uk: 999
+      :au: 1699
+      :jp: 136800
+      :fi: 1379
+      :pt: 1379
+      :it: 1379
+      :nl: 1349
+      :at: 1349
+      :nz: 1799
+      :mx: 20999
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Air 13"
+  :model: MacBook Air
+  :model_name: '"Core i7" 2.2 13" (Early 2015)'
+  :model_number: A1466
+  :model_identifier: MacBookAir7,2
+  :order_number:
+  - BTO/CTO
+  :short_name: MacBook Air i7 2.2 13 15
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i7 (I7-5650U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.2 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 2.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB (on chip)
+    :processor_turbo_boost: 3.2 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 6000
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 13.3" Widescreen
+    :display_resolution: 1440x900
+    :hd_interface: Proprietary* (PCIe x4)
+    :optical_drive: None
+    :expansion_slots: SD Card (SDXC)
+    :battery_type: 54 W h Li-Poly
+    :battery_life: 12 Hours
+    :dimensions: 2.7x325.1x227.0
+    :weight: 1350
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1701/en_US/mb_air_13_inch_early2015_essentials.pdf
+    :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1149
+      :es: 1299
+      :fr: 1299
+      :de: 1299
+      :ca: 1379
+      :uk: 979
+      :au: 1619
+      :jp: 130800
+      :fi: 1329
+      :pt: 1329
+      :it: 1379
+      :nl: 1299
+      :at: 1249
+      :nz: 1739
+      :mx: 20699
+    :details:
+      :standard_memory: 4 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB
+  - :original_price:
+      :us: 1349
+      :es: 1549
+      :fr: 1549
+      :de: 1549
+      :ca: 1629
+      :uk: 1129
+      :au: 1919
+      :jp: 151800
+      :fi: 1529
+      :pt: 1529
+      :it: 1579
+      :nl: 1549
+      :at: 1499
+      :nz: 2039
+      :mx: 23699
     :details:
       :standard_memory: 4 GB
       :graphics_card_vram: 1 GB

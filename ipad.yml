@@ -2130,6 +2130,7 @@
       :nl: 499
       :at: 489
       :nz: 749
+      :mx: 8299
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 16 GB
@@ -2148,6 +2149,7 @@
       :nl: 599
       :at: 589
       :nz: 899
+      :mx: 9999
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 64 GB
@@ -2166,6 +2168,7 @@
       :nl: 699
       :at: 689
       :nz: 1049
+      :mx: 11699
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 128 GB
@@ -2230,6 +2233,7 @@
       :nl: 619
       :at: 609
       :nz: 949
+      :mx: 10699
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 16 GB
@@ -2248,6 +2252,7 @@
       :nl: 719
       :at: 709
       :nz: 1099
+      :mx: 12499
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 64 GB
@@ -2266,6 +2271,7 @@
       :nl: 819
       :at: 809
       :nz: 1249
+      :mx: 14299
     :details:
       :standard_memory: 2 GB
       :hd_capacity: 128 GB
@@ -2333,6 +2339,7 @@
       :nl: 399
       :at: 389
       :nz: 599
+      :mx: 6599
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
@@ -2351,6 +2358,7 @@
       :nl: 499
       :at: 489
       :nz: 749
+      :mx: 8299
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
@@ -2369,6 +2377,7 @@
       :nl: 599
       :at: 589
       :nz: 899
+      :mx: 9999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB
@@ -2433,6 +2442,7 @@
       :nl: 519
       :at: 509
       :nz: 799
+      :mx: 8899
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
@@ -2451,6 +2461,7 @@
       :nl: 619
       :at: 609
       :nz: 949
+      :mx: 10699
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
@@ -2469,6 +2480,7 @@
       :nl: 719
       :at: 709
       :nz: 1099
+      :mx: 12499
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB

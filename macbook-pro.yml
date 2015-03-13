@@ -3311,7 +3311,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 2 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_13inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_13inch_early2011.pdf
     :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3393,7 +3393,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 2 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_13inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_13inch_early2011.pdf
     :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3482,7 +3482,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 2 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_15inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1567/en_US/macbook_pro_15inch_early2011.pdf
     :power: '100V-240V AC, 85W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3570,7 +3570,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 2 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_15inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1567/en_US/macbook_pro_15inch_early2011.pdf
     :power: '100V-240V AC, 85W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3651,7 +3651,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 2 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_15inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1567/en_US/macbook_pro_15inch_early2011.pdf
     :power: '100V-240V AC, 85W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3735,7 +3735,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 3 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_17inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_17inch_early2011.pdf
     :power: '100V-240V AC, 85W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -3817,7 +3817,7 @@
     :ethernet: 10/100/1000Base-T
     :usb_ports: 3 (2.0)
     :firewire_ports: 1 (800)
-    :user_manual: http://manuals.info.apple.com/en_US/MacBook_Pro_17inch_Early2011.pdf
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_17inch_early2011.pdf
     :power: '100V-240V AC, 85W "MagSafe" power adapter. Also see: <a class="small"
       href="http://www.everymac.com/systems/apple/macbook_pro/faq/macbook-pro-what-is-magsafe-data-loss.html">What</a>
       is the "Magsafe" power connector? How does it work? How was it designed to not
@@ -6297,7 +6297,7 @@
   :model_number: A1398
   :model_identifier: MacBookPro11,3
   :order_number:
-  - BTO/CTO
+  - ME874LL/A
   :serial_number:
   - FR1M
   - FRIM
@@ -6384,6 +6384,7 @@
   - G3QQ
   :short_name: MacBook Pro i5 2.6 13 M
   :released_at: 2014-07-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i5 (I5-4278U)
     :processor_arch: 64-Bit
@@ -6481,6 +6482,7 @@
   - G3QR
   :short_name: MacBook Pro i5 2.8 13 M
   :released_at: 2014-07-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i5 (I5-4308U)
     :processor_arch: 64-Bit
@@ -6554,6 +6556,7 @@
   - BTO/CTO
   :short_name: MacBook Pro i7 3.0 13 M
   :released_at: 2014-07-29
+  :discontinued_at: 2015-03-09
   :details:
     :processor_type: Core i7 (I7-4578U)
     :processor_arch: 64-Bit
@@ -6921,6 +6924,8 @@
   :model_identifier: MacBookPro11,3
   :order_number:
   - BTO/CTO
+  :serial_number:
+  - G3QP
   :short_name: MacBook Pro i7 2.8 15 D
   :released_at: 2014-07-29
   :details:
@@ -6986,3 +6991,244 @@
       :graphics_card_vram: 2 GB
       :hd_type: SSD
       :hd_capacity: 512 GB
+- :vendor: Apple
+  :subfamily: 13" MacBook Pro (Early 2015)
+  :model: MacBook Pro
+  :model_name: '"Core i5" 2.7 13" Early 2015'
+  :model_number: A1502
+  :model_identifier: MacBookPro12,1
+  :order_number:
+  - MF839LL/A
+  - MF840LL/A
+  :serial_number:
+  - FVH3
+  :short_name: MacBook Pro i5 2.7 13 E
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i5 (I5-5257U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 3.1 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1866 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Graphics 6100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 13.3" Widescreen
+    :display_resolution: 2560x1600
+    :hd_interface: Proprietary* (PCIe x4)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 74.9 W h Li-Poly
+    :battery_life: 10-12 Hours
+    :dimensions: 18.0x313.6x218.9
+    :weight: 1580
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
+    :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1449
+      :fr: 1449
+      :de: 1449
+      :ca: 1549
+      :uk: 999
+      :au: 1799
+      :jp: 148800
+      :fi: 1499
+      :pt: 1499
+      :it: 1499
+      :nl: 1449
+      :at: 1449
+      :nz: 1999
+      :mx: 22499
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB
+  - :original_price:
+      :us: 1499
+      :es: 1649
+      :fr: 1649
+      :de: 1649
+      :ca: 1799
+      :uk: 1199
+      :au: 2099
+      :jp: 172800
+      :fi: 1699
+      :pt: 1699
+      :it: 1699
+      :nl: 1649
+      :at: 1649
+      :nz: 2299
+      :mx: 26999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: 13" MacBook Pro (Early 2015)
+  :model: MacBook Pro
+  :model_name: '"Core i5" 2.9 13" Early 2015'
+  :model_number: A1502
+  :model_identifier: MacBookPro12,1
+  :order_number:
+  - MF841LL/A
+  :short_name: MacBook Pro i5 2.9 13 E
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i5 (I5-5287U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.9 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.9 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 3 MB
+    :processor_turbo_boost: 3.3 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1866 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Graphics 6100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 13.3" Widescreen
+    :display_resolution: 2560x1600
+    :hd_interface: Proprietary* (PCIe x4)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 74.9 W h Li-Poly
+    :battery_life: 10-12 Hours
+    :dimensions: 18.0x313.6x218.9
+    :weight: 1580
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
+    :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :es: 1999
+      :fr: 1999
+      :de: 1999
+      :ca: 2199
+      :uk: 1399
+      :au: 2499
+      :jp: 208800
+      :fi: 2049
+      :pt: 2049
+      :it: 2049
+      :nl: 1999
+      :at: 1999
+      :nz: 2799
+      :mx: 31999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 512 GB
+- :vendor: Apple
+  :subfamily: 13" MacBook Pro (Early 2015)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 3.1 13" Early 2015'
+  :model_number: A1502
+  :model_identifier: MacBookPro12,1
+  :short_name: MacBook Pro i7 3.1 13 E
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core i7 (I7-5557U)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 3.1 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB
+    :processor_turbo_boost: 3.4 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1866 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Graphics 6100
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 13.3" Widescreen
+    :display_resolution: 2560x1600
+    :hd_interface: Proprietary* (PCIe x4)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 74.9 W h Li-Poly
+    :battery_life: 10-12 Hours
+    :dimensions: 18.0x313.6x218.9
+    :weight: 1580
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
+    :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1799
+      :fr: 1799
+      :de: 1799
+      :ca: 1789
+      :uk: 1249
+      :au: 2209
+      :jp: 184800
+      :fi: 1799
+      :pt: 1799
+      :it: 1849
+      :nl: 1799
+      :at: 1749
+      :nz: 2479
+      :mx: 26599
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 128 GB

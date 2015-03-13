@@ -2187,21 +2187,21 @@
   - :original_price:
       :us: 199
       :ca: 749
-      :mx: 10599
+      :mx: 11999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
   - :original_price:
       :us: 299
       :ca: 859
-      :mx: 12199
+      :mx: 13999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
   - :original_price:
       :us: 399
       :ca: 969
-      :mx: 13799
+      :mx: 15999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB
@@ -2252,19 +2252,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 199
-      :mx: 10599
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
   - :original_price:
       :us: 299
-      :mx: 12199
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
   - :original_price:
       :us: 399
-      :mx: 13799
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB
@@ -2411,21 +2408,10 @@
     :iphone_standard_os: iOS 8.0
     :iphone_max_os: Current
   :model_types_attributes:
-  - :original_price:
-      :mx: 10599
+  - :original_price: {}
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
-  - :original_price:
-      :mx: 12199
-    :details:
-      :standard_memory: 1 GB
-      :hd_capacity: 64 GB
-  - :original_price:
-      :mx: 13799
-    :details:
-      :standard_memory: 1 GB
-      :hd_capacity: 128 GB
 - :vendor: Apple
   :subfamily: iPhone 6 Plus
   :model: iPhone
@@ -2487,21 +2473,21 @@
   - :original_price:
       :us: 299
       :ca: 859
-      :mx: 10599
+      :mx: 13999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
   - :original_price:
       :us: 399
       :ca: 969
-      :mx: 12199
+      :mx: 15999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
   - :original_price:
       :us: 499
       :ca: 1079
-      :mx: 13799
+      :mx: 17999
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB
@@ -2552,19 +2538,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 299
-      :mx: 10599
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
   - :original_price:
       :us: 399
-      :mx: 12199
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 64 GB
   - :original_price:
       :us: 499
-      :mx: 13799
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 128 GB
@@ -2710,18 +2693,7 @@
     :iphone_standard_os: iOS 8.0
     :iphone_max_os: Current
   :model_types_attributes:
-  - :original_price:
-      :mx: 10599
+  - :original_price: {}
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
-  - :original_price:
-      :mx: 12199
-    :details:
-      :standard_memory: 1 GB
-      :hd_capacity: 64 GB
-  - :original_price:
-      :mx: 13799
-    :details:
-      :standard_memory: 1 GB
-      :hd_capacity: 128 GB
