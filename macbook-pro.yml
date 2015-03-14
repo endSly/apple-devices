@@ -7041,10 +7041,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
     :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 2963
+    :geekbench_3_32_mc: 6176
+    :geekbench_3_64_sc: 3277
+    :geekbench_3_64_mc: 6949
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -7135,8 +7135,8 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
     :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
+    :geekbench_3_32_sc: 3163
+    :geekbench_3_32_mc: 6554
     :geekbench_3_64_sc: 0
     :geekbench_3_64_mc: 0
   :model_types_attributes:
@@ -7206,8 +7206,8 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook_pro_retina_13_inch_early_2015_essentials.pdf
     :power: 100V-240V AC, 60W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
+    :geekbench_3_32_sc: 3197
+    :geekbench_3_32_mc: 6730
     :geekbench_3_64_sc: 0
     :geekbench_3_64_mc: 0
   :model_types_attributes:

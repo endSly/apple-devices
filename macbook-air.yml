@@ -2626,10 +2626,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1701/en_US/mb_air_13_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 2576
+    :geekbench_3_32_mc: 5094
+    :geekbench_3_64_sc: 2848
+    :geekbench_3_64_mc: 5689
   :model_types_attributes:
   - :original_price:
       :us: 999
