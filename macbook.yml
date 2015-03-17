@@ -1765,3 +1765,151 @@
       :graphics_card_vram: 256 MB
       :hd_type: "(5400 RPM)"
       :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: MacBook Retina 12"
+  :model: MacBook
+  :model_name: '"Core M" 1.1 12" (Early 2015)'
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: MacBook 1.1 12 2015
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core M (M-5Y31)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.1 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 1.1 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB (on chip)
+    :processor_turbo_boost: 2.4 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 5300
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 12" (16:10)
+    :display_resolution: 2304x1440
+    :hd_interface: Onboard* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 39.7 W h Li-Poly
+    :battery_life: 9-10 Hours
+    :dimensions: 3.5x280.4x196.5
+    :weight: 920
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 1 (C)
+    :firewire_ports: None
+    :user_manual: Pending
+    :power: 100V-240V AC, 29W "USB-C" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1449
+      :fr: 1449
+      :de: 1449
+      :ca: 1549
+      :uk: 1049
+      :au: 1799
+      :jp: 148800
+      :fi: 1499
+      :pt: 1499
+      :it: 1499
+      :nl: 1449
+      :at: 1449
+      :nz: 1999
+      :mx: 22999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Retina 12"
+  :model: MacBook
+  :model_name: '"Core M" 1.2 12" (Early 2015)'
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: MacBook 1.2 12 2015
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Core M (M-5Y51)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.2 GHz
+    :processor_bus_speed: OPI
+    :processor_bus_details: '*This system does not have a traditional system bus or
+      a "Direct Media Interface" (DMI) to connect between the processor and chipset.
+      Instead, it uses a directly attached "On Package Interface" (OPI).'
+    :processor_cache_bus_speed: 1.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x2
+    :processor_l2_cache: 256k x2, 4 MB (on chip)
+    :processor_turbo_boost: 2.6 GHz
+    :memory_type: LPDDR3 SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 8 GB
+    :memory_slots: 0
+    :graphics_card: HD Graphics 5300
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 12" (16:10)
+    :display_resolution: 2304x1440
+    :hd_interface: Onboard* (PCIe)
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 39.7 W h Li-Poly
+    :battery_life: 9-10 Hours
+    :dimensions: 3.5x280.4x196.5
+    :weight: 920
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 1 (C)
+    :firewire_ports: None
+    :user_manual: Pending
+    :power: 100V-240V AC, 29W "USB-C" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :es: 1799
+      :fr: 1799
+      :de: 1799
+      :ca: 1899
+      :uk: 1299
+      :au: 2199
+      :jp: 184800
+      :fi: 1829
+      :pt: 1829
+      :it: 1829
+      :nl: 1799
+      :at: 1799
+      :nz: 2399
+      :mx: 28999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 1 GB
+      :hd_capacity: 512 GB
