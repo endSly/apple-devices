@@ -1,0 +1,281 @@
+---
+- :vendor: Apple
+  :subfamily: Apple Watch (Regular, 38 mm)
+  :model: Watch
+  :model_name: "(Regular - Steel, 38 mm)"
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ302LL/A
+  - MJ2Y2LL/A
+  - MJ312LL/A
+  - MJ322LL/A
+  - MJYK2LL/A
+  - MJ332LL/A
+  - MJ362LL/A
+  - MJ3A2LL/A
+  - MJ3E2LL/A
+  - MJ3F2LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch (Steel, 38 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.5" LCD
+    :display_resolution: 272x340
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 38.6x30.7x10.4
+    :weight: 1.41 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 549
+      :fr: 649
+      :de: 649
+      :ca: 699
+      :uk: 479
+      :au: 799
+      :jp: 66800
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch (Regular, 42 mm)
+  :model: Watch
+  :model_name: "(Regular - Steel, 42 mm)"
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ3V2LL/A
+  - MJ3U2LL/A
+  - MJ3X2LL/A
+  - MJ3Y2LL/A
+  - MJYN2LL/A
+  - MJ452LL/A
+  - MJ432LL/A
+  - MJ402LL/A
+  - MJ472LL/A
+  - MJ482LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch (Steel, 42 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.65" LCD
+    :display_resolution: 312x390
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 41.9x35.8x10.4
+    :weight: 1.76 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 599
+      :fr: 699
+      :de: 699
+      :ca: 779
+      :uk: 519
+      :au: 879
+      :jp: 71800
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Sport (38 mm)
+  :model: Watch
+  :model_name: Sport (Aluminum, 38 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ2T2LL/A
+  - MJ2V2LL/A
+  - MJ2U2LL/A
+  - MJ2W2LL/A
+  - MJ2X2LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch Sport (38 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.5" LCD
+    :display_resolution: 272x340
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 38.6x30.7x10.4
+    :weight: 0.88 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 349
+      :fr: 399
+      :de: 399
+      :ca: 449
+      :uk: 299
+      :au: 499
+      :jp: 42800
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Sport (42 mm)
+  :model: Watch
+  :model_name: Sport (Aluminum, 42 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ3N2LL/A
+  - MJ3Q2LL/A
+  - MJ3P2LL/A
+  - MJ3R2LL/A
+  - MJ3T2LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch Sport (42 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.65" LCD
+    :display_resolution: 312x390
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 41.9x35.8x10.4
+    :weight: 1.06 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :fr: 449
+      :de: 449
+      :ca: 519
+      :uk: 339
+      :au: 579
+      :jp: 48800
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Edition (38 mm)
+  :model: Watch
+  :model_name: Edition (18k Gold, 38 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ8P2LL/A
+  - MKL52LL/A
+  - MJ3K2LL/A
+  - MJ3G2LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch Edition (38 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.5" LCD
+    :display_resolution: 272x340
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 41.9x35.8x10.4
+    :weight: 1.90-1.91 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 10000
+      :fr: 11000
+      :de: 11000
+      :ca: 13000
+      :uk: 8000
+      :au: 14000
+      :jp: 1280
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 17000
+      :fr: 18000
+      :de: 18000
+      :ca: 22000
+      :uk: 13500
+      :au: 24000
+      :jp: 2180
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Edition (42 mm)
+  :model: Watch
+  :model_name: Edition (18k Gold, 42 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - MJ4A2LL/A
+  - MJ8Q2LL/A
+  - MKL62LL/A
+  - MJVT2LL/A
+  :serial_number:
+  - Pending
+  :short_name: Watch Edition (42 mm)
+  :released_at: 2015-03-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.65" LCD
+    :display_resolution: 312x390
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 38.6x30.7x10.4
+    :weight: 2.36-2.43 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Watch OS
+    :iphone_max_os: Current
+  :model_types_attributes:
+  - :original_price:
+      :us: 12000
+      :fr: 13000
+      :de: 13000
+      :ca: 15500
+      :uk: 9500
+      :au: 17000
+      :jp: 1480
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 15000
+      :fr: 16000
+      :de: 16000
+      :ca: 19000
+      :uk: 12000
+      :au: 21000
+      :jp: 1880
+    :details:
+      :hd_capacity: 8 GB

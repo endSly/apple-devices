@@ -1,0 +1,253 @@
+---
+- :vendor: Apple
+  :subfamily: Apple TV
+  :model: TV
+  :model_name: "(Original/1st Gen)"
+  :model_number: A1218
+  :model_identifier: AppleTV1,1
+  :order_number:
+  - MA711LL/A
+  - MB189LL/A
+  :serial_number:
+  - TS0
+  - TSO
+  - WH7
+  - XVC
+  - XVD
+  - XVE
+  - XVF
+  - XVG
+  - YR4
+  - YSS
+  - YST
+  - YSU
+  - YSV
+  - YSW
+  :short_name: Apple TV (1st Gen)
+  :released_at: 2007-01-09
+  :discontinued_at: 2010-09-01
+  :details:
+    :processor_type: Pentium M
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 400 MHz
+    :processor_bus_details: 400 MHz frontside bus.
+    :processor_cache_bus_speed: 1 GHz (built-in)
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 2 MB (on chip)
+    :memory_type: Onboard (DDR2)
+    :max_memory: 256 MB
+    :memory_slots: 0
+    :graphics_card: GeForce Go 7300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Single Display
+    :display_resolution: Multiple
+    :hd_interface: IDE/PATA
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: Unknown
+    :dimensions: 27.9x195.5x195.5
+    :weight: 1090
+    :wifi: 802.11a/b/g/n
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (2.0)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/AppleTV_SetupGuide.pdf
+    :power: The Apple TV has a built-in 48-watt universal power supply.
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :es: 289
+      :fr: 299
+      :de: 299
+      :ca: 349
+      :uk: 199
+      :au: 449
+      :jp: 36800
+      :fi: 179
+      :it: 299
+      :nl: 299
+      :nz: 498
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :ca: 449
+      :au: 579
+      :jp: 49800
+      :nz: 659
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Apple TV (2nd Gen)
+  :model: TV
+  :model_name: "(2nd Generation)"
+  :model_number: A1378
+  :model_identifier: AppleTV2,1
+  :order_number:
+  - MC572LL/A
+  :serial_number:
+  - DDR5
+  - DDRS
+  - DHJH
+  - DHJK
+  - DHJM
+  :short_name: Apple TV (2nd Gen)
+  :released_at: 2010-09-01
+  :discontinued_at: 2012-03-07
+  :details:
+    :processor_type: Apple A4
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1 GHz
+    :memory_type: Onboard
+    :max_memory: 256 MB
+    :memory_slots: 0
+    :display: Single Display
+    :display_resolution: Multiple
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: Unknown
+    :dimensions: 99.0x99.0x22.8
+    :weight: 270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (Micro-USB)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
+    :power: The Apple TV has a built-in 6-watt universal power supply.
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :es: 119
+      :fr: 119
+      :de: 119
+      :ca: 119
+      :uk: 99
+      :au: 129
+      :jp: 8800
+      :fi: 119
+      :pt: 119
+      :it: 119
+      :nl: 119
+      :at: 119
+      :nz: 169
+      :mx: 1499
+    :details:
+      :standard_memory: 256 MB
+- :vendor: Apple
+  :subfamily: Apple TV (2nd Gen)
+  :model: TV
+  :model_name: "(3rd Generation, Early 2012)"
+  :model_number: A1427
+  :model_identifier: AppleTV3,1
+  :order_number:
+  - MD199LL/A
+  :serial_number:
+  - DRHN
+  :short_name: Apple TV (3rd Gen/2012)
+  :released_at: 2012-03-07
+  :discontinued_at: 2013-03-10
+  :details:
+    :processor_type: Apple A5
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1 GHz
+    :memory_type: Onboard
+    :max_memory: 512 MB
+    :memory_slots: 0
+    :display: Single Display
+    :display_resolution: Multiple
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: Unknown
+    :dimensions: 99.0x99.0x22.8
+    :weight: 270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4'
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (Micro-USB)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
+    :power: The Apple TV has a built-in 6-watt universal power supply.
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :es: 109
+      :fr: 109
+      :de: 109
+      :ca: 109
+      :uk: 99
+      :au: 109
+      :jp: 8800
+      :fi: 109
+      :pt: 89
+      :it: 109
+      :nl: 89
+      :at: 109
+      :nz: 159
+      :mx: 1499
+    :details:
+      :standard_memory: 512 MB
+- :vendor: Apple
+  :subfamily: Apple TV (2nd Gen)
+  :model: TV
+  :model_name: "(3rd Generation, Early 2013)"
+  :model_number: A1469
+  :model_identifier: AppleTV3,2
+  :order_number:
+  - MD199LL/A
+  :serial_number:
+  - FF54
+  - FFS4
+  :short_name: Apple TV (3rd Gen/2013)
+  :released_at: 2013-01-29
+  :details:
+    :processor_type: Apple A5
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1 GHz
+    :memory_type: Onboard
+    :max_memory: 512 MB
+    :memory_slots: 0
+    :display: Single Display
+    :display_resolution: Multiple
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: Unknown
+    :dimensions: 99.0x99.0x22.8
+    :weight: 270
+    :wifi: 802.11a/b/g/n
+    :bluetooth: '4'
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (Micro-USB)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
+    :power: The Apple TV has a built-in 6-watt universal power supply.
+  :model_types_attributes:
+  - :original_price:
+      :us: 99
+      :es: 112
+      :fr: 109
+      :de: 109
+      :ca: 109
+      :uk: 99
+      :au: 109
+      :jp: 8800
+      :fi: 110
+      :pt: 109
+      :it: 109
+      :nl: 111
+      :at: 109
+      :nz: 159
+      :mx: 1499
+    :details:
+      :standard_memory: 512 MB
