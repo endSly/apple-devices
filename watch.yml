@@ -3,8 +3,8 @@
   :subfamily: Apple Watch (Regular, 38 mm)
   :model: Watch
   :model_name: "(Regular - Steel, 38 mm)"
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1553
+  :model_identifier: Watch1,1
   :order_number:
   - MJ302LL/A
   - MJ2Y2LL/A
@@ -17,7 +17,7 @@
   - MJ3E2LL/A
   - MJ3F2LL/A
   :serial_number:
-  - Pending
+  - G9HM
   :short_name: Watch (Steel, 38 mm)
   :released_at: 2015-03-09
   :details:
@@ -50,8 +50,8 @@
   :subfamily: Apple Watch (Regular, 42 mm)
   :model: Watch
   :model_name: "(Regular - Steel, 42 mm)"
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1554
+  :model_identifier: Watch1,2
   :order_number:
   - MJ3V2LL/A
   - MJ3U2LL/A
@@ -64,7 +64,7 @@
   - MJ472LL/A
   - MJ482LL/A
   :serial_number:
-  - Pending
+  - G9J8
   :short_name: Watch (Steel, 42 mm)
   :released_at: 2015-03-09
   :details:
@@ -97,8 +97,8 @@
   :subfamily: Apple Watch Sport (38 mm)
   :model: Watch
   :model_name: Sport (Aluminum, 38 mm)
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1553
+  :model_identifier: Watch1,1
   :order_number:
   - MJ2T2LL/A
   - MJ2V2LL/A
@@ -106,7 +106,7 @@
   - MJ2W2LL/A
   - MJ2X2LL/A
   :serial_number:
-  - Pending
+  - G99D
   :short_name: Watch Sport (38 mm)
   :released_at: 2015-03-09
   :details:
@@ -139,8 +139,8 @@
   :subfamily: Apple Watch Sport (42 mm)
   :model: Watch
   :model_name: Sport (Aluminum, 42 mm)
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1554
+  :model_identifier: Watch1,2
   :order_number:
   - MJ3N2LL/A
   - MJ3Q2LL/A
@@ -148,7 +148,8 @@
   - MJ3R2LL/A
   - MJ3T2LL/A
   :serial_number:
-  - Pending
+  - G9J5
+  - G9J6
   :short_name: Watch Sport (42 mm)
   :released_at: 2015-03-09
   :details:
@@ -181,15 +182,13 @@
   :subfamily: Apple Watch Edition (38 mm)
   :model: Watch
   :model_name: Edition (18k Gold, 38 mm)
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1553
+  :model_identifier: Watch1,1
   :order_number:
   - MJ8P2LL/A
   - MKL52LL/A
   - MJ3K2LL/A
   - MJ3G2LL/A
-  :serial_number:
-  - Pending
   :short_name: Watch Edition (38 mm)
   :released_at: 2015-03-09
   :details:
@@ -232,15 +231,15 @@
   :subfamily: Apple Watch Edition (42 mm)
   :model: Watch
   :model_name: Edition (18k Gold, 42 mm)
-  :model_number: Pending
-  :model_identifier: Pending
+  :model_number: A1554
+  :model_identifier: Watch1,2
   :order_number:
   - MJ4A2LL/A
   - MJ8Q2LL/A
   - MKL62LL/A
   - MJVT2LL/A
   :serial_number:
-  - Pending
+  - GCLR
   :short_name: Watch Edition (42 mm)
   :released_at: 2015-03-09
   :details:

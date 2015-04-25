@@ -2433,10 +2433,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1698/en_US/mb_air_11_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 2588
-    :geekbench_3_32_mc: 5080
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 2545
+    :geekbench_3_32_mc: 5051
+    :geekbench_3_64_sc: 2866
+    :geekbench_3_64_mc: 5723
   :model_types_attributes:
   - :original_price:
       :us: 899
@@ -2527,10 +2527,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1698/en_US/mb_air_11_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 2852
+    :geekbench_3_32_mc: 6073
+    :geekbench_3_64_sc: 3242
+    :geekbench_3_64_mc: 6882
   :model_types_attributes:
   - :original_price:
       :us: 1049
@@ -2626,10 +2626,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1701/en_US/mb_air_13_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 2604
-    :geekbench_3_32_mc: 5102
-    :geekbench_3_64_sc: 2858
-    :geekbench_3_64_mc: 5698
+    :geekbench_3_32_sc: 2565
+    :geekbench_3_32_mc: 5069
+    :geekbench_3_64_sc: 2835
+    :geekbench_3_64_mc: 5721
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -2681,6 +2681,8 @@
   :model_identifier: MacBookAir7,2
   :order_number:
   - BTO/CTO
+  :serial_number:
+  - G944
   :short_name: MacBook Air i7 2.2 13 15
   :released_at: 2015-03-09
   :details:
@@ -2721,9 +2723,9 @@
     :user_manual: https://manuals.info.apple.com/MANUALS/1000/MA1701/en_US/mb_air_13_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 45W "MagSafe 2" power adapter.
     :geekbench_3_32_sc: 3050
-    :geekbench_3_32_mc: 6251
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_mc: 5965
+    :geekbench_3_64_sc: 3220
+    :geekbench_3_64_mc: 6836
   :model_types_attributes:
   - :original_price:
       :us: 1149
