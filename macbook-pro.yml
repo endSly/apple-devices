@@ -5910,6 +5910,10 @@
   :order_number:
   - BTO/CTO
   :serial_number:
+  - FH02
+  - FHO2
+  - FH0Z
+  - FHOZ
   - FH04
   - FHO4
   - FH05
@@ -7167,6 +7171,10 @@
   :model_name: '"Core i7" 3.1 13" Early 2015'
   :model_number: A1502
   :model_identifier: MacBookPro12,1
+  :order_number:
+  - MF843LL/A
+  :serial_number:
+  - FVH9
   :short_name: MacBook Pro i7 3.1 13 E
   :released_at: 2015-03-09
   :details:

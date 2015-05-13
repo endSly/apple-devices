@@ -1355,6 +1355,8 @@
   - FFT7
   - FFTM
   - FFTN
+  - G07P
+  - GO7P
   :short_name: iPhone 5c UK/Europe
   :released_at: 2013-09-10
   :details:
@@ -1804,6 +1806,7 @@
   - ME351LL/A
   - ME354LL/A
   - ME357LL/A
+  - ME340LL/A
   - NE339LL/A
   :serial_number:
   - FFDN

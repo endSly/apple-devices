@@ -1777,6 +1777,7 @@
   - MJY32LL/A
   :serial_number:
   - FWW3
+  - GF84
   :short_name: MacBook 1.1 12 2015
   :released_at: 2015-03-09
   :details:
@@ -1927,6 +1928,8 @@
   :model_identifier: MacBook8,1
   :order_number:
   - BTO/CTO
+  :serial_number:
+  - GF82
   :short_name: MacBook 1.3 12 2015
   :released_at: 2015-03-09
   :details:
@@ -1968,8 +1971,8 @@
     :power: 100V-240V AC, 29W "USB-C" power adapter.
     :geekbench_3_32_sc: 0
     :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2816
+    :geekbench_3_64_mc: 5596
   :model_types_attributes:
   - :original_price:
       :us: 1549
