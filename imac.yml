@@ -6364,6 +6364,7 @@
   - FBJC
   :short_name: iMac i5 3.4 27 2013
   :released_at: 2013-09-24
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i5 (I5-4670)
     :processor_arch: 64-Bit
@@ -6438,6 +6439,7 @@
   - FLHH
   :short_name: iMac i7 3.5 27 2013
   :released_at: 2013-09-24
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4771)
     :processor_arch: 64-Bit
@@ -6720,4 +6722,78 @@
       :standard_memory: 8 GB
       :graphics_card_vram: 2 GB
       :hd_type: "(FUSION)"
+      :hd_capacity: 1 TB
+- :vendor: Apple
+  :subfamily: 27" iMac Late 2012
+  :model: iMac
+  :model_name: '"Core i5" 3.3 27-Inch (Retina 5K, 2015)'
+  :model_number: A1419
+  :model_identifier: iMac15,1
+  :order_number:
+  - MF885LL/A
+  :serial_number:
+  - FY10
+  :short_name: iMac i5 3.3 27 R5K 2015
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i5 (I5-4590)
+    :processor_arch: 64-Bit
+    :processor_upgrade: LGA 1150 (Socket H3)
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 3.3 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 3.3 GHz (Built-in)
+    :processor_l1_cache: 32k/32k
+    :processor_l2_cache: 256k (x4), 6 MB
+    :processor_turbo_boost: 3.7 GHz
+    :memory_type: PC3-12800 DDR3
+    :memory_speed: 1600 MHz
+    :max_memory: 32 GB
+    :memory_slots: 4
+    :graphics_card: Radeon R9 M290
+    :graphics_card_vram_type: GDDR5
+    :graphics_card_max_vram: 2 GB
+    :display: 27" 16:9 Widescreen
+    :display_resolution: 5120x2880
+    :hd_interface: Serial ATA (6 Gb/s)/PCIe
+    :optical_drive: None
+    :expansion_slots: SDXC SD Card
+    :dimensions: 515.6x650.2x203.2
+    :weight: 9540
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 4 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/imac_5k_27-inch_mid2015_qs.pdf
+    :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
+      wattage.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 2629
+      :fr: 2299
+      :de: 2299
+      :ca: 2399
+      :uk: 1599
+      :au: 2799
+      :jp: 238800
+      :fi: 2349
+      :pt: 2349
+      :it: 2329
+      :nl: 2329
+      :at: 2299
+      :nz: 3049
+      :mx: 37999
+    :details:
+      :standard_memory: 8 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: "(7200 RPM)"
       :hd_capacity: 1 TB

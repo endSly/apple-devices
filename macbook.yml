@@ -1817,10 +1817,10 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 29W "USB-C" power adapter.
-    :geekbench_3_32_sc: 2140
-    :geekbench_3_32_mc: 4005
-    :geekbench_3_64_sc: 2365
-    :geekbench_3_64_mc: 4527
+    :geekbench_3_32_sc: 2138
+    :geekbench_3_32_mc: 3994
+    :geekbench_3_64_sc: 2341
+    :geekbench_3_64_mc: 4507
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -1894,10 +1894,10 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 29W "USB-C" power adapter.
-    :geekbench_3_32_sc: 2163
-    :geekbench_3_32_mc: 4348
-    :geekbench_3_64_sc: 2416
-    :geekbench_3_64_mc: 4990
+    :geekbench_3_32_sc: 2177
+    :geekbench_3_32_mc: 4377
+    :geekbench_3_64_sc: 2415
+    :geekbench_3_64_mc: 4991
   :model_types_attributes:
   - :original_price:
       :us: 1599
@@ -1969,10 +1969,10 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
     :power: 100V-240V AC, 29W "USB-C" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 2816
-    :geekbench_3_64_mc: 5596
+    :geekbench_3_32_sc: 2293
+    :geekbench_3_32_mc: 4516
+    :geekbench_3_64_sc: 2671
+    :geekbench_3_64_mc: 5308
   :model_types_attributes:
   - :original_price:
       :us: 1549

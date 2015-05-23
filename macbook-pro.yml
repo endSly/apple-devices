@@ -4280,6 +4280,8 @@
   - DVIO
   - DV11
   - DVII
+  - DY22
+  - DYZZ
   :short_name: MacBook Pro i7 2.4 17 11
   :released_at: 2011-10-24
   :discontinued_at: 2012-06-11
@@ -6636,6 +6638,7 @@
   - G3QC
   :short_name: MacBook Pro i7 2.2 15 I
   :released_at: 2014-07-29
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4770HQ)
     :processor_arch: 64-Bit
@@ -6709,6 +6712,7 @@
   - BTO/CTO
   :short_name: MacBook Pro i7 2.5 15 I
   :released_at: 2014-07-29
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4870HQ)
     :processor_arch: 64-Bit
@@ -6782,6 +6786,7 @@
   - BTO/CTO
   :short_name: MacBook Pro i7 2.8 15 I
   :released_at: 2014-07-29
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4980HQ)
     :processor_arch: 64-Bit
@@ -6857,6 +6862,7 @@
   - G3QD
   :short_name: MacBook Pro i7 2.5 15 D
   :released_at: 2014-07-29
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4870HQ)
     :processor_arch: 64-Bit
@@ -6932,6 +6938,7 @@
   - G3QP
   :short_name: MacBook Pro i7 2.8 15 D
   :released_at: 2014-07-29
+  :discontinued_at: 2015-05-19
   :details:
     :processor_type: Core i7 (I7-4980HQ)
     :processor_arch: 64-Bit
@@ -7240,3 +7247,370 @@
       :graphics_card_vram: 1 GB
       :hd_type: SSD
       :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: MacBook Pro (Retina)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 2.2 15" Mid-2015 (IG)'
+  :model_number: A1398
+  :model_identifier: MacBookPro11,4
+  :order_number:
+  - MJLQ2LL/A
+  :serial_number:
+  - G8WN
+  :short_name: MacBook Pro i7 2.2 15 I
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i7 (I7-4770HQ)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.2 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.2 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.4 GHz
+    :memory_type: DDR3L SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Pro 5200
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 15.4" Widescreen
+    :display_resolution: 2880x1800
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 99.5 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 18.0x358.9x247.1
+    :weight: 2040
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
+    :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 2249
+      :fr: 2249
+      :de: 2249
+      :ca: 2449
+      :uk: 1599
+      :au: 2799
+      :jp: 224800
+      :fi: 2299
+      :pt: 2299
+      :it: 2299
+      :nl: 2249
+      :at: 2249
+      :nz: 3099
+      :mx: 37999
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Pro (Retina)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 2.5 15" Mid-2015 (IG)'
+  :model_number: A1398
+  :model_identifier: MacBookPro11,4
+  :order_number:
+  - BTO/CTO
+  :short_name: MacBook Pro i7 2.5 15 I
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i7 (I7-4870HQ)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.7 GHz
+    :memory_type: DDR3L SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Pro 5200
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 15.4" Widescreen
+    :display_resolution: 2880x1800
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 99.5 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 18.0x358.9x247.1
+    :weight: 2040
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
+    :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 2099
+      :es: 2369
+      :fr: 2369
+      :de: 2369
+      :ca: 2569
+      :uk: 1679
+      :au: 2939
+      :jp: 236800
+      :fi: 2419
+      :pt: 2419
+      :it: 2419
+      :nl: 2369
+      :at: 2369
+      :nz: 3259
+      :mx: 39799
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Pro (Retina)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 2.8 15" Mid-2015 (IG)'
+  :model_number: A1398
+  :model_identifier: MacBookPro11,4
+  :order_number:
+  - BTO/CTO
+  :short_name: MacBook Pro i7 2.8 15 I
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i7 (I7-4980HQ)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 4.0 GHz
+    :memory_type: DDR3L SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Iris Pro 5200
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 1 GB
+    :display: 15.4" Widescreen
+    :display_resolution: 2880x1800
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 99.5 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 18.0x358.9x247.1
+    :weight: 2040
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
+    :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :es: 2569
+      :fr: 2569
+      :de: 2569
+      :ca: 2819
+      :uk: 1829
+      :au: 3219
+      :jp: 258800
+      :fi: 2659
+      :pt: 2659
+      :it: 2619
+      :nl: 2569
+      :at: 2609
+      :nz: 3579
+      :mx: 43399
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 1 GB
+      :hd_type: SSD
+      :hd_capacity: 256 GB
+- :vendor: Apple
+  :subfamily: MacBook Pro (Retina)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 2.5 15" Mid-2015 (DG)'
+  :model_number: A1398
+  :model_identifier: MacBookPro11,5
+  :order_number:
+  - MJLT2LL/A
+  :short_name: MacBook Pro i7 2.5 15 D
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i7 (I7-4870HQ)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 3.7 GHz
+    :memory_type: DDR3L SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Radeon R9 M370X
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 2 GB
+    :display: 15.4" Widescreen
+    :display_resolution: 2880x1800
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 99.5 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 18.0x358.9x247.1
+    :weight: 2040
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
+    :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2799
+      :fr: 2799
+      :de: 2799
+      :ca: 3049
+      :uk: 1999
+      :au: 3499
+      :jp: 282800
+      :fi: 2849
+      :pt: 2849
+      :it: 2849
+      :nl: 2799
+      :at: 2799
+      :nz: 3899
+      :mx: 47999
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: SSD
+      :hd_capacity: 512 GB
+- :vendor: Apple
+  :subfamily: MacBook Pro (Retina)
+  :model: MacBook Pro
+  :model_name: '"Core i7" 2.8 15" Mid-2015 (DG)'
+  :model_number: A1398
+  :model_identifier: MacBookPro11,5
+  :order_number:
+  - BTO/CTO
+  :short_name: MacBook Pro i7 2.8 15 D
+  :released_at: 2015-05-19
+  :details:
+    :processor_type: Core i7 (I7-4980HQ)
+    :processor_arch: 64-Bit
+    :processor_upgrade: Soldered
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 5 GT/s (DMI2)
+    :processor_bus_details: '*This system has a "Direct Media Interface" -- specifically
+      DMI2 -- that "connects between the processor and chipset" in lieu of a traditional
+      system bus. Intel reports that it runs at 5 GT/s.'
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k x4, 6 MB
+    :processor_turbo_boost: 4.0 GHz
+    :memory_type: DDR3L SDRAM
+    :memory_speed: 1600 MHz
+    :max_memory: 16 GB
+    :memory_slots: 0
+    :graphics_card: Radeon R9 M370X
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 2 GB
+    :display: 15.4" Widescreen
+    :display_resolution: 2880x1800
+    :hd_interface: Proprietary* (PCIe)
+    :optical_drive: None
+    :expansion_slots: SDXC Card Slot
+    :battery_type: 99.5 W h Li-Poly
+    :battery_life: 9 Hours
+    :dimensions: 18.0x358.9x247.1
+    :weight: 2040
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: None
+    :usb_ports: 2 (3.0)
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
+    :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+  :model_types_attributes:
+  - :original_price:
+      :us: 2699
+      :es: 2999
+      :fr: 2999
+      :de: 2999
+      :ca: 3299
+      :uk: 2149
+      :au: 3779
+      :jp: 304800
+      :fi: 3089
+      :pt: 3089
+      :it: 3049
+      :nl: 2999
+      :at: 3039
+      :nz: 4219
+      :mx: 51599
+    :details:
+      :standard_memory: 16 GB
+      :graphics_card_vram: 2 GB
+      :hd_type: SSD
+      :hd_capacity: 512 GB
