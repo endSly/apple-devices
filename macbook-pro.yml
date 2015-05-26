@@ -7296,10 +7296,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3085
+    :geekbench_3_32_mc: 11699
+    :geekbench_3_64_sc: 3416
+    :geekbench_3_64_mc: 13192
   :model_types_attributes:
   - :original_price:
       :us: 1999
@@ -7476,6 +7476,8 @@
   :model_identifier: MacBookPro11,5
   :order_number:
   - MJLT2LL/A
+  :serial_number:
+  - G8WP
   :short_name: MacBook Pro i7 2.5 15 D
   :released_at: 2015-05-19
   :details:
@@ -7515,8 +7517,8 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
+    :geekbench_3_32_sc: 3258
+    :geekbench_3_32_mc: 12356
     :geekbench_3_64_sc: 0
     :geekbench_3_64_mc: 0
   :model_types_attributes:
