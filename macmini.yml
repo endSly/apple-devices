@@ -1950,6 +1950,7 @@
   - MGEM2LL/A
   :serial_number:
   - G1HV
+  - GIHV
   :short_name: Mac mini "i5" 1.4 (14)
   :released_at: 2014-10-16
   :details:
@@ -2163,6 +2164,9 @@
   :model_identifier: Macmini7,1
   :order_number:
   - BTO/CTO
+  :serial_number:
+  - G1J2
+  - GIJ2
   :short_name: Mac mini "i7" 3.0 (14)
   :released_at: 2014-10-16
   :details:
