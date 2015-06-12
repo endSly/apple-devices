@@ -6771,10 +6771,10 @@
     :user_manual: https://manuals.info.apple.com/en_US/imac_5k_27-inch_mid2015_qs.pdf
     :power: 100V-240V (50 Hz to 60 Hz, single phase), Apple does not specify maximum
       wattage.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3320
+    :geekbench_3_32_mc: 10589
+    :geekbench_3_64_sc: 3694
+    :geekbench_3_64_mc: 11785
   :model_types_attributes:
   - :original_price:
       :us: 1999

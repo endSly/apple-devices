@@ -7298,10 +7298,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 3085
-    :geekbench_3_32_mc: 11699
-    :geekbench_3_64_sc: 3416
-    :geekbench_3_64_mc: 13192
+    :geekbench_3_32_sc: 3056
+    :geekbench_3_32_mc: 11583
+    :geekbench_3_64_sc: 3402
+    :geekbench_3_64_mc: 13171
   :model_types_attributes:
   - :original_price:
       :us: 1999
@@ -7371,10 +7371,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3216
+    :geekbench_3_32_mc: 12145
+    :geekbench_3_64_sc: 3499
+    :geekbench_3_64_mc: 13462
   :model_types_attributes:
   - :original_price:
       :us: 2099
@@ -7444,10 +7444,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3473
+    :geekbench_3_32_mc: 12402
+    :geekbench_3_64_sc: 3817
+    :geekbench_3_64_mc: 14276
   :model_types_attributes:
   - :original_price:
       :us: 2299
@@ -7519,10 +7519,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 3258
-    :geekbench_3_32_mc: 12356
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3284
+    :geekbench_3_32_mc: 12397
+    :geekbench_3_64_sc: 3614
+    :geekbench_3_64_mc: 13856
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -7592,10 +7592,10 @@
     :firewire_ports: None
     :user_manual: https://manuals.info.apple.com/en_US/macbook_pro_retina_15_inch_mid_2015_essentials.pdf
     :power: 100V-240V AC, 85W "MagSafe 2" power adapter.
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_32_sc: 3478
+    :geekbench_3_32_mc: 12839
+    :geekbench_3_64_sc: 3830
+    :geekbench_3_64_mc: 14317
   :model_types_attributes:
   - :original_price:
       :us: 2699
