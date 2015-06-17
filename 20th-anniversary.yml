@@ -1,0 +1,46 @@
+---
+- :vendor: Apple
+  :subfamily: 20th Anniversary Mac
+  :model: 20th Anniversary
+  :model_name: Macintosh
+  :short_name: 20th Anniversary Mac
+  :released_at: 1997-03-20
+  :discontinued_at: 1998-03-14
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 250 MHz
+    :processor_bus_speed: 50 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: 168-pin DIMM
+    :memory_speed: 60 ns
+    :max_memory: 128 MB
+    :memory_slots: 2
+    :graphics_card: 3D Rage II
+    :graphics_card_vram_type: Dedicated SGRAM
+    :graphics_card_max_vram: 2 MB
+    :display: 12.1" Color
+    :display_resolution: 800x600
+    :display_secondary: Single Display
+    :hd_interface: IDE
+    :optical_drive: 4X CD-ROM
+    :expansion_slots: 1 PCI, Comm II
+    :battery_type: 4.5V Alkaline
+    :dimensions: 438.1x419.1x254.0
+    :weight: 6800
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-130V or 180V-264V AC, 47-63 Hz Frequency, 140 Max Watts.<br><br>Icon
+      Credit: Apple Computer, Inc.'
+    :mac_os_version: 7.6.1
+    :mac_os_max: 7.6.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 7499
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 2 GB

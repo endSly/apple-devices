@@ -40,6 +40,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -56,6 +57,8 @@
     :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
       href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
       power connector on the MacBook work?'
+    :mac_os_version: 10.4.6
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -119,6 +122,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 4X "SuperDrive"
     :expansion_slots: None
@@ -135,6 +139,8 @@
     :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
       href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
       power connector on the MacBook work?'
+    :mac_os_version: 10.4.6
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -193,6 +199,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 4X "SuperDrive"
     :expansion_slots: None
@@ -209,6 +216,8 @@
     :power: '100V-240V AC, 60W "MagSafe" power adapter. Also see: <a class="small"
       href="../faq/macbook-magsafe-details-warning.html">How</a> does the MagSafe
       power connector on the MacBook work?'
+    :mac_os_version: 10.4.6
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -266,6 +275,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -284,6 +294,8 @@
       power connector on the MacBook work?'
     :geekbench_3_32_sc: 885
     :geekbench_3_32_mc: 1516
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -345,6 +357,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: None
@@ -365,6 +378,8 @@
     :geekbench_3_32_mc: 1720
     :geekbench_3_64_sc: 1115
     :geekbench_3_64_mc: 1792
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -422,6 +437,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: None
@@ -442,6 +458,8 @@
     :geekbench_3_32_mc: 1720
     :geekbench_3_64_sc: 1115
     :geekbench_3_64_mc: 1792
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -504,6 +522,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -523,6 +542,8 @@
     :geekbench_3_32_sc: 986
     :geekbench_3_32_mc: 1623
     :geekbench_3_64_sc: 1022
+    :mac_os_version: 10.4.9
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -590,6 +611,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -610,6 +632,8 @@
     :geekbench_3_32_mc: 1860
     :geekbench_3_64_sc: 1063
     :geekbench_3_64_mc: 1818
+    :mac_os_version: 10.4.9
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -676,6 +700,7 @@
     :graphics_card_max_vram: 64 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -696,6 +721,8 @@
     :geekbench_3_32_mc: 1860
     :geekbench_3_64_sc: 1063
     :geekbench_3_64_mc: 1818
+    :mac_os_version: 10.4.9
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -758,6 +785,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -776,6 +804,8 @@
       power connector on the MacBook work?'
     :geekbench_3_32_sc: 1012
     :geekbench_3_32_mc: 1725
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -843,6 +873,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -863,6 +894,8 @@
     :geekbench_3_32_mc: 1756
     :geekbench_3_64_sc: 1072
     :geekbench_3_64_mc: 1693
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -929,6 +962,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -949,6 +983,8 @@
     :geekbench_3_32_mc: 1756
     :geekbench_3_64_sc: 1072
     :geekbench_3_64_mc: 1693
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -1020,6 +1056,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -1040,6 +1077,8 @@
     :geekbench_3_32_mc: 1791
     :geekbench_3_64_sc: 1043
     :geekbench_3_64_mc: 1509
+    :mac_os_version: 10.5.2
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -1105,6 +1144,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1125,6 +1165,8 @@
     :geekbench_3_32_mc: 2053
     :geekbench_3_64_sc: 1412
     :geekbench_3_64_mc: 2491
+    :mac_os_version: 10.5.2
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -1185,6 +1227,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA  (1.5 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1205,6 +1248,8 @@
     :geekbench_3_32_mc: 2053
     :geekbench_3_64_sc: 1412
     :geekbench_3_64_mc: 2491
+    :mac_os_version: 10.5.2
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -1277,6 +1322,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1297,6 +1343,8 @@
     :geekbench_3_32_mc: 1904
     :geekbench_3_64_sc: 1196
     :geekbench_3_64_mc: 2050
+    :mac_os_version: 10.5.5
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -1374,6 +1422,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1394,6 +1443,8 @@
     :geekbench_3_32_mc: 2243
     :geekbench_3_64_sc: 1408
     :geekbench_3_64_mc: 2443
+    :mac_os_version: 10.5.5
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1599
@@ -1461,6 +1512,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1481,6 +1533,8 @@
     :geekbench_3_32_mc: 1834
     :geekbench_3_64_sc: 1149
     :geekbench_3_64_mc: 1953
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1548,6 +1602,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1568,6 +1623,8 @@
     :geekbench_3_32_mc: 1991
     :geekbench_3_64_sc: 1259
     :geekbench_3_64_mc: 2192
+    :mac_os_version: 10.5.7
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1638,6 +1695,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1658,6 +1716,8 @@
     :geekbench_3_32_mc: 2148
     :geekbench_3_64_sc: 1356
     :geekbench_3_64_mc: 2358
+    :mac_os_version: 10.6.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1723,6 +1783,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -1743,6 +1804,8 @@
     :geekbench_3_32_mc: 2172
     :geekbench_3_64_sc: 1419
     :geekbench_3_64_mc: 2376
+    :mac_os_version: 10.6.3
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1804,6 +1867,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 12" (16:10)
     :display_resolution: 2304x1440
+    :display_secondary: Dual/Mirroring
     :hd_interface: Onboard* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -1822,6 +1886,8 @@
     :geekbench_3_32_mc: 3994
     :geekbench_3_64_sc: 2341
     :geekbench_3_64_mc: 4507
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -1881,6 +1947,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 12" (16:10)
     :display_resolution: 2304x1440
+    :display_secondary: Dual/Mirroring
     :hd_interface: Onboard* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -1899,6 +1966,8 @@
     :geekbench_3_32_mc: 4377
     :geekbench_3_64_sc: 2415
     :geekbench_3_64_mc: 4991
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1599
@@ -1956,6 +2025,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 12" (16:10)
     :display_resolution: 2304x1440
+    :display_secondary: Dual/Mirroring
     :hd_interface: Onboard* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -1974,6 +2044,8 @@
     :geekbench_3_32_mc: 4516
     :geekbench_3_64_sc: 2671
     :geekbench_3_64_mc: 5308
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1549

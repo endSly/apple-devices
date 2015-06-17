@@ -1,0 +1,1874 @@
+---
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 400 (PCI)
+  :model_number: M5183
+  :model_identifier: PowerMac1,2
+  :order_number:
+  - M7631LL/A
+  :serial_number:
+  - HFZ
+  - HHC
+  - HJN
+  - H7D
+  :short_name: Power Mac G4 400 (PCI)
+  :released_at: 1999-08-31
+  :discontinued_at: 1999-10-13
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 200 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33 (ATA-4)
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 450 (AGP)
+  :model_number: M5183
+  :model_identifier: PowerMac3,1
+  :order_number:
+  - M7232LL/A
+  - M7824LL/A
+  - M7825LL/A
+  - M7825LL/B
+  - M7628LL/A
+  :serial_number:
+  - GJF
+  - HHG
+  - HP0
+  - HPO
+  - HSF
+  - JJ2
+  - JUC
+  - JUL
+  - JZG
+  - K1D
+  - KID
+  :short_name: Power Mac G4 450 (AGP)
+  :released_at: 1999-08-31
+  :discontinued_at: 2000-07-19
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 450 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 225 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 225 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM, RAM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3* (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 500 (AGP)
+  :model_number: M5183
+  :model_identifier: PowerMac3,1
+  :order_number:
+  - M7629LL/A
+  - M6921LL/A
+  :serial_number:
+  - HSG
+  - J2S
+  :short_name: Power Mac G4 500 (AGP)
+  :released_at: 1999-08-31
+  :discontinued_at: 2000-07-19
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 225 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 250 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-RAM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3* (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 27 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 350 (PCI)
+  :model_number: M5183
+  :model_identifier: PowerMac1,2
+  :order_number:
+  - M7826LL/A
+  :serial_number:
+  - HM0
+  - HMO
+  - HN9
+  - HNA
+  :short_name: Power Mac G4 350 (PCI)
+  :released_at: 1999-10-13
+  :discontinued_at: 1999-12-02
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 350 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 175 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 175 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33 (ATA-4)
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 400 (AGP)
+  :model_number: M5183
+  :model_identifier: PowerMac3,1
+  :order_number:
+  - M7824LL/A
+  - M7824LL/B
+  - M7641LL/A
+  :serial_number:
+  - HSE
+  - HNZ
+  - HLA
+  - HLK
+  - HK7
+  - JJ1
+  - JSC
+  - J92
+  :short_name: Power Mac G4 400 (AGP)
+  :released_at: 1999-10-13
+  :discontinued_at: 2000-02-16
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 200 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3* (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 350 (AGP)
+  :model_number: M5183
+  :model_identifier: PowerMac3,1
+  :order_number:
+  - M7827LL/A
+  :serial_number:
+  - HM1
+  - HV6
+  :short_name: Power Mac G4 350 (AGP)
+  :released_at: 1999-12-02
+  :discontinued_at: 2000-02-16
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 350 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 175 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 175 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3* (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_PCI-AGPSetup.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 400 (Gigabit)
+  :model_number: M5183
+  :model_identifier: PowerMac3,3
+  :order_number:
+  - M7891LL/A
+  :serial_number:
+  - J3B
+  - K4Z
+  - K5C
+  - KSC
+  :short_name: Power Mac G4 400 (G)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-01-09
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 200 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_GigEthernetSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 220W maximum.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :ca: 2399
+      :jp: 198000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 450 DP (Gigabit)
+  :model_number: M5183
+  :model_identifier: PowerMac3,3
+  :order_number:
+  - M7892LL/A
+  :serial_number:
+  - J3C
+  - K5B
+  - K58
+  - K50
+  - K5O
+  - JNX
+  :short_name: Power Mac G4 450 DP (G)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-01-09
+  :details:
+    :processor_type: PowerPC 7400 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 450 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 225 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 225 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_GigEthernetSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 220W maximum.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3799
+      :jp: 298000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 500 DP (Gigabit)
+  :model_number: M5183
+  :model_identifier: PowerMac3,3
+  :order_number:
+  - M7893LL/A
+  - M8250LL/A
+  :serial_number:
+  - J3D
+  - K86
+  - KB6
+  - K5A
+  - KSA
+  - K6T
+  - K8J
+  - JNX
+  :short_name: Power Mac G4 500 DP (G)
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-01-09
+  :details:
+    :processor_type: PowerPC 7400 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 250 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 250 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM, RAM
+    :expansion_slots: 3 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_GigEthernetSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 220W maximum.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3199
+      :ca: 5299
+      :jp: 428000
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 3499
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 Cube
+  :model: Power Macintosh G4
+  :model_name: 450 Cube
+  :model_number: M7886
+  :model_identifier: PowerMac5,1
+  :order_number:
+  - M7642LL/A
+  :serial_number:
+  - K38
+  - K59
+  - KS9
+  - K5F
+  - KSF
+  - K6A
+  - KBJ
+  - K8J
+  - KQ3
+  - KQM
+  - JDZ
+  :short_name: Power Mac G4 450 Cube
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-07-03
+  :details:
+    :processor_type: PowerPC 7400 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 450 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 225 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 225 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 248.9x195.5x195.5
+    :weight: 6400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4Cube.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). Originally 225W
+      maximum, configurations shipped starting February 22, 2001, 205W maximum.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2399
+      :jp: 188000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 Cube
+  :model: Power Macintosh G4
+  :model_name: 500 Cube
+  :model_number: M7886
+  :model_identifier: PowerMac5,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - K5G
+  - KSG
+  :short_name: Power Mac G4 500 Cube
+  :released_at: 2000-07-19
+  :discontinued_at: 2001-07-03
+  :details:
+    :processor_type: PowerPC 7400* (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 250 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 250 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 5X DVD-ROM
+    :expansion_slots: AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 248.9x195.5x195.5
+    :weight: 6400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4Cube.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). Originally 225W
+      maximum, configurations shipped starting February 22, 2001, 205W maximum.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :ca: 3499
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 466 (Digital Audio)
+  :model_number: M5183
+  :model_identifier: PowerMac3,4
+  :order_number:
+  - M7627LL/A
+  :serial_number:
+  - JQF
+  - KAM
+  - KXQ
+  - KYD
+  - KYZ
+  - K6V
+  - L8Z
+  :short_name: Power Mac G4 466 DA
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 7410 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 466 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 233 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 233 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: Rage 128 Pro
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X CD-RW
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_DigitalAudioSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 338W maximum.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :ca: 2499
+      :uk: 1199
+      :jp: 198000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 533 (Digital Audio)
+  :model_number: M5183
+  :model_identifier: PowerMac3,4
+  :order_number:
+  - M7688LL/A
+  :serial_number:
+  - KAN
+  - KHS
+  - KYK
+  - K6W
+  - LF6
+  - L8G
+  - L86
+  - L90
+  - L9O
+  :short_name: Power Mac G4 533 DA
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 7410 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 533 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 266 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 266 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X CD-RW
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_DigitalAudioSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 338W maximum.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :ca: 3299
+      :uk: 1599
+      :jp: 248000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 667 (Digital Audio)
+  :model_number: M5183
+  :model_identifier: PowerMac3,4
+  :order_number:
+  - M7945LL/A
+  :serial_number:
+  - K6X
+  :short_name: Power Mac G4 667 DA
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-03-08
+  :details:
+    :processor_type: PowerPC 7450 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 667 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed and a 1 MB backside level 3 cache running on a bus one-fourth
+      of the processor speed (166 MHz).
+    :processor_cache_bus_speed: 166 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X CD-RW
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_DigitalAudioSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 338W maximum.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+      :ca: 4199
+      :uk: 1999
+      :jp: 318000
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Graphite)
+  :model: Power Macintosh G4
+  :model_name: 733 (Digital Audio)
+  :model_number: M5183
+  :model_identifier: PowerMac3,4
+  :order_number:
+  - M7681LL/A
+  - M8451LL/A
+  :serial_number:
+  - KXR
+  - KXS
+  - KX5
+  - KKY
+  - KZ4
+  - KL1
+  - KLI
+  - L0M
+  - LOM
+  :short_name: Power Mac G4 733 DA
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-07-18
+  :details:
+    :processor_type: PowerPC 7450 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 733 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed and a 1 MB backside level 3 cache running on a bus one-fourth
+      of the processor speed (183 MHz).
+    :processor_cache_bus_speed: 183 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4_DigitalAudioSetup.PDF
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 338W maximum.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 5299
+      :uk: 2499
+      :jp: 398000
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 733 (Quicksilver)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8359LL/A
+  :serial_number:
+  - KSL
+  - K5L
+  - LJQ
+  - L4Y
+  - M37
+  :short_name: Power Mac G4 733 QS
+  :released_at: 2001-07-18
+  :discontinued_at: 2002-01-28
+  :details:
+    :processor_type: PowerPC 7450 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 733 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed. Unlike the other Power Macintosh G4 "Quicksilver" models,
+      this model does <i>not</i> have a level 3 cache.
+    :processor_cache_bus_speed: 733 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 12X CD-RW
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 14100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: '9.2'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :uk: 1199
+      :jp: 199800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 867 (Quicksilver)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8360LL/A
+  :serial_number:
+  - KSD
+  - K5D
+  - KSK
+  - K5K
+  - L4Z
+  - MRN
+  - MM9
+  :short_name: Power Mac G4 867 QS
+  :released_at: 2001-07-18
+  :discontinued_at: 2002-01-28
+  :details:
+    :processor_type: PowerPC 7450 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 867 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed and a 2 MB backside level 3 cache running on a bus one-fourth
+      of the processor speed (217 MHz).
+    :processor_cache_bus_speed: 217 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Single Display
+    :display_resolution: 1920x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 14100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: '9.2'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :uk: 1799
+      :jp: 299800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 800 DP (Quicksilver)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8361LL/A
+  :serial_number:
+  - K5J
+  - KSJ
+  - L50
+  - L5O
+  :short_name: Power Mac G4 800 DP QS
+  :released_at: 2001-07-18
+  :discontinued_at: 2002-01-28
+  :details:
+    :processor_type: PowerPC 7450 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed and a 2 MB backside level 3 cache running on a bus one-fourth
+      of the processor speed (217 MHz).
+    :processor_cache_bus_speed: 217 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce2 MX TwinView
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 14100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: '9.2'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :uk: 2499
+      :jp: 424800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 800 (QS 2002)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8705LL/A
+  :serial_number:
+  - M1X
+  - MIX
+  - MK3
+  - MK5
+  - MK9
+  - MJP
+  :short_name: Power Mac G4 800 QS
+  :released_at: 2002-01-28
+  :discontinued_at: 2002-08-13
+  :details:
+    :processor_type: PowerPC 7455* (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed. Unlike the other Power Macintosh G4 "Quicksilver 2002" models,
+      this model does <i>not</i> have a level 3 cache.
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: Radeon 7500
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 24X CD-RW
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :ca: 2549
+      :uk: 1149
+      :jp: 199800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 933 (QS 2002)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8666LL/A
+  :serial_number:
+  - M1X
+  - MIX
+  - M38
+  - M58
+  - M5B
+  - MS8
+  - MSB
+  - M8G
+  - MBG
+  - MDN
+  :short_name: Power Mac G4 933 QS
+  :released_at: 2002-01-28
+  :discontinued_at: 2002-08-13
+  :details:
+    :processor_type: PowerPC 7455* (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 933 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed (933 MHz) and a 2 MB DDR SDRAM backside level 3 cache "with
+      3.7-GBps throughput".
+    :processor_cache_bus_speed: 933 MHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :ca: 3699
+      :uk: 1699
+      :jp: 299800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (Quicksilver)
+  :model: Power Macintosh G4
+  :model_name: 1.0 DP (QS 2002)
+  :model_number: M8493
+  :model_identifier: PowerMac3,5
+  :order_number:
+  - M8667LL/A
+  :serial_number:
+  - M1X
+  - MIX
+  - M8H
+  - MBH
+  - M39
+  - MDP
+  :short_name: Power Mac G4 1.0 DP QS
+  :released_at: 2002-01-28
+  :discontinued_at: 2002-08-13
+  :details:
+    :processor_type: PowerPC 7455* (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: AGP G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (1 GHz) and a 2 MB DDR SDRAM backside level 3 cache "with
+      4-GBps throughput".
+    :processor_cache_bus_speed: 1 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 133 MHz
+    :max_memory: 1 GB
+    :memory_slots: 3
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/0342088-EN.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4799
+      :uk: 2199
+      :jp: 399800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 867 DP (MDD)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8787LL/A
+  :serial_number:
+  - LKB
+  - LKC
+  - MUM
+  - MYT
+  - NFX
+  - NJ1
+  - NLP
+  - NLQ
+  :short_name: Power Mac G4 867 DP MDD
+  :released_at: 2002-08-13
+  :discontinued_at: 2003-01-28
+  :details:
+    :processor_type: PowerPC 7455 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 867 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (867 MHz) and a 1 MB DDR SRAM backside level 3 cache with
+      "up to 4-GBps throughput".
+    :processor_cache_bus_speed: 867 MHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 400W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1699
+      :ca: 2699
+      :uk: 1349
+      :jp: 214800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.0 DP (MDD)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8689LL/A
+  :serial_number:
+  - LKB
+  - MFX
+  - MMA
+  - MM7
+  - MYU
+  - NLR
+  :short_name: Power Mac G4 1.0 DP MDD
+  :released_at: 2002-08-13
+  :discontinued_at: 2003-01-28
+  :details:
+    :processor_type: PowerPC 7455 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (1 GHz) and a 1 MB DDR SRAM backside level 3 cache with "up
+      to 4-GBps throughput".
+    :processor_cache_bus_speed: 1 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9000 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 400W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3899
+      :uk: 1999
+      :jp: 314800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.25 DP (MDD)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8573LL/A
+  :serial_number:
+  - LKB
+  - MM8
+  - MXD
+  - NS6
+  - P93
+  :short_name: Power Mac G4 1.25 DP MDD
+  :released_at: 2002-08-13
+  :discontinued_at: 2003-01-28
+  :details:
+    :processor_type: PowerPC 7455 (G4)x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (1.25 GHz) and a 2 MB DDR SRAM backside level 3 cache with
+      "up to 4-GBps throughput".
+    :processor_cache_bus_speed: 1.25 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9000 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 400W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3299
+      :ca: 5199
+      :uk: 2699
+      :jp: 414800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.0 (FW 800)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8839LL/A
+  :serial_number:
+  - N1W
+  - NIW
+  - N1S
+  - NIS
+  - NS5
+  - P60
+  :short_name: Power Mac G4 1.0 FW
+  :released_at: 2003-01-28
+  :discontinued_at: 2003-06-23
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: This system has a 256k "on chip" level 2 cache running
+      at processor speed (1 GHz) and a 1 MB DDR SRAM backside level 3 cache with "up
+      to 4-GBps throughput".
+    :processor_cache_bus_speed: 1 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: GeForce4 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 12X "Combo Drive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 10.2.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2399
+      :uk: 1149
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.25 DP (FW 800)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8840LL/A
+  :serial_number:
+  - N1X
+  - NIX
+  - NP1
+  - NPI
+  - NWP
+  - P61
+  - P6N
+  - P6W
+  :short_name: Power Mac G4 1.25 DP FW
+  :released_at: 2003-01-28
+  :discontinued_at: 2003-06-23
+  :details:
+    :processor_type: PowerPC 7455 (G4)x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (1.25 GHz) and a 1 MB DDR SRAM backside level 3 cache with
+      "up to 4-GBps throughput".
+    :processor_cache_bus_speed: 1.25 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9000 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 12X "Combo Drive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 10.2.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :ca: 3199
+      :uk: 1599
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.42 DP (FW 800)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M8841LL/A
+  :serial_number:
+  - NP3
+  - NS7
+  - NWQ
+  - N1Y
+  - NIY
+  - P97
+  :short_name: Power Mac G4 1.42 DP FW
+  :released_at: 2003-01-28
+  :discontinued_at: 2003-06-23
+  :details:
+    :processor_type: PowerPC 7455 (G4)x2
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.42 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: This system has 256k "on chip" level 2 caches running
+      at processor speed (1.42 GHz) and a 2 MB DDR SRAM backside level 3 cache with
+      "up to 4-GBps throughput".
+    :processor_cache_bus_speed: 1.42 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9000 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 360W maximum.
+    :mac_os_version: 10.2.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2699
+      :ca: 4299
+      :uk: 2099
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 120 GB
+- :vendor: Apple
+  :subfamily: Power Mac G4 (MDD)
+  :model: Power Macintosh G4
+  :model_name: 1.25 (MDD 2003)
+  :model_number: M8570
+  :model_identifier: PowerMac3,6
+  :order_number:
+  - M9145LL/A
+  :serial_number:
+  - PC1
+  - PCI
+  - PC4
+  - PHH
+  - PJ1
+  - PJI
+  - PJK
+  - PJL
+  - PXP
+  - Q91
+  - Q9I
+  - Q92
+  - Q93
+  - Q96
+  - Q1H
+  - QIH
+  - Q6P
+  - QCP
+  - QEC
+  - QED
+  - QL2
+  - QLT
+  - QU9
+  - QUA
+  - RDL
+  - RTA
+  :short_name: Power Mac G4 1.25 MDD
+  :released_at: 2003-06-23
+  :discontinued_at: 2004-06-09
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: MDD G4 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: If configured by default with one processor, this system
+      has a 256k "on chip" level 2 cache running at processor speed (1.25 GHz) and
+      a 1 MB DDR SRAM backside level 3 cache with "up to 4-GBps throughput."
+    :processor_cache_bus_speed: 1.25 GHz* (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9000 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 12X "Combo Drive"
+    :expansion_slots: 4 PCI*, AP
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 19100
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG4DualSU.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 400W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :uk: 1099
+      :au: 2299
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB

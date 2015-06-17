@@ -41,6 +41,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_OriginalUserGuide.PDF
     :cell_network: None
     :camera: None
+    :mac_os_version: 9.2.1
   :model_types_attributes:
   - :original_price:
       :us: 399
@@ -112,6 +113,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_OriginalUserGuide.PDF
     :cell_network: None
     :camera: None
+    :mac_os_version: 9.2.2
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -172,6 +174,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -231,6 +234,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -290,6 +294,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPodDockConnectorUserGuide.PDF
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -357,6 +362,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Click_Wheel_UserGuide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -408,6 +414,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Click_Wheel_UserGuide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 349
@@ -451,6 +458,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 349
@@ -508,6 +516,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -567,6 +576,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -626,6 +636,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_User_Guide_color_display.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 329
@@ -691,6 +702,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -751,6 +763,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 329
@@ -819,6 +832,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Late_2006_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 249
@@ -880,6 +894,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_Late_2006_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 279
@@ -932,6 +947,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_classic_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.8
   :model_types_attributes:
   - :original_price:
       :us: 249
@@ -1001,6 +1017,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_classic_160GB_User_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 249
@@ -1077,6 +1094,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/0190191_iPodmini_UG.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.1.5
   :model_types_attributes:
   - :original_price:
       :us: 249
@@ -1144,6 +1162,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_mini_2nd_Gen_UserGuide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 199
@@ -1221,6 +1240,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.4
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1305,6 +1325,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_2nd_Gen_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1380,6 +1401,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_2nd_Gen_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 199
@@ -1448,6 +1470,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_3rd_gen_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.8
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1567,6 +1590,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_4th_gen_UserGuide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1676,6 +1700,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_5th_gen_UserGuide.pdf
     :cell_network: None
     :camera: Video
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1768,7 +1793,8 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_nano_6thgen_User_Guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iOS Inspired
+    :iphone_standard_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1857,7 +1883,8 @@
     :user_manual: http://manuals.info.apple.com/en_US/ipod_nano_user_guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iOS Inspired
+    :iphone_standard_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 149
@@ -1913,6 +1940,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPodshuffleUserGuide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.2.8
   :model_types_attributes:
   - :original_price:
       :us: 99
@@ -1971,6 +1999,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 79
@@ -2029,6 +2058,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.3.9
   :model_types_attributes:
   - :original_price:
       :us: 79
@@ -2083,6 +2113,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.8
   :model_types_attributes:
   - :original_price:
       :us: 79
@@ -2139,6 +2170,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_Features_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.10
   :model_types_attributes:
   - :original_price:
       :us: 49
@@ -2200,6 +2232,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_3rdGen_UG.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 79
@@ -2267,6 +2300,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_3rdGen_UG.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 59
@@ -2354,6 +2388,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_4thgen_User_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 49
@@ -2417,6 +2452,7 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_shuffle_4thgen_User_Guide.pdf
     :cell_network: None
     :camera: None
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 49
@@ -2477,8 +2513,9 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iPhone OS 1.0
-    :iphone_max_os: iPhone OS 3.1.3
+    :iphone_standard_os: '1.0'
+    :iphone_max_os: 3.1.3
+    :mac_os_version: 10.4.10
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -2564,8 +2601,9 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iPhone OS 2.1 (5F138)
-    :iphone_max_os: iOS 4.2
+    :iphone_standard_os: '2.1'
+    :iphone_max_os: '4.2'
+    :mac_os_version: 10.4.10
   :model_types_attributes:
   - :original_price:
       :us: 229
@@ -2651,8 +2689,9 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iPhone OS 3.1.1 (7C145)
-    :iphone_max_os: iOS 4.2
+    :iphone_standard_os: 3.1.1
+    :iphone_max_os: '4.2'
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 199
@@ -2706,8 +2745,9 @@
     :user_manual: http://manuals.info.apple.com/en_US/iPod_touch_3.1_User_Guide.pdf
     :cell_network: None
     :camera: None
-    :iphone_standard_os: iPhone OS 3.1.1 (7C145)
-    :iphone_max_os: iOS 5.1.1
+    :iphone_standard_os: 3.1.1
+    :iphone_max_os: 5.1.1
+    :mac_os_version: 10.4.11
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -2782,8 +2822,9 @@
     :geekbench_3_32_mc: 209
     :cell_network: None
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 4.1
-    :iphone_max_os: iOS 6.1.6
+    :iphone_standard_os: '4.1'
+    :iphone_max_os: 6.1.6
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 229
@@ -2887,8 +2928,9 @@
     :geekbench_3_32_mc: 209
     :cell_network: None
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 5.0
-    :iphone_max_os: iOS 6.1.6
+    :iphone_standard_os: '5.0'
+    :iphone_max_os: 6.1.6
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 199
@@ -2984,8 +3026,9 @@
     :geekbench_3_32_mc: 209
     :cell_network: None
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 5.1
-    :iphone_max_os: iOS 6.1.6
+    :iphone_standard_os: '5.1'
+    :iphone_max_os: 6.1.6
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 199
@@ -3085,8 +3128,9 @@
     :geekbench_3_32_mc: 410
     :cell_network: None
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -3159,8 +3203,9 @@
     :geekbench_3_32_mc: 410
     :cell_network: None
     :camera: 1.2 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 229
@@ -3218,8 +3263,9 @@
     :geekbench_3_32_mc: 410
     :cell_network: None
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.1.2
-    :iphone_max_os: Current
+    :iphone_standard_os: 7.1.2
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 199

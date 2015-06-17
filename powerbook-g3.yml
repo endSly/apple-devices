@@ -1,0 +1,630 @@
+---
+- :vendor: Apple
+  :subfamily: PowerBook 3400
+  :model: PowerBook G3
+  :model_name: 250 (Original/Kanga/3500)
+  :model_number: M3553
+  :order_number:
+  - M5993LL/A
+  :serial_number:
+  - AEJ
+  - AH5
+  - AH8
+  - AK4
+  - KJY
+  :short_name: PowerBook G3 250 (Orig)
+  :released_at: 1997-11-10
+  :discontinued_at: 1998-03-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 250 MHz
+    :processor_bus_speed: 50 MHz
+    :processor_cache_bus_speed: 100 MHz (2.5:1)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PowerBook G3
+    :memory_speed: 60 ns
+    :max_memory: 160 MB
+    :memory_slots: 1
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 2 MB
+    :display: 12.1" TFT
+    :display_resolution: 800x600
+    :hd_interface: ATA
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 47 W h LiIon
+    :battery_life: 2-4 Hours
+    :dimensions: 60.9x292.1x241.3
+    :weight: 3400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBook_G3_Users_Manual.pdf
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.0'
+    :mac_os_max: '9.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 5700
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 5 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 233 (Wallstreet)
+  :model_number: M4753
+  :order_number:
+  - M6477LL/A
+  - M6359LL/A
+  - M6481LL/A
+  - M6484LL/A
+  :serial_number:
+  - CVA
+  - CWH
+  - ESP
+  - E5P
+  :short_name: PowerBook G3 233 WS
+  :released_at: 1998-05-06
+  :discontinued_at: 1998-09-01
+  :details:
+    :processor_type: PowerPC 740 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: None
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 12.1" STN
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 7.2, 7.6, 7.8 lbs
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 250 (Wallstreet)
+  :model_number: M4753
+  :order_number:
+  - M6357LL/A
+  :short_name: PowerBook G3 250 WS
+  :released_at: 1998-05-06
+  :discontinued_at: 1998-09-01
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 250 MHz
+    :processor_bus_speed: 83 MHz
+    :processor_cache_bus_speed: 125 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 13.3" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 7.2, 7.6, 7.8 lbs
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2979
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 292 (Wallstreet)
+  :model_number: M4753
+  :order_number:
+  - M6541LL/A
+  :short_name: PowerBook G3 292 WS
+  :released_at: 1998-05-06
+  :discontinued_at: 1998-09-01
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 292 MHz
+    :processor_bus_speed: 83 MHz
+    :processor_cache_bus_speed: 146 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 7.6, 7.8 lbs
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 4599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 233 (PDQ - Late 1998)
+  :model_number: M4753
+  :order_number:
+  - M7109LL/A
+  :serial_number:
+  - E6A
+  :short_name: PowerBook G3 233 PDQ
+  :released_at: 1998-09-01
+  :discontinued_at: 1999-05-10
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 116 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 3500
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.1'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+      :ca: 4399
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 266 (PDQ - Late 1998)
+  :model_number: M4753
+  :order_number:
+  - M7110LL/A
+  :serial_number:
+  - E6D
+  :short_name: PowerBook G3 266 PDQ
+  :released_at: 1998-09-01
+  :discontinued_at: 1999-05-10
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 266 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 133 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 20X CD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 3500
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.1'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 5499
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: PowerBook G3 Wallstreet
+  :model: PowerBook G3
+  :model_name: 300 (PDQ - Late 1998)
+  :model_number: M4753
+  :order_number:
+  - M7111LL/A
+  - M7310LL/A
+  :serial_number:
+  - F7E
+  - EEY
+  :short_name: PowerBook G3 300 PDQ
+  :released_at: 1998-09-01
+  :discontinued_at: 1999-05-10
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 300 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 150 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro LT
+    :graphics_card_vram_type: SGRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 1X DVD-ROM
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 49 W h LiIon
+    :battery_life: 3.5 Hours, 7 Hours
+    :dimensions: 50.8x264.1x322.5
+    :weight: 3500
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3UserManual.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.1'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 4999
+      :ca: 7899
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: PB G3 Bronze/Lombard
+  :model: PowerBook G3
+  :model_name: 333 (Bronze KB/Lombard)
+  :model_number: M5343
+  :model_identifier: PowerBook1,1
+  :order_number:
+  - M7304LL/A
+  :serial_number:
+  - EXW
+  - G01
+  :short_name: PowerBook G3 333 LB
+  :released_at: 1999-05-10
+  :discontinued_at: 2000-02-16
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 333 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 133 MHz (5:2)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro LT
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 1 Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours, 9-10 Hours
+    :dimensions: 43.1x264.1x322.5
+    :weight: 2700
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3_BronzeKeybdGettingStarted.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.3.9
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3699
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: PB G3 Bronze/Lombard
+  :model: PowerBook G3
+  :model_name: 400 (Bronze KB/Lombard)
+  :model_number: M5343
+  :model_identifier: PowerBook1,1
+  :order_number:
+  - M7308LL/A
+  :serial_number:
+  - EY8
+  - G03
+  :short_name: PowerBook G3 400 LB
+  :released_at: 1999-05-10
+  :discontinued_at: 2000-02-16
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 160 MHz (5:2)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 512 MB
+    :memory_slots: 2
+    :graphics_card: Rage Pro LT
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 2X DVD-ROM
+    :expansion_slots: 1 Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours, 9-10 Hours
+    :dimensions: 43.1x264.1x322.5
+    :weight: 2700
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3_BronzeKeybdGettingStarted.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.3.9
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 5199
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: PB G3 Firewire/Pismo
+  :model: PowerBook G3
+  :model_name: 400 (Firewire/Pismo)
+  :model_number: M7572
+  :model_identifier: PowerBook3,1
+  :order_number:
+  - M7630LL/A
+  - M7711LL/A
+  :serial_number:
+  - K34
+  - JYY
+  - HDR
+  - HKE
+  :short_name: PowerBook G3 400 FW
+  :released_at: 2000-02-16
+  :discontinued_at: 2001-01-09
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 160 MHz (5:2)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: 1 Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours, 9-10 Hours
+    :dimensions: 43.1x264.1x322.5
+    :weight: 2800
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3_FirewireSettingUp.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: 9.0.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3699
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: PB G3 Firewire/Pismo
+  :model: PowerBook G3
+  :model_name: 500 (Firewire/Pismo)
+  :model_number: M7572
+  :model_identifier: PowerBook3,1
+  :order_number:
+  - M7633LL/A
+  - M7712LL/A
+  :serial_number:
+  - K35
+  - HDS
+  :short_name: PowerBook G3 500 FW
+  :released_at: 2000-02-16
+  :discontinued_at: 2001-01-09
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: PB G3 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 200 MHz (5:2)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 14.1" TFT
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: 1 Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours, 9-10 Hours
+    :dimensions: 43.1x264.1x322.5
+    :weight: 2800
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG3_FirewireSettingUp.PDF
+    :power: 100V-240V AC power adapter, 45 Max watts.
+    :mac_os_version: 9.0.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 5199
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 12 GB

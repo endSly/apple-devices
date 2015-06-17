@@ -1,0 +1,89 @@
+---
+- :vendor: Apple
+  :subfamily: Mac Portable
+  :model: Portable
+  :model_name: "(Original)"
+  :model_number: M5120
+  :short_name: Portable (Original)
+  :released_at: 1989-09-20
+  :discontinued_at: 1991-02-11
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :memory_type: SRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: Lead-Acid
+    :battery_life: 6-12 Hours
+    :dimensions: 101.6x387.3x375.9
+    :weight: 7200
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 70V-270V AC, 48-62 Hz Frequency, 15 Max Watts.
+    :mac_os_version: 6.0.4
+    :mac_os_max: 6.0.4
+  :model_types_attributes:
+  - :original_price:
+      :us: 6500
+    :details:
+      :standard_memory: 1 MB
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Mac Portable
+  :model: Portable
+  :model_name: Backlit
+  :model_number: M5126
+  :short_name: Portable Backlit
+  :released_at: 1991-02-11
+  :discontinued_at: 1991-10-21
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: Lead-Acid
+    :battery_life: 3-6 Hours
+    :dimensions: 101.6x387.3x375.9
+    :weight: 7200
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 70V-270V AC, 48-62 Hz Frequency, 15 Max Watts.
+    :mac_os_version: 6.0.8
+    :mac_os_max: 6.0.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 6500
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 40 MB

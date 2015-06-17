@@ -39,6 +39,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Parallel ATA (ZIF)
     :optical_drive: None
     :expansion_slots: None
@@ -57,6 +58,8 @@
     :geekbench_3_32_mc: 1211
     :geekbench_3_64_sc: 899
     :geekbench_3_64_mc: 1413
+    :mac_os_version: 10.5.1
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 1799
@@ -120,6 +123,7 @@
     :graphics_card_max_vram: 144 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Parallel ATA (ZIF)
     :optical_drive: None
     :expansion_slots: None
@@ -136,6 +140,8 @@
     :power: 100V-240V AC, 45W 90-degree angled "MagSafe" power adapter.
     :geekbench_3_32_sc: 814
     :geekbench_3_32_mc: 1282
+    :mac_os_version: 10.5.1
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 3098
@@ -180,6 +186,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA
     :optical_drive: None
     :expansion_slots: None
@@ -196,6 +203,8 @@
     :power: 100V-240V AC, 45W 90-degree angled "MagSafe" power adapter.
     :geekbench_3_32_sc: 895
     :geekbench_3_32_mc: 1419
+    :mac_os_version: 10.5.5
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1799
@@ -252,6 +261,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA
     :optical_drive: None
     :expansion_slots: None
@@ -270,6 +280,8 @@
     :geekbench_3_32_mc: 1405
     :geekbench_3_64_sc: 1062
     :geekbench_3_64_mc: 1660
+    :mac_os_version: 10.5.5
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -327,6 +339,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA
     :optical_drive: None
     :expansion_slots: None
@@ -345,6 +358,8 @@
     :geekbench_3_32_mc: 1405
     :geekbench_3_64_sc: 1062
     :geekbench_3_64_mc: 1660
+    :mac_os_version: 10.5.7
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1499
@@ -401,6 +416,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1280x800
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA
     :optical_drive: None
     :expansion_slots: None
@@ -419,6 +435,8 @@
     :geekbench_3_32_mc: 1498
     :geekbench_3_64_sc: 1039
     :geekbench_3_64_mc: 1615
+    :mac_os_version: 10.5.7
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1799
@@ -479,6 +497,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -497,6 +516,8 @@
     :geekbench_3_32_mc: 1292
     :geekbench_3_64_sc: 876
     :geekbench_3_64_mc: 1437
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -575,6 +596,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -593,6 +615,8 @@
     :geekbench_3_32_mc: 1436
     :geekbench_3_64_sc: 974
     :geekbench_3_64_mc: 1592
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -655,6 +679,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -673,6 +698,8 @@
     :geekbench_3_32_mc: 1738
     :geekbench_3_64_sc: 1143
     :geekbench_3_64_mc: 1893
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -753,6 +780,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -771,6 +799,8 @@
     :geekbench_3_32_mc: 1968
     :geekbench_3_64_sc: 1298
     :geekbench_3_64_mc: 2172
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1699
@@ -834,6 +864,7 @@
     :graphics_card_max_vram: 384 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -852,6 +883,8 @@
     :geekbench_3_32_mc: 3276
     :geekbench_3_64_sc: 1970
     :geekbench_3_64_mc: 3748
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -934,6 +967,7 @@
     :graphics_card_max_vram: 384 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -952,6 +986,8 @@
     :geekbench_3_32_mc: 4094
     :geekbench_3_64_sc: 2397
     :geekbench_3_64_mc: 4648
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1349
@@ -1015,6 +1051,7 @@
     :graphics_card_max_vram: 384 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1033,6 +1070,8 @@
     :geekbench_3_32_mc: 3868
     :geekbench_3_64_sc: 2193
     :geekbench_3_64_mc: 4262
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1299
@@ -1115,6 +1154,7 @@
     :graphics_card_max_vram: 384 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1133,6 +1173,8 @@
     :geekbench_3_32_mc: 3156
     :geekbench_3_64_sc: 2389
     :geekbench_3_64_mc: 4625
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1699
@@ -1195,6 +1237,7 @@
     :graphics_card_max_vram: 256 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Mini SATA (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1213,6 +1256,8 @@
     :geekbench_3_32_mc: 3310
     :geekbench_3_64_sc: 1819
     :geekbench_3_64_mc: 3593
+    :mac_os_version: 10.7.3
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1262,6 +1307,7 @@
     :graphics_card_max_vram: 512 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -1280,6 +1326,8 @@
     :geekbench_3_32_mc: 4277
     :geekbench_3_64_sc: 2395
     :geekbench_3_64_mc: 4812
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1361,6 +1409,7 @@
     :graphics_card_max_vram: 512 MB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (6 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -1379,6 +1428,8 @@
     :geekbench_3_32_mc: 5146
     :geekbench_3_64_sc: 2859
     :geekbench_3_64_mc: 5878
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1249
@@ -1444,6 +1495,7 @@
     :graphics_card_max_vram: 512 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1462,6 +1514,8 @@
     :geekbench_3_32_mc: 4598
     :geekbench_3_64_sc: 2498
     :geekbench_3_64_mc: 5073
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1199
@@ -1544,6 +1598,7 @@
     :graphics_card_max_vram: 512 MB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (6 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1562,6 +1617,8 @@
     :geekbench_3_32_mc: 5181
     :geekbench_3_64_sc: 2865
     :geekbench_3_64_mc: 5877
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1599
@@ -1628,6 +1685,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -1646,6 +1704,8 @@
     :geekbench_3_32_mc: 4472
     :geekbench_3_64_sc: 2610
     :geekbench_3_64_mc: 5068
+    :mac_os_version: 10.8.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1727,6 +1787,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -1745,6 +1806,8 @@
     :geekbench_3_32_mc: 5530
     :geekbench_3_64_sc: 3129
     :geekbench_3_64_mc: 6091
+    :mac_os_version: 10.8.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1149
@@ -1831,6 +1894,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1849,6 +1913,8 @@
     :geekbench_3_32_mc: 4468
     :geekbench_3_64_sc: 2591
     :geekbench_3_64_mc: 4990
+    :mac_os_version: 10.8.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -1931,6 +1997,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1949,6 +2016,8 @@
     :geekbench_3_32_mc: 5490
     :geekbench_3_64_sc: 3149
     :geekbench_3_64_mc: 6152
+    :mac_os_version: 10.8.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1249
@@ -2031,6 +2100,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -2049,6 +2119,8 @@
     :geekbench_3_32_mc: 4763
     :geekbench_3_64_sc: 2744
     :geekbench_3_64_mc: 5345
+    :mac_os_version: 10.9.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 899
@@ -2126,6 +2198,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -2144,6 +2217,8 @@
     :geekbench_3_32_mc: 5530
     :geekbench_3_64_sc: 3129
     :geekbench_3_64_mc: 6091
+    :mac_os_version: 10.9.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1049
@@ -2229,6 +2304,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2247,6 +2323,8 @@
     :geekbench_3_32_mc: 4756
     :geekbench_3_64_sc: 2732
     :geekbench_3_64_mc: 5311
+    :mac_os_version: 10.9.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -2324,6 +2402,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2342,6 +2421,8 @@
     :geekbench_3_32_mc: 5530
     :geekbench_3_64_sc: 3129
     :geekbench_3_64_mc: 6091
+    :mac_os_version: 10.9.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1149
@@ -2421,6 +2502,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -2439,6 +2521,8 @@
     :geekbench_3_32_mc: 5051
     :geekbench_3_64_sc: 2866
     :geekbench_3_64_mc: 5723
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 899
@@ -2515,6 +2599,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 11.6" Widescreen
     :display_resolution: 1366x768
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -2533,6 +2618,8 @@
     :geekbench_3_32_mc: 6073
     :geekbench_3_64_sc: 3242
     :geekbench_3_64_mc: 6882
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1049
@@ -2614,6 +2701,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe x4)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2632,6 +2720,8 @@
     :geekbench_3_32_mc: 5069
     :geekbench_3_64_sc: 2835
     :geekbench_3_64_mc: 5721
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -2710,6 +2800,7 @@
     :graphics_card_max_vram: 1 GB
     :display: 13.3" Widescreen
     :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe x4)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2728,6 +2819,8 @@
     :geekbench_3_32_mc: 5965
     :geekbench_3_64_sc: 3220
     :geekbench_3_64_mc: 6836
+    :mac_os_version: 10.10.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1149

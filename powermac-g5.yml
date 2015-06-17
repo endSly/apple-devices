@@ -1,0 +1,1042 @@
+---
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 1.6 (PCI)
+  :model_number: A1047
+  :model_identifier: PowerMac7,2
+  :order_number:
+  - M9020LL/A
+  :serial_number:
+  - NVQ
+  - NV9
+  - PAY
+  - PGA
+  - R5H
+  - Q6Y
+  - Q65
+  - QE6
+  - QVG
+  :short_name: Power Mac G5 1.6 PCI
+  :released_at: 2003-06-23
+  :discontinued_at: 2004-06-09
+  :details:
+    :processor_type: PowerPC 970 (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 1.6 GHz
+    :processor_bus_speed: 800 MHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 8-GBps data throughput".
+    :processor_cache_bus_speed: 1.6 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC2700 DDR
+    :memory_speed: 333 MHz
+    :max_memory: 4 GB
+    :memory_slots: 4
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: 3 PCI, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 17800
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :ca: 2799
+      :uk: 1549
+      :au: 3599
+      :jp: 244800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 1.8 (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,2
+  :order_number:
+  - M9031LL/A
+  :serial_number:
+  - NVA
+  - NVR
+  - PAZ
+  - PGB
+  - Q66
+  - Q68
+  - Q6Z
+  - QNU
+  - QUY
+  - PB2
+  :short_name: Power Mac G5 1.8 PCI-X
+  :released_at: 2003-06-23
+  :discontinued_at: 2003-11-18
+  :details:
+    :processor_type: PowerPC 970 (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 900 MHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 8-GBps data throughput".
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 17800
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2399
+      :ca: 3399
+      :uk: 1849
+      :au: 4499
+      :jp: 294800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.0 DP (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,2
+  :order_number:
+  - M9032LL/A
+  :serial_number:
+  - NVB
+  - NV8
+  - NVS
+  - NV5
+  - PB0
+  - PBO
+  - PGC
+  - PXD
+  - PXF
+  - PXJ
+  - Q3V
+  - QEB
+  - QE8
+  - QD4
+  - QNV
+  - QVJ
+  - QW1
+  - QXD
+  - R5K
+  - RSK
+  :short_name: Power Mac G5 2.0 DP (X)
+  :released_at: 2003-06-23
+  :discontinued_at: 2004-06-09
+  :details:
+    :processor_type: PowerPC 970 (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.0 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 8-GBps data throughput".
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: Radeon 9600 Pro
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 17800
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4199
+      :uk: 2299
+      :au: 5599
+      :jp: 364800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 1.8 DP (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,2
+  :order_number:
+  - M9393LL/A
+  :serial_number:
+  - QES
+  - QEU
+  - QF6
+  - QGB
+  - QWA
+  - QVH
+  - R5J
+  :short_name: Power Mac G5 1.8 DP (X)
+  :released_at: 2003-11-18
+  :discontinued_at: 2004-06-09
+  :details:
+    :processor_type: PowerPC 970 (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 900 MHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 8-GBps data throughput".
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 17800
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3499
+      :uk: 1899
+      :jp: 299800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 1.8 DP (PCI)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9454LL/A
+  :serial_number:
+  - QPL
+  - QTA
+  - QPQ
+  - QY0
+  - RAG
+  - RH8
+  - RKJ
+  - SPX
+  - 5PX
+  - S3T
+  - 53T
+  - S8H
+  - SBH
+  - 58H
+  - 5BH
+  - S8M
+  - SBM
+  - 58M
+  - 5BM
+  :short_name: Power Mac G5 1.8 DP
+  :released_at: 2004-06-09
+  :discontinued_at: 2005-04-27
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 900 MHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 10-GBps data throughput".
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 4 GB
+    :memory_slots: 4
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: 3 PCI, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.3.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1861
+      :ca: 2799
+      :uk: 1449
+      :au: 3599
+      :jp: 251790
+      :nz: 4410
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.0 DP (PCI-X 2)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9455LL/A
+  :serial_number:
+  - QPM
+  - QPR
+  - SPY
+  - S3U
+  - '581'
+  - 58I
+  - 5B1
+  - 5BI
+  :short_name: Power Mac G5 2.0 DP (2)
+  :released_at: 2004-06-09
+  :discontinued_at: 2005-04-27
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.0 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 10-GBps data throughput".
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.3.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2327
+      :ca: 3499
+      :uk: 1849
+      :au: 4499
+      :jp: 314790
+      :nz: 5512
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.5 DP (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9457LL/A
+  :serial_number:
+  - QPP
+  - QPS
+  - QP5
+  - RFT
+  - RQS
+  - RQ5
+  - RQT
+  - SPZ
+  - 5PZ
+  - S8P
+  - S8K
+  :short_name: Power Mac G5 2.5 DP (X)
+  :released_at: 2004-06-09
+  :discontinued_at: 2005-04-27
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 1.25 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 10-GBps data throughput".
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: Radeon 9600 XT
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum).
+      System lacks a "soft power" port for an analog monitor.
+    :mac_os_version: 10.3.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2792
+      :ca: 4199
+      :uk: 2199
+      :au: 5299
+      :jp: 367290
+      :nz: 6499
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 1.8 (PCI)
+  :model_number: A1093
+  :model_identifier: PowerMac9,1
+  :order_number:
+  - M9555LL/A
+  :serial_number:
+  - QYT
+  - QYU
+  - RWR
+  - S8X
+  - 58X
+  - SD1
+  - SDI
+  - SDT
+  - SEZ
+  - SK7
+  - SQ1
+  - 5Q1
+  - 5QI
+  - TKU
+  - TMB
+  - TM8
+  - TYB
+  - TY8
+  - TYC
+  :short_name: Power Mac G5 1.8
+  :released_at: 2004-10-19
+  :discontinued_at: 2005-06-13
+  :details:
+    :processor_type: PowerPC 970fx (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '1'
+    :processor_speed: 1.8 GHz
+    :processor_bus_speed: 600 MHz (3:1)
+    :processor_cache_bus_speed: 1.8 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 4 GB
+    :memory_slots: 4
+    :graphics_card: GeForce FX 5200 Ultra
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: 3 PCI, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 16400
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5SetupGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 420W maximum (June 2004 models - 700W maximum,
+      October 2004 model 552W maximum). System lacks a "soft power" port for an analog
+      monitor.
+    :mac_os_version: 10.3.5
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1396
+      :de: 1439
+      :ca: 2099
+      :uk: 1099
+      :au: 2399
+      :jp: 188790
+      :nl: 1439
+      :nz: 3309
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.0 DP (PCI)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9747LL/A
+  :serial_number:
+  - RU2
+  - RTY
+  - S8J
+  - 58J
+  :short_name: Power Mac G5 2.0 DP
+  :released_at: 2005-04-27
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.0 GHz (2:1)
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 4 GB
+    :memory_slots: 4
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X DL "SuperDrive"
+    :expansion_slots: 3 PCI, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_Early_2005_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 450W or 600W maximum. System lacks a "soft
+      power" port for an analog monitor.
+    :mac_os_version: '10.4'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1919
+      :de: 1969
+      :ca: 2499
+      :uk: 1349
+      :au: 3199
+      :jp: 236040
+      :it: 1979
+      :nl: 1969
+      :nz: 3740
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.3 DP (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9748LL/A
+  :serial_number:
+  - RU3
+  - RTZ
+  :short_name: Power Mac G5 2.3 DP (X)
+  :released_at: 2005-04-27
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 1.15 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 21.6-GBps data throughput".
+    :processor_cache_bus_speed: 2.3 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: Dual Displays
+    :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X DL "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_Early_2005_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 450W or 600W maximum. System lacks a "soft
+      power" port for an analog monitor.
+    :mac_os_version: '10.4'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2389
+      :de: 2459
+      :ca: 3149
+      :uk: 1699
+      :au: 3999
+      :jp: 293790
+      :it: 2479
+      :nl: 2459
+      :nz: 4690
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: 2.7 DP (PCI-X)
+  :model_number: A1047
+  :model_identifier: PowerMac7,3
+  :order_number:
+  - M9749LL/A
+  :serial_number:
+  - RU0
+  - RUO
+  - RU4
+  :short_name: Power Mac G5 2.7 DP (X)
+  :released_at: 2005-04-27
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: '2'
+    :processor_speed: 2.7 GHz
+    :processor_bus_speed: 1.35 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "64-bit DDR frontside
+      bus supporting up to 21.6-GBps data throughput".
+    :processor_cache_bus_speed: 2.7 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k
+    :memory_type: PC3200 DDR
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: Radeon 9650
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 4X DL "SuperDrive"
+    :expansion_slots: 3 PCI-X, AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 510.5x205.7x474.9
+    :weight: 20200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerMacG5_Early_2005_UserGuide.pdf
+    :power: 100V-125V AC or 200V-240V AC. 450W or 600W maximum. System lacks a "soft
+      power" port for an analog monitor.
+    :mac_os_version: '10.4'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2869
+      :de: 2949
+      :ca: 3799
+      :uk: 1999
+      :au: 4899
+      :jp: 351540
+      :it: 2969
+      :nl: 2949
+      :nz: 5750
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: Dual Core (2.0)
+  :model_number: A1117/A1177
+  :model_identifier: PowerMac11,2
+  :order_number:
+  - M9590LL/A
+  :serial_number:
+  - R6U
+  - T39
+  - UKQ
+  - UV0
+  - UVO
+  - UUY
+  - VU5
+  - VUS
+  - V5V
+  - VSV
+  - W08
+  - WO8
+  :short_name: Power Mac G5 2.0 (DC)
+  :released_at: 2005-10-19
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970MP (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.0 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "single 1 GHz 64-bit
+      DDR bidirectional frontside bus".
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 1 MB
+    :memory_type: PC2-4200 DDR2
+    :memory_speed: 533 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 6600 LE
+    :graphics_card_vram_type: GDDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 3 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 44.5-48.8 lbs.
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Mac_G5_Late_2005.pdf
+    :power: 100V-125V AC or 200V-240V AC. System lacks a "soft power" port for an
+      analog monitor.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1999
+      :de: 2069
+      :ca: 2399
+      :uk: 1399
+      :au: 3199
+      :jp: 244800
+      :it: 2079
+      :nl: 2069
+      :nz: 3789
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: Dual Core (2.3)
+  :model_number: A1117/A1177
+  :model_identifier: PowerMac11,2
+  :order_number:
+  - M9591LL/A
+  :serial_number:
+  - R6V
+  - R6Z
+  - UV1
+  - UVI
+  - NUV
+  - UUZ
+  - V5W
+  - VU6
+  :short_name: Power Mac G5 2.3 (DC)
+  :released_at: 2005-10-19
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970MP (G5)
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 1.15 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has a "single 1.15 GHz 64-bit
+      DDR bidirectional frontside bus".
+    :processor_cache_bus_speed: 2.3 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 1 MB
+    :memory_type: PC2-4200 DDR2
+    :memory_speed: 533 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 6600
+    :graphics_card_vram_type: GDDR SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 3 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 44.5-48.8 lbs.
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Mac_G5_Late_2005.pdf
+    :power: 100V-125V AC or 200V-240V AC. System lacks a "soft power" port for an
+      analog monitor.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2499
+      :de: 2589
+      :ca: 2999
+      :uk: 1749
+      :au: 3999
+      :jp: 299800
+      :it: 2599
+      :nl: 2589
+      :nz: 4739
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB
+- :vendor: Apple
+  :subfamily: Power Mac G5
+  :model: Power Macintosh G5
+  :model_name: '"Quad Core" (2.5)'
+  :model_number: A1117/A1177
+  :model_identifier: PowerMac11,2
+  :order_number:
+  - M9592LL/A
+  :serial_number:
+  - R6W
+  - R70
+  - R7O
+  - UKS
+  - UK5
+  - UL5
+  - ULS
+  - V5X
+  :short_name: Power Mac G5 2.5 (QC)
+  :released_at: 2005-10-19
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970MP (G5) x2
+    :processor_arch: 64-Bit
+    :processor_upgrade: G5 Daughtercard
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 2.5 GHz
+    :processor_bus_speed: 1.25 GHz (2:1)
+    :processor_bus_details: Apple notes that the system has "dual 1.25 GHz 64-bit
+      DDR bidirectional frontside buses".
+    :processor_cache_bus_speed: 2.5 GHz (Built-in)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 1 MB
+    :memory_type: PC2-4200 DDR2
+    :memory_speed: 533 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: GeForce 6600
+    :graphics_card_vram_type: GDDR SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display: Dual Displays
+    :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Serial ATA (1.5 Gb/s)
+    :optical_drive: 6X DL "SuperDrive"
+    :expansion_slots: 3 PCIe, AP/BL
+    :dimensions: 510.5x205.7x474.9
+    :weight: 44.5-48.8 lbs.
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 2.0+EDR (Optional)
+    :ethernet: Gigabit (x2)
+    :usb_ports: 4 (2.0)
+    :firewire_ports: 2 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Mac_G5_Late_2005.pdf
+    :power: 100V-125V AC or 200V-240V AC. System lacks a "soft power" port for an
+      analog monitor.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3299
+      :es: 3299
+      :de: 3379
+      :ca: 3999
+      :uk: 2299
+      :au: 5299
+      :jp: 399800
+      :it: 3419
+      :nl: 3379
+      :nz: 6275
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB

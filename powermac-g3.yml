@@ -1,0 +1,770 @@
+---
+- :vendor: Apple
+  :subfamily: Power Mac G3 DT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 233 Desktop
+  :model_number: M3979
+  :order_number:
+  - M6141LL/A
+  :serial_number:
+  - BBV
+  - D2J
+  :short_name: Power Mac G3 233 DT
+  :released_at: 1997-11-10
+  :discontinued_at: 1998-08-12
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 117 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 117 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 160.0x365.7x429.2
+    :weight: 10000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/desktops/0331042APWRMG3UD.PDF
+    :power: 100-240V AC. 230W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2400
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 MT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 233 Minitower
+  :model_number: M4405
+  :order_number:
+  - M6431LL/A
+  :short_name: Power Mac G3 233 MT
+  :released_at: 1997-11-10
+  :discontinued_at: 1998-07-07
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 117 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 117 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 386.0x243.8x452.1
+    :weight: 15000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Macintosh_G3_Minitower.pdf
+    :power: 100-240V AC. 240W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2400
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 DT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 266 Desktop
+  :model_number: M3979
+  :order_number:
+  - M6202LL/A
+  - M6508LL/A
+  :serial_number:
+  - BBW
+  - 8BW
+  - B8W
+  - 88W
+  - D6L
+  - D8X
+  - ARG
+  :short_name: Power Mac G3 266 DT
+  :released_at: 1997-11-10
+  :discontinued_at: 1998-12-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 266 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 133 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 133 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 160.0x365.7x429.2
+    :weight: 10000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/desktops/0331042APWRMG3UD.PDF
+    :power: 100-240V AC. 230W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2400
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 MT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 266 Minitower
+  :model_number: M4405
+  :order_number:
+  - M6142LL/A
+  - M6459LL/A
+  :serial_number:
+  - AZ3
+  - A23
+  - D2K
+  - D6T
+  :short_name: Power Mac G3 266 MT
+  :released_at: 1997-11-10
+  :discontinued_at: 1998-08-12
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 266 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 133 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 133 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 386.0x243.8x452.1
+    :weight: 15000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Macintosh_G3_Minitower.pdf
+    :power: 100-240V AC. 240W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3000
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+  - :original_price:
+      :us: 4199
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 6 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 DT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 300 Desktop
+  :model_number: M3979
+  :order_number:
+  - M7105LL/A
+  :serial_number:
+  - DL4
+  :short_name: Power Mac G3 300 DT
+  :released_at: 1998-03-17
+  :discontinued_at: 1998-12-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 300 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 150 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 150 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 160.0x365.7x429.2
+    :weight: 10000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/desktops/0331042APWRMG3UD.PDF
+    :power: 100-240V AC. 230W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2750
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 MT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 300 Minitower
+  :model_number: M4405
+  :order_number:
+  - M6572LL/A
+  - M6494LL/A
+  - M7247LL/A
+  :short_name: Power Mac G3 300 MT
+  :released_at: 1998-03-17
+  :discontinued_at: 1998-12-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 300 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 150 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 150 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 386.0x243.8x452.1
+    :weight: 15000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Macintosh_G3_Minitower.pdf
+    :power: 100-240V AC. 240W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2399
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 6 MB
+      :hd_type: X2
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 MT (Beige)
+  :model: Power Macintosh G3
+  :model_name: 333 Minitower
+  :model_number: M4405
+  :order_number:
+  - M7107LL/A
+  :serial_number:
+  - DLU
+  :short_name: Power Mac G3 333 MT
+  :released_at: 1998-08-12
+  :discontinued_at: 1998-12-14
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 333 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 167 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 167 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: Rage Pro Turbo
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 386.0x243.8x452.1
+    :weight: 15000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Power_Macintosh_G3_Minitower.pdf
+    :power: 100-240V AC. 240W maximum.
+    :mac_os_version: '8.1'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 6 MB
+      :hd_capacity: 9 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 AIO (Beige)
+  :model: Power Macintosh G3
+  :model_name: 233 All-in-One
+  :model_number: M4787
+  :order_number:
+  - M6319LL/A
+  :serial_number:
+  - CT9
+  :short_name: Power Mac G3 233 AIO
+  :released_at: 1998-03-31
+  :discontinued_at: 1998-09-01
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 233 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 117 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 117 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 505.4x408.9x457.2
+    :weight: 26800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/desktops/0340436ASPMACG3TI.PDF
+    :power: 90-264V AC. 300W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 AIO (Beige)
+  :model: Power Macintosh G3
+  :model_name: 266 All-in-One
+  :model_number: M4787
+  :order_number:
+  - M6321LL/A
+  :serial_number:
+  - CTA
+  :short_name: Power Mac G3 266 AIO
+  :released_at: 1998-03-31
+  :discontinued_at: 1998-09-01
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 266 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_bus_details: This system has a 133 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 133 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 768 MB
+    :memory_slots: 3
+    :graphics_card: 3D Rage II+
+    :graphics_card_vram_type: EDO SGRAM
+    :graphics_card_max_vram: 6 MB
+    :display: 15.0" (13.8")
+    :display_resolution: 1024x768
+    :display_secondary: None
+    :hd_interface: IDE/ATA-2 & SCSI
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 3 PCI, Personality
+    :battery_type: 3.6V Lithium
+    :dimensions: 505.4x408.9x457.2
+    :weight: 26800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/desktops/0340436ASPMACG3TI.PDF
+    :power: 90-264V AC. 300W maximum.
+    :mac_os_version: '8.0'
+    :mac_os_max: 10.2.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 4 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 (Blue)
+  :model: Power Macintosh G3
+  :model_name: 300 (Blue & White)
+  :model_number: M5183
+  :model_identifier: PowerMac1,1
+  :order_number:
+  - M6670LL/A
+  :serial_number:
+  - EPR
+  - FQ2
+  - GSM
+  - G5M
+  - G9E
+  :short_name: Power Mac G3 300 Blue
+  :released_at: 1999-01-05
+  :discontinued_at: 1999-06-01
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 300 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 150 MHz backside bus and 512k of level
+      2 cache.
+    :processor_cache_bus_speed: 150 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 GL
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33 (ATA-4)
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.macmemory.com/powermacg3pro.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: 8.5.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 (Blue)
+  :model: Power Macintosh G3
+  :model_name: 350 (Blue & White)
+  :model_number: M5183
+  :model_identifier: PowerMac1,1
+  :order_number:
+  - M6668LL/A
+  - M6666LL/A
+  - M7556LL/A
+  - M6668LL/A
+  :serial_number:
+  - E20
+  - FQ0
+  - FQO
+  - FQ1
+  - GHZ
+  - GJ7
+  - G9C
+  :short_name: Power Mac G3 350 Blue
+  :released_at: 1999-01-05
+  :discontinued_at: 1999-08-31
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 350 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 175 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 175 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 GL
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33 (ATA-4)
+    :optical_drive: 32X CD-ROM, 5X DVD
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.macmemory.com/powermacg3pro.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: 8.5.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 (Blue)
+  :model: Power Macintosh G3
+  :model_name: 400 (Blue & White)
+  :model_number: M5183
+  :model_identifier: PowerMac1,1
+  :order_number:
+  - M6665LL/A
+  - M7555LL/A
+  - M7554LL/A
+  :serial_number:
+  - EWD
+  - FPZ
+  - GJ5
+  - GJ6
+  - GHY
+  - GQ5
+  :short_name: Power Mac G3 400 Blue
+  :released_at: 1999-01-05
+  :discontinued_at: 1999-08-31
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 200 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 200 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 GL
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33 (ATA-4)
+    :optical_drive: 32X CD-ROM, 5X DVD
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.macmemory.com/powermacg3pro.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: 8.5.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: Power Mac G3 (Blue)
+  :model: Power Macintosh G3
+  :model_name: 450 (Blue & White)
+  :model_number: M5183
+  :model_identifier: PowerMac1,1
+  :order_number:
+  - M7553LL/A
+  :serial_number:
+  - GJ4
+  :short_name: Power Mac G3 450 Blue
+  :released_at: 1999-06-01
+  :discontinued_at: 1999-08-31
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: ZIF Socket
+    :processor_count: '1'
+    :processor_speed: 450 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: This system has a 225 MHz backside bus and 1 MB of level
+      2 cache.
+    :processor_cache_bus_speed: 225 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 100 MHz
+    :max_memory: 1 GB
+    :memory_slots: 4
+    :graphics_card: Rage 128 GL
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: Single Display
+    :display_resolution: 1600x1200
+    :display_secondary: None
+    :hd_interface: Ultra ATA/33* (ATA-4)
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: 3 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 431.8x226.0x467.3
+    :weight: 13600
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.macmemory.com/powermacg3pro.pdf
+    :power: 115V AC (90V to 132V AC) or 230V AC (180V to 264V AC). 200W maximum.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 9 GB

@@ -1,0 +1,1384 @@
+---
+- :vendor: Apple
+  :subfamily: Xserve
+  :model: Xserve
+  :model_name: G4/1.0
+  :model_identifier: RackMac1,1
+  :order_number:
+  - M8627LL/A
+  :serial_number:
+  - LZE
+  - LZF
+  :short_name: Xserve G4/1.0
+  :released_at: 2002-05-14
+  :discontinued_at: 2003-02-10
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: '*The Xserve has a 256k "on chip" level 2 cache that runs
+      at processor speed and 2 MB of DDR SDRAM level 3 cache "with up to 4 GB/s throughput".'
+    :processor_cache_bus_speed: 1.0 GHz (Built-in*)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: ATI PCI
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display_secondary: None
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI, 1 PCI/AGP
+    :battery_type: 3.6V Lithium
+    :dimensions: 43.9x447.0x711.2
+    :weight: 11800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveOriginal_UserGuide.PDF
+    :power: This model has a single 400W power supply.<br><br>Apple reports that the
+      line voltage is "universal input (90V to 264V AC), power factor corrected" and
+      the maximum input current is 3.6A. Typical continuous power is 125W for the
+      single processor system (M8627LL/A) and 175W for the dual processor configuration
+      (M8628LL/A). It has a single phase frequency of "47 Hz to 63 Hz".
+    :mac_os_version: 10.1.5
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4699
+      :uk: 2599
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Xserve
+  :model: Xserve
+  :model_name: G4/1.0 DP
+  :model_identifier: RackMac1,1
+  :order_number:
+  - M8628LL/A
+  :serial_number:
+  - LZD
+  :short_name: Xserve G4/1.0 DP
+  :released_at: 2002-05-14
+  :discontinued_at: 2003-02-10
+  :details:
+    :processor_type: PowerPC 7455 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_count: '2'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_bus_details: '*This Xserve has a 256k "on chip" level 2 cache that
+      runs at processor speed and 2 MB of DDR SDRAM level 3 cache "with up to 4 GB/s
+      throughput" <i>per processor</i>.'
+    :processor_cache_bus_speed: 1.0 GHz (Built-in*)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: ATI PCI
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display_secondary: None
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI, 1 PCI/AGP
+    :battery_type: 3.6V Lithium
+    :dimensions: 43.9x447.0x711.2
+    :weight: 11800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 3 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveOriginal_UserGuide.PDF
+    :power: This model has a single 400W power supply.<br><br>Apple reports that the
+      line voltage is "universal input (90V to 264V AC), power factor corrected" and
+      the maximum input current is 3.6A. Typical continuous power is 125W for the
+      single processor system (M8627LL/A) and 175W for the dual processor configuration
+      (M8628LL/A). It has a single phase frequency of "47 Hz to 63 Hz".
+    :mac_os_version: 10.1.5
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3999
+      :ca: 6299
+      :uk: 3499
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Xserve
+  :model: Xserve
+  :model_name: G4/1.33 (Slot Load)
+  :model_identifier: RackMac1,2
+  :order_number:
+  - M8888LL/A
+  :serial_number:
+  - N9A
+  - N9B
+  - P1X
+  - PIX
+  :short_name: Xserve G4/1.33 (SL)
+  :released_at: 2003-02-10
+  :discontinued_at: 2004-01-06
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: '*This Xserve has a 256k "on chip" level 2 cache that
+      runs at processor speed and 2 MB of DDR SDRAM level 3 cache "with up to 3.5
+      GB/s throughput".'
+    :processor_cache_bus_speed: 1.33 GHz (Built-in*)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: ATI PCI
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display_secondary: None
+    :hd_interface: Ultra ATA/133
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI, 1 PCI/AGP
+    :battery_type: 3.6V Lithium
+    :dimensions: 43.9x447.0x711.2
+    :weight: 11800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve1.0.1_UserGuide.PDF
+    :power: This model has a single 345W power supply.<br><br>Apple reports that the
+      line voltage is "universal input (90V to 264V AC), power factor corrected" and
+      the maximum input current is 3.6A (90V to 132V) or 1.8A (180V to 264V). It has
+      a single phase frequency of "47 Hz to 63 Hz".
+    :mac_os_version: 10.2.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+      :ca: 4299
+      :uk: 2399
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Xserve
+  :model: Xserve
+  :model_name: G4/1.33 DP (Slot Load)
+  :model_identifier: RackMac1,2
+  :order_number:
+  - M8889LL/A
+  :serial_number:
+  - NP2
+  - N9C
+  :short_name: Xserve G4/1.33 DP (SL)
+  :released_at: 2003-02-10
+  :discontinued_at: 2004-01-06
+  :details:
+    :processor_type: PowerPC 7455 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_count: '2'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: '*This Xserve has a 256k "on chip" level 2 cache that
+      runs at processor speed and 2 MB of DDR SDRAM level 3 cache "with up to 3.5
+      GB/s throughput" <i>per processor</i>.'
+    :processor_cache_bus_speed: 1.33 GHz (Built-in*)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: ATI PCI
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display_secondary: None
+    :hd_interface: Ultra ATA/133
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI, 1 PCI/AGP
+    :battery_type: 3.6V Lithium
+    :dimensions: 43.9x447.0x711.2
+    :weight: 11800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve1.0.1_UserGuide.PDF
+    :power: This model has a single 345W power supply.<br><br>Apple reports that the
+      line voltage is "universal input (90V to 264V AC), power factor corrected" and
+      the maximum input current is 3.6A (90V to 132V) or 1.8A (180V to 264V). It has
+      a single phase frequency of "47 Hz to 63 Hz".
+    :mac_os_version: 10.2.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3799
+      :ca: 5899
+      :uk: 3199
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Xserve Cluster Node
+  :model: Xserve
+  :model_name: G4/1.33 DP Cluster Node
+  :model_identifier: RackMac1,2
+  :order_number:
+  - M9090LL/A
+  :short_name: Xserve G4/1.33 DP (CN)
+  :released_at: 2003-03-01
+  :discontinued_at: 2004-01-06
+  :details:
+    :processor_type: PowerPC 7455 (G4) x2
+    :processor_arch: 32-Bit
+    :processor_count: '2'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_bus_details: '*This Xserve has a 256k "on chip" level 2 cache that
+      runs at processor speed and 2 MB of DDR SDRAM level 3 cache "with up to 3.5
+      GB/s throughput" <i>per processor</i>.'
+    :processor_cache_bus_speed: 1.33 GHz (Built-in*)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 2 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 4
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Ultra ATA/133
+    :optical_drive: None
+    :expansion_slots: 2 PCI
+    :battery_type: 3.6V Lithium
+    :dimensions: 43.9x447.0x711.2
+    :weight: 11800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveClusterNodeQuickStart.PDF
+    :power: This model has a single 345W power supply.<br><br>Apple reports that the
+      line voltage is "universal input (90V to 264V AC), power factor corrected" and
+      the maximum input current is 3.6A (90V to 132V) or 1.8A (180V to 264V). It has
+      a single phase frequency of "47 Hz to 63 Hz".
+    :mac_os_version: 10.2.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+    :details:
+      :standard_memory: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: Xserve G5
+  :model: Xserve
+  :model_name: G5/2.0 (PCI-X)
+  :model_number: A1068
+  :model_identifier: RackMac3,1
+  :order_number:
+  - ML/9216A
+  - M9743LL/A
+  :serial_number:
+  - PNH
+  - PNJ
+  - PNK
+  - PMY
+  - SLX
+  :short_name: Xserve G5/2.0 PCI-X
+  :released_at: 2004-01-06
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970fx (G5)
+    :processor_arch: 64-Bit
+    :processor_count: '1'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1 GHz
+    :processor_bus_details: This model has a 1 GHz frontside bus and a 512k "on chip"
+      level 2 cache that runs at processor speed.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in*)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC3200 EEC SDRAM
+    :memory_speed: 400 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Serial ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI-X
+    :dimensions: 43.9x447.0x711.2
+    :weight: 15100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveG5_UserGuide.PDF
+    :power: Both configurations have a single 400W power supply, the line voltage
+      is "universal input (90V to 264V AC), power factor corrected", and the single
+      phase frequency is "47 Hz to 63 Hz".<br><br>Apple reports that the maximum input
+      current for ML/9216A is 5.5A (90V to 132V) or 2.75A (180V to 264V) and the maximum
+      input current for M9743LL/A is 4A (90V to 115V) or 2A (180V to 264V).
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2999
+      :ca: 3999
+      :uk: 2399
+    :details:
+      :standard_memory: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve G5
+  :model: Xserve
+  :model_name: G5/2.0 DP (PCI-X)
+  :model_number: A1068
+  :model_identifier: RackMac3,1
+  :order_number:
+  - ML/9217A
+  :serial_number:
+  - PMX
+  - PMZ
+  - R5D
+  :short_name: Xserve G5/2.0 DP PCI-X
+  :released_at: 2004-01-06
+  :discontinued_at: 2005-01-04
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_count: '2'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1 GHz
+    :processor_bus_details: This model has a 1 GHz frontside bus and a 512k "on chip"
+      level 2 cache that runs at processor speed for <i>each</i> processor.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in*)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC3200 EEC SDRAM
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Serial ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: 2 PCI-X
+    :dimensions: 43.9x447.0x711.2
+    :weight: 15100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveG5_UserGuide.PDF
+    :power: Both configurations have a single 400W power supply, the line voltage
+      is "universal input (90V to 264V AC), power factor corrected", and the single
+      phase frequency is "47 Hz to 63 Hz".<br><br>Apple reports that the maximum input
+      current for ML/9216A is 5.5A (90V to 132V) or 2.75A (180V to 264V) and the maximum
+      input current for M9743LL/A is 4A (90V to 115V) or 2A (180V to 264V).
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3999
+      :es: 3999
+      :ca: 5399
+      :uk: 3199
+    :details:
+      :standard_memory: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Cluster Node
+  :model: Xserve
+  :model_name: G5/2.0 DP Cluster Node (PCI-X)
+  :model_identifier: RackMac3,1
+  :order_number:
+  - ML/9215A
+  :short_name: Xserve G5/2.0 DP (CN)
+  :released_at: 2004-01-06
+  :discontinued_at: 2005-01-04
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_count: '2'
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1 GHz
+    :processor_bus_details: This model has a 1 GHz frontside bus and a 512k "on chip"
+      level 2 cache that runs at processor speed for <i>each</i> processor.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in*)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC3200 EEC SDRAM
+    :memory_speed: 400 MHz
+    :max_memory: 8 GB
+    :memory_slots: 8
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Serial ATA
+    :optical_drive: None
+    :expansion_slots: 2 PCI-X
+    :dimensions: 43.9x447.0x711.2
+    :weight: 15100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveG5_UserGuide.PDF
+    :power: Both configurations have a single 400W power supply, the line voltage
+      is "universal input (90V to 264V AC), power factor corrected", and the single
+      phase frequency is "47 Hz to 63 Hz".<br><br>Apple reports that the maximum input
+      current for ML/9216A is 5.5A (90V to 132V) or 2.75A (180V to 264V) and the maximum
+      input current for M9743LL/A is 4A (90V to 115V) or 2A (180V to 264V).
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2999
+      :ca: 3999
+      :uk: 2399
+    :details:
+      :standard_memory: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve G5
+  :model: Xserve
+  :model_name: G5/2.3 DP (PCI-X)
+  :model_number: A1068
+  :model_identifier: RackMac3,1
+  :order_number:
+  - M9745LL/A
+  :serial_number:
+  - RTP
+  - RTQ
+  - RTS
+  - SLW
+  - 5LW
+  - SLZ
+  - 5LZ
+  - 5L2
+  - UMB
+  - UME
+  :short_name: Xserve G5/2.3 DP PCI-X
+  :released_at: 2005-01-04
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_count: '2'
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 1.15 GHz
+    :processor_bus_details: This model has a 1.15 GHz frontside bus and a 512k "on
+      chip" level 2 cache that runs at processor speed for <i>each</i> processor.
+    :processor_cache_bus_speed: 2.3 GHz (Built-in*)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC3200 EEC SDRAM
+    :memory_speed: 400 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Serial ATA
+    :optical_drive: '"Combo Drive"'
+    :expansion_slots: 2 PCI-X
+    :dimensions: 43.9x447.0x711.2
+    :weight: 15100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveG5_UserGuide.PDF
+    :power: Both configurations have a single 400W power supply, the line voltage
+      is "universal input (90V to 264V AC), power factor corrected", and the single
+      phase frequency is "47 Hz to 63 Hz".<br><br>Apple reports that the maximum input
+      current for ML/9216A is 5.5A (90V to 132V) or 2.75A (180V to 264V) and the maximum
+      input current for M9743LL/A is 4A (90V to 115V) or 2A (180V to 264V).
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3999
+      :es: 3577
+      :de: 4259
+      :ca: 4999
+      :uk: 2899
+      :it: 3582
+      :nl: 4259
+      :nz: 8026
+    :details:
+      :standard_memory: 1 GB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Cluster Node
+  :model: Xserve
+  :model_name: G5/2.3 DP Cluster Node (PCI-X)
+  :model_identifier: RackMac3,1
+  :order_number:
+  - M9742LL/A
+  :short_name: Xserve G5/2.3 DP (CN)
+  :released_at: 2005-01-04
+  :discontinued_at: 2006-08-07
+  :details:
+    :processor_type: PowerPC 970fx (G5) x2
+    :processor_arch: 64-Bit
+    :processor_count: '2'
+    :processor_speed: 2.3 GHz
+    :processor_bus_speed: 1.15 GHz
+    :processor_bus_details: This model has a 1.15 GHz frontside bus and a 512k "on
+      chip" level 2 cache that runs at processor speed for <i>each</i> processor.
+    :processor_cache_bus_speed: 2.3 GHz (Built-in*)
+    :processor_l1_cache: 32k/64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC3200 EEC SDRAM
+    :memory_speed: 400 MHz
+    :max_memory: 16 GB
+    :memory_slots: 8
+    :graphics_card: None
+    :graphics_card_vram_type: None
+    :graphics_card_max_vram: 
+    :display_secondary: None
+    :hd_interface: Serial ATA
+    :optical_drive: None
+    :expansion_slots: 2 PCI-X
+    :dimensions: 43.9x447.0x711.2
+    :weight: 15100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/XserveG5_UserGuide.PDF
+    :power: Both configurations have a single 400W power supply, the line voltage
+      is "universal input (90V to 264V AC), power factor corrected", and the single
+      phase frequency is "47 Hz to 63 Hz".<br><br>Apple reports that the maximum input
+      current for ML/9216A is 5.5A (90V to 132V) or 2.75A (180V to 264V) and the maximum
+      input current for M9743LL/A is 4A (90V to 115V) or 2A (180V to 264V).
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2689
+      :de: 3199
+      :ca: 3799
+      :uk: 2199
+      :it: 2682
+      :nl: 3199
+      :nz: 5985
+    :details:
+      :standard_memory: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 2.0 "Quad Core" (Late 2006)
+  :model_number: A1196
+  :model_identifier: Xserve1,1
+  :order_number:
+  - MA409LL/A
+  :serial_number:
+  - XLR
+  :short_name: Xserve Xeon 2.0 Quad
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5130 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 2.0 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses, one
+      for each dual-core processor. 4 MB of "on chip" shared level 2 cache per processor.
+    :processor_cache_bus_speed: 2.0 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 24X "Combo Drive"
+    :expansion_slots: 2 x8 PCIe
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide12202006.pdf
+    :power: In the base configuration, this model shipped with a single 650W power
+      supply. It optionally could be configured with a second load-sharing 650W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "47 Hz to 63 Hz".
+    :geekbench_3_32_sc: 1094
+    :geekbench_3_32_mc: 3725
+    :geekbench_3_64_sc: 1173
+    :geekbench_3_64_mc: 3937
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 3199
+      :fr: 3299
+      :de: 3299
+      :ca: 3499
+      :uk: 2199
+      :au: 4995
+      :jp: 379800
+      :it: 3299
+      :nl: 3299
+      :nz: 6299
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 2.66 "Quad Core" (Late 2006)
+  :model_number: A1196
+  :model_identifier: Xserve1,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - V2Q
+  :short_name: Xserve Xeon 2.66 Quad
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5150 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses, one
+      for each dual-core processor. 4 MB of "on chip" shared level 2 cache per processor.
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 24X "Combo Drive"
+    :expansion_slots: 2 x8 PCIe
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide12202006.pdf
+    :power: In the base configuration, this model shipped with a single 650W power
+      supply. It optionally could be configured with a second load-sharing 650W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "47 Hz to 63 Hz".
+    :geekbench_3_32_sc: 1380
+    :geekbench_3_32_mc: 3862
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 3.0 "Quad Core" (Late 2006)
+  :model_number: A1196
+  :model_identifier: Xserve1,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Xserve Xeon 3.0 Quad
+  :released_at: 2006-08-07
+  :discontinued_at: 2008-01-08
+  :details:
+    :processor_type: D. Core Xeon 5160 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (4 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 1.33 GHz
+    :processor_bus_details: 1.33 GHz 64-bit dual independent frontside buses, one
+      for each dual-core processor. 4 MB of "on chip" shared level 2 cache per processor.
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l2_cache: 4 MB
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 667 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 24X "Combo Drive"
+    :expansion_slots: 2 x8 PCIe
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide12202006.pdf
+    :power: In the base configuration, this model shipped with a single 650W power
+      supply. It optionally could be configured with a second load-sharing 650W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "47 Hz to 63 Hz".
+    :geekbench_3_32_sc: 1577
+    :geekbench_3_32_mc: 5661
+    :mac_os_version: 10.4.8
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 1 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 2.8 "Quad Core" (Early 2008)
+  :model_number: A1246
+  :model_identifier: Xserve2,1
+  :order_number:
+  - MA882LL/A
+  :serial_number:
+  - V2M
+  - X8S
+  - X8T
+  :short_name: Xserve Xeon 2.8 Quad
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-04-07
+  :details:
+    :processor_type: Q. Core Xeon E5462
+    :processor_arch: 64-Bit
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: This system has an independent 1.6 GHz 64-bit frontside
+      bus. 12 MB of "on-die" level 2 cache (each pair of cores shares 6 MB).
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l2_cache: 12 MB
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 800 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_Early2008UG.pdf
+    :power: In the base configuration, this model shipped with a single 750W power
+      supply. It optionally could be configured with a second load-sharing 750W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 1535
+    :geekbench_3_32_mc: 5357
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2849
+      :fr: 2899
+      :de: 2899
+      :ca: 3199
+      :uk: 1999
+      :au: 4499
+      :jp: 359800
+      :pt: 2899
+      :it: 2899
+      :nl: 2899
+      :at: 2899
+      :nz: 5099
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 2.8 "Eight Core" (Early 2008)
+  :model_number: A1246
+  :model_identifier: Xserve2,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - 25N
+  - 31G
+  - X8S
+  :short_name: Xserve Xeon 2.8 8-Core
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-04-07
+  :details:
+    :processor_type: Q. Core Xeon E5462 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.8 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: This system has an independent 1.6 GHz 64-bit frontside
+      bus. 12 MB of "on-die" level 2 cache (each pair of cores shares 6 MB).
+    :processor_cache_bus_speed: 2.8 GHz (Built-in)
+    :processor_l2_cache: 12 MB x2
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 800 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_Early2008UG.pdf
+    :power: In the base configuration, this model shipped with a single 750W power
+      supply. It optionally could be configured with a second load-sharing 750W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 1537
+    :geekbench_3_32_mc: 10397
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon 3.0 "Eight Core" (Early 2008)
+  :model_number: A1246
+  :model_identifier: Xserve2,1
+  :order_number:
+  - BTO/CTO
+  :serial_number:
+  - X8S
+  - 24B
+  - '248'
+  :short_name: Xserve Xeon 3.0 8-Core
+  :released_at: 2008-01-08
+  :discontinued_at: 2009-04-07
+  :details:
+    :processor_type: Q. Core Xeon E5472 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 3.0 GHz
+    :processor_bus_speed: 1.6 GHz
+    :processor_bus_details: This system has an independent 1.6 GHz 64-bit frontside
+      bus. 12 MB of "on-die" level 2 cache (each pair of cores shares 6 MB).
+    :processor_cache_bus_speed: 3.0 GHz (Built-in)
+    :processor_l2_cache: 12 MB x2
+    :memory_type: ECC DDR2 FB-DIMM
+    :memory_speed: 800 MHz
+    :max_memory: 32 GB
+    :memory_slots: 8
+    :graphics_card: Radeon X1300
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14400
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_Early2008UG.pdf
+    :power: In the base configuration, this model shipped with a single 750W power
+      supply. It optionally could be configured with a second load-sharing 750W power
+      supply.<br><br>Apple reports that the line voltage is "universal input (100V
+      to 240V AC), power factor corrected" and the maximum input current is "8.0A
+      (100V to 120V) or 4.0A (200V to 240V); current is shared when system is configured
+      with two power supplies". It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 1625
+    :geekbench_3_32_mc: 10965
+    :geekbench_3_64_sc: 1748
+    :geekbench_3_64_mc: 11933
+    :mac_os_version: '10.5'
+    :mac_os_max: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 4299
+    :details:
+      :standard_memory: 2 GB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon Nehalem 2.26 "Quad Core"
+  :model_number: A1279
+  :model_identifier: Xserve3,1
+  :order_number:
+  - MB449LL/A
+  :serial_number:
+  - 6HS
+  - 9VJ
+  - 10S
+  - 1OS
+  - IOS
+  - '105'
+  - 10J
+  - 1OJ
+  - IOJ
+  :short_name: Xserve Neha 2.26 Quad
+  :released_at: 2009-04-07
+  :discontinued_at: 2011-01-31
+  :details:
+    :processor_type: Q. Core Xeon E5520
+    :processor_arch: 64-Bit
+    :processor_count: 1 (4 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: QPI
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Xserve subsystems".'
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x4
+    :processor_l2_cache: 256k (x4), 8 MB
+    :processor_turbo_boost: 2.53 GHz
+    :memory_type: DDR3 ECC SDRAM
+    :memory_speed: 1066 MHz
+    :max_memory: 48 GB
+    :memory_slots: 6
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0 x16
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide.pdf
+    :power: In the stock configuration, this model has a single 750W power supply.
+      It optionally could be configured with a second load-sharing 750W power supply.<br><br>Apple
+      reports that the line voltage is "universal input (100V to 240V AC), power factor
+      corrected" and the maximum input current is "8.0A (100V to 120V) or 4.0A (200V
+      to 240V); current is shared when system is configured with two power supplies".
+      It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 1723
+    :geekbench_3_32_mc: 6189
+    :geekbench_3_64_sc: 1907
+    :geekbench_3_64_mc: 7126
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :es: 2799
+      :fr: 2899
+      :de: 2899
+      :ca: 3499
+      :uk: 2399
+      :au: 5899
+      :jp: 338800
+      :fi: 2899
+      :pt: 2899
+      :it: 2899
+      :nl: 2899
+      :at: 2899
+      :nz: 6699
+      :mx: 44989
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon Nehalem 2.26 "Eight Core"
+  :model_number: A1279
+  :model_identifier: Xserve3,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Xserve Neha 2.26 8-Core
+  :released_at: 2009-04-07
+  :discontinued_at: 2011-01-31
+  :details:
+    :processor_type: Q. Core Xeon E5520 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.26 GHz
+    :processor_bus_speed: QPI
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Xserve subsystems".'
+    :processor_cache_bus_speed: 2.26 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB
+    :processor_turbo_boost: 2.53 GHz
+    :memory_type: DDR3 ECC SDRAM
+    :memory_speed: 1066 MHz
+    :max_memory: 96 GB
+    :memory_slots: 12
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0 x16
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide.pdf
+    :power: In the stock configuration, this model has a single 750W power supply.
+      It optionally could be configured with a second load-sharing 750W power supply.<br><br>Apple
+      reports that the line voltage is "universal input (100V to 240V AC), power factor
+      corrected" and the maximum input current is "8.0A (100V to 120V) or 4.0A (200V
+      to 240V); current is shared when system is configured with two power supplies".
+      It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 1653
+    :geekbench_3_32_mc: 12107
+    :geekbench_3_64_sc: 1850
+    :geekbench_3_64_mc: 14057
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 3599
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon Nehalem 2.66 "Eight Core"
+  :model_number: A1279
+  :model_identifier: Xserve3,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Xserve Neha 2.66 8-Core
+  :released_at: 2009-04-07
+  :discontinued_at: 2011-01-31
+  :details:
+    :processor_type: Q. Core Xeon X5550 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.66 GHz
+    :processor_bus_speed: QPI
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Xserve subsystems".'
+    :processor_cache_bus_speed: 2.66 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB
+    :processor_turbo_boost: 3.06 GHz
+    :memory_type: DDR3 ECC SDRAM
+    :memory_speed: 1066 MHz
+    :max_memory: 96 GB
+    :memory_slots: 12
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0 x16
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide.pdf
+    :power: In the stock configuration, this model has a single 750W power supply.
+      It optionally could be configured with a second load-sharing 750W power supply.<br><br>Apple
+      reports that the line voltage is "universal input (100V to 240V AC), power factor
+      corrected" and the maximum input current is "8.0A (100V to 120V) or 4.0A (200V
+      to 240V); current is shared when system is configured with two power supplies".
+      It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 2022
+    :geekbench_3_32_mc: 15042
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 4999
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Xserve Intel
+  :model: Xserve
+  :model_name: Xeon Nehalem 2.93 "Eight Core"
+  :model_number: A1279
+  :model_identifier: Xserve3,1
+  :order_number:
+  - BTO/CTO
+  :short_name: Xserve Neha 2.93 8-Core
+  :released_at: 2009-04-07
+  :discontinued_at: 2011-01-31
+  :details:
+    :processor_type: Q. Core Xeon X5570 x2
+    :processor_arch: 64-Bit
+    :processor_count: 2 (8 Cores)
+    :processor_speed: 2.93 GHz
+    :processor_bus_speed: QPI
+    :processor_bus_details: '*This system <i>replaces</i> the frontside bus with a
+      new "QuickPath Interconnect" (QPI) system described as a "bidirectional, point-to-point
+      connection" that provides "quick access to the disk, I/O, and other Xserve subsystems".'
+    :processor_cache_bus_speed: 2.93 GHz (Built-in)
+    :processor_l1_cache: 32k/32k x8
+    :processor_l2_cache: 256k (x8), 8 MB
+    :processor_turbo_boost: 3.33 GHz
+    :memory_type: DDR3 ECC SDRAM
+    :memory_speed: 1066 MHz
+    :max_memory: 96 GB
+    :memory_slots: 12
+    :graphics_card: GeForce GT 120
+    :graphics_card_vram_type: GDDR3 SDRAM
+    :graphics_card_max_vram: 256 MB
+    :display_secondary: None
+    :hd_interface: SATA/SAS
+    :optical_drive: 8X DL "SuperDrive"
+    :expansion_slots: 2 PCIe 2.0 x16
+    :dimensions: 43.9x447.0x762.0
+    :weight: 14000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: Gigabit (x2)
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_User_Guide.pdf
+    :power: In the stock configuration, this model has a single 750W power supply.
+      It optionally could be configured with a second load-sharing 750W power supply.<br><br>Apple
+      reports that the line voltage is "universal input (100V to 240V AC), power factor
+      corrected" and the maximum input current is "8.0A (100V to 120V) or 4.0A (200V
+      to 240V); current is shared when system is configured with two power supplies".
+      It has a single phase frequency of "50 Hz to 60 Hz".
+    :geekbench_3_32_sc: 2085
+    :geekbench_3_32_mc: 15253
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 6199
+    :details:
+      :standard_memory: 3 GB
+      :graphics_card_vram: 256 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 160 GB
+- :vendor: Apple
+  :subfamily: Xserve RAID
+  :model: Xserve
+  :model_name: RAID
+  :model_number: A1004
+  :order_number:
+  - M8668LL/A
+  - M8669LL/A
+  - M8670LL/A
+  :serial_number:
+  - M98
+  - M8K
+  - M8L
+  - M8M
+  - NBL
+  - NBM
+  - NBN
+  - QFB
+  - SR2
+  :short_name: Xserve RAID
+  :released_at: 2003-02-10
+  :discontinued_at: 2004-01-06
+  :details:
+    :max_memory: 512 MB
+    :hd_interface: Ultra ATA/100
+    :optical_drive: None
+    :dimensions: 133.3x431.8x467.3
+    :weight: 60-100 lbs.
+    :ethernet: 10/100Base-T (x2)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_RAID_Users_Guide.pdf
+  :model_types_attributes:
+  - :original_price:
+      :us: 5999
+    :details:
+      :standard_memory: 128 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 180 GB
+- :vendor: Apple
+  :subfamily: Xserve RAID
+  :model: Xserve
+  :model_name: RAID (SFP)
+  :model_number: A1009
+  :order_number:
+  - M9721LL/A
+  - MA208LL/A
+  - MA209LL/A
+  :serial_number:
+  - PQD
+  - PQE
+  - PQF
+  - PQG
+  - Q7D
+  - QCU
+  - QCV
+  - QCW
+  - QCX
+  - QWN
+  - RXW
+  - S53
+  - S54
+  - S55
+  - RS4
+  - RS5
+  - RS6
+  - SAA
+  - SAB
+  - SAH
+  - SJ3
+  - SJ4
+  - SJ5
+  - SP2
+  - TYD
+  - U3G
+  - U3H
+  - U3J
+  - U3K
+  - UAG
+  - UAH
+  - UKP
+  - UKN
+  - Y0T
+  - YOT
+  - Y0U
+  - YOU
+  :short_name: Xserve RAID (SFP)
+  :released_at: 2004-01-06
+  :discontinued_at: 2008-02-19
+  :details:
+    :max_memory: 512 MB
+    :hd_interface: Ultra ATA/100
+    :optical_drive: None
+    :dimensions: 133.3x431.8x467.3
+    :weight: 60-100 lbs.
+    :ethernet: 10/100Base-T (x2)
+    :user_manual: http://manuals.info.apple.com/en_US/Xserve_RAID_Users_Guide.pdf
+  :model_types_attributes:
+  - :original_price:
+      :us: 5999
+      :es: 5999
+      :uk: 4349
+    :details:
+      :standard_memory: 512 MB
+      :hd_type: "(7200 RPM)"
+      :hd_capacity: 250 GB

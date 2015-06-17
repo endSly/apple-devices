@@ -1,0 +1,1692 @@
+---
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 400 (Original - Ti)
+  :model_number: M5884
+  :model_identifier: PowerBook3,2
+  :order_number:
+  - M7952LL/A
+  :serial_number:
+  - JBD
+  - 91S
+  - L98
+  - LBW
+  - K6B
+  :short_name: PowerBook G4 400 (Orig)
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-10-16
+  :details:
+    :processor_type: PowerPC 7410 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 400 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: 200 MHz dedicated 64-bit backside bus.
+    :processor_cache_bus_speed: 200 MHz (2:1)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1152x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchOrigGettingStarted.PDF
+    :power: 100V-240V AC power adapter.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2599
+      :ca: 3899
+      :uk: 1899
+      :jp: 298000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 500 (Original - Ti)
+  :model_number: M5884
+  :model_identifier: PowerBook3,2
+  :order_number:
+  - M7710LL/A
+  :serial_number:
+  - JBD
+  - JF8
+  - JF9
+  - L99
+  :short_name: PowerBook G4 500 (Orig)
+  :released_at: 2001-01-09
+  :discontinued_at: 2001-10-16
+  :details:
+    :processor_type: PowerPC 7410 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_bus_details: 250 MHz dedicated 64-bit backside bus.
+    :processor_cache_bus_speed: 250 MHz (2:1)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 1 MB (backside)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1152x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchOrigGettingStarted.PDF
+    :power: 100V-240V AC power adapter.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3499
+      :ca: 5199
+      :uk: 2499
+      :jp: 398000
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 550 (Gigabit - Ti)
+  :model_number: M8407
+  :model_identifier: PowerBook3,3
+  :order_number:
+  - M8362LL/A
+  - M8622LL/A
+  :serial_number:
+  - LY0
+  - LYO
+  - M2N
+  - KVF
+  :short_name: PowerBook G4 550  (Giga)
+  :released_at: 2001-10-16
+  :discontinued_at: 2002-04-29
+  :details:
+    :processor_type: PowerPC 7440 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 550 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 550 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1152x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 27.9x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchGigEthernetGettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2199
+      :ca: 3449
+      :uk: 1599
+      :jp: 259800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 667 (Gigabit - Ti)
+  :model_number: M8407
+  :model_identifier: PowerBook3,3
+  :order_number:
+  - M8363LL/A
+  - M8623LL/A
+  :serial_number:
+  - LY1
+  - LYI
+  - KVB
+  - M2N
+  - KVH
+  :short_name: PowerBook G4 667 (Giga)
+  :released_at: 2001-10-16
+  :discontinued_at: 2002-04-29
+  :details:
+    :processor_type: PowerPC 7440 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 667 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 667 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1152x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 6X DVD-ROM
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 27.9x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Standard)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchGigEthernetGettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4699
+      :uk: 2199
+      :jp: 359800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 667 (DVI - Ti)
+  :model_number: A1001
+  :model_identifier: PowerBook3,4
+  :order_number:
+  - M8591LL/A
+  :serial_number:
+  - LP4
+  - DVT
+  :short_name: PowerBook G4 667 DVI
+  :released_at: 2002-04-29
+  :discontinued_at: 2002-11-06
+  :details:
+    :processor_type: PowerPC 7451 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 667 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 667 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 55.3 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchDVIGettingStarted.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :ca: 3699
+      :uk: 2149
+      :jp: 329800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 800 (DVI - Ti)
+  :model_number: A1001
+  :model_identifier: PowerBook3,4
+  :order_number:
+  - M8592LL/A
+  :serial_number:
+  - LP1
+  - LP5
+  - XD4
+  :short_name: PowerBook G4 800 DVI
+  :released_at: 2002-04-29
+  :discontinued_at: 2002-11-06
+  :details:
+    :processor_type: PowerPC 7451 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 55.3 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Standard)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inchDVIGettingStarted.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 3199
+      :ca: 4799
+      :uk: 2749
+      :jp: 419800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 867 (Ti)
+  :model_number: A1025
+  :model_identifier: PowerBook3,5
+  :order_number:
+  - M8858LL/A
+  :serial_number:
+  - N4K
+  - N4L
+  :short_name: PowerBook G4 867
+  :released_at: 2002-11-06
+  :discontinued_at: 2003-09-16
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 867 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 867 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9000
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 61 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1GHz-867MHzGettingStarted.PDF
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :ca: 3699
+      :uk: 1899
+      :au: 3799
+      :jp: 299800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4
+  :model: PowerBook G4
+  :model_name: 1.0 (Ti)
+  :model_number: A1025
+  :model_identifier: PowerBook3,5
+  :order_number:
+  - M8859LL/A
+  :serial_number:
+  - N4M
+  - NWL
+  - NQ9
+  :short_name: PowerBook G4 1.0
+  :released_at: 2002-11-06
+  :discontinued_at: 2003-09-16
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9000
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 15.2" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/66 (ATA-5)
+    :optical_drive: 1X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 61 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 25.4x340.3x241.3
+    :weight: 2400
+    :wifi: 802.11b (Standard)
+    :bluetooth: None
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1GHz-867MHzGettingStarted.PDF
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4799
+      :uk: 2449
+      :au: 4899
+      :jp: 379800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 12"
+  :model: PowerBook G4
+  :model_name: 867 12" (Al)
+  :model_number: A1010
+  :model_identifier: PowerBook6,1
+  :order_number:
+  - M8760LL/A
+  :serial_number:
+  - MRT
+  - NMH
+  - NMJ
+  - NMK
+  - NP4
+  - P08
+  - P0B
+  - POB
+  - P2L
+  - PEZ
+  - PGK
+  - PGL
+  - PGM
+  - PJ3
+  :short_name: PowerBook G4 867 12
+  :released_at: 2003-01-07
+  :discontinued_at: 2003-09-16
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 867 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 867 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1152 MB
+    :memory_slots: 1
+    :graphics_card: GeForce4 420 Go
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort Extreme
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 29.9x276.8x218.4
+    :weight: 2100
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: '1.1'
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/US2222.12G4.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.2.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2899
+      :uk: 1399
+      :au: 3099
+      :jp: 229800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 17"
+  :model: PowerBook G4
+  :model_name: 1.0 17" (Al)
+  :model_number: A1013
+  :model_identifier: PowerBook5,1
+  :order_number:
+  - M8793LL/A
+  :serial_number:
+  - '404'
+  - MVZ
+  - MW0
+  - MWO
+  - MYN
+  - NL5
+  - NL6
+  - NL7
+  - PFK
+  :short_name: PowerBook G4 1.0 17
+  :released_at: 2003-01-07
+  :discontinued_at: 2003-09-16
+  :details:
+    :processor_type: PowerPC 7455 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip), 1 MB
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: GeForce4 440 Go
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 55 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 25.4x391.1x259.0
+    :weight: 3100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_17inch2003GettingStarted.PDF
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.2.4
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 3299
+      :ca: 5299
+      :uk: 2599
+      :au: 5499
+      :jp: 419800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 12"
+  :model: PowerBook G4
+  :model_name: 1.0 12" (DVI - Al)
+  :model_number: A1010
+  :model_identifier: PowerBook6,2
+  :order_number:
+  - M9007LL/A
+  - M9008LL/A
+  :serial_number:
+  - Q76
+  - Q77
+  - QC6
+  - QCA
+  - QCT
+  - QD0
+  - QDO
+  - QH9
+  - QFT
+  - QLU
+  - QQ5
+  - QV7
+  - PHL
+  - PHK
+  - R2B
+  :short_name: PowerBook G4 1.0 12
+  :released_at: 2003-09-16
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7447 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: GeForce FX Go5200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort Extreme
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 29.9x276.8x218.4
+    :weight: 2100
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: '1.1'
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_12inch1.33GHzGettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :ca: 2299
+      :uk: 1449
+      :au: 2999
+      :jp: 199800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 1799
+      :ca: 2549
+      :uk: 1699
+      :au: 3399
+      :jp: 224800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.0 15" (FW800 - Al)
+  :model_number: A1046
+  :model_identifier: PowerBook5,2
+  :order_number:
+  - M8980LL/A
+  :serial_number:
+  - NRY
+  - NRW
+  :short_name: PowerBook G4 1.0 15
+  :released_at: 2003-09-16
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7447 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 46 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2500
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.33-1.5GHzGettingStarted.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :ca: 2849
+      :uk: 1599
+      :au: 3699
+      :jp: 249800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.25 15" (FW800 - Al)
+  :model_number: A1046
+  :model_identifier: PowerBook5,2
+  :order_number:
+  - M8981LL/A
+  :serial_number:
+  - NRX
+  - NRZ
+  :short_name: PowerBook G4 1.25 15
+  :released_at: 2003-09-16
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7447 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.25 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 46 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2500
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.33-1.5GHzGettingStarted.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2599
+      :ca: 3699
+      :uk: 1999
+      :au: 4799
+      :jp: 319800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 17"
+  :model: PowerBook G4
+  :model_name: 1.33 17" (Al)
+  :model_number: A1052
+  :model_identifier: PowerBook5,3
+  :order_number:
+  - M9110LL/A
+  :serial_number:
+  - P21
+  - P22
+  - P23
+  - R29
+  :short_name: PowerBook G4 1.33 17
+  :released_at: 2003-09-16
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7447 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.33 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 58 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 25.4x391.1x259.0
+    :weight: 3100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_17inch2003GettingStarted.PDF
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2999
+      :ca: 4299
+      :uk: 2399
+      :au: 5499
+      :jp: 379800
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 12"
+  :model: PowerBook G4
+  :model_name: 1.33 12" (Al)
+  :model_number: A1010
+  :model_identifier: PowerBook6,4
+  :order_number:
+  - M9183LL/A
+  - M9184LL/A
+  :serial_number:
+  - LPX
+  - PLG
+  - PLH
+  - PLX
+  - PLW
+  - RAN
+  - RBB
+  - R88
+  - RC8
+  - RCG
+  - RP3
+  - SCQ
+  - SD7
+  - SD8
+  :short_name: PowerBook G4 1.33 12
+  :released_at: 2004-04-19
+  :discontinued_at: 2005-01-31
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.33 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: GeForce FX Go5200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 29.9x276.8x218.4
+    :weight: 2100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_12inch1.33GHzGettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.2.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :es: 1739
+      :ca: 2099
+      :uk: 1149
+      :au: 2599
+      :jp: 188790
+      :nz: 3279
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+  - :original_price:
+      :us: 1799
+      :es: 1971
+      :ca: 2399
+      :uk: 1299
+      :au: 2999
+      :jp: 209790
+      :nz: 3779
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.33 15" (Al)
+  :model_number: A1095
+  :model_identifier: PowerBook5,4
+  :order_number:
+  - M9421LL/A
+  :serial_number:
+  - QHX
+  - QW2
+  :short_name: PowerBook G4 1.33 15
+  :released_at: 2004-04-19
+  :discontinued_at: 2005-01-31
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.33 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2600
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.33-1.5GHzGettingStarted.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 2087
+      :ca: 2649
+      :uk: 1399
+      :au: 3299
+      :jp: 230790
+      :nz: 4159
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.5 15" (Al)
+  :model_number: A1095
+  :model_identifier: PowerBook5,4
+  :order_number:
+  - M9422LL/A
+  :serial_number:
+  - QHY
+  - QW3
+  - RGV
+  :short_name: PowerBook G4 1.5 15
+  :released_at: 2004-04-19
+  :discontinued_at: 2005-01-31
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.5 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2600
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.33-1.5GHzGettingStarted.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2667
+      :ca: 3299
+      :uk: 1749
+      :au: 3999
+      :jp: 293790
+      :nz: 5049
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 17"
+  :model: PowerBook G4
+  :model_name: 1.5 17" (Al)
+  :model_number: A1085
+  :model_identifier: PowerBook5,5
+  :order_number:
+  - M9462LL/A
+  :serial_number:
+  - QRU
+  - QRV
+  - QRW
+  - RBF
+  - RCJ
+  - RFL
+  - RXR
+  :short_name: PowerBook G4 1.5 17
+  :released_at: 2004-04-19
+  :discontinued_at: 2005-01-31
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.5 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 58 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 25.4x391.1x259.0
+    :weight: 3100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: '1.1'
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_17inch1.5GHzGettingStarted.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2799
+      :es: 2899
+      :ca: 3699
+      :uk: 1949
+      :au: 4499
+      :jp: 330540
+      :nz: 5679
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 12"
+  :model: PowerBook G4
+  :model_name: 1.5 12" (Al)
+  :model_number: A1104
+  :model_identifier: PowerBook6,8
+  :order_number:
+  - M9690LL/A
+  - M9691LL/A
+  :serial_number:
+  - RJ4
+  - RJ5
+  - RJS
+  - RJ6
+  - RJ7
+  - SY2
+  - SY3
+  - SYH
+  - SYS
+  - T1C
+  - TCG
+  - TFZ
+  - TG4
+  - TJG
+  - TKZ
+  - UUF
+  :short_name: PowerBook G4 1.5 12
+  :released_at: 2005-01-31
+  :discontinued_at: 2006-05-16
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.5 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: GeForce FX Go5200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 50 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 29.9x276.8x218.4
+    :weight: 2100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_12inch1.5GHzUserGuide.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1479
+      :de: 1599
+      :ca: 1899
+      :uk: 1049
+      :au: 2399
+      :jp: 178290
+      :it: 1539
+      :nl: 1599
+      :nz: 2810
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 60 GB
+  - :original_price:
+      :us: 1699
+      :es: 1679
+      :de: 1799
+      :ca: 2149
+      :uk: 1199
+      :au: 2749
+      :jp: 199290
+      :it: 1739
+      :nl: 1799
+      :nz: 3220
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.5 15" (SMS/BT2 - Al)
+  :model_number: A1106
+  :model_identifier: PowerBook5,6
+  :order_number:
+  - M9676LL/A
+  :serial_number:
+  - RG3
+  - SQ6
+  - T1V
+  - TIV
+  :short_name: PowerBook G4 1.5 15 (2)
+  :released_at: 2005-01-31
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.5 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.5 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2500
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.67-1.5GHzUserGuide.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1939
+      :de: 1989
+      :ca: 2499
+      :uk: 1379
+      :au: 3199
+      :jp: 230790
+      :it: 1999
+      :nl: 1989
+      :nz: 3750
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.67 15" (Al)
+  :model_number: A1106
+  :model_identifier: PowerBook5,6
+  :order_number:
+  - M9677LL/A
+  :serial_number:
+  - RG4
+  - SB7
+  - SQ7
+  - SXZ
+  :short_name: PowerBook G4 1.67 15
+  :released_at: 2005-01-31
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.67 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.67 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1280x854
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2500
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15inch1.67-1.5GHzUserGuide.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2299
+      :es: 2229
+      :de: 2289
+      :ca: 2899
+      :uk: 1579
+      :au: 3649
+      :jp: 272790
+      :it: 2299
+      :nl: 2289
+      :nz: 4275
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 17"
+  :model: PowerBook G4
+  :model_name: 1.67 17" (Al)
+  :model_number: A1107
+  :model_identifier: PowerBook5,7
+  :order_number:
+  - M9689LL/A
+  :serial_number:
+  - RJ3
+  - RJF
+  - SQ5
+  - SY8
+  - SYL
+  - T0V
+  - TOV
+  - TFW
+  :short_name: PowerBook G4 1.67 17
+  :released_at: 2005-01-31
+  :discontinued_at: 2005-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.67 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.67 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1440x900
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 58 W h LiIon
+    :battery_life: 4.5 Hours
+    :dimensions: 25.4x391.1x259.0
+    :weight: 3100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_17inch1.67GHzUserGuide.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2699
+      :es: 2619
+      :de: 2679
+      :ca: 3399
+      :uk: 1849
+      :au: 4299
+      :jp: 314790
+      :it: 2699
+      :nl: 2679
+      :nz: 5035
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 100 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 15"
+  :model: PowerBook G4
+  :model_name: 1.67 15" (DLSD/HR - Al)
+  :model_number: A1138
+  :model_identifier: PowerBook5,8
+  :order_number:
+  - M9969LL/A
+  :serial_number:
+  - SX2
+  - 5X2
+  - SWZ
+  - 5WZ
+  - SW2
+  - 5W2
+  - U34
+  - UDR
+  - UDS
+  - UDT
+  - UDU
+  - UDW
+  - UDX
+  - UE0
+  - UEO
+  - UE1
+  - UEI
+  - UE2
+  - UEE
+  - UEF
+  - UEG
+  - UEH
+  - UF1
+  - UQD
+  - URC
+  - URR
+  - US6
+  - UT6
+  - UXA
+  - UZB
+  :short_name: PowerBook G4 1.67 15 HR
+  :released_at: 2005-10-19
+  :discontinued_at: 2006-01-10
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.67 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.67 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2-4200 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 15.0" Widescreen
+    :display_resolution: 1440x960
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2.4X DL "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 50 W h LiIon
+    :battery_life: 5.5 Hours
+    :dimensions: 27.9x347.9x241.3
+    :weight: 2500
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_15in_DblLayerSuperDrive.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1999
+      :es: 1999
+      :de: 2069
+      :ca: 1799
+      :uk: 1399
+      :au: 3199
+      :jp: 244800
+      :it: 2079
+      :nl: 2069
+      :nz: 3789
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: PowerBook G4 17"
+  :model: PowerBook G4
+  :model_name: 1.67 17" (DLSD/HR - Al)
+  :model_number: A1139
+  :model_identifier: PowerBook5,9
+  :order_number:
+  - M9970LL/A
+  :serial_number:
+  - SX0
+  - SXO
+  - SX3
+  - UF6
+  - UF7
+  - UFA
+  - UFB
+  - UF8
+  - UFE
+  - UFF
+  - UFG
+  - URQ
+  - UT7
+  - UWV
+  :short_name: PowerBook G4 1.67 17 HR
+  :released_at: 2005-10-19
+  :discontinued_at: 2006-04-24
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.67 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.67 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2-4200 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Mobility Radeon 9700
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 128 MB
+    :display: 17.0" Widescreen
+    :display_resolution: 1680x1050
+    :display_secondary: Dual/Mirroring
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 2.4X DL "SuperDrive"
+    :expansion_slots: Type I/II PC Card
+    :battery_type: 58 W h LiIon
+    :battery_life: 5.5 Hours
+    :dimensions: 25.4x391.1x259.0
+    :weight: 3100
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR
+    :ethernet: 10/100/1000Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400), 1 (800)
+    :user_manual: http://manuals.info.apple.com/en_US/PowerBookG4_17in_DblLayerSuperDrive.pdf
+    :power: 100V-240V AC, 65 W power adapter.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 2499
+      :es: 2499
+      :de: 2589
+      :ca: 2999
+      :uk: 1749
+      :au: 3999
+      :jp: 299800
+      :it: 2599
+      :nl: 2589
+      :nz: 4739
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 128 MB
+      :hd_type: "(5400 RPM)"
+      :hd_capacity: 120 GB

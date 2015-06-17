@@ -1,0 +1,531 @@
+---
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/700
+  :model_number: A1002
+  :model_identifier: PowerMac4,4
+  :order_number:
+  - M8655LL/A
+  - M8655LL/B
+  - M8578LL/A
+  - M8578LL/B
+  - M8577LL/A
+  - M8891LL/A
+  :serial_number:
+  - N8M
+  - N9K
+  - NAJ
+  - NAL
+  - NAV
+  - NTA
+  - NU2
+  - NUZ
+  - NU6
+  - NUB
+  - NUD
+  - NC1
+  - NC3
+  - N54
+  - M4M
+  - MU4
+  - MU5
+  - MUF
+  - MUG
+  - MXQ
+  - MXU
+  - MXW
+  - MXY
+  - LL6
+  - LL7
+  - LRX
+  - LRZ
+  :short_name: eMac G4/700
+  :released_at: 2002-04-29
+  :discontinued_at: 2003-05-06
+  :details:
+    :processor_type: PowerPC 7441 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz (7:1)
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_OriginalUserGuide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 1199
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/800
+  :model_number: A1002
+  :model_identifier: PowerMac4,4
+  :order_number:
+  - M8892LL/A
+  :serial_number:
+  - N9L
+  - NCP
+  - NCR
+  - NT9
+  - NTZ
+  - NUF
+  - NUG
+  - NUJ
+  :short_name: eMac G4/800
+  :released_at: 2002-08-13
+  :discontinued_at: 2003-05-06
+  :details:
+    :processor_type: PowerPC 7441 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz (8:1)
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 8 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: GeForce2 MX
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 2X "SuperDrive"
+    :expansion_slots: AirPort
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_OriginalUserGuide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/800 (ATI)
+  :model_number: A1002
+  :model_identifier: PowerMac4,4
+  :order_number:
+  - M9150LL/A
+  :serial_number:
+  - NLT
+  - NM0
+  - P9G
+  - PDL
+  - PE1
+  - PE3
+  :short_name: eMac G4/800 (ATI)
+  :released_at: 2003-05-06
+  :discontinued_at: 2003-10-22
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 7 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 7500
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 32X CD-ROM
+    :expansion_slots: AirPort Extreme
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_OriginalUserGuide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :ca: 1199
+      :uk: 649
+      :au: 1499
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/1.0 (ATI)
+  :model_number: A1002
+  :model_identifier: PowerMac4,4
+  :order_number:
+  - M8950LL/A
+  - M8951LL/A
+  - M9252LL/A
+  - M8951LL/A
+  :serial_number:
+  - P9H
+  - P9J
+  - P9L
+  - P9R
+  - P9P
+  - PPA
+  - PPB
+  - PP0
+  - PPO
+  - PP1
+  - PP2
+  - PP9
+  - PQL
+  - NM1
+  - NM2
+  - NLZ
+  - Q2B
+  - Q2C
+  - Q2D
+  - Q2E
+  - Q2G
+  - Q4D
+  - Q4F
+  :short_name: eMac G4/1.0 (ATI)
+  :released_at: 2003-05-06
+  :discontinued_at: 2004-04-13
+  :details:
+    :processor_type: PowerPC 7445 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on-chip)
+    :memory_type: PC133 SDRAM
+    :memory_speed: 7 ns
+    :max_memory: 1 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 7500
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/66
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort Extreme
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (1.1)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_OriginalUserGuide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :ca: 1499
+      :uk: 799
+      :au: 1899
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 1299
+      :ca: 1899
+      :uk: 999
+      :au: 2499
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/1.25 (USB 2.0)
+  :model_number: A1002
+  :model_identifier: PowerMac6,4
+  :order_number:
+  - M9425LL/A
+  - M9461LL/A
+  :serial_number:
+  - QGM
+  - QGN
+  - QGP
+  - QGQ
+  - QGR
+  - QGS
+  - QGT
+  - QGU
+  - QJ6
+  - QJ7
+  - QJ8
+  - QJ9
+  - QJA
+  - QJB
+  - QQH
+  - QQJ
+  - NLV
+  - R92
+  - R93
+  - R9S
+  - R9T
+  - R9U
+  - R9V
+  - R9X
+  - RBE
+  - RC5
+  - RC6
+  - RDG
+  - RE7
+  - RE9
+  - REA
+  - REB
+  - REC
+  - RFJ
+  - RNS
+  - RXE
+  - S2S
+  - T40
+  - T4O
+  - TCV
+  - TEF
+  :short_name: eMac G4/1.25 (USB 2.0)
+  :released_at: 2004-04-13
+  :discontinued_at: 2005-05-03
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.25 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.25 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_Early2004UserGuide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :es: 849
+      :ca: 1049
+      :uk: 549
+      :au: 1299
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+  - :original_price:
+      :us: 999
+      :es: 1099
+      :ca: 1299
+      :uk: 699
+      :au: 1499
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 80 GB
+- :vendor: Apple
+  :subfamily: eMac
+  :model: eMac
+  :model_name: G4/1.42 (2005)
+  :model_number: A1002
+  :model_identifier: PowerMac6,4
+  :order_number:
+  - M9834LL/A
+  - M9835LL/A
+  :serial_number:
+  - SCB
+  - SCC
+  - SCD
+  - SCF
+  - SCG
+  - SCH
+  - T8H
+  - TBH
+  - T8J
+  - TBJ
+  - T8K
+  - TBK
+  - T8N
+  - TBN
+  - T8M
+  - TBM
+  - T8P
+  - TBP
+  - TDN
+  - TDP
+  - TDQ
+  - TF2
+  - TF3
+  - TF4
+  - TJ5
+  - TJ7
+  - TKG
+  - TKP
+  - TKQ
+  - TL0
+  - TLO
+  - TL1
+  - TLI
+  - TMN
+  - TMP
+  - TMQ
+  - TMT
+  - TQU
+  - TR4
+  - TR5
+  - TR6
+  - TRP
+  - TRQ
+  - TU4
+  - TVZ
+  - UUH
+  - UYS
+  - V4J
+  :short_name: eMac G4/1.42 (2005)
+  :released_at: 2005-05-03
+  :discontinued_at: 2005-10-12
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.42 GHz
+    :processor_bus_speed: 167 MHz
+    :processor_cache_bus_speed: 1.42 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on-chip)
+    :memory_type: PC2700 SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 2 GB
+    :memory_slots: 2
+    :graphics_card: Radeon 9600
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 64 MB
+    :display: 17.0" Flat CRT
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 12X "Combo Drive"
+    :expansion_slots: AP/BL
+    :battery_type: 3.6V Lithium
+    :dimensions: 401.3x401.3x434.3
+    :weight: 22700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 3 (2.0)
+    :firewire_ports: 2 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/eMac_2005_User_Guide.pdf
+    :power: 110V to 240V AC, 170W maximum.
+    :mac_os_version: '10.4'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+      :au: 1299
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 64 MB
+      :hd_capacity: 80 GB
+  - :original_price:
+      :us: 999
+      :au: 1499
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 64 MB
+      :hd_capacity: 160 GB

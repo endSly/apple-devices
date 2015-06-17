@@ -1,0 +1,1666 @@
+---
+- :vendor: Apple
+  :subfamily: PowerBook 100
+  :model: PowerBook
+  :model_name: '100'
+  :model_number: M1506
+  :short_name: PowerBook 100
+  :released_at: 1991-10-21
+  :discontinued_at: 1992-08-03
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.0" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: Lead-Acid
+    :battery_life: 2-4 Hours
+    :dimensions: 45.7x279.4x215.9
+    :weight: 2300
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: 6.0.8
+    :mac_os_max: 7.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 2500
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 20 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '140'
+  :model_number: M5416
+  :short_name: PowerBook 140
+  :released_at: 1991-10-21
+  :discontinued_at: 1992-08-03
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: 7.0.1
+    :mac_os_max: 7.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 2900
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 20 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '145'
+  :model_number: M5409
+  :short_name: PowerBook 145
+  :released_at: 1992-08-03
+  :discontinued_at: 1993-06-07
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: 7.0.1
+    :mac_os_max: 7.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 2150
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: 145b
+  :model_number: M5409
+  :short_name: PowerBook 145b
+  :released_at: 1993-06-07
+  :discontinued_at: 1994-07-18
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1150
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 2150
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 80 MB
+  - :original_price:
+      :us: 2350
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '150'
+  :model_number: M2740
+  :short_name: PowerBook 150
+  :released_at: 1994-07-18
+  :discontinued_at: 1995-10-14
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 40 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.5" Grayscale
+    :display_resolution: 640x480
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 1450
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 120 MB
+  - :original_price:
+      :us: 1600
+    :details:
+      :standard_memory: 8 MB
+      :hd_capacity: 250 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '160'
+  :model_number: M4550
+  :short_name: PowerBook 160
+  :released_at: 1992-10-19
+  :discontinued_at: 1993-08-16
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 85 ns
+    :max_memory: 14 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.8" Grayscale
+    :display_resolution: 640x400
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2.5-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2430
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '165'
+  :model_number: M4440
+  :short_name: PowerBook 165
+  :released_at: 1993-08-16
+  :discontinued_at: 1994-07-18
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 85 ns
+    :max_memory: 14 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.8" Grayscale
+    :display_resolution: 640x400
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2.5-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1970
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 80 MB
+  - :original_price:
+      :us: 2250
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 160 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: 165c
+  :short_name: PowerBook 165c
+  :released_at: 1993-02-10
+  :discontinued_at: 1993-12-13
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 85 ns
+    :max_memory: 14 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 8.9" Color
+    :display_resolution: 640x400
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 1.5-2 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3200
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 3400
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '170'
+  :model_number: M5409
+  :short_name: PowerBook 170
+  :released_at: 1991-10-21
+  :discontinued_at: 1992-10-19
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: PSRAM Card
+    :memory_speed: 100 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :display: 9.8" Monochrome
+    :display_resolution: 640x400
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: 7.0.1
+    :mac_os_max: 7.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 4600
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: '180'
+  :model_number: M4440
+  :short_name: PowerBook 180
+  :released_at: 1992-10-19
+  :discontinued_at: 1994-05-16
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 85 ns
+    :max_memory: 14 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.8" Grayscale
+    :display_resolution: 640x400
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2.5-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 3870
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: PowerBook 140
+  :model: PowerBook
+  :model_name: 180c
+  :model_number: M7940
+  :short_name: PowerBook 180c
+  :released_at: 1993-06-07
+  :discontinued_at: 1994-03-14
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: DRAM Card
+    :memory_speed: 85 ns
+    :max_memory: 14 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 8.4" Color
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: Modem
+    :battery_type: NiCad
+    :battery_life: 2.5-3 Hours
+    :dimensions: 57.1x285.7x236.2
+    :weight: 3200
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 17 Max Watts.
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 4160
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 190/66
+  :model_number: M3047
+  :short_name: PowerBook 190/66
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-04-01
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerPC
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 40 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 9.5" Grayscale
+    :display_resolution: 640x480
+    :display_secondary: None
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 3-5 Hours
+    :dimensions: 50.8x292.1x215.9
+    :weight: 2700
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 1650
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 500 MB
+  - :original_price:
+      :us: 1850
+    :details:
+      :standard_memory: 8 MB
+      :hd_capacity: 500 MB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 190cs/66
+  :model_number: M3047
+  :short_name: PowerBook 190cs/66
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-09-01
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerPC
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 40 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 640x480
+    :display_secondary: None
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 3-5 Hours
+    :dimensions: 55.8x292.1x215.9
+    :weight: 2900
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 2200
+    :details:
+      :standard_memory: 8 MB
+      :hd_capacity: 500 MB
+- :vendor: Apple
+  :subfamily: PowerBook 520
+  :model: PowerBook
+  :model_name: '520'
+  :model_number: M4880
+  :short_name: PowerBook 520
+  :released_at: 1994-05-16
+  :discontinued_at: 1995-06-10
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.5" Grayscale
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 3-4 Hours
+    :dimensions: 58.4x292.1x246.3
+    :weight: 2900
+    :wifi: None
+    :bluetooth: None
+    :ethernet: AAUI-15
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 40 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 2250
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 160 MB
+  - :original_price:
+      :us: 2400
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 240 MB
+- :vendor: Apple
+  :subfamily: PowerBook 520
+  :model: PowerBook
+  :model_name: 520c
+  :model_number: M4880
+  :short_name: PowerBook 520c
+  :released_at: 1994-05-16
+  :discontinued_at: 1995-09-16
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_count: '1'
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.5" Color
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2-3.5 Hours
+    :dimensions: 58.4x292.1x246.3
+    :weight: 2900
+    :wifi: None
+    :bluetooth: None
+    :ethernet: AAUI-15
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 40 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 2800
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 160 MB
+  - :original_price:
+      :us: 2900
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 240 MB
+  - :original_price:
+      :us: 4000
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 320 MB
+- :vendor: Apple
+  :subfamily: PowerBook 520
+  :model: PowerBook
+  :model_name: '540'
+  :model_number: M4880
+  :short_name: PowerBook 540
+  :released_at: 1994-05-16
+  :discontinued_at: 1994-10-17
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.5" Grayscale
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 3-4 Hours
+    :dimensions: 58.4x292.1x246.3
+    :weight: 3200
+    :wifi: None
+    :bluetooth: None
+    :ethernet: AAUI-15
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 40 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 3150
+    :details:
+      :standard_memory: 8 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 240 MB
+  - :original_price:
+      :us: 4580
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 240 MB
+- :vendor: Apple
+  :subfamily: PowerBook 520
+  :model: PowerBook
+  :model_name: 540c
+  :model_number: M4880
+  :short_name: PowerBook 540c
+  :released_at: 1994-05-16
+  :discontinued_at: 1995-08-26
+  :details:
+    :processor_type: 68LC040
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 9.5" Color
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4 Hours
+    :dimensions: 58.4x292.1x246.3
+    :weight: 3300
+    :wifi: None
+    :bluetooth: None
+    :ethernet: AAUI-15
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 40 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 4800
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 320 MB
+  - :original_price:
+      :us: 5000
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 500 MB
+  - :original_price:
+      :us: 5200
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 500 MB
+- :vendor: Apple
+  :subfamily: PowerBook 520
+  :model: PowerBook
+  :model_name: 550c
+  :short_name: PowerBook 550c
+  :released_at: 1995-05-30
+  :discontinued_at: 1996-04-01
+  :details:
+    :processor_type: '68040'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_count: '1'
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 8k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 10.4" Color
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4 Hours
+    :dimensions: 58.4x292.1x246.3
+    :weight: 3100
+    :wifi: None
+    :bluetooth: None
+    :ethernet: AAUI-15
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-240V AC, 50-60 Hz Frequency, 40 Max Watts.
+    :mac_os_version: 7.1.1
+    :mac_os_max: 7.1.1
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 8 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 500 MB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400cs/117
+  :model_number: M3571
+  :serial_number:
+  - 8JX
+  :short_name: PowerBook 1400cs/117
+  :released_at: 1996-11-20
+  :discontinued_at: 1997-07-14
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 117 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 6X (Optional)
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 3000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.3
+    :mac_os_max: 7.5.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 2500
+    :details:
+      :standard_memory: 12 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 750 MB
+  - :original_price:
+      :us: 2900
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400c/117
+  :model_number: M3571
+  :short_name: PowerBook 1400c/117
+  :released_at: 1996-11-20
+  :discontinued_at: 1997-07-14
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 117 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 6X (Optional)
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 2990
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.3
+    :mac_os_max: 7.5.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 3500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 750 MB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400cs/133
+  :model_number: M3571
+  :short_name: PowerBook 1400cs/133
+  :released_at: 1997-07-14
+  :discontinued_at: 1997-12-13
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 133 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 128k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 56 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 8X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 3000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.6.1
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400c/133
+  :model_number: M3571
+  :short_name: PowerBook 1400c/133
+  :released_at: 1996-11-20
+  :discontinued_at: 1997-12-13
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 133 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 128k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 56 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 6X, 8X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 2990
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.3
+    :mac_os_max: 7.5.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 4000
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400cs/166
+  :model_number: M3571
+  :short_name: PowerBook 1400cs/166
+  :released_at: 1997-12-17
+  :discontinued_at: 1998-05-06
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 166 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 128k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 12X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 3000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '8.0'
+    :mac_os_max: '8.0'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2000
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 1400
+  :model: PowerBook
+  :model_name: 1400c/166
+  :model_number: M3571
+  :short_name: PowerBook 1400c/166
+  :released_at: 1997-07-14
+  :discontinued_at: 1998-05-06
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 1400 PDS
+    :processor_count: '1'
+    :processor_speed: 166 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 128k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 512 K
+    :display: 11.3" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: ATA
+    :optical_drive: 8X, 12X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 1.5-4 Hours
+    :dimensions: 50.8x292.1x228.6
+    :weight: 2990
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 110V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.6.1
+    :mac_os_max: 7.6.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 3500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook 2400
+  :model: PowerBook
+  :model_name: 2400c/180
+  :short_name: PowerBook 2400c/180
+  :released_at: 1997-05-08
+  :discontinued_at: 1998-03-14
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 2400 PDS
+    :processor_count: '1'
+    :processor_speed: 180 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: SO-DIMM
+    :memory_speed: 60 ns
+    :max_memory: 112 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: ATA
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 29 W h LiIon
+    :battery_life: 2-5 Hours
+    :dimensions: 48.2x266.7x213.3
+    :weight: 2000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '7.6'
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 3500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 1 MB
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 2400
+  :model: PowerBook
+  :model_name: 2400c/240
+  :short_name: PowerBook 2400c/240
+  :released_at: 1998-04-07
+  :discontinued_at: 1998-12-31
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: PowerBook 2400 PDS
+    :processor_count: '1'
+    :processor_speed: 240 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: SO-DIMM
+    :memory_speed: 60 ns
+    :max_memory: 112 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: ATA
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 29 W h LiIon
+    :battery_life: 2-5 Hours
+    :dimensions: 48.2x266.7x213.3
+    :weight: 2000
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '7.6'
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 300
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 1 MB
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook 3400
+  :model: PowerBook
+  :model_name: 3400c/180
+  :model_number: M3553
+  :short_name: PowerBook 3400c/180
+  :released_at: 1997-02-17
+  :discontinued_at: 1997-12-13
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 180 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: EDO DRAM
+    :memory_speed: 60 ns
+    :max_memory: 144 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 2 MB
+    :display: 12.1" Color
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: ATA
+    :optical_drive: 6X (Opt), 12X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 32 W h LiIon
+    :battery_life: 2-4 Hours
+    :dimensions: 60.9x292.1x241.3
+    :weight: 3300
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T (Optional*)
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '7.6'
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 4500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 1 GB
+  - :original_price:
+      :us: 5000
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 1 GB
+- :vendor: Apple
+  :subfamily: PowerBook 3400
+  :model: PowerBook
+  :model_name: 3400c/200
+  :model_number: M3553
+  :short_name: PowerBook 3400c/200
+  :released_at: 1997-02-17
+  :discontinued_at: 1998-02-17
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 200 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: EDO DRAM
+    :memory_speed: 60 ns
+    :max_memory: 144 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 2 MB
+    :display: 12.1" Color
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: ATA
+    :optical_drive: 6X, 12X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 32 W h LiIon
+    :battery_life: 2-4 Hours
+    :dimensions: 60.9x292.1x241.3
+    :weight: 3300
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '7.6'
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 5000
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 2 GB
+  - :original_price:
+      :us: 5500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: PowerBook 3400
+  :model: PowerBook
+  :model_name: 3400c/240
+  :model_number: M3553
+  :short_name: PowerBook 3400c/240
+  :released_at: 1997-02-17
+  :discontinued_at: 1998-03-14
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 240 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 32k
+    :processor_l2_cache: 256k
+    :memory_type: EDO DRAM
+    :memory_speed: 60 ns
+    :max_memory: 144 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 2 MB
+    :display: 12.1" Color
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: ATA
+    :optical_drive: 12X
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: 32 W h LiIon
+    :battery_life: 2-4 Hours
+    :dimensions: 60.9x292.1x241.3
+    :weight: 3300
+    :wifi: None
+    :bluetooth: None
+    :ethernet: 10Base-T
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-220V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: '7.6'
+    :mac_os_max: '7.6'
+  :model_types_attributes:
+  - :original_price:
+      :us: 6400
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 2 MB
+      :hd_capacity: 3 GB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 5300/100
+  :model_number: M2785
+  :short_name: PowerBook 5300/100
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-08-01
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 100 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 9.5" Grayscale
+    :display_resolution: 640x480
+    :display_secondary: None
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4.5 Hours
+    :dimensions: 50.8x292.1x215.9
+    :weight: 2700
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 2200
+    :details:
+      :standard_memory: 8 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 500 MB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 5300cs/100
+  :model_number: M2785
+  :serial_number:
+  - 4FV
+  :short_name: PowerBook 5300cs/100
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-08-05
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 100 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 640x480
+    :display_secondary: None
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4.0 Hours
+    :dimensions: 50.8x292.1x215.9
+    :weight: 2800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 2800
+    :details:
+      :standard_memory: 8 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 500 MB
+  - :original_price:
+      :us: 3500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 750 MB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 5300c/100
+  :model_number: M2785
+  :serial_number:
+  - 65R
+  :short_name: PowerBook 5300c/100
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-09-01
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 100 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4.0 Hours
+    :dimensions: 50.8x292.1x215.9
+    :weight: 2800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 3700
+    :details:
+      :standard_memory: 8 MB
+      :graphics_card_vram: 1 MB
+      :hd_capacity: 500 MB
+  - :original_price:
+      :us: 4500
+    :details:
+      :standard_memory: 16 MB
+      :graphics_card_vram: 1 MB
+      :hd_capacity: 750 MB
+- :vendor: Apple
+  :subfamily: PowerBook 5300
+  :model: PowerBook
+  :model_name: 5300ce/117
+  :model_number: M2785
+  :short_name: PowerBook 5300ce/117
+  :released_at: 1995-08-28
+  :discontinued_at: 1996-09-01
+  :details:
+    :processor_type: PowerPC 603e
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 117 MHz
+    :processor_bus_speed: 33.3 MHz
+    :processor_l1_cache: 32k
+    :memory_type: DRAM Card
+    :memory_speed: 70 ns
+    :max_memory: 64 MB
+    :memory_slots: 1
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: Onboard
+    :graphics_card_max_vram: 1 MB
+    :display: 10.4" Color
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: IDE
+    :optical_drive: None
+    :expansion_slots: 2 Type II PC Card
+    :battery_type: NiMH
+    :battery_life: 2.5-4.0 Hours
+    :dimensions: 50.8x292.1x215.9
+    :weight: 2800
+    :wifi: None
+    :bluetooth: None
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: 100V-240V AC, 50-60 Hz Frequency, 45 Max Watts.
+    :mac_os_version: 7.5.2
+    :mac_os_max: 7.5.2
+  :model_types_attributes:
+  - :original_price:
+      :us: 6500
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 1 GB

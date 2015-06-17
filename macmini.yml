@@ -33,6 +33,7 @@
     :graphics_card_max_vram: 32 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Ultra ATA/100
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: AP/BL
@@ -46,6 +47,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Macmini_OriginalUserGuide.pdf
     :power: 100V-240V, 85W maximum.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -103,6 +106,7 @@
     :graphics_card_max_vram: 32 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Ultra ATA/100
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: AP/BL
@@ -116,6 +120,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Macmini_OriginalUserGuide.pdf
     :power: 100V-240V, 85W maximum.
+    :mac_os_version: 10.3.7
+    :mac_os_max: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -183,6 +189,7 @@
     :graphics_card_max_vram: 32 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Ultra ATA/100
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: AP/BL
@@ -196,6 +203,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_2005_Users_Guide.pdf
     :power: 100V-240V, 85W maximum.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -256,6 +265,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Ultra ATA/100
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: AP/BL
@@ -269,6 +279,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_2005_Users_Guide.pdf
     :power: 100V-240V, 85W maximum.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -327,6 +339,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Serial ATA (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -339,6 +352,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early_2006_Users_Guide.pdf
     :power: 100V-240V, 110W maximum.
+    :mac_os_version: 10.4.5
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -400,6 +415,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Serial ATA (1.5 Gb/s)
     :optical_drive: 2.4X "SuperDrive"
     :expansion_slots: None
@@ -412,6 +428,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Early_2006_Users_Guide.pdf
     :power: 100V-240V, 110W maximum.
+    :mac_os_version: 10.4.5
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -467,6 +485,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Serial ATA (1.5 Gb/s)
     :optical_drive: 2.4X "SuperDrive"
     :expansion_slots: None
@@ -479,6 +498,8 @@
     :firewire_ports: 1 (400)
     :user_manual: http://manuals.info.apple.com/en_US/Mac_mini_Intel_User_Guide.pdf
     :power: 100V-240V, 110W maximum.
+    :mac_os_version: 10.4.7
+    :mac_os_max: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -532,6 +553,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Serial ATA (1.5 Gb/s)
     :optical_drive: 8X "Combo Drive"
     :expansion_slots: None
@@ -548,6 +570,8 @@
     :geekbench_3_32_mc: 1709
     :geekbench_3_64_sc: 1050
     :geekbench_3_64_mc: 1832
+    :mac_os_version: 10.4.10
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -596,6 +620,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: 1920x1200
+    :display_secondary: None
     :hd_interface: Serial ATA (1.5 Gb/s)
     :optical_drive: 2.4X "SuperDrive"
     :expansion_slots: None
@@ -612,6 +637,8 @@
     :geekbench_3_32_mc: 1861
     :geekbench_3_64_sc: 1135
     :geekbench_3_64_mc: 1951
+    :mac_os_version: 10.4.10
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -666,6 +693,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -682,6 +710,8 @@
     :geekbench_3_32_mc: 1898
     :geekbench_3_64_sc: 1205
     :geekbench_3_64_mc: 2106
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -755,6 +785,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -771,6 +802,8 @@
     :geekbench_3_32_mc: 2129
     :geekbench_3_64_sc: 1248
     :geekbench_3_64_mc: 1832
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 749
@@ -820,6 +853,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -836,6 +870,8 @@
     :geekbench_3_32_mc: 2165
     :geekbench_3_64_sc: 1353
     :geekbench_3_64_mc: 2390
+    :mac_os_version: '10.6'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -889,6 +925,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -905,6 +942,8 @@
     :geekbench_3_32_mc: 2385
     :geekbench_3_64_sc: 1481
     :geekbench_3_64_mc: 2596
+    :mac_os_version: '10.6'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -959,6 +998,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: None
@@ -975,6 +1015,8 @@
     :geekbench_3_32_mc: 2553
     :geekbench_3_64_sc: 1578
     :geekbench_3_64_mc: 2812
+    :mac_os_version: '10.6'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 849
@@ -1016,6 +1058,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: None
     :expansion_slots: None
@@ -1032,6 +1075,8 @@
     :geekbench_3_32_mc: 2385
     :geekbench_3_64_sc: 1481
     :geekbench_3_64_mc: 2596
+    :mac_os_version: 10.6.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1087,6 +1132,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: SD Card (SDXC*)
@@ -1103,6 +1149,8 @@
     :geekbench_3_32_mc: 2135
     :geekbench_3_64_sc: 1414
     :geekbench_3_64_mc: 2337
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 699
@@ -1159,6 +1207,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: SD Card (SDXC*)
@@ -1175,6 +1224,8 @@
     :geekbench_3_32_mc: 2346
     :geekbench_3_64_sc: 1559
     :geekbench_3_64_mc: 2555
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 849
@@ -1223,6 +1274,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: None
     :expansion_slots: SD Card (SDXC*)
@@ -1239,6 +1291,8 @@
     :geekbench_3_32_mc: 2346
     :geekbench_3_64_sc: 1559
     :geekbench_3_64_mc: 2555
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1300,6 +1354,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1316,6 +1371,8 @@
     :geekbench_3_32_mc: 4399
     :geekbench_3_64_sc: 2415
     :geekbench_3_64_mc: 4909
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -1375,6 +1432,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Three Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1391,6 +1449,8 @@
     :geekbench_3_32_mc: 4792
     :geekbench_3_64_sc: 2612
     :geekbench_3_64_mc: 5323
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -1449,6 +1509,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Three Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1465,6 +1526,8 @@
     :geekbench_3_32_mc: 4904
     :geekbench_3_64_sc: 2706
     :geekbench_3_64_mc: 5510
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 899
@@ -1530,6 +1593,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1546,6 +1610,8 @@
     :geekbench_3_32_mc: 7849
     :geekbench_3_64_sc: 2400
     :geekbench_3_64_mc: 8601
+    :mac_os_version: '10.7'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1605,6 +1671,7 @@
     :graphics_card_max_vram: 768 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1621,6 +1688,8 @@
     :geekbench_3_32_mc: 5070
     :geekbench_3_64_sc: 2757
     :geekbench_3_64_mc: 5666
+    :mac_os_version: 10.8.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -1680,6 +1749,7 @@
     :graphics_card_max_vram: 768 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1696,6 +1766,8 @@
     :geekbench_3_32_mc: 10377
     :geekbench_3_64_sc: 2986
     :geekbench_3_64_mc: 11639
+    :mac_os_version: 10.8.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 799
@@ -1754,6 +1826,7 @@
     :graphics_card_max_vram: 768 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1770,6 +1843,8 @@
     :geekbench_3_32_mc: 11264
     :geekbench_3_64_sc: 3208
     :geekbench_3_64_mc: 12567
+    :mac_os_version: 10.8.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 899
@@ -1828,6 +1903,7 @@
     :graphics_card_max_vram: 768 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1844,6 +1920,8 @@
     :geekbench_3_32_mc: 10377
     :geekbench_3_64_sc: 2986
     :geekbench_3_64_mc: 11639
+    :mac_os_version: 10.8.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -1902,6 +1980,7 @@
     :graphics_card_max_vram: 768 MB
     :display: Dual Displays
     :display_resolution: 1920x1200
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s) x2
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1918,6 +1997,8 @@
     :geekbench_3_32_mc: 11264
     :geekbench_3_64_sc: 3208
     :geekbench_3_64_mc: 12567
+    :mac_os_version: 10.8.2
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 1099
@@ -1976,6 +2057,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Dual Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s)/PCIe
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -1992,6 +2074,8 @@
     :geekbench_3_32_mc: 4835
     :geekbench_3_64_sc: 2793
     :geekbench_3_64_mc: 5387
+    :mac_os_version: '10.10'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -2047,6 +2131,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Dual Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s)/PCIe
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2063,6 +2148,8 @@
     :geekbench_3_32_mc: 6051
     :geekbench_3_64_sc: 3155
     :geekbench_3_64_mc: 6626
+    :mac_os_version: '10.10'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 699
@@ -2118,6 +2205,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Dual Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s)/PCIe
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2134,6 +2222,8 @@
     :geekbench_3_32_mc: 6372
     :geekbench_3_64_sc: 3355
     :geekbench_3_64_mc: 7156
+    :mac_os_version: '10.10'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999
@@ -2192,6 +2282,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Dual Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (6 Gb/s)/PCIe
     :optical_drive: None
     :expansion_slots: SD Card (SDXC)
@@ -2208,6 +2299,8 @@
     :geekbench_3_32_mc: 6545
     :geekbench_3_64_sc: 3486
     :geekbench_3_64_mc: 7308
+    :mac_os_version: '10.10'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 999

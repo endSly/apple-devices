@@ -1,0 +1,924 @@
+---
+- :vendor: Apple
+  :subfamily: Macintosh 128k
+  :model: Macintosh
+  :model_name: Original (128k)
+  :model_number: M0001
+  :short_name: Mac Original (128k)
+  :released_at: 1984-01-24
+  :discontinued_at: 1985-10-01
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: Built-in
+    :max_memory: 512 K
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 4.5V Alkaline
+    :dimensions: 345.4x243.8x276.8
+    :weight: 7500
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '105V-125V AC, 50-60 Hz Frequency, 60 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '0.97'
+    :mac_os_max: '0.97'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2495
+    :details:
+      :standard_memory: 128 K
+- :vendor: Apple
+  :subfamily: Macintosh 128k
+  :model: Macintosh
+  :model_name: 512k
+  :model_number: M0001W
+  :short_name: Mac 512k
+  :released_at: 1984-09-10
+  :discontinued_at: 1986-04-14
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: Built-in
+    :max_memory: 512 K
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 4.5V Alkaline
+    :dimensions: 345.4x243.8x276.8
+    :weight: 7500
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '105V-125V AC, 50-60 Hz Frequency, 60 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '1.0'
+    :mac_os_max: '1.0'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2795
+    :details:
+      :standard_memory: 512 K
+- :vendor: Apple
+  :subfamily: Macintosh 128k
+  :model: Macintosh
+  :model_name: 512ke (ED)
+  :model_number: M0001E
+  :short_name: Mac 512ke (ED)
+  :released_at: 1986-04-14
+  :discontinued_at: 1987-09-01
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: Built-in
+    :max_memory: 512 K
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 4.5V Alkaline
+    :dimensions: 345.4x243.8x276.8
+    :weight: 7500
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '105V-125V AC, 50-60 Hz Frequency, 60 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '1.0'
+    :mac_os_max: '1.0'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2000
+    :details:
+      :standard_memory: 512 K
+- :vendor: Apple
+  :subfamily: Lisa
+  :model: Macintosh
+  :model_name: XL
+  :short_name: Mac XL
+  :released_at: 1985-01-01
+  :discontinued_at: 1986-08-01
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 5 MHz
+    :processor_bus_speed: 5 MHz
+    :processor_l1_cache: None
+    :memory_type: Lisa DRAM Card
+    :max_memory: 2 MB
+    :memory_slots: 2
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 12" Monochrome
+    :display_resolution: 720x364
+    :optical_drive: None
+    :expansion_slots: 3 Lisa
+    :dimensions: 386.0x474.9x350.5
+    :weight: 21800
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '120V AC, 50-60 Hz Frequency, 150 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: Latest
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 9995
+    :details:
+      :standard_memory: 512 K
+      :hd_capacity: 10 MB
+- :vendor: Apple
+  :subfamily: Macintosh 128k
+  :model: Macintosh
+  :model_name: Plus (ED)
+  :model_number: M0001A
+  :short_name: Mac Plus (ED)
+  :released_at: 1986-01-16
+  :discontinued_at: 1990-10-15
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: 30-pin SIMM
+    :memory_speed: 150 ns
+    :max_memory: 4 MB
+    :memory_slots: 4
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 4.5V Alkaline
+    :dimensions: 345.4x243.8x276.8
+    :weight: 7500
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '105V-125V AC, 50-60 Hz Frequency, 60 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '3.0'
+    :mac_os_max: '3.0'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2599
+    :details:
+      :standard_memory: 1 MB
+- :vendor: Apple
+  :subfamily: Macintosh SE
+  :model: Macintosh
+  :model_name: SE
+  :model_number: M5010
+  :short_name: Mac SE
+  :released_at: 1987-03-02
+  :discontinued_at: 1989-08-01
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: 30-pin SIMM
+    :memory_speed: 150 ns
+    :max_memory: 4 MB
+    :memory_slots: 4
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: SE PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 345.4x246.1x276.8
+    :weight: 7700
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-270V AC, 47-63 Hz Frequency, 100 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '3.3'
+    :mac_os_max: '3.3'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2900
+    :details:
+      :standard_memory: 1 MB
+      :hd_capacity: 20 MB
+  - :original_price:
+      :us: 3900
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh SE
+  :model: Macintosh
+  :model_name: SE FDHD
+  :model_number: M5011
+  :short_name: Mac SE FDHD
+  :released_at: 1989-08-01
+  :discontinued_at: 1990-10-15
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: 30-pin SIMM
+    :memory_speed: 150 ns
+    :max_memory: 4 MB
+    :memory_slots: 4
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: SE PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 345.4x246.1x276.8
+    :weight: 7700
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-270V AC, 47-63 Hz Frequency, 100 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '3.3'
+    :mac_os_max: '3.3'
+  :model_types_attributes:
+  - :original_price:
+      :us: 3700
+    :details:
+      :standard_memory: 1 MB
+      :hd_capacity: 20 MB
+- :vendor: Apple
+  :subfamily: Macintosh SE
+  :model: Macintosh
+  :model_name: SE/30
+  :model_number: M5119
+  :short_name: Mac SE/30
+  :released_at: 1989-01-19
+  :discontinued_at: 1991-10-21
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 120 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :graphics_card_max_vram: 64 K
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: SE PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 345.4x246.1x276.8
+    :weight: 8800
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '120V-240V AC, 48-62 Hz Frequency, 75 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: 6.0.3
+    :mac_os_max: 6.0.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 6500
+    :details:
+      :standard_memory: 1 MB
+      :graphics_card_vram: 64 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh Classic
+  :model: Macintosh
+  :model_name: Classic
+  :model_number: M0420, M1420
+  :short_name: Mac Classic
+  :released_at: 1990-10-15
+  :discontinued_at: 1992-09-14
+  :details:
+    :processor_type: '68000'
+    :processor_arch: 32-Bit
+    :processor_speed: 8 MHz
+    :processor_bus_speed: 8 MHz
+    :processor_l1_cache: None
+    :memory_type: 30-pin SIMM
+    :memory_speed: 120 ns
+    :max_memory: 4 MB
+    :memory_slots: 2
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 335.2x246.3x284.4
+    :weight: 7300
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '120V AC, 47-63 Hz Frequency, 76 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: 6.0.7
+    :mac_os_max: 6.0.7
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+    :details:
+      :standard_memory: 1 MB
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 1499
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh Classic
+  :model: Macintosh
+  :model_name: Classic II
+  :model_number: M4150
+  :short_name: Mac Classic II
+  :released_at: 1991-10-21
+  :discontinued_at: 1993-09-13
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 100 ns
+    :max_memory: 10 MB
+    :memory_slots: 2
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in
+    :display: 9" Monochrome
+    :display_resolution: 512x342
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 335.2x246.3x284.4
+    :weight: 7300
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '120V AC, 47-63 Hz Frequency, 76 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: 6.0.8
+    :mac_os_max: 7.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 1900
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 2400
+    :details:
+      :standard_memory: 2 MB
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: Color Classic
+  :model: Macintosh
+  :model_name: Color Classic
+  :model_number: M1600
+  :serial_number:
+  - C2C
+  :short_name: Mac Color Classic
+  :released_at: 1993-02-10
+  :discontinued_at: 1994-05-16
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 100 ns
+    :max_memory: 10 MB
+    :memory_slots: 2
+    :graphics_card: Integrated
+    :graphics_card_vram_type: 256k VRAM SIMM
+    :graphics_card_max_vram: 512 K
+    :display: 10" Color
+    :display_resolution: 512x384
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: LC PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 368.3x251.4x320.0
+    :weight: 10200
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-240V AC, 47-63 Hz Frequency, 100 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1400
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 256 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Color Classic
+  :model: Macintosh
+  :model_name: Color Classic II
+  :model_number: M1600
+  :short_name: Mac Color Classic II
+  :released_at: 1993-10-01
+  :discontinued_at: 1994-05-01
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 33 MHz
+    :processor_bus_speed: 33 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 72-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 36 MB
+    :memory_slots: 1
+    :graphics_card: Integrated
+    :graphics_card_vram_type: 256k VRAM SIMM
+    :graphics_card_max_vram: 512 K
+    :display: 10" Color
+    :display_resolution: 512x384
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: LC PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 368.3x251.4x320.0
+    :weight: 10200
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-240V AC, 47-63 Hz Frequency, 100 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 1500
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 256 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: Macintosh LC 520
+  :model: Macintosh
+  :model_name: TV
+  :model_number: M1580
+  :short_name: Macintosh TV
+  :released_at: 1993-10-25
+  :discontinued_at: 1995-02-01
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_speed: 32 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 72-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 8 MB
+    :memory_slots: 1
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Built-in (80 ns)
+    :graphics_card_max_vram: 512 K
+    :display: 14" Color
+    :display_resolution: 640x480
+    :hd_interface: SCSI
+    :optical_drive: 2X CD-ROM
+    :expansion_slots: None
+    :battery_type: 3.6V Lithium
+    :dimensions: 454.6x342.9x419.1
+    :weight: 18400
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-264V AC, 47-63 Hz Frequency, 60 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2079
+    :details:
+      :standard_memory: 5 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 160 MB
+- :vendor: Apple
+  :subfamily: Macintosh II
+  :model: Macintosh
+  :model_name: II (Original)
+  :model_number: M5000
+  :short_name: Macintosh II
+  :released_at: 1987-03-02
+  :discontinued_at: 1990-01-15
+  :details:
+    :processor_type: '68020'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.25k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 120 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Video Card
+    :graphics_card_vram_type: Video Card
+    :graphics_card_max_vram: 512 K
+    :display: Up to 6 Displays
+    :display_resolution: 512x384, 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 6 NuBus
+    :battery_type: 3.6V Lithium x2
+    :dimensions: 139.7x474.9x365.7
+    :weight: 10900
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-270V AC, 48-62 Hz Frequency, 230 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: '2.0'
+    :mac_os_max: '2.0'
+  :model_types_attributes:
+  - :original_price:
+      :us: 5500
+    :details:
+      :standard_memory: 1 MB
+      :graphics_card_vram: 256 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh II
+  :model: Macintosh
+  :model_name: IIx
+  :model_number: M5840
+  :short_name: Macintosh IIx
+  :released_at: 1988-09-19
+  :discontinued_at: 1990-10-15
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 120 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Video Card
+    :graphics_card_vram_type: Video Card
+    :graphics_card_max_vram: 512 K
+    :display: Up to 6 Displays
+    :display_resolution: 512x384, 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 6 NuBus
+    :battery_type: 3.6V Lithium (x2)
+    :dimensions: 139.7x474.9x365.7
+    :weight: 10900
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '90V-270V AC, 48-62 Hz Frequency, 230 Max Watts.<br><br>Icon Credit: Apple
+      Computer, Inc.'
+    :mac_os_version: 6.0.1
+    :mac_os_max: 6.0.1
+  :model_types_attributes:
+  - :original_price:
+      :us: 7800
+    :details:
+      :standard_memory: 1 MB
+      :graphics_card_vram: 256 K
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 9300
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: Macintosh IIcx
+  :model: Macintosh
+  :model_name: IIcx
+  :model_number: M5650
+  :short_name: Macintosh IIcx
+  :released_at: 1989-03-07
+  :discontinued_at: 1991-03-11
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 120 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Video Card
+    :graphics_card_vram_type: Video Card
+    :graphics_card_max_vram: 512 K
+    :display: Up to 3 Displays
+    :display_resolution: 512x384, 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 3 NuBus
+    :battery_type: 3.6V Lithium
+    :dimensions: 139.7x302.2x365.7
+    :weight: 6200
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 50-60 Hz Frequency, 159 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: 6.0.3
+    :mac_os_max: 6.0.3
+  :model_types_attributes:
+  - :original_price:
+      :us: 5369
+    :details:
+      :standard_memory: 1 MB
+      :graphics_card_vram: 256 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh IIcx
+  :model: Macintosh
+  :model_name: IIci
+  :model_number: M5780
+  :short_name: Macintosh IIci
+  :released_at: 1989-09-20
+  :discontinued_at: 1993-02-10
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 25 MHz
+    :processor_bus_speed: 25 MHz
+    :processor_l1_cache: 0.5k
+    :processor_l2_cache: 32k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 320 K
+    :display: Single Display
+    :display_resolution: 512x384, 640x480
+    :display_secondary: Single Display
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 3 NuBus, Cache PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 139.7x302.2x365.7
+    :weight: 6200
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 50-60 Hz Frequency, 159 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: 6.0.4
+    :mac_os_max: 6.0.4
+  :model_types_attributes:
+  - :original_price:
+      :us: 8798
+    :details:
+      :standard_memory: 1 MB
+      :graphics_card_vram: 64 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh II
+  :model: Macintosh
+  :model_name: IIfx
+  :model_number: M5525
+  :short_name: Macintosh IIfx
+  :released_at: 1990-03-19
+  :discontinued_at: 1992-04-15
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_speed: 40 MHz
+    :processor_bus_speed: 40 MHz
+    :processor_l1_cache: 0.5k
+    :processor_l2_cache: 32k
+    :memory_type: 64-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 128 MB
+    :memory_slots: 8
+    :graphics_card: Video Card
+    :graphics_card_vram_type: Video Card
+    :graphics_card_max_vram: 
+    :display: Up to 6 Displays
+    :display_resolution: 512x384, 640x480
+    :display_secondary: Dual/Mirroring
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: 6 NuBus, IIfx PDS
+    :battery_type: 3.6V Lithium (x2)
+    :dimensions: 139.7x474.9x365.7
+    :weight: 10900
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 48-62 Hz Frequency, 230 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: 6.0.5
+    :mac_os_max: 6.0.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 8970
+    :details:
+      :standard_memory: 4 MB
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: Macintosh IIsi
+  :model: Macintosh
+  :model_name: IIsi
+  :model_number: M0360
+  :short_name: Macintosh IIsi
+  :released_at: 1990-10-15
+  :discontinued_at: 1993-03-15
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 20 MHz
+    :processor_bus_speed: 20 MHz
+    :processor_l1_cache: 0.5k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 100 ns
+    :max_memory: 65 MB
+    :memory_slots: 4
+    :graphics_card: Integrated
+    :graphics_card_vram_type: Integrated
+    :graphics_card_max_vram: 320 K
+    :display: Single Display
+    :display_resolution: 640x480
+    :display_secondary: Single Display
+    :hd_interface: SCSI
+    :optical_drive: None
+    :expansion_slots: PDS or NuBus
+    :battery_type: 3.6V Lithium
+    :dimensions: 101.6x314.9x378.4
+    :weight: 4500
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 50-60 Hz Frequency, 160 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: 6.0.7
+    :mac_os_max: 6.0.7
+  :model_types_attributes:
+  - :original_price:
+      :us: 3770
+    :details:
+      :standard_memory: 2 MB
+      :graphics_card_vram: 64 K
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 4570
+    :details:
+      :standard_memory: 3 MB
+      :graphics_card_vram: 320 K
+      :hd_capacity: 80 MB
+- :vendor: Apple
+  :subfamily: Macintosh IIvx
+  :model: Macintosh
+  :model_name: IIvi
+  :model_number: M1350
+  :short_name: Macintosh IIvi
+  :released_at: 1992-10-19
+  :discontinued_at: 1993-02-10
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 16 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :processor_l2_cache: None
+    :memory_type: 30-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 68 MB
+    :memory_slots: 4
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: VRAM SIMM
+    :graphics_card_max_vram: 1 MB
+    :display: Single Display
+    :display_resolution: 640x480
+    :display_secondary: Single Display
+    :hd_interface: SCSI
+    :optical_drive: 2X (Optional)
+    :expansion_slots: 3 NuBus, PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 152.4x330.2x419.1
+    :weight: 11300
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 50-60 Hz Frequency, 230 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 40 MB
+- :vendor: Apple
+  :subfamily: Macintosh IIvx
+  :model: Macintosh
+  :model_name: IIvx
+  :model_number: M1350
+  :short_name: Macintosh IIvx
+  :released_at: 1992-10-19
+  :discontinued_at: 1993-10-21
+  :details:
+    :processor_type: '68030'
+    :processor_arch: 32-Bit
+    :processor_upgrade: Third-Party
+    :processor_speed: 32 MHz
+    :processor_bus_speed: 16 MHz
+    :processor_l1_cache: 0.5k
+    :processor_l2_cache: 32k
+    :memory_type: 30-pin SIMM
+    :memory_speed: 80 ns
+    :max_memory: 68 MB
+    :memory_slots: 4
+    :graphics_card: Dedicated
+    :graphics_card_vram_type: VRAM SIMM
+    :graphics_card_max_vram: 1 MB
+    :display: Single Display
+    :display_resolution: 640x480
+    :display_secondary: Single Display
+    :hd_interface: SCSI
+    :optical_drive: 2X (Optional)
+    :expansion_slots: 3 NuBus, PDS
+    :battery_type: 3.6V Lithium
+    :dimensions: 152.4x330.2x419.1
+    :weight: 11300
+    :ethernet: None
+    :usb_ports: None
+    :firewire_ports: None
+    :power: '100V-240V AC, 50-60 Hz Frequency, 230 Max Watts.<br><br>Icon Credit:
+      Apple Computer, Inc.'
+    :mac_os_version: '7.1'
+    :mac_os_max: '7.1'
+  :model_types_attributes:
+  - :original_price:
+      :us: 2950
+    :details:
+      :standard_memory: 4 MB
+      :graphics_card_vram: 512 K
+      :hd_capacity: 40 MB
+  - :original_price:
+      :us: 3550
+    :details:
+      :standard_memory: 5 MB
+      :graphics_card_vram: 1 MB
+      :hd_capacity: 80 MB

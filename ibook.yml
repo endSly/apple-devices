@@ -1,0 +1,2000 @@
+---
+- :vendor: Apple
+  :subfamily: iBook (Clamshell)
+  :model: iBook
+  :model_name: G3/300 (Original/Clamshell)
+  :model_number: M2453
+  :model_identifier: PowerBook2,1
+  :order_number:
+  - M7707LL/A
+  - M7619LL/A
+  - M7717LL/A
+  - M7718LL/A
+  :serial_number:
+  - H78
+  - H79
+  - HE5
+  - HES
+  - H5Q
+  - H5U
+  - HXU
+  - HZT
+  - HZU
+  - J55
+  - J5V
+  - J5W
+  :short_name: iBook G3/300 (Orig)
+  :released_at: 1999-07-21
+  :discontinued_at: 2000-09-13
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 300 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 150 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 576 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 12.1" TFT
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 45 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 45.7x342.9x294.6
+    :weight: 3040
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Z41009iBook.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.3.9
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+    :details:
+      :standard_memory: 32 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 3 GB
+- :vendor: Apple
+  :subfamily: iBook (Clamshell)
+  :model: iBook
+  :model_name: G3/366 SE (Original/Clamshell)
+  :model_number: M2453
+  :model_identifier: PowerBook2,1
+  :order_number:
+  - M7716LL/A
+  :serial_number:
+  - HZS
+  - J52
+  - JS2
+  :short_name: iBook G3/366 SE
+  :released_at: 2000-02-16
+  :discontinued_at: 2000-09-13
+  :details:
+    :processor_type: PowerPC 750 (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 366 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 183 MHz
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (backside)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 576 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 4 MB
+    :display: 12.1" TFT
+    :display_resolution: 800x600
+    :display_secondary: None
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 45 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 45.7x342.9x294.6
+    :weight: 3040
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (1.1)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Z41009iBook.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '8.6'
+    :mac_os_max: 10.3.9
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 4 MB
+      :hd_capacity: 6 GB
+- :vendor: Apple
+  :subfamily: iBook (Clamshell)
+  :model: iBook
+  :model_name: G3/366 (Firewire/Clamshell)
+  :model_number: M6411
+  :model_identifier: PowerBook2,2
+  :order_number:
+  - M7721LL/A
+  - M7722LL/A
+  :serial_number:
+  - JQ5
+  - JKU
+  - JU6
+  - K5M
+  - KSM
+  - KT2
+  - KT3
+  - KT8
+  - KWV
+  :short_name: iBook G3/366 FW
+  :released_at: 2000-09-13
+  :discontinued_at: 2001-05-01
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 366 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 366 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 576 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 12.1" TFT
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 45.7x342.9x294.6
+    :weight: 3040
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Z41009iBook.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2199
+      :jp: 178000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iBook (Clamshell)
+  :model: iBook
+  :model_name: G3/466 SE (Firewire/Clamshell)
+  :model_number: M6411
+  :model_identifier: PowerBook2,2
+  :order_number:
+  - M7720LL/A
+  - M8245LL/A
+  :serial_number:
+  - JQ4
+  - KGF
+  - K1L
+  :short_name: iBook G3/466 SE FW
+  :released_at: 2000-09-13
+  :discontinued_at: 2001-05-01
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 466 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 466 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC66 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 576 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 12.1" TFT
+    :display_resolution: 800x600
+    :display_secondary: Mirroring Only
+    :hd_interface: EIDE/ATA-2
+    :optical_drive: 4X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 45.7x342.9x294.6
+    :weight: 3040
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/Z41009iBook.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.0.4
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2699
+      :jp: 198000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/500 (Dual USB - Tr)
+  :model_number: M6497
+  :model_identifier: PowerBook4,1
+  :order_number:
+  - M7698LL/A
+  - M7692LL/A
+  - M7699LL/A
+  - M8520LL/A
+  :serial_number:
+  - HLC
+  - KB7
+  - KB8
+  - L2M
+  - L2N
+  - L3C
+  - L6Y
+  - L8X
+  - L8Y
+  - L9D
+  - L9E
+  - LAL
+  - LAM
+  - LAN
+  - LB6
+  - LB7
+  - LBB
+  - LBG
+  - LBH
+  - LBJ
+  - LBL
+  - LBM
+  - LBN
+  - LBP
+  - LBR
+  - LBT
+  - LC3
+  - LC9
+  - LCA
+  - LCB
+  - LCC
+  - LCD
+  - LCX
+  - LDG
+  - LFH
+  - LFL
+  - LHB
+  - LHC
+  - LHD
+  - LLB
+  - LLD
+  - LMZ
+  - LQY
+  - M1P
+  - M1Q
+  - M1R
+  - M1S
+  - M22
+  - M23
+  - M24
+  - M25
+  - M26
+  - M27
+  - M28
+  - M29
+  - M3F
+  :short_name: iBook G3/500 (D. UBS)
+  :released_at: 2001-05-01
+  :discontinued_at: 2001-10-16
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 500 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 42 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x231.1
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '9.1'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :jp: 158000
+    :details:
+      :standard_memory: 64 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 10 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/500 (Late 2001 - Tr)
+  :model_number: M6497
+  :model_identifier: PowerBook4,1
+  :order_number:
+  - M8597LL/A
+  :serial_number:
+  - LLK
+  - LPV
+  - MDU
+  :short_name: iBook G3/500 (L 01)
+  :released_at: 2001-10-16
+  :discontinued_at: 2002-05-20
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 500 MHz
+    :processor_bus_speed: 66 MHz
+    :processor_cache_bus_speed: 500 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 42 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x231.1
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :ca: 1999
+      :jp: 158000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 15 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/600 (Late 2001 - Tr)
+  :model_number: M6497
+  :model_identifier: PowerBook4,1
+  :order_number:
+  - M8598LL/A
+  - M8599LL/A
+  :serial_number:
+  - LLL
+  - LPZ
+  - LPY
+  - MDW
+  :short_name: iBook G3/600 (L 01)
+  :released_at: 2001-10-16
+  :discontinued_at: 2002-05-20
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 600 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X DVD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 42 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x231.1
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2349
+      :jp: 178000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 15 GB
+  - :original_price:
+      :us: 1699
+      :ca: 2699
+      :jp: 198000
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G3/600 14-Inch (Early 2002 - Tr)
+  :model_number: M8413
+  :model_identifier: PowerBook4,2
+  :order_number:
+  - M7701LL/A
+  :serial_number:
+  - L2V
+  - LL8
+  - LL9
+  - LLA
+  - LLN
+  - ME1
+  - MGJ
+  - MGK
+  - MS7
+  - MUV
+  - MW7
+  :short_name: iBook G3/600 14
+  :released_at: 2002-01-07
+  :discontinued_at: 2002-05-20
+  :details:
+    :processor_type: PowerPC 750cx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 600 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Rage Mobility 128
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 8 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 56 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_14inchUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.1
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :jp: 219800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 8 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/600 (16 VRAM - Tr)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8600LL/A
+  :serial_number:
+  - M4R
+  - LQ0
+  - LQO
+  - LQ4
+  :short_name: iBook G3/600 16 VRAM
+  :released_at: 2002-05-20
+  :discontinued_at: 2002-11-06
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 600 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 600 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1199
+      :ca: 1899
+      :uk: 999
+      :jp: 149800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/700 (16 VRAM - Tr)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8602LL/A
+  :serial_number:
+  - LQ2
+  - LQ5
+  :short_name: iBook G3/700 16 VRAM
+  :released_at: 2002-05-20
+  :discontinued_at: 2002-11-06
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2399
+      :uk: 1299
+      :jp: 189800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G3/700 14-Inch (16 VRAM - Tr)
+  :model_number: A1007
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8603LL/A
+  :serial_number:
+  - LQ3
+  - LQ6
+  - MEE
+  - MRB
+  - MRC
+  - MRD
+  - MVV
+  - MZ3
+  - N58
+  - N59
+  - N7L
+  - N7V
+  - NA4
+  - NDG
+  - NE0
+  - NEO
+  - NKL
+  - NM3
+  :short_name: iBook G3/700 14
+  :released_at: 2002-05-20
+  :discontinued_at: 2002-11-06
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 55 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_14inchUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1799
+      :ca: 2899
+      :uk: 1599
+      :jp: 219800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/700 (16 VRAM - Op)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8860LL/A
+  :serial_number:
+  - N4P
+  - N4S
+  - N4T
+  - N5B
+  - NDP
+  - NDQ
+  - NDR
+  - NRL
+  - NRN
+  - NWT
+  - NZ7
+  - P94
+  - PE6
+  - PE8
+  - PG8
+  - PG9
+  - PPZ
+  :short_name: iBook G3/700 (Opaque)
+  :released_at: 2002-11-06
+  :discontinued_at: 2003-04-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 700 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 700 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 16 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :ca: 1599
+      :uk: 849
+      :jp: 124800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 16 MB
+      :hd_capacity: 20 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/800 (32 VRAM - Tr)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8861LL/A
+  :serial_number:
+  - N4Q
+  - NDS
+  - NDT
+  - NDU
+  - NRM
+  - NRP
+  - NWU
+  - NY5
+  - NYF
+  - NZ8
+  - NZH
+  - PFB
+  - QC9
+  :short_name: iBook G3/800 32 VRAM
+  :released_at: 2002-11-06
+  :discontinued_at: 2003-04-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 16X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 2099
+      :uk: 1099
+      :jp: 159800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G3/800 14-Inch (32 VRAM - Tr)
+  :model_number: A1007
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8862LL/A
+  :serial_number:
+  - N4R
+  - N5A
+  - NSA
+  - N5C
+  - NSC
+  - NDV
+  - NDW
+  - NDX
+  - NWR
+  - NWS
+  - NY4
+  - NYG
+  - NZ9
+  :short_name: iBook G3/800 14
+  :released_at: 2002-11-06
+  :discontinued_at: 2003-04-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 16X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 55 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_14inchUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1599
+      :ca: 2599
+      :uk: 1349
+      :jp: 199800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/800 (Early 2003 - Op)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M8758LL/A
+  :serial_number:
+  - MRR
+  - N1N
+  - NDF
+  - P7Y
+  - PB8
+  - PB9
+  - PBA
+  - PER
+  - PES
+  - PET
+  - PGH
+  - PKY
+  - PKZ
+  - PPT
+  - PQ0
+  - PQO
+  - PQ1
+  - PQ2
+  - PS1
+  - PS2
+  - PSC
+  - PSK
+  - PXZ
+  - PY0
+  - PYO
+  - QAD
+  - QAX
+  - QAY
+  - QAZ
+  - QC2
+  - QD2
+  - QH0
+  - QHO
+  - QYJ
+  - QYL
+  - QYM
+  - QYN
+  - QYP
+  :short_name: iBook G3/800 (E 03)
+  :released_at: 2003-04-22
+  :discontinued_at: 2003-10-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 24X CD-ROM
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :au: 1894
+      :jp: 124800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G3/900 (Early 2003 - Op)
+  :model_number: A1005
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M9018LL/A
+  :serial_number:
+  - NVH
+  - PBB
+  - PBC
+  - PBD
+  - PBM
+  - PF2
+  - PKX
+  - PL1
+  - PMA
+  - PSZ
+  - PT2
+  - PT3
+  - Q1R
+  - QYH
+  - QYK
+  - QYQ
+  - QYR
+  :short_name: iBook G3/900 (E 03)
+  :released_at: 2003-04-22
+  :discontinued_at: 2003-10-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 900 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 900 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 47 W h LiIon
+    :battery_life: 5 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_DualUSBUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :au: 2399
+      :jp: 159800
+    :details:
+      :standard_memory: 128 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G3/900 14-Inch (Early 2003 - Op)
+  :model_number: A1007
+  :model_identifier: PowerBook4,3
+  :order_number:
+  - M9009LL/A
+  :serial_number:
+  - PBE
+  - PBF
+  - PBG
+  - PBN
+  - PF3
+  - PKW
+  - PL0
+  - PLO
+  - PPX
+  - Q73
+  :short_name: iBook G3/900 14
+  :released_at: 2003-04-22
+  :discontinued_at: 2003-10-22
+  :details:
+    :processor_type: PowerPC 750fx (G3)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 900 MHz
+    :processor_bus_speed: 100 MHz
+    :processor_cache_bus_speed: 900 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC100 SDRAM
+    :memory_speed: 10 ns
+    :max_memory: 640 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 7500
+    :graphics_card_vram_type: SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort
+    :battery_type: 55 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b (Optional)
+    :bluetooth: None
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (1.1)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG3_14inchUserGuideMultilingual.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 9.2.2
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :au: 2795
+      :jp: 199800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G4/800 12-Inch (Original - Op)
+  :model_number: A1054
+  :model_identifier: PowerBook6,3
+  :order_number:
+  - M9164LL/A
+  :serial_number:
+  - PGV
+  - PGW
+  - PGY
+  - PGZ
+  - PH1
+  - PHI
+  - PH2
+  - PMM
+  - QF9
+  - QKY
+  - QKZ
+  - QL1
+  - QLW
+  - QME
+  - QMF
+  - QMN
+  - QNA
+  - QQC
+  - QRD
+  - QRE
+  - QT5
+  - QVZ
+  - QW0
+  - QWF
+  - R2C
+  - R41
+  - R6E
+  - R6S
+  - R8F
+  :short_name: iBook G4/800 12
+  :released_at: 2003-10-22
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7457 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 800 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 800 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1152 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.4.11
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :ca: 1499
+      :uk: 849
+      :jp: 124800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/933 14-Inch (Original - Op)
+  :model_number: A1055
+  :model_identifier: PowerBook6,3
+  :order_number:
+  - M9388LL/A
+  :serial_number:
+  - QE2
+  - QE4
+  - QKX
+  :short_name: iBook G4/933 14
+  :released_at: 2003-10-22
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7457 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 933 MHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 933 MHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1152 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :ca: 1799
+      :uk: 999
+      :jp: 149800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/1.0 14-Inch (Original - Op)
+  :model_number: A1055
+  :model_identifier: PowerBook6,3
+  :order_number:
+  - M9165LL/A
+  :serial_number:
+  - PH0
+  - PHO
+  - PGX
+  :short_name: iBook G4/1.0 14
+  :released_at: 2003-10-22
+  :discontinued_at: 2004-04-19
+  :details:
+    :processor_type: PowerPC 7457 (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 256k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1152 MB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: '10.3'
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :ca: 2049
+      :uk: 1199
+      :jp: 169800
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G4/1.0 12-Inch (Early 2004 - Op)
+  :model_number: A1054
+  :model_identifier: PowerBook6,5
+  :order_number:
+  - M9426LL/A
+  :serial_number:
+  - QHW
+  - QIP
+  - Q1P
+  - QJP
+  - QJQ
+  - QJS
+  - R12
+  - R73
+  - R74
+  - R9C
+  - RAK
+  - RAL
+  - RAP
+  - RAS
+  - RB8
+  - RB9
+  - RC7
+  - RD8
+  - REZ
+  - RNE
+  - RNG
+  - RNR
+  - RP1
+  - RPN
+  - RPZ
+  - RQ0
+  - RQ1
+  - RQ2
+  - RZR
+  - S02
+  - S03
+  - S24
+  - S25
+  - S3Z
+  :short_name: iBook G4/1.0 12 (E 04)
+  :released_at: 2004-04-19
+  :discontinued_at: 2004-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1099
+      :es: 1199
+      :ca: 1449
+      :uk: 799
+      :au: 1695
+      :jp: 119800
+      :nz: 2139
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/1.0 14-Inch (Early 2004 - Op)
+  :model_number: A1055
+  :model_identifier: PowerBook6,5
+  :order_number:
+  - M9418LL/A
+  :serial_number:
+  - R72
+  - RAM
+  - RD7
+  - QHU
+  :short_name: iBook G4/1.0 14 (E 04)
+  :released_at: 2004-04-19
+  :discontinued_at: 2004-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.0 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.0 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Optional)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1399
+      :ca: 1699
+      :uk: 899
+      :au: 2049
+      :jp: 139800
+      :nz: 2579
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/1.2 14-Inch (Early 2004 - Op)
+  :model_number: A1055
+  :model_identifier: PowerBook6,5
+  :order_number:
+  - M9419LL/A
+  :serial_number:
+  - R71
+  :short_name: iBook G4/1.2 14 (E 04)
+  :released_at: 2004-04-19
+  :discontinued_at: 2004-10-19
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.2 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.2 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/Apple_Support_Area/Manuals/ibook/0221682iBookG4UG.PDF
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.3
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1499
+      :es: 1599
+      :ca: 1999
+      :uk: 1049
+      :au: 2399
+      :jp: 159800
+      :nz: 3029
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G4/1.2 12-Inch (Late 2004 - Op)
+  :model_number: A1054
+  :model_identifier: PowerBook6,5
+  :order_number:
+  - M9623LL/A
+  :serial_number:
+  - QHV
+  - RCQ
+  - RCR
+  - RCS
+  - RCV
+  - RER
+  - S86
+  - S87
+  - SCR
+  - SCU
+  - SCY
+  - SCZ
+  - SDE
+  - SDN
+  - SDP
+  - SEH
+  - SHE
+  - T5X
+  - T5Y
+  - TCF
+  - TG2
+  - TJE
+  - TP4
+  - TP5
+  - TRR
+  - TWR
+  - TX8
+  - TYE
+  :short_name: iBook G4/1.2 12 (L 04)
+  :released_at: 2004-10-19
+  :discontinued_at: 2005-07-26
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.2 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.2 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG4GettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.5
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 1049
+      :ca: 1299
+      :uk: 749
+      :au: 1695
+      :jp: 119800
+      :nz: 2030
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 30 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/1.33 14-Inch (Late 2004 - Op)
+  :model_number: A1055
+  :model_identifier: PowerBook6,5
+  :order_number:
+  - M9627LL/A
+  - M9628LL/A
+  :serial_number:
+  - RCT
+  - RCU
+  - S85
+  - S88
+  - SCS
+  - SCT
+  - SD0
+  - SDO
+  - SD4
+  - SD5
+  - SEJ
+  - SK2
+  - SLJ
+  - T2X
+  - TCJ
+  - TG0
+  - TG1
+  - TJD
+  - TJF
+  - TP6
+  - TP7
+  - TVX
+  :short_name: iBook G4/1.33 14
+  :released_at: 2004-10-19
+  :discontinued_at: 2005-07-26
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.33 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2100 DDR SDRAM
+    :memory_speed: 266 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9200
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: AirPort, Bluetooth
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 1.1 (Optional)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBookG4GettingStarted.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.3.5
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1369
+      :ca: 1649
+      :uk: 899
+      :au: 2049
+      :jp: 139800
+      :nz: 2458
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+  - :original_price:
+      :us: 1499
+      :es: 1579
+      :ca: 1899
+      :uk: 1049
+      :au: 2399
+      :nz: 2874
+    :details:
+      :standard_memory: 256 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB
+- :vendor: Apple
+  :subfamily: iBook (12-Inch)
+  :model: iBook
+  :model_name: G4/1.33 12-Inch (Mid-2005 - Op)
+  :model_number: A1133
+  :model_identifier: PowerBook6,7
+  :order_number:
+  - M9846LL/A
+  :serial_number:
+  - SE4
+  - SE7
+  - SEB
+  - V3B
+  - VR3
+  - VR4
+  - U6D
+  - U6S
+  - UK9
+  - UZ9
+  - VUZ
+  - W4F
+  :short_name: iBook G4/1.33 12 (M 05)
+  :released_at: 2005-07-26
+  :discontinued_at: 2006-05-16
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.33 GHz
+    :processor_bus_speed: 133 MHz
+    :processor_cache_bus_speed: 1.33 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9550
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 12.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 8X "Combo Drive"
+    :expansion_slots: None
+    :battery_type: 50 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x284.4x228.6
+    :weight: 2200
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR (Standard)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBook_G4_Mid_2005_Users_Guide.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 999
+      :es: 1029
+      :de: 1039
+      :ca: 1249
+      :uk: 699
+      :au: 1599
+      :jp: 119800
+      :it: 1049
+      :nl: 1039
+      :nz: 1899
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 40 GB
+- :vendor: Apple
+  :subfamily: iBook (14-Inch)
+  :model: iBook
+  :model_name: G4/1.42 14-Inch (Mid-2005 - Op)
+  :model_number: A1134
+  :model_identifier: PowerBook6,7
+  :order_number:
+  - M9848LL/A
+  :serial_number:
+  - SE6
+  - 5E6
+  - SE9
+  - 5E9
+  - SEC
+  - 5EC
+  - U6C
+  - U6E
+  - U6Q
+  - U6R
+  - U6U
+  - UCR
+  - UT8
+  - UUG
+  - UZA
+  - VR5
+  - VW1
+  :short_name: iBook G4/1.42 14 (M 05)
+  :released_at: 2005-07-26
+  :discontinued_at: 2006-05-16
+  :details:
+    :processor_type: PowerPC 7447a (G4)
+    :processor_arch: 32-Bit
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: 1.42 GHz
+    :processor_bus_speed: 142 MHz
+    :processor_cache_bus_speed: 1.42 GHz (Built-in)
+    :processor_l1_cache: 64k
+    :processor_l2_cache: 512k (on chip)
+    :memory_type: PC2700 DDR SDRAM
+    :memory_speed: 333 MHz
+    :max_memory: 1 GB
+    :memory_slots: 1
+    :graphics_card: Mobility Radeon 9550
+    :graphics_card_vram_type: DDR SDRAM
+    :graphics_card_max_vram: 32 MB
+    :display: 14.1" TFT XGA
+    :display_resolution: 1024x768
+    :display_secondary: Mirroring Only
+    :hd_interface: Ultra ATA/100
+    :optical_drive: 4X "SuperDrive"
+    :expansion_slots: None
+    :battery_type: 61 W h LiIon
+    :battery_life: 6 Hours
+    :dimensions: 34.2x322.5x259.0
+    :weight: 2700
+    :wifi: 802.11b/g (Standard)
+    :bluetooth: 2.0+EDR (Standard)
+    :ethernet: 10/100Base-T
+    :usb_ports: 2 (2.0)
+    :firewire_ports: 1 (400)
+    :user_manual: http://manuals.info.apple.com/en_US/iBook_G4_Mid_2005_Users_Guide.pdf
+    :power: 100V-240V AC, 45 W power adapter.
+    :mac_os_version: 10.4.2
+    :mac_os_max: 10.5.8
+  :model_types_attributes:
+  - :original_price:
+      :us: 1299
+      :es: 1319
+      :de: 1349
+      :ca: 1649
+      :uk: 899
+      :au: 2049
+      :jp: 149800
+      :it: 1369
+      :nl: 1349
+      :nz: 2449
+    :details:
+      :standard_memory: 512 MB
+      :graphics_card_vram: 32 MB
+      :hd_type: "(4200 RPM)"
+      :hd_capacity: 60 GB

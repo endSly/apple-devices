@@ -33,8 +33,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 549
@@ -80,8 +80,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 599
@@ -122,8 +122,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 349
@@ -165,8 +165,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 399
@@ -204,8 +204,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 10000
@@ -255,8 +255,8 @@
     :bluetooth: '4.0'
     :firewire_ports: None
     :user_manual: Pending
-    :iphone_standard_os: Watch OS
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
   :model_types_attributes:
   - :original_price:
       :us: 12000

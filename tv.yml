@@ -45,6 +45,7 @@
     :graphics_card_max_vram: 64 MB
     :display: Single Display
     :display_resolution: Multiple
+    :display_secondary: None
     :hd_interface: IDE/PATA
     :optical_drive: None
     :expansion_slots: None
@@ -58,6 +59,8 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/AppleTV_SetupGuide.pdf
     :power: The Apple TV has a built-in 48-watt universal power supply.
+    :mac_os_version: 10.4.7
+    :mac_os_max: 10.4.7
   :model_types_attributes:
   - :original_price:
       :us: 299
@@ -112,6 +115,7 @@
     :memory_slots: 0
     :display: Single Display
     :display_resolution: Multiple
+    :display_secondary: None
     :optical_drive: None
     :expansion_slots: None
     :battery_type: Unknown
@@ -124,6 +128,8 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
     :power: The Apple TV has a built-in 6-watt universal power supply.
+    :mac_os_version: '4.1'
+    :mac_os_max: 6.2.1
   :model_types_attributes:
   - :original_price:
       :us: 99
@@ -166,6 +172,7 @@
     :memory_slots: 0
     :display: Single Display
     :display_resolution: Multiple
+    :display_secondary: None
     :optical_drive: None
     :expansion_slots: None
     :battery_type: Unknown
@@ -178,6 +185,8 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
     :power: The Apple TV has a built-in 6-watt universal power supply.
+    :mac_os_version: '5.1'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 99
@@ -220,6 +229,7 @@
     :memory_slots: 0
     :display: Single Display
     :display_resolution: Multiple
+    :display_secondary: None
     :optical_drive: None
     :expansion_slots: None
     :battery_type: Unknown
@@ -232,6 +242,8 @@
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
     :power: The Apple TV has a built-in 6-watt universal power supply.
+    :mac_os_version: '6.1'
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 99

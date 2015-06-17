@@ -177,6 +177,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: 4 PCIe, AP/BL
@@ -195,6 +196,8 @@
     :geekbench_3_32_mc: 3670
     :geekbench_3_64_sc: 1173
     :geekbench_3_64_mc: 3944
+    :mac_os_version: 10.4.7
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 2199
@@ -381,6 +384,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: 4 PCIe, AP/BL
@@ -399,6 +403,8 @@
     :geekbench_3_32_mc: 4817
     :geekbench_3_64_sc: 1509
     :geekbench_3_64_mc: 5272
+    :mac_os_version: 10.4.7
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -595,6 +601,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: 4 PCIe, AP/BL
@@ -613,6 +620,8 @@
     :geekbench_3_32_mc: 5335
     :geekbench_3_64_sc: 1677
     :geekbench_3_64_mc: 5853
+    :mac_os_version: 10.4.7
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 3299
@@ -799,6 +808,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 6X DL "SuperDrive"
     :expansion_slots: 4 PCIe, AP/BL
@@ -817,6 +827,8 @@
     :geekbench_3_32_mc: 10433
     :geekbench_3_64_sc: 1662
     :geekbench_3_64_mc: 11071
+    :mac_os_version: 10.4.9
+    :mac_os_max: 10.7.5
   :model_types_attributes:
   - :original_price:
       :us: 3999
@@ -885,6 +897,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
@@ -903,6 +916,8 @@
     :geekbench_3_32_mc: 5210
     :geekbench_3_64_sc: 1640
     :geekbench_3_64_mc: 5516
+    :mac_os_version: 10.5.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2299
@@ -971,6 +986,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
@@ -989,6 +1005,8 @@
     :geekbench_3_32_mc: 10383
     :geekbench_3_64_sc: 1650
     :geekbench_3_64_mc: 11214
+    :mac_os_version: 10.5.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2799
@@ -1069,6 +1087,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
@@ -1087,6 +1106,8 @@
     :geekbench_3_32_mc: 10712
     :geekbench_3_64_sc: 1746
     :geekbench_3_64_mc: 11758
+    :mac_os_version: 10.5.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3599
@@ -1155,6 +1176,7 @@
     :graphics_card_max_vram: 256 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 8X DL "SuperDrive"
     :expansion_slots: 2 PCIe, 2 PCIe 2.0, AP
@@ -1173,6 +1195,8 @@
     :geekbench_3_32_mc: 11637
     :geekbench_3_64_sc: 1850
     :geekbench_3_64_mc: 12490
+    :mac_os_version: 10.5.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4399
@@ -1225,6 +1249,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1243,6 +1268,8 @@
     :geekbench_3_32_mc: 7156
     :geekbench_3_64_sc: 2073
     :geekbench_3_64_mc: 8034
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -1308,6 +1335,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1326,6 +1354,8 @@
     :geekbench_3_32_mc: 7806
     :geekbench_3_64_sc: 2135
     :geekbench_3_64_mc: 8561
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2999
@@ -1378,6 +1408,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1396,6 +1427,8 @@
     :geekbench_3_32_mc: 8690
     :geekbench_3_64_sc: 2519
     :geekbench_3_64_mc: 9942
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3699
@@ -1452,6 +1485,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1470,6 +1504,8 @@
     :geekbench_3_32_mc: 12256
     :geekbench_3_64_sc: 1810
     :geekbench_3_64_mc: 13837
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3299
@@ -1539,6 +1575,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1557,6 +1594,8 @@
     :geekbench_3_32_mc: 14673
     :geekbench_3_64_sc: 2157
     :geekbench_3_64_mc: 16503
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4699
@@ -1613,6 +1652,7 @@
     :graphics_card_max_vram: 512 MB
     :display: Up to 8 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0, AP
@@ -1631,6 +1671,8 @@
     :geekbench_3_32_mc: 15740
     :geekbench_3_64_sc: 2302
     :geekbench_3_64_mc: 17648
+    :mac_os_version: 10.5.6
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 5899
@@ -1709,6 +1751,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -1727,6 +1770,8 @@
     :geekbench_3_32_mc: 7511
     :geekbench_3_64_sc: 2139
     :geekbench_3_64_mc: 8369
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -1818,6 +1863,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -1836,6 +1882,8 @@
     :geekbench_3_32_mc: 8438
     :geekbench_3_64_sc: 2407
     :geekbench_3_64_mc: 9541
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2899
@@ -1923,6 +1971,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -1941,6 +1990,8 @@
     :geekbench_3_32_mc: 13969
     :geekbench_3_64_sc: 2745
     :geekbench_3_64_mc: 15541
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3699
@@ -2032,6 +2083,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2050,6 +2102,8 @@
     :geekbench_3_32_mc: 13917
     :geekbench_3_64_sc: 2000
     :geekbench_3_64_mc: 15462
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3499
@@ -2141,6 +2195,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2159,6 +2214,8 @@
     :geekbench_3_32_mc: 22383
     :geekbench_3_64_sc: 2326
     :geekbench_3_64_mc: 25131
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4999
@@ -2250,6 +2307,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2268,6 +2326,8 @@
     :geekbench_3_32_mc: 24274
     :geekbench_3_64_sc: 2492
     :geekbench_3_64_mc: 26926
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 6199
@@ -2325,6 +2385,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2343,6 +2404,8 @@
     :geekbench_3_32_mc: 7511
     :geekbench_3_64_sc: 2139
     :geekbench_3_64_mc: 8369
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2999
@@ -2404,6 +2467,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2422,6 +2486,8 @@
     :geekbench_3_32_mc: 8438
     :geekbench_3_64_sc: 2407
     :geekbench_3_64_mc: 9541
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3399
@@ -2480,6 +2546,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2498,6 +2565,8 @@
     :geekbench_3_32_mc: 13969
     :geekbench_3_64_sc: 2745
     :geekbench_3_64_mc: 15541
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4199
@@ -2559,6 +2628,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2577,6 +2647,8 @@
     :geekbench_3_32_mc: 13917
     :geekbench_3_64_sc: 2000
     :geekbench_3_64_mc: 15462
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3774
@@ -2635,6 +2707,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2653,6 +2726,8 @@
     :geekbench_3_32_mc: 22383
     :geekbench_3_64_sc: 2326
     :geekbench_3_64_mc: 25131
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 5274
@@ -2711,6 +2786,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2729,6 +2805,8 @@
     :geekbench_3_32_mc: 24274
     :geekbench_3_64_sc: 2492
     :geekbench_3_64_mc: 26926
+    :mac_os_version: 10.6.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 6474
@@ -2798,6 +2876,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2816,6 +2895,8 @@
     :geekbench_3_32_mc: 8438
     :geekbench_3_64_sc: 2407
     :geekbench_3_64_mc: 9541
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2499
@@ -2888,6 +2969,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2906,6 +2988,8 @@
     :geekbench_3_32_mc: 13969
     :geekbench_3_64_sc: 2745
     :geekbench_3_64_mc: 15541
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2999
@@ -2969,6 +3053,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -2987,6 +3072,8 @@
     :geekbench_3_32_mc: 20107
     :geekbench_3_64_sc: 2058
     :geekbench_3_64_mc: 22053
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3799
@@ -3059,6 +3146,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3077,6 +3165,8 @@
     :geekbench_3_32_mc: 22383
     :geekbench_3_64_sc: 2326
     :geekbench_3_64_mc: 25131
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4999
@@ -3143,6 +3233,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3161,6 +3252,8 @@
     :geekbench_3_32_mc: 25208
     :geekbench_3_64_sc: 2277
     :geekbench_3_64_mc: 26146
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 6199
@@ -3212,6 +3305,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3230,6 +3324,8 @@
     :geekbench_3_32_mc: 8438
     :geekbench_3_64_sc: 2407
     :geekbench_3_64_mc: 9541
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2999
@@ -3290,6 +3386,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3308,6 +3405,8 @@
     :geekbench_3_32_mc: 13969
     :geekbench_3_64_sc: 2745
     :geekbench_3_64_mc: 15541
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3499
@@ -3359,6 +3458,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3377,6 +3477,8 @@
     :geekbench_3_32_mc: 20107
     :geekbench_3_64_sc: 2058
     :geekbench_3_64_mc: 22053
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4074
@@ -3428,6 +3530,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3446,6 +3549,8 @@
     :geekbench_3_32_mc: 22383
     :geekbench_3_64_sc: 2326
     :geekbench_3_64_mc: 25131
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 5274
@@ -3497,6 +3602,7 @@
     :graphics_card_max_vram: 1 GB
     :display: Up to 6 Displays
     :display_resolution: 2560x1600
+    :display_secondary: Dual/Mirroring
     :hd_interface: Serial ATA (3 Gb/s)
     :optical_drive: 18X DL "SuperDrive"
     :expansion_slots: 4 PCIe 2.0
@@ -3515,6 +3621,8 @@
     :geekbench_3_32_mc: 25208
     :geekbench_3_64_sc: 2277
     :geekbench_3_64_mc: 26146
+    :mac_os_version: 10.7.4
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 6474
@@ -3563,6 +3671,7 @@
     :graphics_card_max_vram: 2 GB
     :display: Up to 6 Displays
     :display_resolution: 4K (3840x2160)
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -3581,6 +3690,8 @@
     :geekbench_3_32_mc: 12780
     :geekbench_3_64_sc: 3578
     :geekbench_3_64_mc: 14426
+    :mac_os_version: 10.9.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 2999
@@ -3638,6 +3749,7 @@
     :graphics_card_max_vram: 3 GB
     :display: Up to 6 Displays
     :display_resolution: 4K (3840x2160)
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -3656,6 +3768,8 @@
     :geekbench_3_32_mc: 18266
     :geekbench_3_64_sc: 3574
     :geekbench_3_64_mc: 20654
+    :mac_os_version: 10.9.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 3999
@@ -3713,6 +3827,7 @@
     :graphics_card_max_vram: 3 GB
     :display: Up to 6 Displays
     :display_resolution: 4K (3840x2160)
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -3731,6 +3846,8 @@
     :geekbench_3_32_mc: 22761
     :geekbench_3_64_sc: 3566
     :geekbench_3_64_mc: 25648
+    :mac_os_version: 10.9.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 4999
@@ -3808,6 +3925,7 @@
     :graphics_card_max_vram: 3 GB
     :display: Up to 6 Displays
     :display_resolution: 4K (3840x2160)
+    :display_secondary: Dual/Mirroring
     :hd_interface: Proprietary* (PCIe)
     :optical_drive: None
     :expansion_slots: None
@@ -3826,6 +3944,8 @@
     :geekbench_3_32_mc: 28882
     :geekbench_3_64_sc: 3177
     :geekbench_3_64_mc: 32797
+    :mac_os_version: 10.9.1
+    :mac_os_max: Latest
   :model_types_attributes:
   - :original_price:
       :us: 6499

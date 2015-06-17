@@ -38,8 +38,9 @@
     :cell_network: Wi-Fi Only
     :camera: None
     :cell_standby_time: One Month
-    :iphone_standard_os: iPhone OS 3.2 (7B367)
-    :iphone_max_os: iOS 5.1.1
+    :iphone_standard_os: '3.2'
+    :iphone_max_os: 5.1.1
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -133,8 +134,9 @@
     :cell_network: 2G/3G Data (GSM)
     :camera: None
     :cell_standby_time: One Month
-    :iphone_standard_os: iPhone OS 3.2 (7B367)
-    :iphone_max_os: iOS 5.1.1
+    :iphone_standard_os: '3.2'
+    :iphone_max_os: 5.1.1
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -224,6 +226,7 @@
     :max_memory: 512 MB
     :display: 9.7" Color
     :display_resolution: 1024x768 (132 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (25Whr)
     :battery_life: 10 Hours
     :dimensions: 241.3x185.6x8.6
@@ -237,8 +240,9 @@
     :geekbench_3_32_mc: 496
     :cell_network: Wi-Fi Only
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 4.3 (8F190)
-    :iphone_max_os: Current
+    :iphone_standard_os: '4.3'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -329,6 +333,7 @@
     :max_memory: 512 MB
     :display: 9.7" Color
     :display_resolution: 1024x768 (132 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (25Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x8.6
@@ -342,8 +347,9 @@
     :geekbench_3_32_mc: 496
     :cell_network: 2G/3G Data (GSM)
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 4.3 (8F190)
-    :iphone_max_os: Current
+    :iphone_standard_os: '4.3'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -429,6 +435,7 @@
     :max_memory: 512 MB
     :display: 9.7" Color
     :display_resolution: 1024x768 (132 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (25Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x8.6
@@ -442,8 +449,9 @@
     :geekbench_3_32_mc: 496
     :cell_network: 3G Data (CDMA)
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 4.3 (8F190)
-    :iphone_max_os: Current
+    :iphone_standard_os: '4.3'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -474,6 +482,7 @@
     :max_memory: 512 MB
     :display: 9.7" Color
     :display_resolution: 1024x768 (132 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (25Whr)
     :battery_life: 10 Hours
     :dimensions: 241.3x185.6x8.6
@@ -487,8 +496,9 @@
     :geekbench_3_32_mc: 488
     :cell_network: Wi-Fi Only
     :camera: 0.7 Megapixels
-    :iphone_standard_os: iOS 4.3 (8F190)
-    :iphone_max_os: Current
+    :iphone_standard_os: '4.3'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 399
@@ -543,6 +553,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -556,8 +567,9 @@
     :geekbench_3_32_mc: 493
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 5.1 (9B176)
-    :iphone_max_os: Current
+    :iphone_standard_os: '5.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -644,6 +656,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -657,8 +670,9 @@
     :geekbench_3_32_mc: 493
     :cell_network: GSM (700, 2100)
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 5.1 (9B176)
-    :iphone_max_os: Current
+    :iphone_standard_os: '5.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -745,6 +759,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -758,8 +773,9 @@
     :geekbench_3_32_mc: 493
     :cell_network: GSM (700), CDMA
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 5.1 (9B176)
-    :iphone_max_os: Current
+    :iphone_standard_os: '5.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.5.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -811,6 +827,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -824,8 +841,9 @@
     :geekbench_3_32_mc: 1410
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -942,6 +960,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -955,8 +974,9 @@
     :geekbench_3_32_mc: 1410
     :cell_network: GSM/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -1028,6 +1048,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (42.5 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 241.3x185.6x9.3
@@ -1041,8 +1062,9 @@
     :geekbench_3_32_mc: 1410
     :cell_network: GSM/CDMA/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -1152,6 +1174,7 @@
     :max_memory: 512 MB
     :display: 7.9" Color
     :display_resolution: 1024x768 (163 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (16.3 Whr)
     :battery_life: 10 Hours
     :dimensions: 199.8x134.6x7.1
@@ -1165,8 +1188,9 @@
     :geekbench_3_32_mc: 492
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 329
@@ -1262,6 +1286,7 @@
     :max_memory: 512 MB
     :display: 7.9" Color
     :display_resolution: 1024x768 (163 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (16.3 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 199.8x134.6x7.1
@@ -1275,8 +1300,9 @@
     :geekbench_3_32_mc: 492
     :cell_network: GSM/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 459
@@ -1338,6 +1364,7 @@
     :max_memory: 512 MB
     :display: 7.9" Color
     :display_resolution: 1024x768 (163 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (16.3 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 199.8x134.6x7.1
@@ -1351,8 +1378,9 @@
     :geekbench_3_32_mc: 492
     :cell_network: GSM/CDMA/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 6
-    :iphone_max_os: Current
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 459
@@ -1452,6 +1480,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (32.4 Whr)
     :battery_life: 10 Hours
     :dimensions: 238.7x167.6x7.3
@@ -1467,8 +1496,9 @@
     :geekbench_3_64_mc: 2669
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.0.3
-    :iphone_max_os: Current
+    :iphone_standard_os: 7.0.3
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -1602,6 +1632,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (32.4 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 238.7x167.6x7.3
@@ -1617,8 +1648,9 @@
     :geekbench_3_64_mc: 2669
     :cell_network: GSM/CDMA/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.0.3
-    :iphone_max_os: Current
+    :iphone_standard_os: 7.0.3
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -1718,6 +1750,7 @@
     :max_memory: 1 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (32.4 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 238.7x167.6x7.3
@@ -1733,8 +1766,9 @@
     :geekbench_3_64_mc: 2669
     :cell_network: GSM/TD-LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.1 (11D167)
-    :iphone_max_os: Current
+    :iphone_standard_os: '7.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price: {}
     :details:
@@ -1778,6 +1812,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -1793,8 +1828,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.0.3
-    :iphone_max_os: Current
+    :iphone_standard_os: 7.0.3
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 399
@@ -1927,6 +1963,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -1942,8 +1979,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: GSM/CDMA/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.0.3
-    :iphone_max_os: Current
+    :iphone_standard_os: 7.0.3
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 529
@@ -2043,6 +2081,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -2058,8 +2097,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: GSM/TD-LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 7.1 (11D167)
-    :iphone_max_os: Current
+    :iphone_standard_os: '7.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price: {}
     :details:
@@ -2101,6 +2141,7 @@
     :max_memory: 2 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (27.3 Whr)
     :battery_life: 10 Hours
     :dimensions: 238.7x167.6x6.0
@@ -2114,8 +2155,9 @@
     :geekbench_3_64_mc: 4403
     :cell_network: Wi-Fi Only
     :camera: 8 Megapixels
-    :iphone_standard_os: iOS 8.1 (12B410)
-    :iphone_max_os: Current
+    :iphone_standard_os: '8.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 499
@@ -2204,6 +2246,7 @@
     :max_memory: 2 GB
     :display: 9.7" Color
     :display_resolution: 2048x1536 (264 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (27.3 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 238.7x167.6x6.0
@@ -2217,8 +2260,9 @@
     :geekbench_3_64_mc: 4403
     :cell_network: GSM/CDMA/LTE
     :camera: 8 Megapixels
-    :iphone_standard_os: iOS 8.1 (12B410)
-    :iphone_max_os: Current
+    :iphone_standard_os: '8.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 629
@@ -2308,6 +2352,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -2323,8 +2368,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: Wi-Fi Only
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 8.1 (12B410)
-    :iphone_max_os: Current
+    :iphone_standard_os: '8.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 399
@@ -2411,6 +2457,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -2426,8 +2473,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: GSM/CDMA/LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 8.1 (12B410)
-    :iphone_max_os: Current
+    :iphone_standard_os: '8.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price:
       :us: 529
@@ -2512,6 +2560,7 @@
     :max_memory: 1 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
     :battery_type: Lithium Polymer (23.8 Whr)
     :battery_life: 9-10 Hours
     :dimensions: 199.8x134.6x7.3
@@ -2527,8 +2576,9 @@
     :geekbench_3_64_mc: 2496
     :cell_network: GSM/TD-LTE
     :camera: 5 Megapixels
-    :iphone_standard_os: iOS 8.1 (12B410)
-    :iphone_max_os: Current
+    :iphone_standard_os: '8.1'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.6.8
   :model_types_attributes:
   - :original_price: {}
     :details:
