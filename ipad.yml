@@ -1167,6 +1167,7 @@
   - FPB4
   :short_name: iPad mini (Wi-Fi)
   :released_at: 2012-10-23
+  :discontinued_at: 2015-06-19
   :details:
     :processor_type: Apple A5
     :processor_count: 1 (2 Cores)
@@ -1279,6 +1280,7 @@
   - FPFQ
   :short_name: iPad mini (AT&T)
   :released_at: 2012-10-23
+  :discontinued_at: 2015-06-19
   :details:
     :processor_type: Apple A5
     :processor_count: 1 (2 Cores)
@@ -1357,6 +1359,7 @@
   - FPFL
   :short_name: iPad mini (VZ/SP)
   :released_at: 2012-10-23
+  :discontinued_at: 2015-06-19
   :details:
     :processor_type: Apple A5
     :processor_count: 1 (2 Cores)
