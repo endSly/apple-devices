@@ -6780,6 +6780,8 @@
   :serial_number:
   - G56K
   - G56J
+  - FY0V
+  - FYOV
   :short_name: iMac i5 1.4 21.5 2014
   :released_at: 2014-06-18
   :details:
@@ -6857,6 +6859,9 @@
   - MF886LL/A
   :serial_number:
   - FY11
+  - FYII
+  - FY14
+  - FYI4
   :short_name: iMac i5 3.5 27 R5K 2014
   :released_at: 2014-10-16
   :details:

@@ -33,7 +33,8 @@
     :processor_count: '1'
     :processor_speed: 1.0 GHz
     :processor_bus_speed: 400 MHz
-    :processor_bus_details: 400 MHz frontside bus.
+    :processor_bus_details: The original Apple TV set top box has a 400 MHz frontside
+      bus.
     :processor_cache_bus_speed: 1 GHz (built-in)
     :processor_l1_cache: 32k
     :processor_l2_cache: 2 MB (on chip)
@@ -58,7 +59,8 @@
     :usb_ports: 1 (2.0)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/AppleTV_SetupGuide.pdf
-    :power: The Apple TV has a built-in 48-watt universal power supply.
+    :power: The original Apple TV has an internal, built-in 48-watt universal power
+      supply.
     :mac_os_version: 10.4.7
     :mac_os_max: 10.4.7
   :model_types_attributes:

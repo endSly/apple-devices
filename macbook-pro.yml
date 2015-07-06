@@ -6219,6 +6219,7 @@
   :serial_number:
   - FD56
   - FDS6
+  - FTPL
   :short_name: MacBook Pro i7 2.0 15 I
   :released_at: 2013-10-22
   :discontinued_at: 2014-07-29
@@ -6624,6 +6625,7 @@
   :serial_number:
   - G3QH
   - G3QJ
+  - G3QL
   - G3QQ
   :short_name: MacBook Pro i5 2.6 13 M
   :released_at: 2014-07-29

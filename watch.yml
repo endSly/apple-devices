@@ -38,12 +38,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 549
+      :es: 669
       :fr: 649
       :de: 649
       :ca: 699
       :uk: 479
       :au: 799
       :jp: 66800
+      :it: 669
+      :nl: 669
+      :mx: 10999
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
@@ -85,12 +89,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 599
+      :es: 719
       :fr: 699
       :de: 699
       :ca: 779
       :uk: 519
       :au: 879
       :jp: 71800
+      :it: 719
+      :nl: 719
+      :mx: 11999
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
@@ -127,12 +135,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 349
+      :es: 419
       :fr: 399
       :de: 399
       :ca: 449
       :uk: 299
       :au: 499
       :jp: 42800
+      :it: 419
+      :nl: 419
+      :mx: 6799
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
@@ -170,12 +182,16 @@
   :model_types_attributes:
   - :original_price:
       :us: 399
+      :es: 469
       :fr: 449
       :de: 449
       :ca: 519
       :uk: 339
       :au: 579
       :jp: 48800
+      :it: 469
+      :nl: 469
+      :mx: 7799
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
@@ -209,22 +225,30 @@
   :model_types_attributes:
   - :original_price:
       :us: 10000
+      :es: 11
       :fr: 11000
       :de: 11000
       :ca: 13000
       :uk: 8000
       :au: 14000
       :jp: 1280
+      :it: 11
+      :nl: 11200
+      :mx: 185000
     :details:
       :hd_capacity: 8 GB
   - :original_price:
       :us: 17000
+      :es: 18
       :fr: 18000
       :de: 18000
       :ca: 22000
       :uk: 13500
       :au: 24000
       :jp: 2180
+      :it: 18
+      :nl: 18400
+      :mx: 315000
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
@@ -260,21 +284,29 @@
   :model_types_attributes:
   - :original_price:
       :us: 12000
+      :es: 13
       :fr: 13000
       :de: 13000
       :ca: 15500
       :uk: 9500
       :au: 17000
       :jp: 1480
+      :it: 13
+      :nl: 13200
+      :mx: 220000
     :details:
       :hd_capacity: 8 GB
   - :original_price:
       :us: 15000
+      :es: 16
       :fr: 16000
       :de: 16000
       :ca: 19000
       :uk: 12000
       :au: 21000
       :jp: 1880
+      :it: 16
+      :nl: 16400
+      :mx: 275000
     :details:
       :hd_capacity: 8 GB
