@@ -3274,7 +3274,7 @@
       bus. Intel reports that it runs at 2.5 GT/s.'
     :processor_cache_bus_speed: 2.66 GHz (Built-in)
     :processor_l1_cache: 32k/32k x2
-    :processor_l2_cache: 256k x 2, 3 MB
+    :processor_l2_cache: 256k x 2, 4 MB
     :processor_turbo_boost: 3.33 GHz
     :memory_type: PC3-8500 DDR3
     :memory_speed: 1066 MHz
@@ -3343,7 +3343,7 @@
       bus. Intel reports that it runs at 2.5 GT/s.'
     :processor_cache_bus_speed: 2.8 GHz (Built-in)
     :processor_l1_cache: 32k/32k x2
-    :processor_l2_cache: 256k x 2, 3 MB
+    :processor_l2_cache: 256k x 2, 4 MB
     :processor_turbo_boost: 3.46 GHz
     :memory_type: PC3-8500 DDR3
     :memory_speed: 1066 MHz
@@ -7304,7 +7304,7 @@
     :display: 13.3" Widescreen
     :display_resolution: 2560x1600
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe x4)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 74.9 W h Li-Poly
@@ -7375,6 +7375,8 @@
   :model_identifier: MacBookPro12,1
   :order_number:
   - MF841LL/A
+  :serial_number:
+  - FVH7
   :short_name: MacBook Pro i5 2.9 13 E
   :released_at: 2015-03-09
   :details:
@@ -7401,7 +7403,7 @@
     :display: 13.3" Widescreen
     :display_resolution: 2560x1600
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe x4)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 74.9 W h Li-Poly
@@ -7479,7 +7481,7 @@
     :display: 13.3" Widescreen
     :display_resolution: 2560x1600
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe x4)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 74.9 W h Li-Poly
@@ -7557,7 +7559,7 @@
     :display: 15.4" Widescreen
     :display_resolution: 2880x1800
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe)
+    :hd_interface: Proprietary* (PCIe2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 99.5 W h Li-Poly
@@ -7633,7 +7635,7 @@
     :display: 15.4" Widescreen
     :display_resolution: 2880x1800
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe)
+    :hd_interface: Proprietary* (PCIe2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 99.5 W h Li-Poly
@@ -7709,7 +7711,7 @@
     :display: 15.4" Widescreen
     :display_resolution: 2880x1800
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 99.5 W h Li-Poly
@@ -7787,7 +7789,7 @@
     :display: 15.4" Widescreen
     :display_resolution: 2880x1800
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 99.5 W h Li-Poly
@@ -7863,7 +7865,7 @@
     :display: 15.4" Widescreen
     :display_resolution: 2880x1800
     :display_secondary: Dual/Mirroring
-    :hd_interface: Proprietary* (PCIe)
+    :hd_interface: Proprietary* (PCIe 2.0 x4)
     :optical_drive: None
     :expansion_slots: SDXC Card Slot
     :battery_type: 99.5 W h Li-Poly

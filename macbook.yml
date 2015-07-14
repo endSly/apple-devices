@@ -1881,7 +1881,9 @@
     :usb_ports: 1 (C)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
-    :power: 100V-240V AC, 29W "USB-C" power adapter.
+    :power: 100V-240V AC, 29W "USB-C" power adapter.<br><br><a class="small" href="http://www.everymac.com/systems/apple/macbook/macbook-retina-faq/macbook-retina-display-ethernet-power-adapters.html">What</a>
+      type of power connector does the Retina Display MacBook use? Is it compatible
+      with "MagSafe" power connectors?
     :geekbench_3_32_sc: 2138
     :geekbench_3_32_mc: 3994
     :geekbench_3_64_sc: 2341
@@ -1908,7 +1910,6 @@
     :details:
       :standard_memory: 8 GB
       :graphics_card_vram: 1 GB
-      :hd_type: SSD
       :hd_capacity: 256 GB
 - :vendor: Apple
   :subfamily: MacBook Retina 12"
@@ -1961,7 +1962,9 @@
     :usb_ports: 1 (C)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
-    :power: 100V-240V AC, 29W "USB-C" power adapter.
+    :power: 100V-240V AC, 29W "USB-C" power adapter.<br><br><a class="small" href="http://www.everymac.com/systems/apple/macbook/macbook-retina-faq/macbook-retina-display-ethernet-power-adapters.html">What</a>
+      type of power connector does the Retina Display MacBook use? Is it compatible
+      with "MagSafe" power connectors?
     :geekbench_3_32_sc: 2177
     :geekbench_3_32_mc: 4377
     :geekbench_3_64_sc: 2415
@@ -1988,7 +1991,6 @@
     :details:
       :standard_memory: 8 GB
       :graphics_card_vram: 1 GB
-      :hd_type: SSD
       :hd_capacity: 512 GB
 - :vendor: Apple
   :subfamily: MacBook Retina 12"
@@ -2039,7 +2041,9 @@
     :usb_ports: 1 (C)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/macbook_retina_12_inch_early2015_essentials.pdf
-    :power: 100V-240V AC, 29W "USB-C" power adapter.
+    :power: 100V-240V AC, 29W "USB-C" power adapter.<br><br><a class="small" href="http://www.everymac.com/systems/apple/macbook/macbook-retina-faq/macbook-retina-display-ethernet-power-adapters.html">What</a>
+      type of power connector does the Retina Display MacBook use? Is it compatible
+      with "MagSafe" power connectors?
     :geekbench_3_32_sc: 2293
     :geekbench_3_32_mc: 4516
     :geekbench_3_64_sc: 2671
@@ -2065,7 +2069,6 @@
     :details:
       :standard_memory: 8 GB
       :graphics_card_vram: 1 GB
-      :hd_type: SSD
       :hd_capacity: 256 GB
   - :original_price:
       :us: 1749
@@ -2085,5 +2088,4 @@
     :details:
       :standard_memory: 8 GB
       :graphics_card_vram: 1 GB
-      :hd_type: SSD
       :hd_capacity: 512 GB
