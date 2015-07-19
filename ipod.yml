@@ -1868,6 +1868,7 @@
   - FJQI
   :short_name: iPod nano (7th Gen)
   :released_at: 2012-09-12
+  :discontinued_at: 2015-07-15
   :details:
     :processor_type: Samsung ARM
     :display: 2.5" LCD
@@ -1902,6 +1903,61 @@
       :at: 179
       :nz: 229
       :mx: 2399
+    :details:
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod nano 7th Gen
+  :model: iPod
+  :model_name: nano (7th Gen/2.5" Multitouch - 2015)
+  :model_number: A1446
+  :model_identifier: None
+  :order_number:
+  - MKN52LL/A
+  - MKMX2LL/A
+  - MKN22LL/A
+  - MKMV2LL/A
+  - MKN02LL/A
+  - MKN72LL/A
+  :serial_number:
+  - GK61
+  - GK62
+  - GK65
+  :short_name: iPod nano 7th Gen 2015
+  :released_at: 2015-07-15
+  :details:
+    :processor_type: Samsung ARM
+    :display: 2.5" LCD
+    :display_resolution: 240x432
+    :battery_type: Lithium Ion
+    :battery_life: 30 Hours
+    :dimensions: 76.4x39.6x5.3
+    :weight: 1.1 ounces
+    :wifi: None
+    :bluetooth: '4.0'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/iPod_nano_2015_user_guide.pdf
+    :cell_network: None
+    :camera: None
+    :iphone_standard_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+      :es: 179
+      :fr: 189
+      :de: 179
+      :ca: 179
+      :uk: 129
+      :au: 219
+      :jp: 17800
+      :fi: 189
+      :pt: 189
+      :it: 189
+      :nl: 179
+      :at: 189
+      :nz: 269
+      :mx: 2799
     :details:
       :hd_capacity: 16 GB
 - :vendor: Apple
@@ -2438,6 +2494,7 @@
   - FJDH
   :short_name: iPod shuffle 2012
   :released_at: 2012-09-12
+  :discontinued_at: 2015-07-15
   :details:
     :processor_type: Samsung ARM
     :display: None
@@ -2470,6 +2527,58 @@
       :at: 55
       :nz: 69
       :mx: 799
+    :details:
+      :hd_capacity: 2 GB
+- :vendor: Apple
+  :subfamily: iPod shuffle 4th Gen
+  :model: iPod
+  :model_name: shuffle 4th Gen (Mid-2015)
+  :model_number: A1373
+  :model_identifier: None
+  :order_number:
+  - MKMJ2LL/A
+  - MKMG2LL/A
+  - MKM92LL/A
+  - MKM72LL/A
+  - MKME2LL/A
+  - MKML2LL/A
+  :serial_number:
+  - GK69
+  - GK6F
+  :short_name: iPod shuffle 2015
+  :released_at: 2015-07-15
+  :details:
+    :processor_type: Samsung ARM
+    :display: None
+    :battery_type: Lithium Ion
+    :battery_life: 15 Hours
+    :dimensions: 28.9x31.4x8.6
+    :weight: 0.44 ounce
+    :wifi: None
+    :bluetooth: None
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/iPod_shuffle_2015_user_guide.pdf
+    :cell_network: None
+    :camera: None
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 49
+      :es: 55
+      :fr: 59
+      :de: 55
+      :ca: 59
+      :uk: 40
+      :au: 75
+      :jp: 5800
+      :fi: 59
+      :pt: 59
+      :it: 59
+      :nl: 55
+      :at: 59
+      :nz: 89
+      :mx: 929
     :details:
       :hd_capacity: 2 GB
 - :vendor: Apple
@@ -3108,6 +3217,7 @@
   - DJFF
   :short_name: iPod touch 5th Gen
   :released_at: 2012-09-12
+  :discontinued_at: 2015-07-15
   :details:
     :processor_type: Apple A5
     :processor_count: 1 (2 Cores)
@@ -3243,6 +3353,7 @@
   - G22Y
   :short_name: iPod touch 5th/16 GB
   :released_at: 2014-06-26
+  :discontinued_at: 2015-07-15
   :details:
     :processor_type: Apple A5
     :processor_count: 1 (2 Cores)
@@ -3286,3 +3397,145 @@
     :details:
       :standard_memory: 512 MB
       :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPod touch 6th Gen
+  :model: iPod
+  :model_name: touch (6th Gen, 2015)
+  :model_number: A1574
+  :model_identifier: iPod7,1
+  :order_number:
+  - MKH42LL/A
+  - MKHX2LL/A
+  - MKHJ2LL/A
+  - MKWR2LL/A
+  - MKH02LL/A
+  - MKHT2LL/A
+  - MKHC2LL/A
+  - MKWM2LL/A
+  - MKH62LL/A
+  - MKJ02LL/A
+  - MKHL2LL/A
+  - MKWU2LL/A
+  - MKGX2LL/A
+  - MKHQ2LL/A
+  - MKGW2LL/A
+  - MKWK2LL/A
+  - MKH22LL/A
+  - MKHV2LL/A
+  - MKHE2LL/A
+  - MKWP2LL/A
+  - MKH82LL/A
+  - MKJ22LL/A
+  - MKHN2LL/A
+  - MKWW2LL/A
+  :serial_number:
+  - GGK3
+  - GGK4
+  - GGK7
+  - GGK8
+  - GGK9
+  - GGNJ
+  - GGNK
+  - GGNL
+  :short_name: iPod touch 6th Gen
+  :released_at: 2015-07-15
+  :details:
+    :processor_type: Apple A8
+    :processor_count: 1 (2 Cores)
+    :processor_speed: 1.1 GHz
+    :max_memory: 1 GB
+    :display: 4" Color
+    :display_resolution: 1136x640 (326 ppi)
+    :battery_type: Lithium Ion
+    :battery_life: 40 Hours
+    :dimensions: 123.4x58.6x6.0
+    :weight: 88
+    :wifi: 802.11a/b/g/n/ac
+    :bluetooth: '4.1'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: https://manuals.info.apple.com/en_US/iPod_touch_2015_user_guide.pdf
+    :geekbench_3_64_sc: 1377
+    :geekbench_3_64_mc: 2434
+    :cell_network: None
+    :camera: 8 Megapixels
+    :iphone_standard_os: '8.4'
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :es: 229
+      :fr: 239
+      :de: 229
+      :ca: 249
+      :uk: 159
+      :au: 279
+      :jp: 24800
+      :fi: 239
+      :pt: 239
+      :it: 239
+      :nl: 229
+      :at: 239
+      :nz: 349
+      :mx: 3699
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 249
+      :es: 279
+      :fr: 289
+      :de: 279
+      :ca: 299
+      :uk: 199
+      :au: 349
+      :jp: 29800
+      :fi: 289
+      :pt: 299
+      :it: 289
+      :nl: 279
+      :at: 289
+      :nz: 429
+      :mx: 4599
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 299
+      :es: 339
+      :fr: 369
+      :de: 339
+      :ca: 369
+      :uk: 249
+      :au: 419
+      :jp: 36800
+      :fi: 349
+      :pt: 369
+      :it: 349
+      :nl: 339
+      :at: 349
+      :nz: 499
+      :mx: 5499
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+      :es: 449
+      :fr: 489
+      :de: 449
+      :ca: 499
+      :uk: 329
+      :au: 579
+      :jp: 48800
+      :fi: 469
+      :pt: 489
+      :it: 469
+      :nl: 449
+      :at: 469
+      :nz: 679
+      :mx: 7499
+    :details:
+      :standard_memory: 1 GB
+      :hd_capacity: 128 GB

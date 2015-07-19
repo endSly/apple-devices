@@ -4199,7 +4199,7 @@
     :processor_cache_bus_speed: 2.2 GHz (Built-in)
     :processor_l1_cache: 32k/32k x2
     :processor_l2_cache: 256k x 4, 6 MB
-    :processor_turbo_boost: 3.3 GHz
+    :processor_turbo_boost: 3.1 GHz
     :memory_type: PC3-10600 DDR3
     :memory_speed: 1333 MHz
     :max_memory: 16 GB
