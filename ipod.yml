@@ -3437,10 +3437,12 @@
   - GGNJ
   - GGNK
   - GGNL
+  - GGNQ
   :short_name: iPod touch 6th Gen
   :released_at: 2015-07-15
   :details:
     :processor_type: Apple A8
+    :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
     :processor_speed: 1.1 GHz
     :max_memory: 1 GB

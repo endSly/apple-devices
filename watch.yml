@@ -47,6 +47,7 @@
       :jp: 66800
       :it: 669
       :nl: 669
+      :nz: 949
       :mx: 10999
     :details:
       :hd_capacity: 8 GB
@@ -98,6 +99,7 @@
       :jp: 71800
       :it: 719
       :nl: 719
+      :nz: 1049
       :mx: 11999
     :details:
       :hd_capacity: 8 GB
@@ -144,6 +146,7 @@
       :jp: 42800
       :it: 419
       :nl: 419
+      :nz: 599
       :mx: 6799
     :details:
       :hd_capacity: 8 GB
@@ -191,6 +194,7 @@
       :jp: 48800
       :it: 469
       :nl: 469
+      :nz: 699
       :mx: 7799
     :details:
       :hd_capacity: 8 GB
@@ -234,6 +238,7 @@
       :jp: 1280
       :it: 11
       :nl: 11200
+      :nz: 17500
       :mx: 185000
     :details:
       :hd_capacity: 8 GB
@@ -248,6 +253,7 @@
       :jp: 2180
       :it: 18
       :nl: 18400
+      :nz: 30000
       :mx: 315000
     :details:
       :hd_capacity: 8 GB
@@ -293,6 +299,7 @@
       :jp: 1480
       :it: 13
       :nl: 13200
+      :nz: 21000
       :mx: 220000
     :details:
       :hd_capacity: 8 GB
@@ -307,6 +314,7 @@
       :jp: 1880
       :it: 16
       :nl: 16400
+      :nz: 26500
       :mx: 275000
     :details:
       :hd_capacity: 8 GB
