@@ -5761,6 +5761,7 @@
   :serial_number:
   - FFT1
   - FFTI
+  - FGT7
   :short_name: MacBook Pro i7 2.7 15
   :released_at: 2013-02-13
   :discontinued_at: 2013-10-22
@@ -7195,6 +7196,7 @@
   :order_number:
   - BTO/CTO
   :serial_number:
+  - G3QG
   - G3QP
   :short_name: MacBook Pro i7 2.8 15 D
   :released_at: 2014-07-29

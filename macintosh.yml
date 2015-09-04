@@ -152,6 +152,8 @@
   :model: Macintosh
   :model_name: Plus (ED)
   :model_number: M0001A
+  :order_number:
+  - M2503
   :short_name: Mac Plus (ED)
   :released_at: 1986-01-16
   :discontinued_at: 1990-10-15
@@ -191,6 +193,10 @@
   :model: Macintosh
   :model_name: SE
   :model_number: M5010
+  :order_number:
+  - M5900
+  - M5910
+  - M5355
   :short_name: Mac SE
   :released_at: 1987-03-02
   :discontinued_at: 1989-08-01
@@ -280,6 +286,10 @@
   :model: Macintosh
   :model_name: SE/30
   :model_number: M5119
+  :order_number:
+  - M5392
+  - M5390
+  - M5361
   :short_name: Mac SE/30
   :released_at: 1989-01-19
   :discontinued_at: 1991-10-21
@@ -324,6 +334,9 @@
   :model: Macintosh
   :model_name: Classic
   :model_number: M0420, M1420
+  :order_number:
+  - M0421LL/A
+  - M0435LL/A
   :short_name: Mac Classic
   :released_at: 1990-10-15
   :discontinued_at: 1992-09-14
@@ -370,6 +383,10 @@
   :model: Macintosh
   :model_name: Classic II
   :model_number: M4150
+  :order_number:
+  - M1540LL/A
+  - M1543LL/A
+  - M1542LL/A
   :short_name: Mac Classic II
   :released_at: 1991-10-21
   :discontinued_at: 1993-09-13
@@ -416,6 +433,10 @@
   :model: Macintosh
   :model_name: Color Classic
   :model_number: M1600
+  :order_number:
+  - M1601LL/A
+  - M1602LL/A
+  - M1605LL/A
   :serial_number:
   - C2C
   :short_name: Mac Color Classic
@@ -462,6 +483,8 @@
   :model: Macintosh
   :model_name: Color Classic II
   :model_number: M1600
+  :order_number:
+  - M2158J/A
   :short_name: Mac Color Classic II
   :released_at: 1993-10-01
   :discontinued_at: 1994-05-01
@@ -549,6 +572,10 @@
   :model: Macintosh
   :model_name: II (Original)
   :model_number: M5000
+  :order_number:
+  - M5333
+  - M5430
+  - M5410
   :short_name: Macintosh II
   :released_at: 1987-03-02
   :discontinued_at: 1990-01-15
@@ -594,6 +621,10 @@
   :model: Macintosh
   :model_name: IIx
   :model_number: M5840
+  :order_number:
+  - M5280
+  - M5830
+  - M5850
   :short_name: Macintosh IIx
   :released_at: 1988-09-19
   :discontinued_at: 1990-10-15
@@ -644,6 +675,10 @@
   :model: Macintosh
   :model_name: IIcx
   :model_number: M5650
+  :order_number:
+  - M5660
+  - M5610
+  - M5690
   :short_name: Macintosh IIcx
   :released_at: 1989-03-07
   :discontinued_at: 1991-03-11
@@ -689,6 +724,15 @@
   :model: Macintosh
   :model_name: IIci
   :model_number: M5780
+  :order_number:
+  - M5710LL/A
+  - M5715LL/A
+  - M5737LL/A
+  - M5740LL/A
+  - M5745LL/A
+  - M5750LL/A
+  - M5745LL/A
+  - M5750LL/A
   :short_name: Macintosh IIci
   :released_at: 1989-09-20
   :discontinued_at: 1993-02-10
@@ -735,6 +779,12 @@
   :model: Macintosh
   :model_name: IIfx
   :model_number: M5525
+  :order_number:
+  - M5510LL/A
+  - M5515LL/A
+  - M5520LL/A
+  - M5523LL/A
+  - M5524LL/A
   :short_name: Macintosh IIfx
   :released_at: 1990-03-19
   :discontinued_at: 1992-04-15
@@ -779,6 +829,12 @@
   :model: Macintosh
   :model_name: IIsi
   :model_number: M0360
+  :order_number:
+  - M0363LL/A
+  - M0364LL/A
+  - M0364LL/B
+  - M0491LL/B
+  - M0954LL/A
   :short_name: Macintosh IIsi
   :released_at: 1990-10-15
   :discontinued_at: 1993-03-15
@@ -830,6 +886,9 @@
   :model: Macintosh
   :model_name: IIvi
   :model_number: M1350
+  :order_number:
+  - M1378J/A
+  - M1354J/A
   :short_name: Macintosh IIvi
   :released_at: 1992-10-19
   :discontinued_at: 1993-02-10
@@ -875,6 +934,10 @@
   :model: Macintosh
   :model_name: IIvx
   :model_number: M1350
+  :order_number:
+  - M1355LL/A
+  - M1371LL/A
+  - M1373LL/A
   :short_name: Macintosh IIvx
   :released_at: 1992-10-19
   :discontinued_at: 1993-10-21

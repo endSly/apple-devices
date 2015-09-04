@@ -9,6 +9,7 @@
   - M6709LL/A
   - M6709LL/B
   :serial_number:
+  - DDM
   - DFN
   - DFP
   - DHP
@@ -231,6 +232,7 @@
   - GT0
   - GTO
   - GT1
+  - GUQ
   - GUR
   - GUS
   - GUT
@@ -1624,6 +1626,7 @@
   - NJ0
   - NJO
   - NL8
+  - NLB
   - NL9
   - NLA
   - SD3

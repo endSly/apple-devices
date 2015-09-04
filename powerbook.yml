@@ -4,6 +4,9 @@
   :model: PowerBook
   :model_name: '100'
   :model_number: M1506
+  :order_number:
+  - M0567LL/A
+  - M1045LL/A
   :short_name: PowerBook 100
   :released_at: 1991-10-21
   :discontinued_at: 1992-08-03
@@ -48,6 +51,10 @@
   :model: PowerBook
   :model_name: '140'
   :model_number: M5416
+  :order_number:
+  - M0511LL/A
+  - M1049LL/A
+  - M1227LL/A
   :short_name: PowerBook 140
   :released_at: 1991-10-21
   :discontinued_at: 1992-08-03
@@ -93,6 +100,9 @@
   :model: PowerBook
   :model_name: '145'
   :model_number: M5409
+  :order_number:
+  - M4630LL/A
+  - M4650LL/A
   :short_name: PowerBook 145
   :released_at: 1992-08-03
   :discontinued_at: 1993-06-07
@@ -138,6 +148,9 @@
   :model: PowerBook
   :model_name: 145b
   :model_number: M5409
+  :order_number:
+  - M1592LL/A
+  - M4855LL/A
   :short_name: PowerBook 145b
   :released_at: 1993-06-07
   :discontinued_at: 1994-07-18
@@ -193,6 +206,8 @@
   :model: PowerBook
   :model_name: '150'
   :model_number: M2740
+  :order_number:
+  - M2794LL/A
   :short_name: PowerBook 150
   :released_at: 1994-07-18
   :discontinued_at: 1995-10-14
@@ -243,6 +258,10 @@
   :model: PowerBook
   :model_name: '160'
   :model_number: M4550
+  :order_number:
+  - M4500LL/A
+  - M4510LL/A
+  - M4520LL/A
   :short_name: PowerBook 160
   :released_at: 1992-10-19
   :discontinued_at: 1993-08-16
@@ -291,6 +310,8 @@
   :model: PowerBook
   :model_name: '165'
   :model_number: M4440
+  :order_number:
+  - M1641LL/A
   :short_name: PowerBook 165
   :released_at: 1993-08-16
   :discontinued_at: 1994-07-18
@@ -344,6 +365,9 @@
   :subfamily: PowerBook 140
   :model: PowerBook
   :model_name: 165c
+  :order_number:
+  - M4900LL/A
+  - M4920LL/A
   :short_name: PowerBook 165c
   :released_at: 1993-02-10
   :discontinued_at: 1993-12-13
@@ -392,6 +416,8 @@
   :model: PowerBook
   :model_name: '170'
   :model_number: M5409
+  :order_number:
+  - M1057LL/A
   :short_name: PowerBook 170
   :released_at: 1991-10-21
   :discontinued_at: 1992-10-19
@@ -437,6 +463,9 @@
   :model: PowerBook
   :model_name: '180'
   :model_number: M4440
+  :order_number:
+  - M4400LL/A
+  - M4410LL/A
   :short_name: PowerBook 180
   :released_at: 1992-10-19
   :discontinued_at: 1994-05-16
@@ -485,6 +514,9 @@
   :model: PowerBook
   :model_name: 180c
   :model_number: M7940
+  :order_number:
+  - M7950LL/A
+  - M7960LL/A
   :short_name: PowerBook 180c
   :released_at: 1993-06-07
   :discontinued_at: 1994-03-14
@@ -533,6 +565,9 @@
   :model: PowerBook
   :model_name: 190/66
   :model_number: M3047
+  :order_number:
+  - M3530LL/A
+  - M3531LL/A
   :short_name: PowerBook 190/66
   :released_at: 1995-08-28
   :discontinued_at: 1996-04-01
@@ -585,6 +620,8 @@
   :model: PowerBook
   :model_name: 190cs/66
   :model_number: M3047
+  :order_number:
+  - M4073LL/A
   :short_name: PowerBook 190cs/66
   :released_at: 1995-08-28
   :discontinued_at: 1996-09-01
@@ -632,6 +669,8 @@
   :model: PowerBook
   :model_name: '520'
   :model_number: M4880
+  :order_number:
+  - M2597LL/A
   :short_name: PowerBook 520
   :released_at: 1994-05-16
   :discontinued_at: 1995-06-10
@@ -686,6 +725,8 @@
   :model: PowerBook
   :model_name: 520c
   :model_number: M4880
+  :order_number:
+  - M1845LL/A
   :short_name: PowerBook 520c
   :released_at: 1994-05-16
   :discontinued_at: 1995-09-16
@@ -746,6 +787,9 @@
   :model: PowerBook
   :model_name: '540'
   :model_number: M4880
+  :order_number:
+  - M2807LL/A
+  - M3120LL/A
   :short_name: PowerBook 540
   :released_at: 1994-05-16
   :discontinued_at: 1994-10-17
@@ -800,6 +844,9 @@
   :model: PowerBook
   :model_name: 540c
   :model_number: M4880
+  :order_number:
+  - M2809LL/A
+  - M3121LL/A
   :short_name: PowerBook 540c
   :released_at: 1994-05-16
   :discontinued_at: 1995-08-26
@@ -859,6 +906,8 @@
   :subfamily: PowerBook 520
   :model: PowerBook
   :model_name: 550c
+  :order_number:
+  - M4286J/A
   :short_name: PowerBook 550c
   :released_at: 1995-05-30
   :discontinued_at: 1996-04-01
@@ -906,6 +955,9 @@
   :model: PowerBook
   :model_name: 1400cs/117
   :model_number: M3571
+  :order_number:
+  - M5287LL/A
+  - M5292LL/A
   :serial_number:
   - 8JX
   :short_name: PowerBook 1400cs/117
@@ -962,6 +1014,8 @@
   :model: PowerBook
   :model_name: 1400c/117
   :model_number: M3571
+  :order_number:
+  - M4856LL/A
   :short_name: PowerBook 1400c/117
   :released_at: 1996-11-20
   :discontinued_at: 1997-07-14
@@ -1010,6 +1064,8 @@
   :model: PowerBook
   :model_name: 1400cs/133
   :model_number: M3571
+  :order_number:
+  - M5605LL/A
   :short_name: PowerBook 1400cs/133
   :released_at: 1997-07-14
   :discontinued_at: 1997-12-13
@@ -1059,6 +1115,8 @@
   :model: PowerBook
   :model_name: 1400c/133
   :model_number: M3571
+  :order_number:
+  - M5576LL/A
   :short_name: PowerBook 1400c/133
   :released_at: 1996-11-20
   :discontinued_at: 1997-12-13
@@ -1108,6 +1166,8 @@
   :model: PowerBook
   :model_name: 1400cs/166
   :model_number: M3571
+  :order_number:
+  - M6274LL/A
   :short_name: PowerBook 1400cs/166
   :released_at: 1997-12-17
   :discontinued_at: 1998-05-06
@@ -1157,6 +1217,8 @@
   :model: PowerBook
   :model_name: 1400c/166
   :model_number: M3571
+  :order_number:
+  - M4909LL/A
   :short_name: PowerBook 1400c/166
   :released_at: 1997-07-14
   :discontinued_at: 1998-05-06
@@ -1205,6 +1267,8 @@
   :subfamily: PowerBook 2400
   :model: PowerBook
   :model_name: 2400c/180
+  :order_number:
+  - M5241LL/A
   :short_name: PowerBook 2400c/180
   :released_at: 1997-05-08
   :discontinued_at: 1998-03-14
@@ -1253,6 +1317,8 @@
   :subfamily: PowerBook 2400
   :model: PowerBook
   :model_name: 2400c/240
+  :order_number:
+  - M6265J/A
   :short_name: PowerBook 2400c/240
   :released_at: 1998-04-07
   :discontinued_at: 1998-12-31
@@ -1302,6 +1368,9 @@
   :model: PowerBook
   :model_name: 3400c/180
   :model_number: M3553
+  :order_number:
+  - M4596LL/A
+  - M4597LL/A
   :short_name: PowerBook 3400c/180
   :released_at: 1997-02-17
   :discontinued_at: 1997-12-13
@@ -1357,6 +1426,8 @@
   :model: PowerBook
   :model_name: 3400c/200
   :model_number: M3553
+  :order_number:
+  - M4595LL/A
   :short_name: PowerBook 3400c/200
   :released_at: 1997-02-17
   :discontinued_at: 1998-02-17
@@ -1412,6 +1483,8 @@
   :model: PowerBook
   :model_name: 3400c/240
   :model_number: M3553
+  :order_number:
+  - M5550LL/A
   :short_name: PowerBook 3400c/240
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-14
@@ -1461,6 +1534,8 @@
   :model: PowerBook
   :model_name: 5300/100
   :model_number: M2785
+  :order_number:
+  - M3135LL/A
   :short_name: PowerBook 5300/100
   :released_at: 1995-08-28
   :discontinued_at: 1996-08-01
@@ -1509,6 +1584,9 @@
   :model: PowerBook
   :model_name: 5300cs/100
   :model_number: M2785
+  :order_number:
+  - M3824LL/A
+  - M3825LL/A
   :serial_number:
   - 4FV
   :short_name: PowerBook 5300cs/100
@@ -1565,6 +1643,9 @@
   :model: PowerBook
   :model_name: 5300c/100
   :model_number: M2785
+  :order_number:
+  - M3133LL/A
+  - M4488LL/A
   :serial_number:
   - 65R
   :short_name: PowerBook 5300c/100
@@ -1621,6 +1702,8 @@
   :model: PowerBook
   :model_name: 5300ce/117
   :model_number: M2785
+  :order_number:
+  - M3828LL/A
   :short_name: PowerBook 5300ce/117
   :released_at: 1995-08-28
   :discontinued_at: 1996-09-01

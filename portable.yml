@@ -4,6 +4,9 @@
   :model: Portable
   :model_name: "(Original)"
   :model_number: M5120
+  :order_number:
+  - M5350
+  - M5351
   :short_name: Portable (Original)
   :released_at: 1989-09-20
   :discontinued_at: 1991-02-11
@@ -48,6 +51,9 @@
   :model: Portable
   :model_name: Backlit
   :model_number: M5126
+  :order_number:
+  - M5381LL/A
+  - M5382LL/A
   :short_name: Portable Backlit
   :released_at: 1991-02-11
   :discontinued_at: 1991-10-21

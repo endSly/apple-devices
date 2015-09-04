@@ -3,6 +3,8 @@
   :subfamily: 20th Anniversary Mac
   :model: 20th Anniversary
   :model_name: Macintosh
+  :order_number:
+  - M3459LL/A
   :short_name: 20th Anniversary Mac
   :released_at: 1997-03-20
   :discontinued_at: 1998-03-14

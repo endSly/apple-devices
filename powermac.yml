@@ -50,6 +50,9 @@
   :model: Power Macintosh
   :model_name: 4400/200 (PC)
   :model_number: M3959
+  :order_number:
+  - M5767LL/A
+  - M5817LL/A
   :short_name: Power Mac 4400/200
   :released_at: 1997-02-17
   :discontinued_at: 1997-10-11
@@ -101,6 +104,9 @@
   :subfamily: Power Mac 5200
   :model: Power Macintosh
   :model_name: 5200/75 LC
+  :order_number:
+  - M3947LL/A
+  - M3947LL/B
   :short_name: Power Mac 5200/75 LC
   :released_at: 1995-04-03
   :discontinued_at: 1996-04-13
@@ -145,6 +151,8 @@
   :model: Power Macintosh
   :model_name: 5260/100
   :model_number: M3457
+  :order_number:
+  - M4982LL/A
   :serial_number:
   - 8FG
   :short_name: Power Mac 5260/100
@@ -191,6 +199,8 @@
   :model: Power Macintosh
   :model_name: 5260/120
   :model_number: M3457
+  :order_number:
+  - M5233LL/A
   :short_name: Power Mac 5260/120
   :released_at: 1996-09-19
   :discontinued_at: 1997-03-01
@@ -234,6 +244,8 @@
   :subfamily: Power Mac 5200
   :model: Power Macintosh
   :model_name: 5300/100 LC
+  :order_number:
+  - M4364LL/A
   :short_name: Power Mac 5300/100 LC
   :released_at: 1995-08-28
   :discontinued_at: 1996-04-01
@@ -323,6 +335,11 @@
   :model: Power Macintosh
   :model_name: 5400/180
   :model_number: M3046
+  :order_number:
+  - M5161LL/A
+  - M5686LL/A
+  - M5162LL/A
+  - M5686LL/B
   :serial_number:
   - 9PS
   - 9P5
@@ -372,6 +389,8 @@
   :model: Power Macintosh
   :model_name: 5400/200
   :model_number: M3046
+  :order_number:
+  - M5823LL/A
   :short_name: Power Mac 5400/200
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-31
@@ -417,6 +436,10 @@
   :subfamily: Power Mac 5200
   :model: Power Macintosh
   :model_name: 5500/225
+  :order_number:
+  - M5761LL/A
+  - M6148LL/B
+  - M6148LL/B
   :short_name: Power Mac 5500/225
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-31
@@ -462,6 +485,8 @@
   :subfamily: Power Mac 5200
   :model: Power Macintosh
   :model_name: 5500/250
+  :order_number:
+  - M6149LL/A
   :short_name: Power Mac 5500/250
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-31
@@ -552,6 +577,10 @@
   :model: Power Macintosh
   :model_name: 6100/60 (PC)
   :model_number: M1596
+  :order_number:
+  - M2197LL/A
+  - M1878LL/A
+  - M3078LL/A
   :short_name: Power Mac 6100/60
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -610,6 +639,9 @@
   :model: Power Macintosh
   :model_name: 6100/60AV
   :model_number: M1596
+  :order_number:
+  - M2738LL/A
+  - M2837LL/A
   :short_name: Power Mac 6100/60AV
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -656,6 +688,9 @@
   :model: Power Macintosh
   :model_name: 6100/66 (PC)
   :model_number: M1596
+  :order_number:
+  - M3631LL/A
+  - M3632LL/A
   :short_name: Power Mac 6100/66
   :released_at: 1995-01-03
   :discontinued_at: 1995-10-14
@@ -759,6 +794,8 @@
   :subfamily: Macintosh Quadra 630
   :model: Power Macintosh
   :model_name: 6200/75
+  :order_number:
+  - M4147J/A
   :short_name: Power Mac 6200/75
   :released_at: 1995-05-28
   :discontinued_at: 1996-05-01
@@ -803,6 +840,8 @@
   :model: Power Macintosh
   :model_name: 6300/120
   :model_number: M3076
+  :order_number:
+  - M4975J/A
   :short_name: Power Mac 6300/120
   :released_at: 1996-06-27
   :discontinued_at: 1997-07-01
@@ -847,6 +886,8 @@
   :model: Power Macintosh
   :model_name: 6400/200
   :model_number: M3548
+  :order_number:
+  - M5427LL/A
   :short_name: Power Mac 6400/200
   :released_at: 1996-10-23
   :discontinued_at: 1997-05-01
@@ -893,6 +934,9 @@
   :model: Power Macintosh
   :model_name: 6500/225
   :model_number: M3548
+  :order_number:
+  - M5611LL/A
+  - M5606LL/A
   :short_name: Power Mac 6500/225
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-14
@@ -945,6 +989,10 @@
   :model: Power Macintosh
   :model_name: 6500/250
   :model_number: M3548
+  :order_number:
+  - M6189LL/A
+  - M5607LL/A
+  - M6127LL/A
   :short_name: Power Mac 6500/250
   :released_at: 1997-02-17
   :discontinued_at: 1998-03-14
@@ -1003,6 +1051,9 @@
   :model: Power Macintosh
   :model_name: 6500/275
   :model_number: M3548
+  :order_number:
+  - M6191LL/A
+  - M6190LL/A
   :short_name: Power Mac 6500/275
   :released_at: 1997-04-04
   :discontinued_at: 1998-03-14
@@ -1049,6 +1100,8 @@
   :model: Power Macintosh
   :model_name: 6500/300
   :model_number: M3548
+  :order_number:
+  - M6192LL/A
   :short_name: Power Mac 6500/300
   :released_at: 1997-04-04
   :discontinued_at: 1998-03-14
@@ -1095,6 +1148,10 @@
   :model: Power Macintosh
   :model_name: 7100/66
   :model_number: M2391
+  :order_number:
+  - M2464LL/A
+  - M2465LL/A
+  - M3077LL/A
   :short_name: Power Mac 7100/66
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -1153,6 +1210,10 @@
   :model: Power Macintosh
   :model_name: 7100/66AV
   :model_number: M2391
+  :order_number:
+  - M2467LL/A
+  - M2835LL/A
+  - M2836LL/A
   :short_name: Power Mac 7100/66AV
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -1297,6 +1358,8 @@
   :model: Power Macintosh
   :model_name: 7200/75
   :model_number: M3979
+  :order_number:
+  - M4303LL/A
   :serial_number:
   - 5QT
   - SQT
@@ -1346,6 +1409,8 @@
   :model: Power Macintosh
   :model_name: 7200/90
   :model_number: M3979
+  :order_number:
+  - M4082LL/A
   :short_name: Power Mac 7200/90
   :released_at: 1995-08-07
   :discontinued_at: 1996-07-01
@@ -1398,6 +1463,10 @@
   :model: Power Macintosh
   :model_name: 7200/120 (PC)
   :model_number: M3979
+  :order_number:
+  - M4628LL/B
+  - M4729LL/A
+  - M4898LL/A
   :short_name: Power Mac 7200/120
   :released_at: 1996-04-22
   :discontinued_at: 1997-02-01
@@ -1501,6 +1570,8 @@
   :model: Power Macintosh
   :model_name: 7300/166
   :model_number: M3979
+  :order_number:
+  - M5542J/A
   :short_name: Power Mac 7300/166
   :released_at: 1997-02-17
   :discontinued_at: 1997-11-10
@@ -1547,6 +1618,9 @@
   :model: Power Macintosh
   :model_name: 7300/180
   :model_number: M3979
+  :order_number:
+  - M4946LL/A
+  - M5811LL/A
   :short_name: Power Mac 7300/180
   :released_at: 1997-02-17
   :discontinued_at: 1997-11-10
@@ -1599,6 +1673,8 @@
   :model: Power Macintosh
   :model_name: 7300/200
   :model_number: M3979
+  :order_number:
+  - M5543LL/A
   :short_name: Power Mac 7300/200
   :released_at: 1997-02-17
   :discontinued_at: 1997-11-10
@@ -1645,6 +1721,9 @@
   :model: Power Macintosh
   :model_name: 7500/100
   :model_number: M3979
+  :order_number:
+  - M3100LL/A
+  - M3102LL/A
   :serial_number:
   - 3FX
   :short_name: Power Mac 7500/100
@@ -1693,6 +1772,8 @@
   :model: Power Macintosh
   :model_name: 7600/120
   :model_number: M3979
+  :order_number:
+  - M4631LL/A
   :short_name: Power Mac 7600/120
   :released_at: 1996-04-22
   :discontinued_at: 1997-07-01
@@ -1739,6 +1820,8 @@
   :model: Power Macintosh
   :model_name: 7600/132
   :model_number: M3979
+  :order_number:
+  - M5346LL/A
   :short_name: Power Mac 7600/132
   :released_at: 1996-08-07
   :discontinued_at: 1997-07-01
@@ -1785,6 +1868,8 @@
   :model: Power Macintosh
   :model_name: 7600/200
   :model_number: M3979
+  :order_number:
+  - M4947J/A
   :short_name: Power Mac 7600/200
   :released_at: 1997-02-17
   :discontinued_at: 1997-11-10
@@ -1830,6 +1915,13 @@
   :model: Power Macintosh
   :model_name: 8100/80
   :model_number: M1688
+  :order_number:
+  - M1884LL/A
+  - M1880LL/A
+  - M2199LL/A
+  - M3079LL/A
+  - M2284LL/A
+  - M2297LL/A
   :short_name: Power Mac 8100/80
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -1888,6 +1980,8 @@
   :model: Power Macintosh
   :model_name: 8100/80AV
   :model_number: M1688
+  :order_number:
+  - M2293LL/A
   :short_name: Power Mac 8100/80AV
   :released_at: 1994-03-14
   :discontinued_at: 1995-01-03
@@ -2118,6 +2212,8 @@
   :model: Power Macintosh
   :model_name: 8115/110
   :model_number: M1688
+  :order_number:
+  - M4137J/A
   :short_name: Power Mac 8115/110
   :released_at: 1994-11-03
   :discontinued_at: 1995-08-05
@@ -2251,6 +2347,9 @@
   :model: Power Macintosh
   :model_name: 8500/120
   :model_number: M3409
+  :order_number:
+  - M3104LL/A
+  - M3105LL/A
   :short_name: Power Mac 8500/120
   :released_at: 1995-08-07
   :discontinued_at: 1996-04-01
@@ -2303,6 +2402,8 @@
   :model: Power Macintosh
   :model_name: 8500/132
   :model_number: M3409
+  :order_number:
+  - M4889LL/A
   :short_name: Power Mac 8500/132
   :released_at: 1996-04-22
   :discontinued_at: 1996-09-19
@@ -2349,6 +2450,9 @@
   :model: Power Macintosh
   :model_name: 8500/150
   :model_number: M3409
+  :order_number:
+  - M4890LL/A
+  - M5347LL/A
   :short_name: Power Mac 8500/150
   :released_at: 1996-04-22
   :discontinued_at: 1996-09-19
@@ -2395,6 +2499,9 @@
   :model: Power Macintosh
   :model_name: 8500/180
   :model_number: M3409
+  :order_number:
+  - M5348LL/A
+  - M5349LL/A
   :short_name: Power Mac 8500/180
   :released_at: 1996-09-19
   :discontinued_at: 1997-02-17
@@ -2441,6 +2548,8 @@
   :model: Power Macintosh
   :model_name: 8515/120
   :model_number: M3409
+  :order_number:
+  - M4881J/A
   :short_name: Power Mac 8515/120
   :released_at: 1996-01-01
   :discontinued_at: 1996-04-01
@@ -2485,6 +2594,8 @@
   :subfamily: Power Mac 9600
   :model: Power Macintosh
   :model_name: 8600/200
+  :order_number:
+  - M5453LL/A
   :short_name: Power Mac 8600/200
   :released_at: 1997-02-17
   :discontinued_at: 1997-08-05
@@ -2530,6 +2641,8 @@
   :subfamily: Power Mac 9600
   :model: Power Macintosh
   :model_name: 8600/250
+  :order_number:
+  - M5905LL/A
   :short_name: Power Mac 8600/250
   :released_at: 1997-08-05
   :discontinued_at: 1997-12-13
@@ -2578,6 +2691,9 @@
   :subfamily: Power Mac 9600
   :model: Power Macintosh
   :model_name: 8600/300
+  :order_number:
+  - M6092LL/A
+  - M6342LL/A
   :short_name: Power Mac 8600/300
   :released_at: 1997-08-05
   :discontinued_at: 1998-02-17
@@ -2627,6 +2743,8 @@
   :model: Power Macintosh
   :model_name: 9500/120
   :model_number: M3098
+  :order_number:
+  - M3093LL/A
   :short_name: Power Mac 9500/120
   :released_at: 1995-06-19
   :discontinued_at: 1996-11-01
@@ -2673,6 +2791,9 @@
   :model: Power Macintosh
   :model_name: 9500/132
   :model_number: M3098
+  :order_number:
+  - M4742LL/A
+  - M4423LL/A
   :short_name: Power Mac 9500/132
   :released_at: 1995-06-19
   :discontinued_at: 1996-07-01
@@ -2765,6 +2886,8 @@
   :model: Power Macintosh
   :model_name: 9500/180MP
   :model_number: M3098
+  :order_number:
+  - M5399LL/A
   :short_name: Power Mac 9500/180MP
   :released_at: 1996-08-07
   :discontinued_at: 1997-02-17
@@ -2811,6 +2934,9 @@
   :model: Power Macintosh
   :model_name: 9500/200
   :model_number: M3098
+  :order_number:
+  - M5389LL/A
+  - M5397LL/A
   :short_name: Power Mac 9500/200
   :released_at: 1996-08-07
   :discontinued_at: 1997-02-17
@@ -2857,6 +2983,8 @@
   :model: Power Macintosh
   :model_name: 9515/132
   :model_number: M3098
+  :order_number:
+  - M4478J/A
   :short_name: Power Mac 9515/132
   :released_at: 1995-10-01
   :discontinued_at: 1996-09-01
@@ -2902,6 +3030,8 @@
   :model: Power Macintosh
   :model_name: 9600/200
   :model_number: M5433
+  :order_number:
+  - M5456LL/A
   :short_name: Power Mac 9600/200
   :released_at: 1997-02-17
   :discontinued_at: 1997-08-05
@@ -2948,6 +3078,8 @@
   :model: Power Macintosh
   :model_name: 9600/200MP
   :model_number: M5433
+  :order_number:
+  - M4952LL/A
   :serial_number:
   - A6S
   - A65
@@ -2997,6 +3129,8 @@
   :model: Power Macintosh
   :model_name: 9600/233
   :model_number: M5433
+  :order_number:
+  - M5883LL/A
   :short_name: Power Mac 9600/233
   :released_at: 1997-02-17
   :discontinued_at: 1997-08-05
@@ -3043,6 +3177,8 @@
   :model: Power Macintosh
   :model_name: 9600/300
   :model_number: M5433
+  :order_number:
+  - M5901LL/A
   :short_name: Power Mac 9600/300
   :released_at: 1997-08-05
   :discontinued_at: 1998-02-17
@@ -3092,6 +3228,8 @@
   :model: Power Macintosh
   :model_name: 9600/350
   :model_number: M5433
+  :order_number:
+  - M5906LL/A
   :short_name: Power Mac 9600/350
   :released_at: 1997-08-05
   :discontinued_at: 1998-03-17

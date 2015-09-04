@@ -4,6 +4,8 @@
   :model: PowerBook Duo
   :model_name: '210'
   :model_number: M7777
+  :order_number:
+  - M4161LL/A
   :short_name: PowerBook Duo 210
   :released_at: 1992-10-19
   :discontinued_at: 1993-10-21
@@ -49,6 +51,9 @@
   :model: PowerBook Duo
   :model_name: '230'
   :model_number: M7777
+  :order_number:
+  - M4195LL/A
+  - M4196LL/A
   :short_name: PowerBook Duo 230
   :released_at: 1992-10-19
   :discontinued_at: 1994-07-27
@@ -94,6 +99,9 @@
   :model: PowerBook Duo
   :model_name: '250'
   :model_number: M7777
+  :order_number:
+  - M1933LL/A
+  - M4189LL/A
   :short_name: PowerBook Duo 250
   :released_at: 1993-10-21
   :discontinued_at: 1994-05-16
@@ -139,6 +147,9 @@
   :model: PowerBook Duo
   :model_name: 270c
   :model_number: M7777
+  :order_number:
+  - M1752LL/A
+  - M2124LL/A
   :short_name: PowerBook Duo 270c
   :released_at: 1993-10-21
   :discontinued_at: 1994-05-16
@@ -184,6 +195,9 @@
   :model: PowerBook Duo
   :model_name: '280'
   :model_number: M7777
+  :order_number:
+  - M2797LL/A
+  - M2798LL/A
   :short_name: PowerBook Duo 280
   :released_at: 1994-05-16
   :discontinued_at: 1994-11-14
@@ -229,6 +243,9 @@
   :model: PowerBook Duo
   :model_name: 280c
   :model_number: M7777
+  :order_number:
+  - M2329LL/A
+  - M2332LL/A
   :short_name: PowerBook Duo 280c
   :released_at: 1994-05-16
   :discontinued_at: 1994-11-14
@@ -278,6 +295,9 @@
   :subfamily: PowerBook Duo 2300c
   :model: PowerBook Duo
   :model_name: 2300c/100
+  :order_number:
+  - M4220LL/A
+  - M4221LL/A
   :short_name: PowerBook Duo 2300c
   :released_at: 1995-08-28
   :discontinued_at: 1997-02-01
@@ -328,6 +348,9 @@
   :model: PowerBook Duo
   :model_name: Dock
   :model_number: M7779
+  :order_number:
+  - M4179LL/A
+  - M2631LL/A
   :short_name: PowerBook Duo Dock
   :released_at: 1992-10-19
   :discontinued_at: 1995-07-01
@@ -357,6 +380,8 @@
   :subfamily: PowerBook Duo Dock II
   :model: PowerBook Duo
   :model_name: Dock II
+  :order_number:
+  - M1865LL/A
   :short_name: PowerBook Duo Dock II
   :released_at: 1994-05-16
   :discontinued_at: 1995-05-15
@@ -388,6 +413,8 @@
   :subfamily: PowerBook Duo Dock II
   :model: PowerBook Duo
   :model_name: Dock Plus
+  :order_number:
+  - M4219LL/A
   :short_name: PowerBook Duo Dock+
   :released_at: 1995-05-15
   :discontinued_at: 1997-02-01
@@ -419,6 +446,8 @@
   :model: PowerBook Duo
   :model_name: MiniDock
   :model_number: M7780
+  :order_number:
+  - M4181LL/A
   :short_name: Duo MiniDock
   :released_at: 1992-10-19
   :discontinued_at: 1995-08-05

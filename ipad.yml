@@ -1163,6 +1163,8 @@
   - F198
   - FI98
   - F637
+  - F638
+  - F63B
   - FP84
   - FPB4
   :short_name: iPad mini (Wi-Fi)
@@ -1805,6 +1807,12 @@
   - FHI2
   - FH13
   - FHI3
+  - FQT0
+  - FRWG
+  - FRY0
+  - FRYO
+  - FRY1
+  - FRYI
   :short_name: iPad mini 2 Wi-Fi
   :released_at: 2013-10-22
   :details:
@@ -1956,6 +1964,12 @@
   - FLMP
   - FLMQ
   - FLMR
+  - FN7Q
+  - FRY9
+  - FRYF
+  - FRYG
+  - FRYH
+  - FRYN
   :short_name: iPad mini 2 Wi-Fi+Cell
   :released_at: 2013-10-22
   :details:
@@ -2125,6 +2139,8 @@
   - MGKL2LL/A
   - MGTX2LL/A
   :serial_number:
+  - G5VJ
+  - G5VT
   - G5VV
   - G5VW
   - G5VY
@@ -2235,9 +2251,16 @@
   - MH2U2LL/A
   - MH2M2LL/A
   - MH312LL/A
+  - FH2M2LL/A
   :serial_number:
   - G5WT
   - G5WQ
+  - G5YL
+  - G5YM
+  - G5YN
+  - G5YP
+  - G5YQ
+  - G5YR
   :short_name: iPad Air 2 Wi-Fi+Cell
   :released_at: 2014-10-16
   :details:
@@ -2342,10 +2365,15 @@
   - MGGQ2LL/A
   - MGP32LL/A
   :serial_number:
+  - G5V1
+  - G5V2
   - G5V3
   - G5V4
   - G5V5
   - G5V6
+  - G5V7
+  - G5V8
+  - G5V9
   :short_name: iPad mini 3 Wi-Fi
   :released_at: 2014-10-16
   :details:
@@ -2450,8 +2478,14 @@
   - MH372LL/A
   - MH3L2LL/A
   :serial_number:
+  - G5Y1
   - G5Y2
+  - G5Y3
+  - G5Y4
+  - G5Y5
+  - G5YH
   - G5YJ
+  - G5YK
   :short_name: iPad mini 3 Wi-Fi+Cell
   :released_at: 2014-10-16
   :details:
