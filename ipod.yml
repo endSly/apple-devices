@@ -86,6 +86,7 @@
   - MZO
   - NGE
   - NGF
+  - NGG
   - NGH
   - NGJ
   - NSS
@@ -673,6 +674,7 @@
   - TXM
   - TXL
   - TXN
+  - U99
   - WEC
   - WED
   - WEE
@@ -3350,6 +3352,11 @@
   - MGG32LL/A
   - MGG72LL/A
   :serial_number:
+  - G22Q
+  - G22R
+  - G22T
+  - G22V
+  - G22W
   - G22Y
   :short_name: iPod touch 5th/16 GB
   :released_at: 2014-06-26

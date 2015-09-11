@@ -252,6 +252,15 @@
   :model_identifier: RackMac1,2
   :order_number:
   - M9090LL/A
+  :serial_number:
+  - P06
+  - PO6
+  - P1U
+  - PIU
+  - P3J
+  - PW0
+  - PWO
+  - Q6N
   :short_name: Xserve G4/1.33 DP (CN)
   :released_at: 2003-03-01
   :discontinued_at: 2004-01-06

@@ -1126,6 +1126,7 @@
   - GO7N
   :short_name: iPhone 5c N. America
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1201,6 +1202,7 @@
   - FNDP
   :short_name: iPhone 5c CDMA/VZ
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1261,6 +1263,7 @@
   - MG0U2CH/A
   :short_name: iPhone 5c CDMA/China
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1317,6 +1320,7 @@
   - FFHM
   :short_name: iPhone 5c CDMA/A1456
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1388,6 +1392,7 @@
   - GO7P
   :short_name: iPhone 5c UK/Europe
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1471,6 +1476,7 @@
   - MF107CH/A
   :short_name: iPhone 5c China/A1526
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1525,6 +1531,7 @@
   - MG162X/A
   :short_name: iPhone 5c Asia/Pac
   :released_at: 2013-09-10
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -1576,6 +1583,7 @@
   :model_identifier: iPhone5,4
   :short_name: iPhone 5c China/A1516
   :released_at: 2013-12-22
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A6
     :processor_count: 1 (2 Cores)
@@ -2769,4 +2777,360 @@
   - :original_price: {}
     :details:
       :standard_memory: 1 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s
+  :model: iPhone
+  :model_name: 6s (GSM/Global/A1633)
+  :model_number: A1633
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s (GSM)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x7.1
+    :weight: 143
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+      :fr: 749
+      :de: 739
+      :ca: 899
+      :uk: 539
+      :au: 1079
+      :jp: 86800
+      :nz: 1199
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+      :fr: 859
+      :de: 849
+      :ca: 1029
+      :uk: 619
+      :au: 1229
+      :jp: 98800
+      :nz: 1399
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+      :fr: 969
+      :de: 959
+      :ca: 1159
+      :uk: 699
+      :au: 1379
+      :jp: 110800
+      :nz: 1599
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s
+  :model: iPhone
+  :model_name: 6s (CDMA/Sprint/Verizon/A1688)
+  :model_number: A1688
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s (CDMA)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x7.1
+    :weight: 143
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 199
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 299
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 399
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s
+  :model: iPhone
+  :model_name: 6s (Mainland China/A1700)
+  :model_number: A1700
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s (China)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 4.7" Color
+    :display_resolution: 1334x750 (326 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 50 Hours
+    :dimensions: 138.1x67.0x7.1
+    :weight: 143
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s Plus
+  :model: iPhone
+  :model_name: 6s Plus (GSM/Global/A1634)
+  :model_number: A1634
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s Plus (GSM)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 158.2x77.9x7.3
+    :weight: 192
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+      :fr: 859
+      :de: 849
+      :ca: 1029
+      :uk: 619
+      :au: 1229
+      :jp: 98800
+      :nz: 1399
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+      :fr: 969
+      :de: 959
+      :ca: 1159
+      :uk: 699
+      :au: 1379
+      :jp: 110800
+      :nz: 1599
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 499
+      :fr: 1079
+      :de: 1069
+      :ca: 1289
+      :uk: 789
+      :au: 1529
+      :jp: 122800
+      :nz: 1799
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s Plus
+  :model: iPhone
+  :model_name: 6s Plus (CDMA/Sprint/Verizon/A1687)
+  :model_number: A1687
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s Plus (CDMA)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 158.2x77.9x7.3
+    :weight: 192
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 299
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 399
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 499
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPhone 6s Plus
+  :model: iPhone
+  :model_name: 6s Plus (Mainland China/A1699)
+  :model_number: A1699
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPhone 6s Plus (China)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9
+    :processor_arch: 64-Bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :processor_l1_cache: Pending
+    :processor_l2_cache: Pending
+    :max_memory: 2 GB
+    :display: 5.5" Color
+    :display_resolution: 1920x1080 (401 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Ion
+    :battery_life: 80 Hours
+    :dimensions: 158.2x77.9x7.3
+    :weight: 192
+    :wifi: 802.11a/b/g/n/ac (MIMO)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge
+    :firewire_ports: None
+    :user_manual: Pending
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 12.0 Megapixels
+    :cell_standby_time: 250 Hours
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price: {}
+    :details:
+      :standard_memory: 2 GB
       :hd_capacity: 16 GB
