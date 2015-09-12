@@ -2785,7 +2785,30 @@
   :model_number: A1633
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - MKQ62LL/A
+  - MKQA2LL/A
+  - MKQF2LL/A
+  - MKQ72LL/A
+  - MKQC2LL/A
+  - MKQG2LL/A
+  - MKQ52LL/A
+  - MKQ92LL/A
+  - MKQE2LL/A
+  - MKQ82LL/A
+  - MKQD2LL/A
+  - MKQH2LL/A
+  - MKQY2LL/A
+  - MKR42LL/A
+  - MKR82LL/A
+  - MKR12LL/A
+  - MKR52LL/A
+  - MKR92LL/A
+  - MKQX2LL/A
+  - MKR32LL/A
+  - MKR72LL/A
+  - MKR22LL/A
+  - MKR62LL/A
+  - MKRA2LL/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s (GSM)
@@ -2862,7 +2885,30 @@
   :model_number: A1688
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - MKT82LL/A
+  - MKTD2LL/A
+  - MKTH2LL/A
+  - MKT92LL/A
+  - MKTE2LL/A
+  - MKTJ2LL/A
+  - MKT72LL/A
+  - MKTC2LL/A
+  - MKTG2LL/A
+  - MKTA2LL/A
+  - MKTF2LL/A
+  - MKTK2LL/A
+  - MKRT2LL/A
+  - MKT02LL/A
+  - MKT42LL/A
+  - MKRW2LL/A
+  - MKT12LL/A
+  - MKT52LL/A
+  - MKRR2LL/A
+  - MKRY2LL/A
+  - MKT32LL/A
+  - MKRX2LL/A
+  - MKT22LL/A
+  - MKT62LL/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s (CDMA)
@@ -2918,7 +2964,18 @@
   :model_number: A1700
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - ML7D2CH/A
+  - ML7H2CH/A
+  - ML7M2CH/A
+  - ML7E2CH/A
+  - ML7J2CH/A
+  - ML7N2CH/A
+  - ML7C2CH/A
+  - ML7G2CH/A
+  - ML7L2CH/A
+  - ML7F2CH/A
+  - ML7K2CH/A
+  - ML7P2CH/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s (China)
@@ -2963,7 +3020,30 @@
   :model_number: A1634
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - MKTM2LL/A
+  - MKTR2LL/A
+  - MKTW2LL/A
+  - MKTN2LL/A
+  - MKTT2LL/A
+  - MKTX2LL/A
+  - MKTL2LL/A
+  - MKTQ2LL/A
+  - MKTV2LL/A
+  - MKTP2LL/A
+  - MKTU2LL/A
+  - MKTY2LL/A
+  - MKUJ2LL/A
+  - MKUU2LL/A
+  - MKUY2LL/A
+  - MKUN2LL/A
+  - MKUV2LL/A
+  - MKV12LL/A
+  - MKUH2LL/A
+  - MKUQ2LL/A
+  - MKUX2LL/A
+  - MKUP2LL/A
+  - MKUW2LL/A
+  - MKV22LL/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s Plus (GSM)
@@ -3040,7 +3120,30 @@
   :model_number: A1687
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - MKVP2LL/A
+  - MKVW2LL/A
+  - MKW12LL/A
+  - MKVQ2LL/A
+  - MKVX2LL/A
+  - MKW22LL/A
+  - MKVN2LL/A
+  - MKVV2LL/A
+  - MKW02LL/A
+  - MKVU2LL/A
+  - MKVY2LL/A
+  - MKW32LL/A
+  - MKV52LL/A
+  - MKV92LL/A
+  - MKVG2LL/A
+  - MKV62LL/A
+  - MKVD2LL/A
+  - MKVH2LL/A
+  - MKV32LL/A
+  - MKV82LL/A
+  - MKVF2LL/A
+  - MKV72LL/A
+  - MKVE2LL/A
+  - MKVJ2LL/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s Plus (CDMA)
@@ -3096,7 +3199,18 @@
   :model_number: A1699
   :model_identifier: Pending
   :order_number:
-  - Pending
+  - ML6C2CH/A
+  - ML6G2CH/A
+  - ML6L2CH/A
+  - ML6D2CH/A
+  - ML6H2CH/A
+  - ML6M2CH/A
+  - ML6A2CH/A
+  - ML6F2CH/A
+  - ML6K2CH/A
+  - ML6E2CH/A
+  - ML6J2CH/A
+  - ML6N2CH/A
   :serial_number:
   - Pending
   :short_name: iPhone 6s Plus (China)

@@ -2376,6 +2376,7 @@
   - G5V9
   :short_name: iPad mini 3 Wi-Fi
   :released_at: 2014-10-16
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A7
     :processor_arch: 64-bit
@@ -2488,6 +2489,7 @@
   - G5YK
   :short_name: iPad mini 3 Wi-Fi+Cell
   :released_at: 2014-10-16
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A7
     :processor_arch: 64-bit
@@ -2591,6 +2593,7 @@
   - MGQ22CH/A
   :short_name: iPad mini 3 China
   :released_at: 2014-10-16
+  :discontinued_at: 2015-09-09
   :details:
     :processor_type: Apple A7
     :processor_arch: 64-bit
@@ -2623,3 +2626,298 @@
     :details:
       :standard_memory: 1 GB
       :hd_capacity: 16 GB
+- :vendor: Apple
+  :subfamily: iPad mini 4
+  :model: iPad
+  :model_name: mini 4 (Wi-Fi Only)
+  :model_number: A1538
+  :model_identifier: Pending
+  :order_number:
+  - MK6K2LL/A
+  - MK9H2LL/A
+  - MK9P2LL/A
+  - MK6L2LL/A
+  - MK9J2LL/A
+  - MK9Q2LL/A
+  - MK6J2LL/A
+  - MK9G2LL/A
+  - MK9G2LL/A
+  :short_name: iPad mini 4 Wi-Fi
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :max_memory: 2 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Polymer (19.1 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 203.2x134.6x6.0
+    :weight: 8
+    :wifi: 802.11a/b/g/n/ac (HT80)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: Wi-Fi Only
+    :camera: 8 Megapixels
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 399
+      :es: 389
+      :fr: 399
+      :de: 389
+      :ca: 439
+      :uk: 319
+      :au: 569
+      :jp: 42800
+      :fi: 409
+      :pt: 409
+      :it: 399
+      :nl: 399
+      :at: 389
+      :nz: 649
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 499
+      :es: 489
+      :fr: 505
+      :de: 489
+      :ca: 549
+      :uk: 399
+      :au: 699
+      :jp: 53800
+      :fi: 509
+      :pt: 519
+      :it: 499
+      :nl: 499
+      :at: 489
+      :nz: 799
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 599
+      :es: 589
+      :fr: 605
+      :de: 589
+      :ca: 659
+      :uk: 479
+      :au: 829
+      :jp: 64800
+      :fi: 609
+      :pt: 629
+      :it: 599
+      :nl: 599
+      :at: 589
+      :nz: 949
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad mini 4
+  :model: iPad
+  :model_name: mini 4 (Wi-Fi/Cellular)
+  :model_number: A1550
+  :model_identifier: Pending
+  :order_number:
+  - MK872LL/A
+  - MK8A2LL/A
+  - MK8E2LL/A
+  - MK882LL/A
+  - MK8C2LL/A
+  - MK8F2LL/A
+  - MK862LL/A
+  - MK892LL/A
+  - MK8D2LL/A
+  :short_name: iPad mini 4 Wi-Fi+Cell
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_arch: 64-bit
+    :processor_count: 1 (2 Cores)
+    :processor_speed: Pending
+    :max_memory: 2 GB
+    :display: 7.9" Color
+    :display_resolution: 2048x1536 (326 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Polymer (19.1 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 203.2x134.6x6.0
+    :weight: 304
+    :wifi: 802.11a/b/g/n/ac (HT80)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8 Megapixels
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 529
+      :es: 509
+      :fr: 519
+      :de: 509
+      :ca: 579
+      :uk: 419
+      :au: 729
+      :jp: 56800
+      :fi: 529
+      :pt: 529
+      :it: 519
+      :nl: 519
+      :at: 509
+      :nz: 849
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 16 GB
+  - :original_price:
+      :us: 629
+      :es: 609
+      :fr: 625
+      :de: 609
+      :ca: 689
+      :uk: 499
+      :au: 859
+      :jp: 67800
+      :fi: 629
+      :pt: 639
+      :it: 619
+      :nl: 619
+      :at: 609
+      :nz: 999
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB
+  - :original_price:
+      :us: 729
+      :es: 709
+      :fr: 725
+      :de: 709
+      :ca: 799
+      :uk: 579
+      :au: 989
+      :jp: 78800
+      :fi: 729
+      :pt: 749
+      :it: 719
+      :nl: 719
+      :at: 709
+      :nz: 1149
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad Pro
+  :model: iPad
+  :model_name: Pro (Wi-Fi Only)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPad Pro Wi-Fi
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9X
+    :processor_arch: 64-bit
+    :processor_count: Pending
+    :processor_speed: Pending
+    :max_memory: 4 GB
+    :display: 12.9" Color
+    :display_resolution: 2732x2048 (264 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Polymer (38.5 Whr)
+    :battery_life: 10 Hours
+    :dimensions: 304.8x220.4x6.8
+    :weight: 713
+    :wifi: 802.11a/b/g/n/ac (HT80)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: Wi-Fi Only
+    :camera: 8 Megapixels
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 799
+    :details:
+      :standard_memory: 4 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 949
+    :details:
+      :standard_memory: 4 GB
+      :hd_capacity: 128 GB
+- :vendor: Apple
+  :subfamily: iPad Pro
+  :model: iPad
+  :model_name: Pro (Wi-Fi/Cellular)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: iPad Pro Wi-Fi+Cell
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A9X
+    :processor_arch: 64-bit
+    :processor_count: Pending
+    :processor_speed: Pending
+    :max_memory: 4 GB
+    :display: 12.9" Color
+    :display_resolution: 2732x2048 (264 ppi)
+    :display_secondary: Mirroring Only
+    :battery_type: Lithium Polymer (38.5 Whr)
+    :battery_life: 9-10 Hours
+    :dimensions: 304.8x220.4x6.8
+    :weight: 713
+    :wifi: 802.11a/b/g/n/ac (HT80)
+    :bluetooth: '4.2'
+    :usb_ports: Sync & Charge (Lightning)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
+    :geekbench_3_32_sc: 0
+    :geekbench_3_32_mc: 0
+    :geekbench_3_64_sc: 0
+    :geekbench_3_64_mc: 0
+    :cell_network: GSM/CDMA/LTE
+    :camera: 8 Megapixels
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+    :mac_os_version: 10.7.5
+  :model_types_attributes:
+  - :original_price:
+      :us: 1079
+    :details:
+      :standard_memory: 4 GB
+      :hd_capacity: 128 GB
