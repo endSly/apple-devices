@@ -265,3 +265,51 @@
       :mx: 1499
     :details:
       :standard_memory: 512 MB
+- :vendor: Apple
+  :subfamily: Apple TV (4th Gen)
+  :model: TV
+  :model_name: "(4th Generation, Siri)"
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: Apple TV (4th Gen/Siri)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple A8
+    :processor_upgrade: Soldered
+    :processor_count: '1'
+    :processor_speed: Pending
+    :memory_type: Onboard
+    :max_memory: 2 GB
+    :memory_slots: 0
+    :display: Single Display
+    :display_resolution: Multiple
+    :display_secondary: None
+    :optical_drive: None
+    :expansion_slots: None
+    :battery_type: Unknown
+    :dimensions: 99.0x99.0x35.5
+    :weight: 425
+    :wifi: 802.11ac
+    :bluetooth: '4.0'
+    :ethernet: 10/100Base-T
+    :usb_ports: 1 (USB-C)
+    :firewire_ports: None
+    :user_manual: http://manuals.info.apple.com/en_US/Apple_TV_2nd_gen_Setup_Guide.pdf
+    :power: The Apple TV 4th Gen has a built-in universal power supply.
+    :mac_os_version: Latest
+    :mac_os_max: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 149
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 32 GB
+  - :original_price:
+      :us: 199
+    :details:
+      :standard_memory: 2 GB
+      :hd_capacity: 64 GB

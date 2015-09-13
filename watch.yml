@@ -16,6 +16,10 @@
   - MJ3A2LL/A
   - MJ3E2LL/A
   - MJ3F2LL/A
+  - MLLD2LL/A
+  - MLCK2LL/A
+  - MLCL2LL/A
+  - MLE62LL/A
   :serial_number:
   - G9HM
   :short_name: Watch (Steel, 38 mm)
@@ -68,6 +72,11 @@
   - MJ402LL/A
   - MJ472LL/A
   - MJ482LL/A
+  - MLLE2LL/A
+  - MLC82LL/A
+  - MLC92LL/A
+  - MLFA2LL/A
+  - MLFC2LL/A
   :serial_number:
   - G9J8
   :short_name: Watch (Steel, 42 mm)
@@ -115,6 +124,10 @@
   - MJ2U2LL/A
   - MJ2W2LL/A
   - MJ2X2LL/A
+  - MLCF2LL/A
+  - MLCG2LL/A
+  - MLCH2LL/A
+  - MLCJ2LL/A
   :serial_number:
   - G99D
   :short_name: Watch Sport (38 mm)
@@ -162,6 +175,10 @@
   - MJ3P2LL/A
   - MJ3R2LL/A
   - MJ3T2LL/A
+  - MLC42LL/A
+  - MLC52LL/A
+  - MLC62LL/A
+  - MLC72LL/A
   :serial_number:
   - G9J5
   - G9J6
@@ -218,7 +235,7 @@
     :display_resolution: 272x340
     :battery_type: Lithium Ion
     :battery_life: 18 Hours
-    :dimensions: 41.9x35.8x10.4
+    :dimensions: 38.6x30.7x10.4
     :weight: 1.90-1.91 ounces
     :wifi: 802.11b/g
     :bluetooth: '4.0'
@@ -268,6 +285,8 @@
   - MJ8Q2LL/A
   - MKL62LL/A
   - MJVT2LL/A
+  - MLFH2LL/A
+  - MLE52LL/A
   :serial_number:
   - GCLR
   :short_name: Watch Edition (42 mm)
@@ -279,7 +298,7 @@
     :display_resolution: 312x390
     :battery_type: Lithium Ion
     :battery_life: 18 Hours
-    :dimensions: 38.6x30.7x10.4
+    :dimensions: 41.9x35.8x10.4
     :weight: 2.36-2.43 ounces
     :wifi: 802.11b/g
     :bluetooth: '4.0'
@@ -316,5 +335,77 @@
       :nl: 16400
       :nz: 26500
       :mx: 275000
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Hermes (38 mm)
+  :model: Watch
+  :model_name: Hermes (Steel, 38 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: Watch Hermes (38 mm)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.5" LCD
+    :display_resolution: 272x340
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 38.6x30.7x10.4
+    :weight: 1.41 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 1100
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 1250
+    :details:
+      :hd_capacity: 8 GB
+- :vendor: Apple
+  :subfamily: Apple Watch Hermes (42 mm)
+  :model: Watch
+  :model_name: Hermes (Steel, 42 mm)
+  :model_number: Pending
+  :model_identifier: Pending
+  :order_number:
+  - Pending
+  :serial_number:
+  - Pending
+  :short_name: Watch Hermes (42 mm)
+  :released_at: 2015-09-09
+  :details:
+    :processor_type: Apple S1
+    :processor_speed: Pending
+    :display: 1.65" LCD
+    :display_resolution: 312x390
+    :battery_type: Lithium Ion
+    :battery_life: 18 Hours
+    :dimensions: 41.9x35.8x10.4
+    :weight: 1.76 ounces
+    :wifi: 802.11b/g
+    :bluetooth: '4.0'
+    :firewire_ports: None
+    :user_manual: Pending
+    :iphone_standard_os: Latest
+    :iphone_max_os: Latest
+  :model_types_attributes:
+  - :original_price:
+      :us: 1150
+    :details:
+      :hd_capacity: 8 GB
+  - :original_price:
+      :us: 1500
     :details:
       :hd_capacity: 8 GB
