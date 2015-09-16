@@ -338,16 +338,16 @@
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
-  :subfamily: Apple Watch Hermes (38 mm)
+  :subfamily: Apple Watch Herms (38 mm)
   :model: Watch
-  :model_name: Hermes (Steel, 38 mm)
+  :model_name: Herms (Steel, 38 mm)
   :model_number: Pending
   :model_identifier: Pending
   :order_number:
   - Pending
   :serial_number:
   - Pending
-  :short_name: Watch Hermes (38 mm)
+  :short_name: Watch Herms (38 mm)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple S1
@@ -374,16 +374,16 @@
     :details:
       :hd_capacity: 8 GB
 - :vendor: Apple
-  :subfamily: Apple Watch Hermes (42 mm)
+  :subfamily: Apple Watch Herms (42 mm)
   :model: Watch
-  :model_name: Hermes (Steel, 42 mm)
+  :model_name: Herms (Steel, 42 mm)
   :model_number: Pending
   :model_identifier: Pending
   :order_number:
   - Pending
   :serial_number:
   - Pending
-  :short_name: Watch Hermes (42 mm)
+  :short_name: Watch Herms (42 mm)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple S1
