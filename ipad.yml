@@ -2631,7 +2631,7 @@
   :model: iPad
   :model_name: mini 4 (Wi-Fi Only)
   :model_number: A1538
-  :model_identifier: Pending
+  :model_identifier: iPad5,1
   :order_number:
   - MK6K2LL/A
   - MK9H2LL/A
@@ -2642,13 +2642,15 @@
   - MK6J2LL/A
   - MK9G2LL/A
   - MK9G2LL/A
+  :serial_number:
+  - GHKD
   :short_name: iPad mini 4 Wi-Fi
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A8
     :processor_arch: 64-bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.5 GHz
     :max_memory: 2 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
@@ -2662,10 +2664,8 @@
     :usb_ports: Sync & Charge (Lightning)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 1704
+    :geekbench_3_64_mc: 3096
     :cell_network: Wi-Fi Only
     :camera: 8 Megapixels
     :iphone_standard_os: Latest
@@ -2731,7 +2731,7 @@
   :model: iPad
   :model_name: mini 4 (Wi-Fi/Cellular)
   :model_number: A1550
-  :model_identifier: Pending
+  :model_identifier: iPad5,2
   :order_number:
   - MK872LL/A
   - MK8A2LL/A
@@ -2748,7 +2748,7 @@
     :processor_type: Apple A8
     :processor_arch: 64-bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.5 GHz
     :max_memory: 2 GB
     :display: 7.9" Color
     :display_resolution: 2048x1536 (326 ppi)
@@ -2762,10 +2762,8 @@
     :usb_ports: Sync & Charge (Lightning)
     :firewire_ports: None
     :user_manual: http://manuals.info.apple.com/en_US/ipad_user_guide.pdf
-    :geekbench_3_32_sc: 0
-    :geekbench_3_32_mc: 0
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 1704
+    :geekbench_3_64_mc: 3096
     :cell_network: GSM/CDMA/LTE
     :camera: 8 Megapixels
     :iphone_standard_os: Latest
