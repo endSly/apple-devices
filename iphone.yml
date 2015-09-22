@@ -2360,6 +2360,7 @@
   - MG4A2LL/A
   :serial_number:
   - G5MN
+  - G5MR
   - G5MT
   - G5MV
   :short_name: iPhone 6 Global/Sprint
@@ -2656,6 +2657,9 @@
   :serial_number:
   - G5R0
   - G5RO
+  - G5QV
+  - G5QW
+  - G5QY
   :short_name: iPhone 6 Plus Global
   :released_at: 2014-09-09
   :details:
