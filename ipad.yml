@@ -2643,7 +2643,11 @@
   - MK9G2LL/A
   - MK9G2LL/A
   :serial_number:
+  - GHK9
   - GHKD
+  - GHKF
+  - GHKG
+  - GHKH
   :short_name: iPad mini 4 Wi-Fi
   :released_at: 2015-09-09
   :details:
@@ -2668,7 +2672,7 @@
     :geekbench_3_64_mc: 3096
     :cell_network: Wi-Fi Only
     :camera: 8 Megapixels
-    :iphone_standard_os: Latest
+    :iphone_standard_os: '9.0'
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -2742,6 +2746,8 @@
   - MK862LL/A
   - MK892LL/A
   - MK8D2LL/A
+  :serial_number:
+  - GHMK
   :short_name: iPad mini 4 Wi-Fi+Cell
   :released_at: 2015-09-09
   :details:
@@ -2766,7 +2772,7 @@
     :geekbench_3_64_mc: 3096
     :cell_network: GSM/CDMA/LTE
     :camera: 8 Megapixels
-    :iphone_standard_os: Latest
+    :iphone_standard_os: '9.0'
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:

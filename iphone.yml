@@ -2787,7 +2787,7 @@
   :model: iPhone
   :model_name: 6s (AT&T/A1633)
   :model_number: A1633
-  :model_identifier: Pending
+  :model_identifier: iPhone8,1
   :order_number:
   - MKQ62LL/A
   - MKQA2LL/A
@@ -2801,15 +2801,13 @@
   - MKQ82LL/A
   - MKQD2LL/A
   - MKQH2LL/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s (AT&T)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -2825,8 +2823,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2495
+    :geekbench_3_64_mc: 4365
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -2854,7 +2852,7 @@
   :model: iPhone
   :model_name: 6s (Global/A1688)
   :model_number: A1688
-  :model_identifier: Pending
+  :model_identifier: iPhone8,1
   :order_number:
   - MKT82LL/A
   - MKTD2LL/A
@@ -2892,15 +2890,13 @@
   - MKR22LL/A
   - MKR62LL/A
   - MKRA2LL/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s (Global)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -2916,8 +2912,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2495
+    :geekbench_3_64_mc: 4365
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -2966,7 +2962,7 @@
   :model: iPhone
   :model_name: 6s (Mainland China/A1700)
   :model_number: A1700
-  :model_identifier: Pending
+  :model_identifier: iPhone8,1
   :order_number:
   - ML7D2CH/A
   - ML7H2CH/A
@@ -2980,15 +2976,13 @@
   - ML7F2CH/A
   - ML7K2CH/A
   - ML7P2CH/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s (China)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3004,8 +2998,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2495
+    :geekbench_3_64_mc: 4365
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3022,7 +3016,7 @@
   :model: iPhone
   :model_name: 6s Plus (AT&T/A1634)
   :model_number: A1634
-  :model_identifier: Pending
+  :model_identifier: iPhone8,2
   :order_number:
   - MKTM2LL/A
   - MKTR2LL/A
@@ -3036,15 +3030,13 @@
   - MKTP2LL/A
   - MKTU2LL/A
   - MKTY2LL/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s Plus (AT&T)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3060,8 +3052,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2521
+    :geekbench_3_64_mc: 4381
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3089,7 +3081,7 @@
   :model: iPhone
   :model_name: 6s Plus (Global/A1687)
   :model_number: A1687
-  :model_identifier: Pending
+  :model_identifier: iPhone8,2
   :order_number:
   - MKVP2LL/A
   - MKVW2LL/A
@@ -3127,15 +3119,13 @@
   - MKUP2LL/A
   - MKUW2LL/A
   - MKV22LL/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s Plus (Global)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3151,8 +3141,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2521
+    :geekbench_3_64_mc: 4381
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3201,7 +3191,7 @@
   :model: iPhone
   :model_name: 6s Plus (Mainland China/A1699)
   :model_number: A1699
-  :model_identifier: Pending
+  :model_identifier: iPhone8,2
   :order_number:
   - ML6C2CH/A
   - ML6G2CH/A
@@ -3215,15 +3205,13 @@
   - ML6E2CH/A
   - ML6J2CH/A
   - ML6N2CH/A
-  :serial_number:
-  - Pending
   :short_name: iPhone 6s Plus (China)
   :released_at: 2015-09-09
   :details:
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: Pending
+    :processor_speed: 1.85 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3239,8 +3227,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 0
-    :geekbench_3_64_mc: 0
+    :geekbench_3_64_sc: 2521
+    :geekbench_3_64_mc: 4381
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
