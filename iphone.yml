@@ -2807,7 +2807,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -2823,8 +2823,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2495
-    :geekbench_3_64_mc: 4365
+    :geekbench_3_64_sc: 2506
+    :geekbench_3_64_mc: 4346
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -2896,7 +2896,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -2912,8 +2912,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2495
-    :geekbench_3_64_mc: 4365
+    :geekbench_3_64_sc: 2506
+    :geekbench_3_64_mc: 4346
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -2982,7 +2982,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -2998,8 +2998,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2495
-    :geekbench_3_64_mc: 4365
+    :geekbench_3_64_sc: 2506
+    :geekbench_3_64_mc: 4346
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3036,7 +3036,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3052,8 +3052,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2521
-    :geekbench_3_64_mc: 4381
+    :geekbench_3_64_sc: 2496
+    :geekbench_3_64_mc: 4345
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3125,7 +3125,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3141,8 +3141,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2521
-    :geekbench_3_64_mc: 4381
+    :geekbench_3_64_sc: 2496
+    :geekbench_3_64_mc: 4345
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
@@ -3211,7 +3211,7 @@
     :processor_type: Apple A9
     :processor_arch: 64-Bit
     :processor_count: 1 (2 Cores)
-    :processor_speed: 1.85 GHz
+    :processor_speed: 1.8 GHz
     :processor_l1_cache: Pending
     :processor_l2_cache: Pending
     :max_memory: 2 GB
@@ -3227,8 +3227,8 @@
     :usb_ports: Sync & Charge
     :firewire_ports: None
     :user_manual: Pending
-    :geekbench_3_64_sc: 2521
-    :geekbench_3_64_mc: 4381
+    :geekbench_3_64_sc: 2496
+    :geekbench_3_64_mc: 4345
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
