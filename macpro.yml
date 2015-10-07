@@ -2849,6 +2849,8 @@
   - F6T9
   - F6TC
   - F6TD
+  - F6TF
+  - F6TG
   :short_name: Mac Pro 3.2 x4 (2012)
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -2942,6 +2944,8 @@
   - F6T9
   - F6TC
   - F6TD
+  - F6TF
+  - F6TG
   :short_name: Mac Pro 3.33 x6 (2012)
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3026,6 +3030,8 @@
   - F6T9
   - F6TC
   - F6TD
+  - F6TF
+  - F6TG
   :short_name: Mac Pro 2.4 x12 (2012)
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3119,6 +3125,8 @@
   - F6T9
   - F6TC
   - F6TD
+  - F6TF
+  - F6TG
   :short_name: Mac Pro 2.66 x12 (2012)
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3206,6 +3214,8 @@
   - F6T9
   - F6TC
   - F6TD
+  - F6TF
+  - F6TG
   :short_name: Mac Pro 3.06 x12 (2012)
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3278,6 +3288,7 @@
   :serial_number:
   - F4MF
   - F4MJ
+  - F501
   :short_name: Mac Pro 3.2 x4 S 2012
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3359,6 +3370,7 @@
   :serial_number:
   - F4MF
   - F4MJ
+  - F501
   :short_name: Mac Pro 3.33 x6 S 2012
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3431,6 +3443,7 @@
   :serial_number:
   - F4MF
   - F4MJ
+  - F501
   :short_name: Mac Pro 2.4 x12 S 2012
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3503,6 +3516,7 @@
   :serial_number:
   - F4MF
   - F4MJ
+  - F501
   :short_name: Mac Pro 2.66 x12 S 2012
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22
@@ -3575,6 +3589,7 @@
   :serial_number:
   - F4MF
   - F4MJ
+  - F501
   :short_name: Mac Pro 3.06 x12 S 2012
   :released_at: 2012-06-11
   :discontinued_at: 2013-10-22

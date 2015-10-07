@@ -774,6 +774,7 @@
   - F8H2
   - F8H4
   - F8H5
+  - F8HS
   - F8H6
   - F8H7
   - F8H8
@@ -2828,7 +2829,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -2890,6 +2891,23 @@
   - MKR22LL/A
   - MKR62LL/A
   - MKRA2LL/A
+  - MKQK2B/A
+  - MKQP2B/A
+  - MKQU2B/A
+  - MKQL2B/A
+  - MKQQ2B/A
+  - MKQV2B/A
+  - MKQJ2B/A
+  - MKQN2B/A
+  - MKQT2B/A
+  - MKQM2B/A
+  - MKQR2B/A
+  - MKQW2B/A
+  :serial_number:
+  - GRY9
+  - GRYC
+  - GRYD
+  - GRYF
   :short_name: iPhone 6s (Global)
   :released_at: 2015-09-09
   :details:
@@ -2917,7 +2935,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -3003,7 +3021,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -3057,7 +3075,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -3119,6 +3137,23 @@
   - MKUP2LL/A
   - MKUW2LL/A
   - MKV22LL/A
+  - MKU22B/A
+  - MKU72B/A
+  - MKUE2B/A
+  - MKU32B/A
+  - MKU82B/A
+  - MKUF2B/A
+  - MKU12B/A
+  - MKU62B/A
+  - MKUD2B/A
+  - MKU52B/A
+  - MKU92B/A
+  - MKUG2B/A
+  :serial_number:
+  - GRWV
+  - GRWY
+  - GRX2
+  - GRX5
   :short_name: iPhone 6s Plus (Global)
   :released_at: 2015-09-09
   :details:
@@ -3146,7 +3181,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
@@ -3232,7 +3267,7 @@
     :cell_network: GSM/CDMA/LTE
     :camera: 12.0 Megapixels
     :cell_standby_time: 250 Hours
-    :iphone_standard_os: Latest
+    :iphone_standard_os: 9.0.1
     :iphone_max_os: Latest
     :mac_os_version: 10.7.5
   :model_types_attributes:
